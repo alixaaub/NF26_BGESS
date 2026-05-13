@@ -1,0 +1,9 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202611080;KeyPers_Shanghai_1230913;Name913;FistName913;2026-11-08 11:12:49; ;modèle par défaut
+Shanghai_MATERIEL_INFO_202611081;KeyPers_Shanghai_1230999;Name999;FistName999;2026-11-08 10:54:55; ;Wyse thin client
+Shanghai_MATERIEL_INFO_202611082;KeyPers_Shanghai_1230836;Name836;FistName836;2026-11-08 11:19:55; ;PC Fixe (moy)
+Shanghai_MATERIEL_INFO_202611083;KeyPers_Shanghai_1230512;Name512;FistName512;2026-11-08 13:05:19;PC portable;Latitude 5xxx
+Shanghai_MATERIEL_INFO_202611084;KeyPers_Shanghai_1230874;Name874;FistName874;2026-11-08 08:55:11;PC fixe sans ecran;Precision tower 3xxx
+Shanghai_MATERIEL_INFO_202611085;KeyPers_Shanghai_1230424;Name424;FistName424;2026-11-08 15:32:30;Telephone IP;modèle par défaut
+Shanghai_MATERIEL_INFO_202611086;KeyPers_Shanghai_1230833;Name833;FistName833;2026-11-08 16:46:14;PC fixe sans ecran;OMEN 
+Shanghai_MATERIEL_INFO_202611087;KeyPers_Shanghai_1230552;Name552;FistName552;2026-11-08 13:31:14;Serveur;Modèle par défaut

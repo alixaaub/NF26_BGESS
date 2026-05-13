@@ -1,0 +1,13 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+LONDON_202610170;KeyPers_London_1233196;Name3196;FistName3196;2026-10-17 20:56:23;Business Meeting;London;England;Los Angeles;USA;Avion;oui
+LONDON_202610171;KeyPers_London_1231573;Name1573;FistName1573;2026-10-17 02:37:38;Conference;London;England;New-York;USA;Avion;oui
+LONDON_202610172;KeyPers_London_1234021;Name4021;FistName4021;2026-10-17 12:04:11;Vocational Training;London;England;Auckland;New Zealand;Avion;oui
+LONDON_202610173;KeyPers_London_1233509;Name3509;FistName3509;2026-10-17 03:20:09;Team Meeting;London;England;Lima;Peru;Avion;oui
+LONDON_202610174;KeyPers_London_1232041;Name2041;FistName2041;2026-10-17 06:09:15;Development;London;England;Wellington;New Zealand;Avion;oui
+LONDON_202610175;KeyPers_London_1231596;Name1596;FistName1596;2026-10-17 02:50:54;Development;London;England;Alger;Algeria;Avion;oui
+LONDON_202610176;KeyPers_London_1233425;Name3425;FistName3425;2026-10-17 08:15:19;Team Meeting;London;England;London;England;Transports en commun;oui
+LONDON_202610177;KeyPers_London_1234058;Name4058;FistName4058;2026-10-17 17:02:19;Business Meeting;London;England;Vancouver;Canada;Avion;non
+LONDON_202610178;KeyPers_London_1230797;Name797;FistName797;2026-10-17 01:39:57;Development;London;England;Tunis;Tunisie;Avion;oui
+LONDON_202610179;KeyPers_London_1230294;Name294;FistName294;2026-10-17 18:22:55;Vocational Training;London;England;Wellington;New Zealand;Avion;oui
+LONDON_2026101710;KeyPers_London_1233374;Name3374;FistName3374;2026-10-17 18:32:02;Business Meeting;London;England;London;England;Transports en commun;oui
+LONDON_2026101711;KeyPers_London_1230653;Name653;FistName653;2026-10-17 19:15:55;Vocational Training;Shanghai;China;Marseille;France;Avion;oui

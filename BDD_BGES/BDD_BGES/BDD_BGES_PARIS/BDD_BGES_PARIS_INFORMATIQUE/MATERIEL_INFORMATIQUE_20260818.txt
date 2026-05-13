@@ -1,0 +1,14 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Paris_MATERIEL_INFO_202608180;KeyPers_Paris_1232800;Name2800;FistName2800;2026-08-18 13:21:52;Station d'accueil;modèle par défaut
+Paris_MATERIEL_INFO_202608181;KeyPers_Paris_1234784;Name4784;FistName4784;2026-08-18 09:35:01; ;Latitude 7xxx
+Paris_MATERIEL_INFO_202608182;KeyPers_Paris_1230985;Name985;FistName985;2026-08-18 13:55:08;PC portable;EliteBook 8xx
+Paris_MATERIEL_INFO_202608183;KeyPers_Paris_1231506;Name1506;FistName1506;2026-08-18 12:25:26; ;modèle par défaut
+Paris_MATERIEL_INFO_202608184;KeyPers_Paris_1233099;Name3099;FistName3099;2026-08-18 10:38:53;PC portable;Latitude 5xxx
+Paris_MATERIEL_INFO_202608185;KeyPers_Paris_1233928;Name3928;FistName3928;2026-08-18 10:16:19;PC fixe tout-en-un;Optiplex All-in-One 7xxx
+Paris_MATERIEL_INFO_202608186;KeyPers_Paris_1233121;Name3121;FistName3121;2026-08-18 14:39:23;Vidéo projecteur;Pour amphi
+Paris_MATERIEL_INFO_202608187;KeyPers_Paris_1232412;Name2412;FistName2412;2026-08-18 09:20:54;Ecran;modèle par défaut
+Paris_MATERIEL_INFO_202608188;KeyPers_Paris_1234713;Name4713;FistName4713;2026-08-18 09:18:36;PC portable;EliteBook 10xx
+Paris_MATERIEL_INFO_202608189;KeyPers_Paris_1230469;Name469;FistName469;2026-08-18 11:53:21;PC portable;Latitude 5xxx
+Paris_MATERIEL_INFO_2026081810;KeyPers_Paris_1231062;Name1062;FistName1062;2026-08-18 16:03:44;Vidéo projecteur;Transportable
+Paris_MATERIEL_INFO_2026081811;KeyPers_Paris_1230731;Name731;FistName731;2026-08-18 11:10:59;PC fixe tout-en-un;iMac 21pouces retina
+Paris_MATERIEL_INFO_2026081812;KeyPers_Paris_1230695;Name695;FistName695;2026-08-18 10:12:15;PC fixe sans ecran;Station de travail (moy)

@@ -1,0 +1,10 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202605070;KeyPers_Shanghai_1230718;Name718;FistName718;2026-05-07 09:01:38;souris;modèle par défaut
+Shanghai_MATERIEL_INFO_202605071;KeyPers_Shanghai_1230491;Name491;FistName491;2026-05-07 16:08:05; ;Rasberry pi 4
+Shanghai_MATERIEL_INFO_202605072;KeyPers_Shanghai_1230068;Name68;FistName68;2026-05-07 12:46:48; ;Optiplex All-in-One 3xxx
+Shanghai_MATERIEL_INFO_202605073;KeyPers_Shanghai_1230451;Name451;FistName451;2026-05-07 14:16:59; ;Mac pro
+Shanghai_MATERIEL_INFO_202605074;KeyPers_Shanghai_1230732;Name732;FistName732;2026-05-07 08:15:18;PC fixe tout-en-un;iMac 21pouces retina
+Shanghai_MATERIEL_INFO_202605075;KeyPers_Shanghai_1230169;Name169;FistName169;2026-05-07 10:46:04;PC fixe sans ecran;Precision tower 3xxx
+Shanghai_MATERIEL_INFO_202605076;KeyPers_Shanghai_1230249;Name249;FistName249;2026-05-07 13:34:11;PC fixe sans ecran;Optiplex micro
+Shanghai_MATERIEL_INFO_202605077;KeyPers_Shanghai_1230533;Name533;FistName533;2026-05-07 12:41:20;PC fixe tout-en-un;Optiplex All-in-One 3xxx
+Shanghai_MATERIEL_INFO_202605078;KeyPers_Shanghai_1230994;Name994;FistName994;2026-05-07 08:14:24;Serveur;Serveur de stockage

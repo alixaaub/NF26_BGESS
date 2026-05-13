@@ -1,0 +1,16 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+LA_202605010;KeyPers_LA_1230259;Name259;FistName259;2026-05-01 13:41:48;Team Meeting;New-York;USA;Vancouver;Canada;Avion;oui
+LA_202605011;KeyPers_LA_1230647;Name647;FistName647;2026-05-01 05:14:43;Vocational Training;Los Angeles;USA;London;England;Avion;oui
+LA_202605012;KeyPers_LA_1231049;Name1049;FistName1049;2026-05-01 08:23:35;Business Meeting;Los Angeles;USA;Sidney;Australia;Avion;oui
+LA_202605013;KeyPers_LA_1232070;Name2070;FistName2070;2026-05-01 11:12:06;Team Meeting;Los Angeles;USA;Buenos Aires;Argentina;Avion;oui
+LA_202605014;KeyPers_LA_1231977;Name1977;FistName1977;2026-05-01 03:51:19;Development;Los Angeles;USA;Mexico;Mexico;Avion;oui
+LA_202605015;KeyPers_LA_1231081;Name1081;FistName1081;2026-05-01 13:09:14;Vocational Training;Los Angeles;USA;Sidney;Australia;Avion;oui
+LA_202605016;KeyPers_LA_1230497;Name497;FistName497;2026-05-01 09:27:29;Development;Los Angeles;USA;Washington;USA;Avion;oui
+LA_202605017;KeyPers_LA_1231107;Name1107;FistName1107;2026-05-01 16:57:35;Vocational Training;Los Angeles;USA;Rabat;Maroc;Avion;oui
+LA_202605018;KeyPers_LA_1230073;Name73;FistName73;2026-05-01 02:07:49;Development;Los Angeles;USA;Dubaï;Emirats;Avion;oui
+LA_202605019;KeyPers_LA_1231245;Name1245;FistName1245;2026-05-01 13:44:27;Business Meeting;Los Angeles;USA;Rio de Janeiro;Brazil;Avion;oui
+LA_2026050110;KeyPers_LA_1232495;Name2495;FistName2495;2026-05-01 09:22:45;Development;Paris;France;Washington;USA;Avion;oui
+LA_2026050111;KeyPers_LA_1232368;Name2368;FistName2368;2026-05-01 18:54:20;Team Meeting;Los Angeles;USA;Wellington;New Zealand;Avion;oui
+LA_2026050112;KeyPers_LA_1230137;Name137;FistName137;2026-05-01 20:56:40;Team Meeting;Los Angeles;USA;Mexico;Mexico;Avion;oui
+LA_2026050113;KeyPers_LA_1230079;Name79;FistName79;2026-05-01 05:14:50;Vocational Training;Los Angeles;USA;Bogota;Colombia;Avion;oui
+LA_2026050114;KeyPers_LA_1232608;Name2608;FistName2608;2026-05-01 01:22:10;Team Meeting;Los Angeles;USA;Vancouver;Canada;Avion;oui

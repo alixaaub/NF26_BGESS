@@ -1,0 +1,17 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Shanghai_202610240;KeyPers_Shanghai_1230156;Name156;FistName156;2026-10-24 13:40:09;Vocational Training;Shanghai;China;Bogota;Colombia;Avion;oui
+Shanghai_202610241;KeyPers_Shanghai_1230727;Name727;FistName727;2026-10-24 07:33:33;Vocational Training;Shanghai;China;Oslo;Norvège;Avion;oui
+Shanghai_202610242;KeyPers_Shanghai_1230606;Name606;FistName606;2026-10-24 16:45:12;Conference;Shanghai;China;Sidney;Australia;Avion;oui
+Shanghai_202610243;KeyPers_Shanghai_1230002;Name2;FistName2;2026-10-24 06:36:19;Development;Shanghai;China;Stockholm;Suède;Avion;oui
+Shanghai_202610244;KeyPers_Shanghai_1230885;Name885;FistName885;2026-10-24 07:52:42;Development;Shanghai;China;Washington;USA;Avion;oui
+Shanghai_202610245;KeyPers_Shanghai_1230008;Name8;FistName8;2026-10-24 07:39:27;Development;Shanghai;China;London;England;Avion;oui
+Shanghai_202610246;KeyPers_Shanghai_1230667;Name667;FistName667;2026-10-24 19:36:41;Conference;Shanghai;China;Auckland;New Zealand;Avion;oui
+Shanghai_202610247;KeyPers_Shanghai_1230082;Name82;FistName82;2026-10-24 07:58:35;Development;Shanghai;China;Washington;USA;Avion;oui
+Shanghai_202610248;KeyPers_Shanghai_1230488;Name488;FistName488;2026-10-24 11:59:54;Team Meeting;Shanghai;China;Montreal;Canada;Avion;oui
+Shanghai_202610249;KeyPers_Shanghai_1230145;Name145;FistName145;2026-10-24 21:03:26;Team Meeting;Shanghai;China;Tunis;Tunisie;Avion;oui
+Shanghai_2026102410;KeyPers_Shanghai_1230918;Name918;FistName918;2026-10-24 10:17:07;Business Meeting;Paris;France;Tunis;Tunisie;Avion;oui
+Shanghai_2026102411;KeyPers_Shanghai_1230142;Name142;FistName142;2026-10-24 16:46:37;Conference;Shanghai;China;Vancouver;Canada;Avion;oui
+Shanghai_2026102412;KeyPers_Shanghai_1230632;Name632;FistName632;2026-10-24 02:40:05;Conference;Shanghai;China;Berlin;Allemagne;Avion;non
+Shanghai_2026102413;KeyPers_Shanghai_1230209;Name209;FistName209;2026-10-24 12:51:22;Business Meeting;Shanghai;China;Bogota;Colombia;Avion;oui
+Shanghai_2026102414;KeyPers_Shanghai_1230823;Name823;FistName823;2026-10-24 13:42:30;Team Meeting;Shanghai;China;Sidney;Australia;Avion;oui
+Shanghai_2026102415;KeyPers_Shanghai_1230867;Name867;FistName867;2026-10-24 16:18:30;Team Meeting;Shanghai;China;Sidney;Australia;Avion;oui

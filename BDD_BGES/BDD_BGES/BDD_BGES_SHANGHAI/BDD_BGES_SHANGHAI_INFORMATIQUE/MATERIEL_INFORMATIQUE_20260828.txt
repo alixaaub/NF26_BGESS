@@ -1,0 +1,10 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202608280;KeyPers_Shanghai_1230251;Name251;FistName251;2026-08-28 13:10:20;PC fixe sans ecran;Precision tower 5xxx
+Shanghai_MATERIEL_INFO_202608281;KeyPers_Shanghai_1230343;Name343;FistName343;2026-08-28 10:45:08;PC portable;Moyenne 17pouces
+Shanghai_MATERIEL_INFO_202608282;KeyPers_Shanghai_1230478;Name478;FistName478;2026-08-28 15:05:26;PC portable;EliteBook 8xx
+Shanghai_MATERIEL_INFO_202608283;KeyPers_Shanghai_1230265;Name265;FistName265;2026-08-28 14:50:47;PC fixe sans ecran;Z
+Shanghai_MATERIEL_INFO_202608284;KeyPers_Shanghai_1230592;Name592;FistName592;2026-08-28 10:50:38;PC portable;Latitude 3xxx
+Shanghai_MATERIEL_INFO_202608285;KeyPers_Shanghai_1230414;Name414;FistName414;2026-08-28 16:23:59;PC fixe sans ecran;Precision tower 3xxx
+Shanghai_MATERIEL_INFO_202608286;KeyPers_Shanghai_1230758;Name758;FistName758;2026-08-28 13:40:03;PC fixe sans ecran;Z
+Shanghai_MATERIEL_INFO_202608287;KeyPers_Shanghai_1230936;Name936;FistName936;2026-08-28 09:13:32;PC portable; 
+Shanghai_MATERIEL_INFO_202608288;KeyPers_Shanghai_1230930;Name930;FistName930;2026-08-28 14:22:46;Ecran;jusqu'à 23pouces

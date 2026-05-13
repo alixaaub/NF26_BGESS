@@ -1,0 +1,10 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202607010;KeyPers_Shanghai_1230613;Name613;FistName613;2026-07-01 09:48:03;Station d'accueil;modèle par défaut
+Shanghai_MATERIEL_INFO_202607011;KeyPers_Shanghai_1230398;Name398;FistName398;2026-07-01 10:33:44;Vidéo projecteur;modèle par défaut
+Shanghai_MATERIEL_INFO_202607012;KeyPers_Shanghai_1230892;Name892;FistName892;2026-07-01 13:12:36; ;modèle par défaut
+Shanghai_MATERIEL_INFO_202607013;KeyPers_Shanghai_1230572;Name572;FistName572;2026-07-01 16:26:58;PC fixe sans ecran; 
+Shanghai_MATERIEL_INFO_202607014;KeyPers_Shanghai_1230532;Name532;FistName532;2026-07-01 09:44:56;PC fixe tout-en-un;iMac 21pouces
+Shanghai_MATERIEL_INFO_202607015;KeyPers_Shanghai_1230760;Name760;FistName760;2026-07-01 13:20:08;PC fixe sans ecran;Mac pro
+Shanghai_MATERIEL_INFO_202607016;KeyPers_Shanghai_1230301;Name301;FistName301;2026-07-01 14:21:28;PC portable; 
+Shanghai_MATERIEL_INFO_202607017;KeyPers_Shanghai_1230746;Name746;FistName746;2026-07-01 12:41:44;imprimante;Laser à poser (<40kg)
+Shanghai_MATERIEL_INFO_202607018;KeyPers_Shanghai_1230736;Name736;FistName736;2026-07-01 11:59:09;PC fixe sans ecran;Precision tower 3xxx

@@ -1,0 +1,15 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+NewYork_202610110;KeyPers_NewYork_1231972;Name1972;FistName1972;2026-10-11 15:59:03;Vocational Training;New-York;USA;London;England;Avion;non
+NewYork_202610111;KeyPers_NewYork_1233032;Name3032;FistName3032;2026-10-11 11:20:14;Vocational Training;New-York;USA;Compiègne;France;Avion;oui
+NewYork_202610112;KeyPers_NewYork_1231211;Name1211;FistName1211;2026-10-11 08:09:05;Team Meeting;New-York;USA;Sao Paulo;Brazil;Avion;non
+NewYork_202610113;KeyPers_NewYork_1231847;Name1847;FistName1847;2026-10-11 16:42:06;Development;New-York;USA;Berlin;Allemagne;Avion;oui
+NewYork_202610114;KeyPers_NewYork_1231462;Name1462;FistName1462;2026-10-11 19:32:09;Vocational Training;New-York;USA;Vancouver;Canada;Avion;oui
+NewYork_202610115;KeyPers_NewYork_1230299;Name299;FistName299;2026-10-11 13:23:06;Development;New-York;USA;Bogota;Colombia;Avion;oui
+NewYork_202610116;KeyPers_NewYork_1231049;Name1049;FistName1049;2026-10-11 17:13:46;Conference;New-York;USA;Compiègne;France;Avion;oui
+NewYork_202610117;KeyPers_NewYork_1232646;Name2646;FistName2646;2026-10-11 12:21:35;Business Meeting;New-York;USA;Sao Paulo;Brazil;Avion;oui
+NewYork_202610118;KeyPers_NewYork_1231533;Name1533;FistName1533;2026-10-11 02:34:24;Vocational Training;New-York;USA;Auckland;New Zealand;Avion;oui
+NewYork_202610119;KeyPers_NewYork_1232542;Name2542;FistName2542;2026-10-11 15:22:46;Team Meeting;New-York;USA;Rio de Janeiro;Brazil;Avion;oui
+NewYork_2026101110;KeyPers_NewYork_1231013;Name1013;FistName1013;2026-10-11 10:50:42;Vocational Training;New-York;USA;Shanghai;China;Avion;non
+NewYork_2026101111;KeyPers_NewYork_1230695;Name695;FistName695;2026-10-11 11:09:18;Team Meeting;New-York;USA;Pekin;China;Avion;non
+NewYork_2026101112;KeyPers_NewYork_1230101;Name101;FistName101;2026-10-11 02:53:30;Team Meeting;New-York;USA;Shanghai;China;Avion;oui
+NewYork_2026101113;KeyPers_NewYork_1230549;Name549;FistName549;2026-10-11 17:09:48;Team Meeting;New-York;USA;Oslo;Norvège;Avion;oui

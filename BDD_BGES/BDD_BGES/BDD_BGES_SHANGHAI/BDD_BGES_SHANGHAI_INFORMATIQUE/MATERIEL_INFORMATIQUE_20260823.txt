@@ -1,0 +1,8 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202608230;KeyPers_Shanghai_1230521;Name521;FistName521;2026-08-23 14:17:51;PC fixe sans ecran;EliteDesk DM
+Shanghai_MATERIEL_INFO_202608231;KeyPers_Shanghai_1230481;Name481;FistName481;2026-08-23 15:33:51;PC portable; 
+Shanghai_MATERIEL_INFO_202608232;KeyPers_Shanghai_1230004;Name4;FistName4;2026-08-23 09:43:12;Ecran; 
+Shanghai_MATERIEL_INFO_202608233;KeyPers_Shanghai_1230830;Name830;FistName830;2026-08-23 14:15:56; ;modèle par défaut
+Shanghai_MATERIEL_INFO_202608234;KeyPers_Shanghai_1230942;Name942;FistName942;2026-08-23 13:09:12;PC portable;Precision 5xxx
+Shanghai_MATERIEL_INFO_202608235;KeyPers_Shanghai_1230625;Name625;FistName625;2026-08-23 12:57:29;PC fixe tout-en-un;modèle par défaut
+Shanghai_MATERIEL_INFO_202608236;KeyPers_Shanghai_1230025;Name25;FistName25;2026-08-23 12:55:21;Station d'accueil; 

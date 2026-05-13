@@ -1,0 +1,14 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+NewYork_202610240;KeyPers_NewYork_1230115;Name115;FistName115;2026-10-24 05:29:13;Business Meeting;New-York;USA;Wellington;New Zealand;Avion;oui
+NewYork_202610241;KeyPers_NewYork_1231638;Name1638;FistName1638;2026-10-24 07:09:11;Vocational Training;New-York;USA;Marseille;France;Avion;oui
+NewYork_202610242;KeyPers_NewYork_1231333;Name1333;FistName1333;2026-10-24 11:21:50;Vocational Training;New-York;USA;Lille;France;Avion;non
+NewYork_202610243;KeyPers_NewYork_1232549;Name2549;FistName2549;2026-10-24 22:05:46;Conference;New-York;USA;Lima;Peru;Avion;oui
+NewYork_202610244;KeyPers_NewYork_1231430;Name1430;FistName1430;2026-10-24 08:08:54;Team Meeting;New-York;USA;Melbourne;Australia;Avion;oui
+NewYork_202610245;KeyPers_NewYork_1230109;Name109;FistName109;2026-10-24 05:42:02;Vocational Training;New-York;USA;Rabat;Maroc;Avion;oui
+NewYork_202610246;KeyPers_NewYork_1231726;Name1726;FistName1726;2026-10-24 04:31:02;Vocational Training;New-York;USA;Tunis;Tunisie;Avion;oui
+NewYork_202610247;KeyPers_NewYork_1231178;Name1178;FistName1178;2026-10-24 14:38:50;Development;New-York;USA;Helsinki;Finlande;Avion;oui
+NewYork_202610248;KeyPers_NewYork_1232995;Name2995;FistName2995;2026-10-24 14:39:51;Vocational Training;New-York;USA;Helsinki;Finlande;Avion;oui
+NewYork_202610249;KeyPers_NewYork_1231239;Name1239;FistName1239;2026-10-24 16:17:29;Conference;New-York;USA;Washington;USA;Avion;oui
+NewYork_2026102410;KeyPers_NewYork_1233024;Name3024;FistName3024;2026-10-24 19:43:06;Conference;Paris;France;Mexico;Mexico;Avion;oui
+NewYork_2026102411;KeyPers_NewYork_1231948;Name1948;FistName1948;2026-10-24 18:12:46;Vocational Training;New-York;USA;Buenos Aires;Argentina;Avion;oui
+NewYork_2026102412;KeyPers_NewYork_1232085;Name2085;FistName2085;2026-10-24 12:41:13;Development;New-York;USA;Los Angeles;USA;Avion;oui

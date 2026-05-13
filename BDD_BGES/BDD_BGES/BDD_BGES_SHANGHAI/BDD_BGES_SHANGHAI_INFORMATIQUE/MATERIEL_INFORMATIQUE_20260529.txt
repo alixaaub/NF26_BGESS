@@ -1,0 +1,10 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202605290;KeyPers_Shanghai_1230133;Name133;FistName133;2026-05-29 10:37:11; ;Optiplex tower
+Shanghai_MATERIEL_INFO_202605291;KeyPers_Shanghai_1230653;Name653;FistName653;2026-05-29 14:41:44;PC portable;Moyenne 14/15pouces
+Shanghai_MATERIEL_INFO_202605292;KeyPers_Shanghai_1230790;Name790;FistName790;2026-05-29 09:06:35; ;Victus
+Shanghai_MATERIEL_INFO_202605293;KeyPers_Shanghai_1230135;Name135;FistName135;2026-05-29 08:56:23;Serveur;Serveur de stockage
+Shanghai_MATERIEL_INFO_202605294;KeyPers_Shanghai_1230109;Name109;FistName109;2026-05-29 13:16:49;PC fixe sans ecran;ZHAN
+Shanghai_MATERIEL_INFO_202605295;KeyPers_Shanghai_1230215;Name215;FistName215;2026-05-29 15:08:09;PC fixe sans ecran;Elite (Tower, SFF, One)
+Shanghai_MATERIEL_INFO_202605296;KeyPers_Shanghai_1230023;Name23;FistName23;2026-05-29 12:16:02;PC fixe sans ecran;Elite mini
+Shanghai_MATERIEL_INFO_202605297;KeyPers_Shanghai_1230824;Name824;FistName824;2026-05-29 09:05:21;PC fixe sans ecran;Elite (Tower, SFF, One)
+Shanghai_MATERIEL_INFO_202605298;KeyPers_Shanghai_1230004;Name4;FistName4;2026-05-29 08:52:17;PC fixe sans ecran;EliteDesk (Tower, SFF, One)

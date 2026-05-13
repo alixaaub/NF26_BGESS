@@ -1,0 +1,15 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Shanghai_202605140;KeyPers_Shanghai_1230566;Name566;FistName566;2026-05-14 04:20:38;Vocational Training;Shanghai;China;Buenos Aires;Argentina;Avion;oui
+Shanghai_202605141;KeyPers_Shanghai_1230241;Name241;FistName241;2026-05-14 07:21:57;Team Meeting;Shanghai;China;Dubaï;Emirats;Avion;oui
+Shanghai_202605142;KeyPers_Shanghai_1230071;Name71;FistName71;2026-05-14 07:41:28;Vocational Training;Shanghai;China;Tokyo;Japan;Avion;non
+Shanghai_202605143;KeyPers_Shanghai_1230497;Name497;FistName497;2026-05-14 03:08:14;Development;Shanghai;China;Sao Paulo;Brazil;Avion;oui
+Shanghai_202605144;KeyPers_Shanghai_1230428;Name428;FistName428;2026-05-14 04:28:15;Vocational Training;Shanghai;China;New-York;USA;Avion;oui
+Shanghai_202605145;KeyPers_Shanghai_1230636;Name636;FistName636;2026-05-14 14:28:26;Vocational Training;Shanghai;China;Sao Paulo;Brazil;Avion;oui
+Shanghai_202605146;KeyPers_Shanghai_1230409;Name409;FistName409;2026-05-14 11:58:08;Business Meeting;Shanghai;China;Tokyo;Japan;Avion;non
+Shanghai_202605147;KeyPers_Shanghai_1230562;Name562;FistName562;2026-05-14 06:45:49;Business Meeting;Shanghai;China;Washington;USA;Avion;oui
+Shanghai_202605148;KeyPers_Shanghai_1230658;Name658;FistName658;2026-05-14 17:44:46;Team Meeting;Shanghai;China;London;England;Avion;oui
+Shanghai_202605149;KeyPers_Shanghai_1230811;Name811;FistName811;2026-05-14 14:45:28;Team Meeting;Shanghai;China;Los Angeles;USA;Avion;oui
+Shanghai_2026051410;KeyPers_Shanghai_1230794;Name794;FistName794;2026-05-14 05:16:20;Development;Shanghai;China;Auckland;New Zealand;Avion;oui
+Shanghai_2026051411;KeyPers_Shanghai_1230149;Name149;FistName149;2026-05-14 21:05:46;Vocational Training;Shanghai;China;Lille;France;Avion;oui
+Shanghai_2026051412;KeyPers_Shanghai_1230200;Name200;FistName200;2026-05-14 12:21:36;Vocational Training;Shanghai;China;Berlin;Allemagne;Avion;non
+Shanghai_2026051413;KeyPers_Shanghai_1230192;Name192;FistName192;2026-05-14 21:12:33;Vocational Training;Shanghai;China;Shanghai;China;Transports en commun;oui

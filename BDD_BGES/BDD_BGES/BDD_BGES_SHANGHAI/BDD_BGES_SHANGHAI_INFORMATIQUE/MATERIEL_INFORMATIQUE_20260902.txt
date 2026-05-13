@@ -1,0 +1,14 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202609020;KeyPers_Shanghai_1230870;Name870;FistName870;2026-09-02 11:48:48;PC portable;ZBook
+Shanghai_MATERIEL_INFO_202609021;KeyPers_Shanghai_1230527;Name527;FistName527;2026-09-02 08:58:05;PC fixe sans ecran;Optiplex micro
+Shanghai_MATERIEL_INFO_202609022;KeyPers_Shanghai_1230282;Name282;FistName282;2026-09-02 11:15:18;PC fixe tout-en-un;iMac pro
+Shanghai_MATERIEL_INFO_202609023;KeyPers_Shanghai_1230674;Name674;FistName674;2026-09-02 13:54:40;Smartphone;modèle par défaut
+Shanghai_MATERIEL_INFO_202609024;KeyPers_Shanghai_1230041;Name41;FistName41;2026-09-02 15:34:12;Borne wifi;modèle par défaut
+Shanghai_MATERIEL_INFO_202609025;KeyPers_Shanghai_1230357;Name357;FistName357;2026-09-02 15:22:02; ;ZBook Studio
+Shanghai_MATERIEL_INFO_202609026;KeyPers_Shanghai_1230848;Name848;FistName848;2026-09-02 10:44:07; ;Optiplex tower
+Shanghai_MATERIEL_INFO_202609027;KeyPers_Shanghai_1230510;Name510;FistName510;2026-09-02 10:49:58; ;ZBook Studio
+Shanghai_MATERIEL_INFO_202609028;KeyPers_Shanghai_1230872;Name872;FistName872;2026-09-02 14:45:01;PC portable; 
+Shanghai_MATERIEL_INFO_202609029;KeyPers_Shanghai_1230850;Name850;FistName850;2026-09-02 15:55:12;PC fixe sans ecran;Z
+Shanghai_MATERIEL_INFO_2026090210;KeyPers_Shanghai_1230815;Name815;FistName815;2026-09-02 11:22:26; ;ZBook Studio
+Shanghai_MATERIEL_INFO_2026090211;KeyPers_Shanghai_1230684;Name684;FistName684;2026-09-02 15:59:06;PC portable;EliteBook 6xx
+Shanghai_MATERIEL_INFO_2026090212;KeyPers_Shanghai_1230233;Name233;FistName233;2026-09-02 16:55:47; ;modèle par défaut

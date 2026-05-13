@@ -1,0 +1,13 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202605260;KeyPers_Shanghai_1230702;Name702;FistName702;2026-05-26 12:24:18;PC fixe sans ecran;OMEN 
+Shanghai_MATERIEL_INFO_202605261;KeyPers_Shanghai_1230248;Name248;FistName248;2026-05-26 12:26:46;PC fixe tout-en-un;Optiplex All-in-One 3xxx
+Shanghai_MATERIEL_INFO_202605262;KeyPers_Shanghai_1230265;Name265;FistName265;2026-05-26 11:01:05;PC portable;Precision 5xxx
+Shanghai_MATERIEL_INFO_202605263;KeyPers_Shanghai_1230384;Name384;FistName384;2026-05-26 13:05:21;PC fixe tout-en-un;iMac 27pouces retina
+Shanghai_MATERIEL_INFO_202605264;KeyPers_Shanghai_1230682;Name682;FistName682;2026-05-26 12:10:59;PC portable;ZBook
+Shanghai_MATERIEL_INFO_202605265;KeyPers_Shanghai_1230163;Name163;FistName163;2026-05-26 16:08:39;Smartphone;modèle par défaut
+Shanghai_MATERIEL_INFO_202605266;KeyPers_Shanghai_1230610;Name610;FistName610;2026-05-26 11:52:52; ;modèle par défaut
+Shanghai_MATERIEL_INFO_202605267;KeyPers_Shanghai_1230044;Name44;FistName44;2026-05-26 16:59:49;Disque dur;modèle par défaut
+Shanghai_MATERIEL_INFO_202605268;KeyPers_Shanghai_1230353;Name353;FistName353;2026-05-26 08:28:25; ;modèle par défaut
+Shanghai_MATERIEL_INFO_202605269;KeyPers_Shanghai_1230642;Name642;FistName642;2026-05-26 09:02:21;PC fixe sans ecran;ProDesk mini/DM
+Shanghai_MATERIEL_INFO_2026052610;KeyPers_Shanghai_1230989;Name989;FistName989;2026-05-26 11:30:05; ;Laser A3 (>100kg)
+Shanghai_MATERIEL_INFO_2026052611;KeyPers_Shanghai_1230235;Name235;FistName235;2026-05-26 14:39:18;Ecran;32pouces et plus

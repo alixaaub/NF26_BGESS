@@ -1,0 +1,10 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202610070;KeyPers_Shanghai_1230778;Name778;FistName778;2026-10-07 13:04:37;PC portable;ZBook
+Shanghai_MATERIEL_INFO_202610071;KeyPers_Shanghai_1230861;Name861;FistName861;2026-10-07 08:58:53;PC portable; 
+Shanghai_MATERIEL_INFO_202610072;KeyPers_Shanghai_1230876;Name876;FistName876;2026-10-07 11:05:51; ;EliteBook 10xx
+Shanghai_MATERIEL_INFO_202610073;KeyPers_Shanghai_1230964;Name964;FistName964;2026-10-07 09:36:38;Vidéo projecteur; 
+Shanghai_MATERIEL_INFO_202610074;KeyPers_Shanghai_1230391;Name391;FistName391;2026-10-07 16:42:19; ;Moyenne 14/15pouces
+Shanghai_MATERIEL_INFO_202610075;KeyPers_Shanghai_1230637;Name637;FistName637;2026-10-07 13:30:54;PC fixe sans ecran;Precision tower 7xxx
+Shanghai_MATERIEL_INFO_202610076;KeyPers_Shanghai_1230518;Name518;FistName518;2026-10-07 13:47:37;PC portable;Latitude 3xxx
+Shanghai_MATERIEL_INFO_202610077;KeyPers_Shanghai_1230071;Name71;FistName71;2026-10-07 12:42:01;PC portable;MacBook pro 13pouces
+Shanghai_MATERIEL_INFO_202610078;KeyPers_Shanghai_1230996;Name996;FistName996;2026-10-07 13:36:54;Tablette;modèle par défaut

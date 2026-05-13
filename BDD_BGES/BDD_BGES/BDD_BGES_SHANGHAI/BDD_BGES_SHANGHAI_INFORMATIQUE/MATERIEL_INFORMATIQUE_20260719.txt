@@ -1,0 +1,5 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202607190;KeyPers_Shanghai_1230983;Name983;FistName983;2026-07-19 12:18:37;Serveur;Noeud de calcul
+Shanghai_MATERIEL_INFO_202607191;KeyPers_Shanghai_1230281;Name281;FistName281;2026-07-19 12:15:40;PC fixe sans ecran;Mac pro
+Shanghai_MATERIEL_INFO_202607192;KeyPers_Shanghai_1230716;Name716;FistName716;2026-07-19 08:07:30;imprimante;modèle par défaut
+Shanghai_MATERIEL_INFO_202607193;KeyPers_Shanghai_1230297;Name297;FistName297;2026-07-19 14:30:24;PC fixe sans ecran;EliteDesk (Tower, SFF, One)

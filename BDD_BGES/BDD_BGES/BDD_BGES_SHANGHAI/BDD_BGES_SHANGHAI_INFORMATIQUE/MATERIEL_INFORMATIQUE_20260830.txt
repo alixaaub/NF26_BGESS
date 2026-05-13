@@ -1,0 +1,13 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202608300;KeyPers_Shanghai_1230773;Name773;FistName773;2026-08-30 10:36:58; ;modèle par défaut
+Shanghai_MATERIEL_INFO_202608301;KeyPers_Shanghai_1230016;Name16;FistName16;2026-08-30 13:21:49;PC fixe tout-en-un;iMac pro
+Shanghai_MATERIEL_INFO_202608302;KeyPers_Shanghai_1230617;Name617;FistName617;2026-08-30 11:07:11;PC portable;Precision 5xxx
+Shanghai_MATERIEL_INFO_202608303;KeyPers_Shanghai_1230109;Name109;FistName109;2026-08-30 12:49:01;clavier;modèle par défaut
+Shanghai_MATERIEL_INFO_202608304;KeyPers_Shanghai_1230524;Name524;FistName524;2026-08-30 08:26:46; ;32pouces et plus
+Shanghai_MATERIEL_INFO_202608305;KeyPers_Shanghai_1230092;Name92;FistName92;2026-08-30 14:53:45;PC portable;OMEN 
+Shanghai_MATERIEL_INFO_202608306;KeyPers_Shanghai_1230045;Name45;FistName45;2026-08-30 15:20:56;Disque dur;modèle par défaut
+Shanghai_MATERIEL_INFO_202608307;KeyPers_Shanghai_1230176;Name176;FistName176;2026-08-30 11:35:15;PC portable; 
+Shanghai_MATERIEL_INFO_202608308;KeyPers_Shanghai_1230298;Name298;FistName298;2026-08-30 08:19:29;PC fixe sans ecran;EliteDesk (Tower, SFF, One)
+Shanghai_MATERIEL_INFO_202608309;KeyPers_Shanghai_1230202;Name202;FistName202;2026-08-30 15:56:11;PC fixe tout-en-un;iMac pro
+Shanghai_MATERIEL_INFO_2026083010;KeyPers_Shanghai_1230517;Name517;FistName517;2026-08-30 11:40:36;Ecran;24pouces-31pouces
+Shanghai_MATERIEL_INFO_2026083011;KeyPers_Shanghai_1230439;Name439;FistName439;2026-08-30 09:26:59;PC portable;Moyenne 17pouces

@@ -1,0 +1,10 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202607080;KeyPers_Shanghai_1230849;Name849;FistName849;2026-07-08 08:37:18;PC portable;Latitude 7xxx
+Shanghai_MATERIEL_INFO_202607081;KeyPers_Shanghai_1230684;Name684;FistName684;2026-07-08 13:37:02;PC fixe sans ecran;Rasberry pi 4
+Shanghai_MATERIEL_INFO_202607082;KeyPers_Shanghai_1230832;Name832;FistName832;2026-07-08 14:51:17; ;32pouces et plus
+Shanghai_MATERIEL_INFO_202607083;KeyPers_Shanghai_1230252;Name252;FistName252;2026-07-08 10:55:24;PC portable;Latitude 7xxx
+Shanghai_MATERIEL_INFO_202607084;KeyPers_Shanghai_1230232;Name232;FistName232;2026-07-08 13:31:57;PC fixe sans ecran;Optiplex small
+Shanghai_MATERIEL_INFO_202607085;KeyPers_Shanghai_1230938;Name938;FistName938;2026-07-08 10:06:25;Serveur;Noeud de calcul
+Shanghai_MATERIEL_INFO_202607086;KeyPers_Shanghai_1230933;Name933;FistName933;2026-07-08 11:18:54; ;EliteDesk (Tower, SFF, One)
+Shanghai_MATERIEL_INFO_202607087;KeyPers_Shanghai_1230010;Name10;FistName10;2026-07-08 08:55:15;Smartphone;modèle par défaut
+Shanghai_MATERIEL_INFO_202607088;KeyPers_Shanghai_1230528;Name528;FistName528;2026-07-08 11:54:38;PC portable;ProBook 

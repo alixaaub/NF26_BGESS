@@ -1,0 +1,14 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+LA_202610160;KeyPers_LA_1230078;Name78;FistName78;2026-10-16 07:16:23;Vocational Training;Los Angeles;USA;New-York;USA;Taxi;non
+LA_202610161;KeyPers_LA_1232379;Name2379;FistName2379;2026-10-16 18:59:25;Business Meeting;Los Angeles;USA;Oslo;Norvège;Avion;oui
+LA_202610162;KeyPers_LA_1232376;Name2376;FistName2376;2026-10-16 03:28:48;Conference;Los Angeles;USA;Alger;Algeria;Avion;oui
+LA_202610163;KeyPers_LA_1231393;Name1393;FistName1393;2026-10-16 19:59:47;Business Meeting;Los Angeles;USA;Sao Paulo;Brazil;Avion;oui
+LA_202610164;KeyPers_LA_1231077;Name1077;FistName1077;2026-10-16 07:09:32;Development;Los Angeles;USA;Washington;USA;Avion;oui
+LA_202610165;KeyPers_LA_1232892;Name2892;FistName2892;2026-10-16 22:58:49;Conference;Shanghai;China;London;England;Avion;oui
+LA_202610166;KeyPers_LA_1232440;Name2440;FistName2440;2026-10-16 10:11:28;Development;Los Angeles;USA;Marseille;France;Avion;oui
+LA_202610167;KeyPers_LA_1232513;Name2513;FistName2513;2026-10-16 09:41:44;Team Meeting;Shanghai;China;Alger;Algeria;Avion;oui
+LA_202610168;KeyPers_LA_1230269;Name269;FistName269;2026-10-16 09:27:30;Vocational Training;Los Angeles;USA;Stockholm;Suède;Avion;oui
+LA_202610169;KeyPers_LA_1232224;Name2224;FistName2224;2026-10-16 06:12:59;Vocational Training;Los Angeles;USA;Shanghai;China;Avion;oui
+LA_2026101610;KeyPers_LA_1231496;Name1496;FistName1496;2026-10-16 05:42:48;Conference;Los Angeles;USA;Melbourne;Australia;Avion;non
+LA_2026101611;KeyPers_LA_1232048;Name2048;FistName2048;2026-10-16 12:11:18;Vocational Training;Los Angeles;USA;Compiègne;France;Avion;oui
+LA_2026101612;KeyPers_LA_1230589;Name589;FistName589;2026-10-16 09:16:01;Team Meeting;Los Angeles;USA;Sao Paulo;Brazil;Avion;oui

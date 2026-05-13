@@ -1,0 +1,9 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202607020;KeyPers_Shanghai_1230704;Name704;FistName704;2026-07-02 09:37:33;PC fixe sans ecran;Optiplex small
+Shanghai_MATERIEL_INFO_202607021;KeyPers_Shanghai_1230349;Name349;FistName349;2026-07-02 14:23:16;PC fixe sans ecran;EliteDesk DM
+Shanghai_MATERIEL_INFO_202607022;KeyPers_Shanghai_1230108;Name108;FistName108;2026-07-02 10:58:31; ;ProDesk mini/DM
+Shanghai_MATERIEL_INFO_202607023;KeyPers_Shanghai_1230275;Name275;FistName275;2026-07-02 10:17:58;PC portable;Moyenne 17pouces
+Shanghai_MATERIEL_INFO_202607024;KeyPers_Shanghai_1230842;Name842;FistName842;2026-07-02 08:39:39;PC portable;Chromebook 11-13pouces
+Shanghai_MATERIEL_INFO_202607025;KeyPers_Shanghai_1230080;Name80;FistName80;2026-07-02 15:35:19;PC fixe sans ecran;Z
+Shanghai_MATERIEL_INFO_202607026;KeyPers_Shanghai_1230017;Name17;FistName17;2026-07-02 13:16:47;PC fixe sans ecran;PC Fixe (moy)
+Shanghai_MATERIEL_INFO_202607027;KeyPers_Shanghai_1230922;Name922;FistName922;2026-07-02 13:11:44;PC portable;OMEN 

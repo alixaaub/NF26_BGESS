@@ -1,0 +1,15 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Shanghai_202608150;KeyPers_Shanghai_1230958;Name958;FistName958;2026-08-15 06:34:57;Development;Shanghai;China;New-York;USA;Avion;oui
+Shanghai_202608151;KeyPers_Shanghai_1230216;Name216;FistName216;2026-08-15 01:16:03;Vocational Training;Shanghai;China;Vancouver;Canada;Avion;oui
+Shanghai_202608152;KeyPers_Shanghai_1230427;Name427;FistName427;2026-08-15 02:52:50;Conference;Shanghai;China;Rio de Janeiro;Brazil;Avion;oui
+Shanghai_202608153;KeyPers_Shanghai_1230240;Name240;FistName240;2026-08-15 20:20:48;Business Meeting;Shanghai;China;Pekin;China;Train;oui
+Shanghai_202608154;KeyPers_Shanghai_1230056;Name56;FistName56;2026-08-15 14:51:50;Development;Shanghai;China;Washington;USA;Avion;oui
+Shanghai_202608155;KeyPers_Shanghai_1230183;Name183;FistName183;2026-08-15 18:21:06;Business Meeting;Shanghai;China;Melbourne;Australia;Avion;oui
+Shanghai_202608156;KeyPers_Shanghai_1230130;Name130;FistName130;2026-08-15 04:53:29;Business Meeting;Shanghai;China;Rabat;Maroc;Avion;oui
+Shanghai_202608157;KeyPers_Shanghai_1230065;Name65;FistName65;2026-08-15 22:24:37;Development;Shanghai;China;Bordeaux;France;Avion;oui
+Shanghai_202608158;KeyPers_Shanghai_1230137;Name137;FistName137;2026-08-15 09:55:58;Conference;Shanghai;China;Shanghai;China;Transports en commun;non
+Shanghai_202608159;KeyPers_Shanghai_1230966;Name966;FistName966;2026-08-15 11:43:40;Conference;Shanghai;China;Lima;Peru;Avion;oui
+Shanghai_2026081510;KeyPers_Shanghai_1230839;Name839;FistName839;2026-08-15 21:23:41;Vocational Training;Shanghai;China;Alger;Algeria;Avion;oui
+Shanghai_2026081511;KeyPers_Shanghai_1230921;Name921;FistName921;2026-08-15 10:26:02;Conference;Shanghai;China;Tunis;Tunisie;Avion;oui
+Shanghai_2026081512;KeyPers_Shanghai_1230212;Name212;FistName212;2026-08-15 13:51:34;Development;Shanghai;China;Los Angeles;USA;Avion;oui
+Shanghai_2026081513;KeyPers_Shanghai_1230008;Name8;FistName8;2026-08-15 16:45:58;Business Meeting;Shanghai;China;New-York;USA;Avion;oui

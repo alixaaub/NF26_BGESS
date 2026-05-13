@@ -1,0 +1,18 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Shanghai_202605080;KeyPers_Shanghai_1230616;Name616;FistName616;2026-05-08 02:33:59;Conference;Shanghai;China;Los Angeles;USA;Avion;oui
+Shanghai_202605081;KeyPers_Shanghai_1230366;Name366;FistName366;2026-05-08 21:07:31;Conference;Shanghai;China;Wellington;New Zealand;Avion;oui
+Shanghai_202605082;KeyPers_Shanghai_1230827;Name827;FistName827;2026-05-08 10:11:25;Development;Shanghai;China;Sao Paulo;Brazil;Avion;oui
+Shanghai_202605083;KeyPers_Shanghai_1230174;Name174;FistName174;2026-05-08 07:13:55;Vocational Training;Shanghai;China;Montreal;Canada;Avion;oui
+Shanghai_202605084;KeyPers_Shanghai_1230929;Name929;FistName929;2026-05-08 06:40:41;Team Meeting;Shanghai;China;Berlin;Allemagne;Avion;oui
+Shanghai_202605085;KeyPers_Shanghai_1230996;Name996;FistName996;2026-05-08 11:54:58;Business Meeting;Shanghai;China;Helsinki;Finlande;Avion;oui
+Shanghai_202605086;KeyPers_Shanghai_1230146;Name146;FistName146;2026-05-08 06:48:13;Business Meeting;Shanghai;China;Sao Paulo;Brazil;Avion;oui
+Shanghai_202605087;KeyPers_Shanghai_1230778;Name778;FistName778;2026-05-08 05:45:18;Vocational Training;Shanghai;China;Wellington;New Zealand;Avion;oui
+Shanghai_202605088;KeyPers_Shanghai_1230902;Name902;FistName902;2026-05-08 06:37:50;Team Meeting;Shanghai;China;Washington;USA;Avion;oui
+Shanghai_202605089;KeyPers_Shanghai_1230301;Name301;FistName301;2026-05-08 16:03:26;Team Meeting;Shanghai;China;Marseille;France;Avion;oui
+Shanghai_2026050810;KeyPers_Shanghai_1230932;Name932;FistName932;2026-05-08 22:44:02;Team Meeting;Shanghai;China;Sao Paulo;Brazil;Avion;oui
+Shanghai_2026050811;KeyPers_Shanghai_1230678;Name678;FistName678;2026-05-08 06:30:12;Conference;Shanghai;China;Washington;USA;Avion;oui
+Shanghai_2026050812;KeyPers_Shanghai_1230828;Name828;FistName828;2026-05-08 08:49:30;Business Meeting;Shanghai;China;Bordeaux;France;Avion;oui
+Shanghai_2026050813;KeyPers_Shanghai_1230691;Name691;FistName691;2026-05-08 07:49:49;Vocational Training;Shanghai;China;Bogota;Colombia;Avion;oui
+Shanghai_2026050814;KeyPers_Shanghai_1230815;Name815;FistName815;2026-05-08 20:10:29;Team Meeting;Shanghai;China;Montreal;Canada;Avion;oui
+Shanghai_2026050815;KeyPers_Shanghai_1230664;Name664;FistName664;2026-05-08 11:22:11;Vocational Training;Shanghai;China;Wellington;New Zealand;Avion;non
+Shanghai_2026050816;KeyPers_Shanghai_1230640;Name640;FistName640;2026-05-08 03:56:26;Business Meeting;Shanghai;China;Washington;USA;Avion;oui

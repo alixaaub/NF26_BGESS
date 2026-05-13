@@ -1,0 +1,11 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202609100;KeyPers_Shanghai_1230482;Name482;FistName482;2026-09-10 09:09:52;clavier;modèle par défaut
+Shanghai_MATERIEL_INFO_202609101;KeyPers_Shanghai_1230443;Name443;FistName443;2026-09-10 13:27:16; ;ZHAN
+Shanghai_MATERIEL_INFO_202609102;KeyPers_Shanghai_1230271;Name271;FistName271;2026-09-10 14:10:52; ;Moyenne 17pouces
+Shanghai_MATERIEL_INFO_202609103;KeyPers_Shanghai_1230898;Name898;FistName898;2026-09-10 12:26:33;PC fixe sans ecran;Optiplex micro
+Shanghai_MATERIEL_INFO_202609104;KeyPers_Shanghai_1230261;Name261;FistName261;2026-09-10 11:02:18;PC portable;MacBook air
+Shanghai_MATERIEL_INFO_202609105;KeyPers_Shanghai_1230278;Name278;FistName278;2026-09-10 09:32:28;PC fixe sans ecran;Rasberry pi 4
+Shanghai_MATERIEL_INFO_202609106;KeyPers_Shanghai_1230384;Name384;FistName384;2026-09-10 14:11:35; ;Noeud de calcul
+Shanghai_MATERIEL_INFO_202609107;KeyPers_Shanghai_1230984;Name984;FistName984;2026-09-10 12:42:18;PC portable;EliteBook 10xx
+Shanghai_MATERIEL_INFO_202609108;KeyPers_Shanghai_1230425;Name425;FistName425;2026-09-10 09:21:47;PC portable;MacBook air retina
+Shanghai_MATERIEL_INFO_202609109;KeyPers_Shanghai_1230254;Name254;FistName254;2026-09-10 08:30:45; ;MacBook air

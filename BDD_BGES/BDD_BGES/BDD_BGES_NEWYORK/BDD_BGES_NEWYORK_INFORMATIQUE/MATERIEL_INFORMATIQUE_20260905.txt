@@ -1,0 +1,15 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+NewYork_MATERIEL_INFO_202609050;KeyPers_NewYork_1232183;Name2183;FistName2183;2026-09-05 15:14:59;PC portable;MacBook air
+NewYork_MATERIEL_INFO_202609051;KeyPers_NewYork_1232773;Name2773;FistName2773;2026-09-05 13:39:01;PC fixe tout-en-un;Mac pro
+NewYork_MATERIEL_INFO_202609052;KeyPers_NewYork_1230843;Name843;FistName843;2026-09-05 14:09:01;PC fixe sans ecran;Rasberry pi 4
+NewYork_MATERIEL_INFO_202609053;KeyPers_NewYork_1230171;Name171;FistName171;2026-09-05 09:36:48; ;Optiplex All-in-One 3xxx
+NewYork_MATERIEL_INFO_202609054;KeyPers_NewYork_1232815;Name2815;FistName2815;2026-09-05 14:04:37;PC fixe sans ecran;Station de travail (moy)
+NewYork_MATERIEL_INFO_202609055;KeyPers_NewYork_1231574;Name1574;FistName1574;2026-09-05 11:19:12;PC fixe sans ecran;Elite mini
+NewYork_MATERIEL_INFO_202609056;KeyPers_NewYork_1230073;Name73;FistName73;2026-09-05 10:38:36; ;ZHAN
+NewYork_MATERIEL_INFO_202609057;KeyPers_NewYork_1231274;Name1274;FistName1274;2026-09-05 13:27:03;PC portable;MacBook air pre-retina
+NewYork_MATERIEL_INFO_202609058;KeyPers_NewYork_1231279;Name1279;FistName1279;2026-09-05 09:11:35;PC fixe sans ecran;Station de travail (moy)
+NewYork_MATERIEL_INFO_202609059;KeyPers_NewYork_1232591;Name2591;FistName2591;2026-09-05 08:24:43; ;Station de travail (moy)
+NewYork_MATERIEL_INFO_2026090510;KeyPers_NewYork_1230629;Name629;FistName629;2026-09-05 09:57:41;PC fixe tout-en-un;iMac 21pouces retina
+NewYork_MATERIEL_INFO_2026090511;KeyPers_NewYork_1230899;Name899;FistName899;2026-09-05 15:32:05;Serveur; 
+NewYork_MATERIEL_INFO_2026090512;KeyPers_NewYork_1232019;Name2019;FistName2019;2026-09-05 13:41:35;PC portable;EliteBook 8xx
+NewYork_MATERIEL_INFO_2026090513;KeyPers_NewYork_1230612;Name612;FistName612;2026-09-05 15:26:12;PC fixe tout-en-un;Mac pro

@@ -1,0 +1,16 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Paris_202610110;KeyPers_Paris_1234218;Name4218;FistName4218;2026-10-11 21:04:46;Conférence;Paris;France;Stockholm;Suède;Avion;oui
+Paris_202610111;KeyPers_Paris_1233548;Name3548;FistName3548;2026-10-11 01:37:13;Réunion;Paris;France;Vancouver;Canada;Avion;oui
+Paris_202610112;KeyPers_Paris_1231087;Name1087;FistName1087;2026-10-11 16:51:15;Réunion;Paris;France;Dubaï;Emirats;Avion;oui
+Paris_202610113;KeyPers_Paris_1233694;Name3694;FistName3694;2026-10-11 01:23:01;Réunion;Paris;France;Stockholm;Suède;Avion;oui
+Paris_202610114;KeyPers_Paris_1234342;Name4342;FistName4342;2026-10-11 20:03:42;Réunion;Paris;France;Vancouver;Canada;Avion;oui
+Paris_202610115;KeyPers_Paris_1230962;Name962;FistName962;2026-10-11 10:12:47;Rencontre entreprises;New-York;USA;Stockholm;Suède;Avion;oui
+Paris_202610116;KeyPers_Paris_1232714;Name2714;FistName2714;2026-10-11 10:16:49;Réunion;Paris;France;Lima;Peru;Avion;oui
+Paris_202610117;KeyPers_Paris_1233246;Name3246;FistName3246;2026-10-11 18:37:31;Rencontre entreprises;Paris;France;New-York;USA;Avion;oui
+Paris_202610118;KeyPers_Paris_1234640;Name4640;FistName4640;2026-10-11 05:18:16;Développement;Paris;France;Tunis;Tunisie;Avion;oui
+Paris_202610119;KeyPers_Paris_1233241;Name3241;FistName3241;2026-10-11 02:35:44;Développement;Paris;France;Mexico;Mexico;Avion;oui
+Paris_2026101110;KeyPers_Paris_1232683;Name2683;FistName2683;2026-10-11 02:20:15;Conférence;Paris;France;London;England;Avion;oui
+Paris_2026101111;KeyPers_Paris_1233789;Name3789;FistName3789;2026-10-11 01:36:11;Formation;Paris;France;Marseille;France;Train;oui
+Paris_2026101112;KeyPers_Paris_1233759;Name3759;FistName3759;2026-10-11 03:56:23;Rencontre entreprises;Paris;France;Berlin;Allemagne;Avion;oui
+Paris_2026101113;KeyPers_Paris_1231506;Name1506;FistName1506;2026-10-11 11:27:14;Développement;Paris;France;New-York;USA;Avion;non
+Paris_2026101114;KeyPers_Paris_1234417;Name4417;FistName4417;2026-10-11 12:15:05;Formation;Paris;France;Lima;Peru;Avion;oui

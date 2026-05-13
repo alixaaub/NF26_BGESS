@@ -1,0 +1,13 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202606170;KeyPers_Shanghai_1230522;Name522;FistName522;2026-06-17 08:07:28;PC portable;MacBook pro 13pouces
+Shanghai_MATERIEL_INFO_202606171;KeyPers_Shanghai_1230822;Name822;FistName822;2026-06-17 09:26:48;Smartphone;modèle par défaut
+Shanghai_MATERIEL_INFO_202606172;KeyPers_Shanghai_1230991;Name991;FistName991;2026-06-17 15:41:51;PC portable;Moyenne 14/15pouces
+Shanghai_MATERIEL_INFO_202606173;KeyPers_Shanghai_1230616;Name616;FistName616;2026-06-17 15:27:56;PC fixe sans ecran;EliteDesk DM
+Shanghai_MATERIEL_INFO_202606174;KeyPers_Shanghai_1230318;Name318;FistName318;2026-06-17 14:43:54;Borne wifi;modèle par défaut
+Shanghai_MATERIEL_INFO_202606175;KeyPers_Shanghai_1230112;Name112;FistName112;2026-06-17 09:45:42;imprimante;modèle par défaut
+Shanghai_MATERIEL_INFO_202606176;KeyPers_Shanghai_1230928;Name928;FistName928;2026-06-17 10:51:32;PC portable;Latitude 3xxx
+Shanghai_MATERIEL_INFO_202606177;KeyPers_Shanghai_1230666;Name666;FistName666;2026-06-17 14:32:58;PC portable;Latitude 3xxx
+Shanghai_MATERIEL_INFO_202606178;KeyPers_Shanghai_1230970;Name970;FistName970;2026-06-17 09:42:08; ;Optiplex micro
+Shanghai_MATERIEL_INFO_202606179;KeyPers_Shanghai_1230534;Name534;FistName534;2026-06-17 13:02:09;PC fixe sans ecran;Wyse thin client
+Shanghai_MATERIEL_INFO_2026061710;KeyPers_Shanghai_1230410;Name410;FistName410;2026-06-17 12:38:12;PC fixe tout-en-un;Optiplex All-in-One 7xxx
+Shanghai_MATERIEL_INFO_2026061711;KeyPers_Shanghai_1230895;Name895;FistName895;2026-06-17 14:13:12;PC fixe sans ecran;Wyse thin client

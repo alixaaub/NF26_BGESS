@@ -1,0 +1,14 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+NewYork_MATERIEL_INFO_202609200;KeyPers_NewYork_1230416;Name416;FistName416;2026-09-20 14:34:39;Telephone IP;modèle par défaut
+NewYork_MATERIEL_INFO_202609201;KeyPers_NewYork_1231070;Name1070;FistName1070;2026-09-20 08:58:45;Serveur;Serveur de stockage
+NewYork_MATERIEL_INFO_202609202;KeyPers_NewYork_1232298;Name2298;FistName2298;2026-09-20 14:23:51;clavier;modèle par défaut
+NewYork_MATERIEL_INFO_202609203;KeyPers_NewYork_1232508;Name2508;FistName2508;2026-09-20 16:46:01;PC portable;Precision 7xxx
+NewYork_MATERIEL_INFO_202609204;KeyPers_NewYork_1231471;Name1471;FistName1471;2026-09-20 16:25:57;Ecran;modèle par défaut
+NewYork_MATERIEL_INFO_202609205;KeyPers_NewYork_1232679;Name2679;FistName2679;2026-09-20 12:44:15;Borne wifi;modèle par défaut
+NewYork_MATERIEL_INFO_202609206;KeyPers_NewYork_1232933;Name2933;FistName2933;2026-09-20 08:48:13;PC fixe sans ecran;OMEN 
+NewYork_MATERIEL_INFO_202609207;KeyPers_NewYork_1232967;Name2967;FistName2967;2026-09-20 09:14:32;PC fixe sans ecran;modèle par défaut
+NewYork_MATERIEL_INFO_202609208;KeyPers_NewYork_1231234;Name1234;FistName1234;2026-09-20 12:55:20;Ecran;jusqu'à 23pouces
+NewYork_MATERIEL_INFO_202609209;KeyPers_NewYork_1232479;Name2479;FistName2479;2026-09-20 15:05:42;PC portable;ProBook 
+NewYork_MATERIEL_INFO_2026092010;KeyPers_NewYork_1232340;Name2340;FistName2340;2026-09-20 12:09:52;imprimante;modèle par défaut
+NewYork_MATERIEL_INFO_2026092011;KeyPers_NewYork_1230612;Name612;FistName612;2026-09-20 11:22:59;PC fixe sans ecran;Elite (Tower, SFF, One)
+NewYork_MATERIEL_INFO_2026092012;KeyPers_NewYork_1230469;Name469;FistName469;2026-09-20 16:04:41; ;modèle par défaut

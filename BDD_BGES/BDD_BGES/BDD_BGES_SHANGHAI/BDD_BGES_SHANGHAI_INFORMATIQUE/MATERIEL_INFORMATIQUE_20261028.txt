@@ -1,0 +1,14 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202610280;KeyPers_Shanghai_1230475;Name475;FistName475;2026-10-28 12:40:02;PC fixe sans ecran;PC Fixe (moy)
+Shanghai_MATERIEL_INFO_202610281;KeyPers_Shanghai_1230514;Name514;FistName514;2026-10-28 08:38:51;PC portable;Moyenne 13pouces
+Shanghai_MATERIEL_INFO_202610282;KeyPers_Shanghai_1230112;Name112;FistName112;2026-10-28 08:21:19;Serveur;Noeud de calcul
+Shanghai_MATERIEL_INFO_202610283;KeyPers_Shanghai_1230391;Name391;FistName391;2026-10-28 08:27:29;PC portable; 
+Shanghai_MATERIEL_INFO_202610284;KeyPers_Shanghai_1230917;Name917;FistName917;2026-10-28 12:18:51;Serveur;Serveur de stockage
+Shanghai_MATERIEL_INFO_202610285;KeyPers_Shanghai_1230503;Name503;FistName503;2026-10-28 13:05:48;PC fixe sans ecran;Optiplex small
+Shanghai_MATERIEL_INFO_202610286;KeyPers_Shanghai_1230580;Name580;FistName580;2026-10-28 08:03:04;Ecran;jusqu'à 23pouces
+Shanghai_MATERIEL_INFO_202610287;KeyPers_Shanghai_1230082;Name82;FistName82;2026-10-28 15:50:15;PC portable;Moyenne 13pouces
+Shanghai_MATERIEL_INFO_202610288;KeyPers_Shanghai_1230795;Name795;FistName795;2026-10-28 12:29:48;PC portable;Moyenne 14/15pouces
+Shanghai_MATERIEL_INFO_202610289;KeyPers_Shanghai_1230663;Name663;FistName663;2026-10-28 16:46:31;Ecran;24pouces-31pouces
+Shanghai_MATERIEL_INFO_2026102810;KeyPers_Shanghai_1230735;Name735;FistName735;2026-10-28 10:52:08; ;Precision tower 5xxx
+Shanghai_MATERIEL_INFO_2026102811;KeyPers_Shanghai_1230855;Name855;FistName855;2026-10-28 16:29:12;PC fixe sans ecran;Optiplex small
+Shanghai_MATERIEL_INFO_2026102812;KeyPers_Shanghai_1230683;Name683;FistName683;2026-10-28 11:57:46; ;32pouces et plus

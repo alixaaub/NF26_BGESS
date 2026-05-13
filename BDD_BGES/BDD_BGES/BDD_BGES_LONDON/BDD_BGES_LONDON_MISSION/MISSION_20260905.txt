@@ -1,0 +1,28 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+LONDON_202609050;KeyPers_London_1232032;Name2032;FistName2032;2026-09-05 02:36:44;Conference;London;England;Shanghai;China;Avion;oui
+LONDON_202609051;KeyPers_London_1230641;Name641;FistName641;2026-09-05 13:05:41;Conference;London;England;Compiègne;France;Avion;oui
+LONDON_202609052;KeyPers_London_1233905;Name3905;FistName3905;2026-09-05 18:31:13;Vocational Training;London;England;Alger;Algeria;Avion;oui
+LONDON_202609053;KeyPers_London_1231781;Name1781;FistName1781;2026-09-05 09:41:40;Conference;London;England;Shanghai;China;Avion;oui
+LONDON_202609054;KeyPers_London_1230700;Name700;FistName700;2026-09-05 18:48:31;Team Meeting;London;England;Dubaï;Emirats;Avion;oui
+LONDON_202609055;KeyPers_London_1233266;Name3266;FistName3266;2026-09-05 04:21:27;Conference;London;England;Stockholm;Suède;Avion;oui
+LONDON_202609056;KeyPers_London_1231837;Name1837;FistName1837;2026-09-05 13:35:08;Vocational Training;London;England;London;England;Transports en commun;oui
+LONDON_202609057;KeyPers_London_1233634;Name3634;FistName3634;2026-09-05 04:24:13;Business Meeting;London;England;Stockholm;Suède;Avion;oui
+LONDON_202609058;KeyPers_London_1230103;Name103;FistName103;2026-09-05 05:02:21;Development;London;England;Melbourne;Australia;Avion;oui
+LONDON_202609059;KeyPers_London_1231110;Name1110;FistName1110;2026-09-05 19:54:24;Team Meeting;London;England;Rabat;Maroc;Avion;oui
+LONDON_2026090510;KeyPers_London_1232514;Name2514;FistName2514;2026-09-05 21:38:22;Team Meeting;London;England;Melbourne;Australia;Avion;oui
+LONDON_2026090511;KeyPers_London_1233463;Name3463;FistName3463;2026-09-05 04:56:13;Team Meeting;London;England;Buenos Aires;Argentina;Avion;oui
+LONDON_2026090512;KeyPers_London_1230094;Name94;FistName94;2026-09-05 01:19:01;Vocational Training;London;England;Washington;USA;Avion;oui
+LONDON_2026090513;KeyPers_London_1232690;Name2690;FistName2690;2026-09-05 16:04:44;Business Meeting;London;England;Compiègne;France;Avion;oui
+LONDON_2026090514;KeyPers_London_1232450;Name2450;FistName2450;2026-09-05 04:42:34;Development;London;England;Sao Paulo;Brazil;Avion;oui
+LONDON_2026090515;KeyPers_London_1233740;Name3740;FistName3740;2026-09-05 07:19:35;Development;London;England;Lima;Peru;Avion;oui
+LONDON_2026090516;KeyPers_London_1231765;Name1765;FistName1765;2026-09-05 18:35:16;Conference;London;England;Shanghai;China;Avion;oui
+LONDON_2026090517;KeyPers_London_1230982;Name982;FistName982;2026-09-05 15:26:37;Conference;London;England;Wellington;New Zealand;Avion;oui
+LONDON_2026090518;KeyPers_London_1230947;Name947;FistName947;2026-09-05 15:43:57;Team Meeting;London;England;New-York;USA;Avion;oui
+LONDON_2026090519;KeyPers_London_1231861;Name1861;FistName1861;2026-09-05 11:20:01;Team Meeting;London;England;Los Angeles;USA;Avion;oui
+LONDON_2026090520;KeyPers_London_1230287;Name287;FistName287;2026-09-05 23:15:23;Development;London;England;Bogota;Colombia;Avion;oui
+LONDON_2026090521;KeyPers_London_1231848;Name1848;FistName1848;2026-09-05 19:30:39;Conference;London;England;Berlin;Allemagne;Avion;oui
+LONDON_2026090522;KeyPers_London_1233890;Name3890;FistName3890;2026-09-05 19:26:35;Business Meeting;London;England;Rio de Janeiro;Brazil;Avion;non
+LONDON_2026090523;KeyPers_London_1230458;Name458;FistName458;2026-09-05 03:47:42;Team Meeting;London;England;Montreal;Canada;Avion;non
+LONDON_2026090524;KeyPers_London_1232543;Name2543;FistName2543;2026-09-05 12:11:08;Team Meeting;London;England;Rabat;Maroc;Avion;oui
+LONDON_2026090525;KeyPers_London_1233119;Name3119;FistName3119;2026-09-05 19:56:07;Team Meeting;London;England;London;England;Transports en commun;oui
+LONDON_2026090526;KeyPers_London_1233779;Name3779;FistName3779;2026-09-05 13:09:14;Development;Shanghai;China;Rabat;Maroc;Avion;oui

@@ -1,0 +1,10 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202608070;KeyPers_Shanghai_1230782;Name782;FistName782;2026-08-07 16:48:42;PC portable;MacBook air retina
+Shanghai_MATERIEL_INFO_202608071;KeyPers_Shanghai_1230902;Name902;FistName902;2026-08-07 13:21:58;PC portable;Precision 3xxx
+Shanghai_MATERIEL_INFO_202608072;KeyPers_Shanghai_1230469;Name469;FistName469;2026-08-07 09:12:36; ;Precision 5xxx
+Shanghai_MATERIEL_INFO_202608073;KeyPers_Shanghai_1230575;Name575;FistName575;2026-08-07 14:23:55; ;Optiplex tower
+Shanghai_MATERIEL_INFO_202608074;KeyPers_Shanghai_1230776;Name776;FistName776;2026-08-07 11:29:21; ;Precision tower 3xxx
+Shanghai_MATERIEL_INFO_202608075;KeyPers_Shanghai_1230866;Name866;FistName866;2026-08-07 11:16:56;imprimante;Laser A3 (40-99kg)
+Shanghai_MATERIEL_INFO_202608076;KeyPers_Shanghai_1230246;Name246;FistName246;2026-08-07 11:43:22;Telephone IP;modèle par défaut
+Shanghai_MATERIEL_INFO_202608077;KeyPers_Shanghai_1230314;Name314;FistName314;2026-08-07 12:34:29;Vidéo projecteur;Pour salle
+Shanghai_MATERIEL_INFO_202608078;KeyPers_Shanghai_1230117;Name117;FistName117;2026-08-07 13:57:56;PC fixe sans ecran;Elite mini

@@ -1,0 +1,30 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+BERLIN_202610040;KeyPers_Berlin_1230294;Name294;FistName294;2026-10-04 23:15:39;Meeting;Paris;France;Tunis;Tunisie;Avion;oui
+BERLIN_202610041;KeyPers_Berlin_1232115;Name2115;FistName2115;2026-10-04 03:29:23;Schulung;Berlin;Allemagne;Tunis;Tunisie;Avion;oui
+BERLIN_202610042;KeyPers_Berlin_1230372;Name372;FistName372;2026-10-04 11:55:44;Meeting;Berlin;Allemagne;Lima;Peru;Avion;oui
+BERLIN_202610043;KeyPers_Berlin_1231689;Name1689;FistName1689;2026-10-04 11:10:01;Geschäftstreffen;Berlin;Allemagne;Pekin;China;Avion;oui
+BERLIN_202610044;KeyPers_Berlin_1232497;Name2497;FistName2497;2026-10-04 03:53:57;Meeting;Berlin;Allemagne;Buenos Aires;Argentina;Avion;oui
+BERLIN_202610045;KeyPers_Berlin_1230723;Name723;FistName723;2026-10-04 22:41:06;Schulung;Berlin;Allemagne;Tunis;Tunisie;Avion;oui
+BERLIN_202610046;KeyPers_Berlin_1233912;Name3912;FistName3912;2026-10-04 04:55:44;Schulung;Berlin;Allemagne;Wellington;New Zealand;Avion;oui
+BERLIN_202610047;KeyPers_Berlin_1230525;Name525;FistName525;2026-10-04 12:03:47;Geschäftstreffen;Berlin;Allemagne;Vancouver;Canada;Avion;non
+BERLIN_202610048;KeyPers_Berlin_1232328;Name2328;FistName2328;2026-10-04 17:50:30;Schulung;Berlin;Allemagne;Helsinki;Finlande;Avion;oui
+BERLIN_202610049;KeyPers_Berlin_1231783;Name1783;FistName1783;2026-10-04 21:21:31;Entwicklung;Berlin;Allemagne;Auckland;New Zealand;Avion;oui
+BERLIN_2026100410;KeyPers_Berlin_1233389;Name3389;FistName3389;2026-10-04 13:05:10;Geschäftstreffen;Berlin;Allemagne;Rio de Janeiro;Brazil;Avion;oui
+BERLIN_2026100411;KeyPers_Berlin_1233646;Name3646;FistName3646;2026-10-04 05:39:45;Entwicklung;Berlin;Allemagne;Pekin;China;Avion;oui
+BERLIN_2026100412;KeyPers_Berlin_1233735;Name3735;FistName3735;2026-10-04 09:05:41;Geschäftstreffen;Berlin;Allemagne;Montreal;Canada;Avion;oui
+BERLIN_2026100413;KeyPers_Berlin_1231316;Name1316;FistName1316;2026-10-04 16:27:52;Schulung;Berlin;Allemagne;Bogota;Colombia;Avion;oui
+BERLIN_2026100414;KeyPers_Berlin_1231195;Name1195;FistName1195;2026-10-04 21:21:11;Konferenz;Berlin;Allemagne;Tunis;Tunisie;Avion;non
+BERLIN_2026100415;KeyPers_Berlin_1231994;Name1994;FistName1994;2026-10-04 01:11:35;Schulung;Berlin;Allemagne;Shanghai;China;Avion;non
+BERLIN_2026100416;KeyPers_Berlin_1233053;Name3053;FistName3053;2026-10-04 01:59:42;Konferenz;Paris;France;Berlin;Allemagne;Avion;oui
+BERLIN_2026100417;KeyPers_Berlin_1232109;Name2109;FistName2109;2026-10-04 19:33:41;Meeting;Berlin;Allemagne;Compiègne;France;Avion;oui
+BERLIN_2026100418;KeyPers_Berlin_1230855;Name855;FistName855;2026-10-04 11:47:35;Konferenz;Berlin;Allemagne;Tokyo;Japan;Avion;oui
+BERLIN_2026100419;KeyPers_Berlin_1230604;Name604;FistName604;2026-10-04 09:08:24;Meeting;Berlin;Allemagne;Lille;France;Avion;non
+BERLIN_2026100420;KeyPers_Berlin_1230967;Name967;FistName967;2026-10-04 19:25:32;Geschäftstreffen;Berlin;Allemagne;Buenos Aires;Argentina;Avion;oui
+BERLIN_2026100421;KeyPers_Berlin_1233895;Name3895;FistName3895;2026-10-04 18:14:43;Geschäftstreffen;Berlin;Allemagne;Shanghai;China;Avion;oui
+BERLIN_2026100422;KeyPers_Berlin_1230489;Name489;FistName489;2026-10-04 06:40:20;Schulung;New-York;USA;Alger;Algeria;Avion;oui
+BERLIN_2026100423;KeyPers_Berlin_1231953;Name1953;FistName1953;2026-10-04 14:58:45;Schulung;Berlin;Allemagne;Rabat;Maroc;Avion;oui
+BERLIN_2026100424;KeyPers_Berlin_1232614;Name2614;FistName2614;2026-10-04 22:57:03;Entwicklung;Berlin;Allemagne;Berlin;Allemagne;Transports en commun;oui
+BERLIN_2026100425;KeyPers_Berlin_1233059;Name3059;FistName3059;2026-10-04 21:50:51;Konferenz;Berlin;Allemagne;Los Angeles;USA;Avion;non
+BERLIN_2026100426;KeyPers_Berlin_1231201;Name1201;FistName1201;2026-10-04 21:27:38;Geschäftstreffen;Shanghai;China;Tunis;Tunisie;Avion;oui
+BERLIN_2026100427;KeyPers_Berlin_1230167;Name167;FistName167;2026-10-04 13:30:37;Entwicklung;Berlin;Allemagne;Compiègne;France;Avion;oui
+BERLIN_2026100428;KeyPers_Berlin_1230706;Name706;FistName706;2026-10-04 22:23:58;Konferenz;Berlin;Allemagne;Tokyo;Japan;Avion;non

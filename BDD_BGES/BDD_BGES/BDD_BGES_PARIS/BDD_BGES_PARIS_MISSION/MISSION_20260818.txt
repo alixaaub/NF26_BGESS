@@ -1,0 +1,6 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Paris_202608180;KeyPers_Paris_1234693;Name4693;FistName4693;2026-08-18 23:17:31;Développement;Paris;France;Tokyo;Japan;Avion;oui
+Paris_202608181;KeyPers_Paris_1233487;Name3487;FistName3487;2026-08-18 13:23:41;Formation;Shanghai;China;Oslo;Norvège;Avion;oui
+Paris_202608182;KeyPers_Paris_1233863;Name3863;FistName3863;2026-08-18 02:26:20;Développement;Shanghai;China;Vancouver;Canada;Avion;oui
+Paris_202608183;KeyPers_Paris_1231371;Name1371;FistName1371;2026-08-18 10:37:10;Conférence;Paris;France;Auckland;New Zealand;Avion;oui
+Paris_202608184;KeyPers_Paris_1234090;Name4090;FistName4090;2026-08-18 23:46:22;Rencontre entreprises;Paris;France;Oslo;Norvège;Avion;oui

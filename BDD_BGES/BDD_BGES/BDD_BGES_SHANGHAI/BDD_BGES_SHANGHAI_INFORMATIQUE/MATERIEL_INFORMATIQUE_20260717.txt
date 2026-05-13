@@ -1,0 +1,12 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202607170;KeyPers_Shanghai_1230827;Name827;FistName827;2026-07-17 08:14:32;PC portable;Latitude 7xxx
+Shanghai_MATERIEL_INFO_202607171;KeyPers_Shanghai_1230004;Name4;FistName4;2026-07-17 10:38:45;Serveur;Modèle par défaut
+Shanghai_MATERIEL_INFO_202607172;KeyPers_Shanghai_1230044;Name44;FistName44;2026-07-17 15:33:04;PC fixe sans ecran;Z
+Shanghai_MATERIEL_INFO_202607173;KeyPers_Shanghai_1230732;Name732;FistName732;2026-07-17 14:07:48;PC fixe sans ecran;ProDesk mini/DM
+Shanghai_MATERIEL_INFO_202607174;KeyPers_Shanghai_1230649;Name649;FistName649;2026-07-17 16:15:18;PC fixe sans ecran;modèle par défaut
+Shanghai_MATERIEL_INFO_202607175;KeyPers_Shanghai_1230300;Name300;FistName300;2026-07-17 10:02:45;PC fixe sans ecran;Prodesk (Tower, SFF)
+Shanghai_MATERIEL_INFO_202607176;KeyPers_Shanghai_1230287;Name287;FistName287;2026-07-17 12:38:13; ;MacBook air pre-retina
+Shanghai_MATERIEL_INFO_202607177;KeyPers_Shanghai_1230546;Name546;FistName546;2026-07-17 13:57:25;PC portable;EliteBook 8xx
+Shanghai_MATERIEL_INFO_202607178;KeyPers_Shanghai_1230368;Name368;FistName368;2026-07-17 16:21:06;PC fixe sans ecran;Station de travail (moy)
+Shanghai_MATERIEL_INFO_202607179;KeyPers_Shanghai_1230811;Name811;FistName811;2026-07-17 13:17:51;Borne wifi;modèle par défaut
+Shanghai_MATERIEL_INFO_2026071710;KeyPers_Shanghai_1230352;Name352;FistName352;2026-07-17 15:57:23; ;Prodesk (Tower, SFF)

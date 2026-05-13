@@ -1,0 +1,16 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+LA_202607210;KeyPers_LA_1231798;Name1798;FistName1798;2026-07-21 21:30:58;Development;Los Angeles;USA;Auckland;New Zealand;Avion;oui
+LA_202607211;KeyPers_LA_1231100;Name1100;FistName1100;2026-07-21 20:17:22;Team Meeting;Los Angeles;USA;Auckland;New Zealand;Avion;oui
+LA_202607212;KeyPers_LA_1230298;Name298;FistName298;2026-07-21 01:55:06;Business Meeting;Los Angeles;USA;Shanghai;China;Avion;oui
+LA_202607213;KeyPers_LA_1232198;Name2198;FistName2198;2026-07-21 20:07:31;Business Meeting;Los Angeles;USA;Oslo;Norvège;Avion;oui
+LA_202607214;KeyPers_LA_1231977;Name1977;FistName1977;2026-07-21 07:09:12;Development;Los Angeles;USA;Oslo;Norvège;Avion;non
+LA_202607215;KeyPers_LA_1230715;Name715;FistName715;2026-07-21 12:01:57;Business Meeting;Los Angeles;USA;Rabat;Maroc;Avion;oui
+LA_202607216;KeyPers_LA_1232631;Name2631;FistName2631;2026-07-21 06:19:28;Conference;Paris;France;Compiègne;France;Train;oui
+LA_202607217;KeyPers_LA_1230826;Name826;FistName826;2026-07-21 17:03:12;Business Meeting;Los Angeles;USA;Wellington;New Zealand;Avion;oui
+LA_202607218;KeyPers_LA_1232934;Name2934;FistName2934;2026-07-21 19:05:46;Business Meeting;Los Angeles;USA;Sidney;Australia;Avion;oui
+LA_202607219;KeyPers_LA_1232283;Name2283;FistName2283;2026-07-21 05:23:48;Vocational Training;Los Angeles;USA;Melbourne;Australia;Avion;oui
+LA_2026072110;KeyPers_LA_1230460;Name460;FistName460;2026-07-21 19:40:44;Business Meeting;Los Angeles;USA;Marseille;France;Avion;oui
+LA_2026072111;KeyPers_LA_1231695;Name1695;FistName1695;2026-07-21 22:01:56;Vocational Training;Los Angeles;USA;Montreal;Canada;Avion;oui
+LA_2026072112;KeyPers_LA_1232054;Name2054;FistName2054;2026-07-21 06:55:35;Business Meeting;Los Angeles;USA;Dubaï;Emirats;Avion;non
+LA_2026072113;KeyPers_LA_1231471;Name1471;FistName1471;2026-07-21 11:07:31;Team Meeting;Los Angeles;USA;Compiègne;France;Avion;oui
+LA_2026072114;KeyPers_LA_1230920;Name920;FistName920;2026-07-21 07:34:44;Conference;Los Angeles;USA;Los Angeles;USA;Transports en commun;oui

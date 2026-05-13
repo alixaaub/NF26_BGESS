@@ -1,0 +1,14 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202609040;KeyPers_Shanghai_1230271;Name271;FistName271;2026-09-04 08:52:08;PC fixe sans ecran;Elite mini
+Shanghai_MATERIEL_INFO_202609041;KeyPers_Shanghai_1230949;Name949;FistName949;2026-09-04 11:49:22;PC portable; 
+Shanghai_MATERIEL_INFO_202609042;KeyPers_Shanghai_1230599;Name599;FistName599;2026-09-04 12:18:22;PC fixe sans ecran;modèle par défaut
+Shanghai_MATERIEL_INFO_202609043;KeyPers_Shanghai_1230432;Name432;FistName432;2026-09-04 11:45:51;PC fixe sans ecran;Optiplex micro
+Shanghai_MATERIEL_INFO_202609044;KeyPers_Shanghai_1230460;Name460;FistName460;2026-09-04 16:26:31;PC portable;Chromebook 14-15pouces
+Shanghai_MATERIEL_INFO_202609045;KeyPers_Shanghai_1230482;Name482;FistName482;2026-09-04 13:17:19;PC fixe sans ecran;ZHAN
+Shanghai_MATERIEL_INFO_202609046;KeyPers_Shanghai_1230741;Name741;FistName741;2026-09-04 16:47:50;souris;modèle par défaut
+Shanghai_MATERIEL_INFO_202609047;KeyPers_Shanghai_1230663;Name663;FistName663;2026-09-04 09:35:41; ;EliteDesk DM
+Shanghai_MATERIEL_INFO_202609048;KeyPers_Shanghai_1230100;Name100;FistName100;2026-09-04 09:02:32;PC fixe sans ecran;Prodesk (Tower, SFF)
+Shanghai_MATERIEL_INFO_202609049;KeyPers_Shanghai_1230486;Name486;FistName486;2026-09-04 12:41:21;Borne wifi;modèle par défaut
+Shanghai_MATERIEL_INFO_2026090410;KeyPers_Shanghai_1230749;Name749;FistName749;2026-09-04 13:10:57;Serveur;Serveur de stockage
+Shanghai_MATERIEL_INFO_2026090411;KeyPers_Shanghai_1230167;Name167;FistName167;2026-09-04 14:53:12; ;Moyenne 14/15pouces
+Shanghai_MATERIEL_INFO_2026090412;KeyPers_Shanghai_1230970;Name970;FistName970;2026-09-04 09:09:59; ;Chromebook 11-13pouces

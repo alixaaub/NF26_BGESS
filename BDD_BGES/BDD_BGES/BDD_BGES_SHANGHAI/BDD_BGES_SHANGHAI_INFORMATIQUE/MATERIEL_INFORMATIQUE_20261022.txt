@@ -1,0 +1,10 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202610220;KeyPers_Shanghai_1230369;Name369;FistName369;2026-10-22 12:10:32;PC fixe sans ecran;OMEN 
+Shanghai_MATERIEL_INFO_202610221;KeyPers_Shanghai_1230559;Name559;FistName559;2026-10-22 12:41:38;Ecran; 
+Shanghai_MATERIEL_INFO_202610222;KeyPers_Shanghai_1230515;Name515;FistName515;2026-10-22 09:36:36;imprimante;modèle par défaut
+Shanghai_MATERIEL_INFO_202610223;KeyPers_Shanghai_1230185;Name185;FistName185;2026-10-22 12:49:47;clavier;modèle par défaut
+Shanghai_MATERIEL_INFO_202610224;KeyPers_Shanghai_1230605;Name605;FistName605;2026-10-22 11:02:41; ;modèle par défaut
+Shanghai_MATERIEL_INFO_202610225;KeyPers_Shanghai_1230371;Name371;FistName371;2026-10-22 10:09:37;PC portable; 
+Shanghai_MATERIEL_INFO_202610226;KeyPers_Shanghai_1230557;Name557;FistName557;2026-10-22 12:32:16;PC fixe sans ecran;Prodesk (Tower, SFF)
+Shanghai_MATERIEL_INFO_202610227;KeyPers_Shanghai_1230191;Name191;FistName191;2026-10-22 14:14:49; ;Precision tower 3xxx
+Shanghai_MATERIEL_INFO_202610228;KeyPers_Shanghai_1230718;Name718;FistName718;2026-10-22 08:29:35;PC fixe tout-en-un;Optiplex All-in-One 3xxx

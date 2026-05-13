@@ -1,0 +1,6 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202607180;KeyPers_Shanghai_1230911;Name911;FistName911;2026-07-18 11:47:41; ;modèle par défaut
+Shanghai_MATERIEL_INFO_202607181;KeyPers_Shanghai_1230384;Name384;FistName384;2026-07-18 09:58:34;PC fixe sans ecran;Precision tower 7xxx
+Shanghai_MATERIEL_INFO_202607182;KeyPers_Shanghai_1230358;Name358;FistName358;2026-07-18 14:04:19;PC fixe tout-en-un;iMac 27pouces retina
+Shanghai_MATERIEL_INFO_202607183;KeyPers_Shanghai_1230053;Name53;FistName53;2026-07-18 08:57:28;PC portable;ZBook
+Shanghai_MATERIEL_INFO_202607184;KeyPers_Shanghai_1230014;Name14;FistName14;2026-07-18 08:20:24;PC portable;MacBook air pre-retina

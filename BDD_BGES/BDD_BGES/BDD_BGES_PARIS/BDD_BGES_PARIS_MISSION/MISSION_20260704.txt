@@ -1,0 +1,16 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Paris_202607040;KeyPers_Paris_1231470;Name1470;FistName1470;2026-07-04 08:05:10;Développement;Paris;France;Sidney;Australia;Avion;oui
+Paris_202607041;KeyPers_Paris_1233772;Name3772;FistName3772;2026-07-04 22:46:02;Rencontre entreprises;Paris;France;Alger;Algeria;Avion;oui
+Paris_202607042;KeyPers_Paris_1231750;Name1750;FistName1750;2026-07-04 07:31:20;Développement;Paris;France;Stockholm;Suède;Avion;oui
+Paris_202607043;KeyPers_Paris_1233255;Name3255;FistName3255;2026-07-04 06:10:58;Conférence;Paris;France;Stockholm;Suède;Avion;oui
+Paris_202607044;KeyPers_Paris_1232826;Name2826;FistName2826;2026-07-04 17:11:19;Conférence;Paris;France;Wellington;New Zealand;Avion;oui
+Paris_202607045;KeyPers_Paris_1234571;Name4571;FistName4571;2026-07-04 22:40:49;Développement;Paris;France;Oslo;Norvège;Avion;non
+Paris_202607046;KeyPers_Paris_1231956;Name1956;FistName1956;2026-07-04 08:15:53;Conférence;Paris;France;Dubaï;Emirats;Avion;oui
+Paris_202607047;KeyPers_Paris_1231519;Name1519;FistName1519;2026-07-04 09:02:42;Formation;Paris;France;Dubaï;Emirats;Avion;oui
+Paris_202607048;KeyPers_Paris_1231992;Name1992;FistName1992;2026-07-04 06:07:49;Conférence;Paris;France;Montreal;Canada;Avion;oui
+Paris_202607049;KeyPers_Paris_1234372;Name4372;FistName4372;2026-07-04 02:02:04;Rencontre entreprises;Paris;France;London;England;Avion;oui
+Paris_2026070410;KeyPers_Paris_1231489;Name1489;FistName1489;2026-07-04 07:41:18;Réunion;Paris;France;Alger;Algeria;Avion;oui
+Paris_2026070411;KeyPers_Paris_1232119;Name2119;FistName2119;2026-07-04 03:04:46;Rencontre entreprises;Paris;France;Wellington;New Zealand;Avion;oui
+Paris_2026070412;KeyPers_Paris_1234086;Name4086;FistName4086;2026-07-04 16:41:24;Rencontre entreprises;Paris;France;Lille;France;Taxi;oui
+Paris_2026070413;KeyPers_Paris_1233969;Name3969;FistName3969;2026-07-04 15:30:34;Développement;Paris;France;Berlin;Allemagne;Avion;oui
+Paris_2026070414;KeyPers_Paris_1230588;Name588;FistName588;2026-07-04 12:48:10;Conférence;Paris;France;Tunis;Tunisie;Avion;oui

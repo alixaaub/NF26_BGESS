@@ -1,0 +1,6 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Paris_202609220;KeyPers_Paris_1232285;Name2285;FistName2285;2026-09-22 03:33:11;Rencontre entreprises;Paris;France;Lima;Peru;Avion;oui
+Paris_202609221;KeyPers_Paris_1231522;Name1522;FistName1522;2026-09-22 20:51:14;Développement;Paris;France;Mexico;Mexico;Avion;non
+Paris_202609222;KeyPers_Paris_1231973;Name1973;FistName1973;2026-09-22 06:41:27;Rencontre entreprises;Paris;France;Pekin;China;Avion;oui
+Paris_202609223;KeyPers_Paris_1231700;Name1700;FistName1700;2026-09-22 20:22:05;Rencontre entreprises;Paris;France;Lima;Peru;Avion;oui
+Paris_202609224;KeyPers_Paris_1233729;Name3729;FistName3729;2026-09-22 12:30:09;Conférence;Paris;France;Montreal;Canada;Avion;oui

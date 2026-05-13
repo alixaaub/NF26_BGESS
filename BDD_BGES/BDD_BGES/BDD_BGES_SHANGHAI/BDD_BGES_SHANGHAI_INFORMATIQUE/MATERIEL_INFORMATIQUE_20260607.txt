@@ -1,0 +1,11 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202606070;KeyPers_Shanghai_1230514;Name514;FistName514;2026-06-07 12:16:28;Vidéo projecteur;Pour amphi
+Shanghai_MATERIEL_INFO_202606071;KeyPers_Shanghai_1230234;Name234;FistName234;2026-06-07 09:12:06;PC portable;Latitude 5xxx
+Shanghai_MATERIEL_INFO_202606072;KeyPers_Shanghai_1230669;Name669;FistName669;2026-06-07 08:20:39; ;Noeud de calcul
+Shanghai_MATERIEL_INFO_202606073;KeyPers_Shanghai_1230464;Name464;FistName464;2026-06-07 10:57:31;PC portable;Precision 7xxx
+Shanghai_MATERIEL_INFO_202606074;KeyPers_Shanghai_1230344;Name344;FistName344;2026-06-07 15:02:38;PC portable;MacBook air pre-retina
+Shanghai_MATERIEL_INFO_202606075;KeyPers_Shanghai_1230706;Name706;FistName706;2026-06-07 13:39:18;Disque dur;modèle par défaut
+Shanghai_MATERIEL_INFO_202606076;KeyPers_Shanghai_1230883;Name883;FistName883;2026-06-07 09:19:22;PC portable;ProBook 
+Shanghai_MATERIEL_INFO_202606077;KeyPers_Shanghai_1230093;Name93;FistName93;2026-06-07 13:39:32;Borne wifi;modèle par défaut
+Shanghai_MATERIEL_INFO_202606078;KeyPers_Shanghai_1230265;Name265;FistName265;2026-06-07 14:33:53;Ecran;jusqu'à 23pouces
+Shanghai_MATERIEL_INFO_202606079;KeyPers_Shanghai_1230990;Name990;FistName990;2026-06-07 14:08:12;clavier;modèle par défaut

@@ -1,0 +1,14 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202610240;KeyPers_Shanghai_1230338;Name338;FistName338;2026-10-24 14:35:04; ;modèle par défaut
+Shanghai_MATERIEL_INFO_202610241;KeyPers_Shanghai_1230678;Name678;FistName678;2026-10-24 11:59:57;PC fixe sans ecran;Precision tower 5xxx
+Shanghai_MATERIEL_INFO_202610242;KeyPers_Shanghai_1230725;Name725;FistName725;2026-10-24 15:02:01;Vidéo projecteur;modèle par défaut
+Shanghai_MATERIEL_INFO_202610243;KeyPers_Shanghai_1230111;Name111;FistName111;2026-10-24 14:40:58; ;MacBook air retina
+Shanghai_MATERIEL_INFO_202610244;KeyPers_Shanghai_1230751;Name751;FistName751;2026-10-24 14:30:55; ;jusqu'à 23pouces
+Shanghai_MATERIEL_INFO_202610245;KeyPers_Shanghai_1230947;Name947;FistName947;2026-10-24 13:28:07;Borne wifi;modèle par défaut
+Shanghai_MATERIEL_INFO_202610246;KeyPers_Shanghai_1230225;Name225;FistName225;2026-10-24 09:26:49;Tablette;modèle par défaut
+Shanghai_MATERIEL_INFO_202610247;KeyPers_Shanghai_1230684;Name684;FistName684;2026-10-24 10:38:32;PC fixe sans ecran;Optiplex micro
+Shanghai_MATERIEL_INFO_202610248;KeyPers_Shanghai_1230879;Name879;FistName879;2026-10-24 10:03:09;PC portable;Chromebook 11-13pouces
+Shanghai_MATERIEL_INFO_202610249;KeyPers_Shanghai_1230941;Name941;FistName941;2026-10-24 09:31:52; ;EliteBook 8xx
+Shanghai_MATERIEL_INFO_2026102410;KeyPers_Shanghai_1230178;Name178;FistName178;2026-10-24 14:26:02;PC fixe sans ecran;PC Fixe (moy)
+Shanghai_MATERIEL_INFO_2026102411;KeyPers_Shanghai_1230413;Name413;FistName413;2026-10-24 16:53:21;PC portable;ProBook 
+Shanghai_MATERIEL_INFO_2026102412;KeyPers_Shanghai_1230880;Name880;FistName880;2026-10-24 13:56:46;PC portable;Moyenne 14/15pouces

@@ -1,0 +1,11 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+NewYork_MATERIEL_INFO_202607210;KeyPers_NewYork_1230386;Name386;FistName386;2026-07-21 16:53:46;imprimante;Laser A3 (>100kg)
+NewYork_MATERIEL_INFO_202607211;KeyPers_NewYork_1232408;Name2408;FistName2408;2026-07-21 11:46:35;PC fixe sans ecran;Optiplex small
+NewYork_MATERIEL_INFO_202607212;KeyPers_NewYork_1230654;Name654;FistName654;2026-07-21 14:07:21;souris;modèle par défaut
+NewYork_MATERIEL_INFO_202607213;KeyPers_NewYork_1232090;Name2090;FistName2090;2026-07-21 10:15:53;PC portable;Latitude 7xxx
+NewYork_MATERIEL_INFO_202607214;KeyPers_NewYork_1232732;Name2732;FistName2732;2026-07-21 11:26:30;PC fixe sans ecran;modèle par défaut
+NewYork_MATERIEL_INFO_202607215;KeyPers_NewYork_1232502;Name2502;FistName2502;2026-07-21 08:52:42;Station d'accueil;modèle par défaut
+NewYork_MATERIEL_INFO_202607216;KeyPers_NewYork_1230323;Name323;FistName323;2026-07-21 10:10:25;PC fixe sans ecran; 
+NewYork_MATERIEL_INFO_202607217;KeyPers_NewYork_1231637;Name1637;FistName1637;2026-07-21 12:05:56;PC fixe tout-en-un;Optiplex All-in-One 5xxx
+NewYork_MATERIEL_INFO_202607218;KeyPers_NewYork_1232594;Name2594;FistName2594;2026-07-21 14:04:37;PC portable;Latitude 3xxx
+NewYork_MATERIEL_INFO_202607219;KeyPers_NewYork_1232790;Name2790;FistName2790;2026-07-21 16:26:53;PC fixe sans ecran;Rasberry pi 4

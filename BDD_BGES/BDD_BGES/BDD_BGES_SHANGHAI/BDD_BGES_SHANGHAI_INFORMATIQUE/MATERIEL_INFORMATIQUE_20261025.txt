@@ -1,0 +1,13 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202610250;KeyPers_Shanghai_1230541;Name541;FistName541;2026-10-25 09:12:47; ;Optiplex tower
+Shanghai_MATERIEL_INFO_202610251;KeyPers_Shanghai_1230590;Name590;FistName590;2026-10-25 12:40:55; ;modèle par défaut
+Shanghai_MATERIEL_INFO_202610252;KeyPers_Shanghai_1230911;Name911;FistName911;2026-10-25 10:11:10;PC portable;EliteBook 8xx
+Shanghai_MATERIEL_INFO_202610253;KeyPers_Shanghai_1230459;Name459;FistName459;2026-10-25 11:52:52;PC portable;Latitude 5xxx
+Shanghai_MATERIEL_INFO_202610254;KeyPers_Shanghai_1230905;Name905;FistName905;2026-10-25 11:46:23;PC fixe sans ecran;EliteDesk (Tower, SFF, One)
+Shanghai_MATERIEL_INFO_202610255;KeyPers_Shanghai_1230283;Name283;FistName283;2026-10-25 11:20:26; ;modèle par défaut
+Shanghai_MATERIEL_INFO_202610256;KeyPers_Shanghai_1230726;Name726;FistName726;2026-10-25 16:56:33; ;modèle par défaut
+Shanghai_MATERIEL_INFO_202610257;KeyPers_Shanghai_1230311;Name311;FistName311;2026-10-25 11:07:54;PC fixe sans ecran;ZHAN
+Shanghai_MATERIEL_INFO_202610258;KeyPers_Shanghai_1230936;Name936;FistName936;2026-10-25 15:24:58;PC fixe tout-en-un;Optiplex All-in-One 5xxx
+Shanghai_MATERIEL_INFO_202610259;KeyPers_Shanghai_1230367;Name367;FistName367;2026-10-25 10:24:14;PC fixe sans ecran;Optiplex small
+Shanghai_MATERIEL_INFO_2026102510;KeyPers_Shanghai_1230890;Name890;FistName890;2026-10-25 15:02:51;PC fixe sans ecran;EliteDesk DM
+Shanghai_MATERIEL_INFO_2026102511;KeyPers_Shanghai_1230565;Name565;FistName565;2026-10-25 08:03:09; ;Mac mini

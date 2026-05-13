@@ -1,0 +1,15 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+LONDON_202606250;KeyPers_London_1232249;Name2249;FistName2249;2026-06-25 22:18:31;Team Meeting;London;England;London;England;Transports en commun;oui
+LONDON_202606251;KeyPers_London_1232676;Name2676;FistName2676;2026-06-25 05:09:44;Development;London;England;Bogota;Colombia;Avion;oui
+LONDON_202606252;KeyPers_London_1231715;Name1715;FistName1715;2026-06-25 01:56:44;Conference;London;England;Alger;Algeria;Avion;non
+LONDON_202606253;KeyPers_London_1231385;Name1385;FistName1385;2026-06-25 07:08:54;Team Meeting;London;England;London;England;Transports en commun;oui
+LONDON_202606254;KeyPers_London_1232928;Name2928;FistName2928;2026-06-25 21:29:48;Conference;London;England;Mexico;Mexico;Avion;oui
+LONDON_202606255;KeyPers_London_1232254;Name2254;FistName2254;2026-06-25 16:59:26;Business Meeting;London;England;Oslo;Norvège;Avion;oui
+LONDON_202606256;KeyPers_London_1234109;Name4109;FistName4109;2026-06-25 21:12:51;Vocational Training;London;England;London;England;Transports en commun;oui
+LONDON_202606257;KeyPers_London_1233584;Name3584;FistName3584;2026-06-25 22:13:58;Development;Shanghai;China;New-York;USA;Avion;oui
+LONDON_202606258;KeyPers_London_1232900;Name2900;FistName2900;2026-06-25 13:12:51;Team Meeting;London;England;Helsinki;Finlande;Avion;oui
+LONDON_202606259;KeyPers_London_1232657;Name2657;FistName2657;2026-06-25 10:16:19;Team Meeting;London;England;Sidney;Australia;Avion;oui
+LONDON_2026062510;KeyPers_London_1231996;Name1996;FistName1996;2026-06-25 23:55:39;Business Meeting;London;England;Bordeaux;France;Avion;oui
+LONDON_2026062511;KeyPers_London_1233704;Name3704;FistName3704;2026-06-25 21:20:17;Conference;London;England;Pekin;China;Avion;oui
+LONDON_2026062512;KeyPers_London_1232598;Name2598;FistName2598;2026-06-25 14:32:38;Conference;Paris;France;New-York;USA;Avion;oui
+LONDON_2026062513;KeyPers_London_1232696;Name2696;FistName2696;2026-06-25 02:54:28;Development;London;England;Helsinki;Finlande;Avion;oui

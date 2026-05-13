@@ -1,0 +1,7 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202609160;KeyPers_Shanghai_1230964;Name964;FistName964;2026-09-16 08:38:25;PC portable;modèle par défaut
+Shanghai_MATERIEL_INFO_202609161;KeyPers_Shanghai_1230893;Name893;FistName893;2026-09-16 08:58:33;PC portable;Precision 3xxx
+Shanghai_MATERIEL_INFO_202609162;KeyPers_Shanghai_1230764;Name764;FistName764;2026-09-16 10:12:11;PC portable;Chromebook 11-13pouces
+Shanghai_MATERIEL_INFO_202609163;KeyPers_Shanghai_1230397;Name397;FistName397;2026-09-16 14:29:41;imprimante;Laser à poser (<40kg)
+Shanghai_MATERIEL_INFO_202609164;KeyPers_Shanghai_1230365;Name365;FistName365;2026-09-16 11:30:25;Vidéo projecteur;Pour amphi
+Shanghai_MATERIEL_INFO_202609165;KeyPers_Shanghai_1230640;Name640;FistName640;2026-09-16 14:34:41;Telephone IP;modèle par défaut

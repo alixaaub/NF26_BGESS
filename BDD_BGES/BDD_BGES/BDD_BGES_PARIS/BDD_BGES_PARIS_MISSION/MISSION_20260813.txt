@@ -1,0 +1,16 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Paris_202608130;KeyPers_Paris_1232140;Name2140;FistName2140;2026-08-13 07:46:39;Réunion;Paris;France;Los Angeles;USA;Avion;oui
+Paris_202608131;KeyPers_Paris_1231966;Name1966;FistName1966;2026-08-13 22:09:41;Développement;New-York;USA;Stockholm;Suède;Avion;oui
+Paris_202608132;KeyPers_Paris_1234904;Name4904;FistName4904;2026-08-13 08:58:42;Conférence;Paris;France;Pekin;China;Avion;oui
+Paris_202608133;KeyPers_Paris_1232488;Name2488;FistName2488;2026-08-13 04:32:44;Formation;Paris;France;Sao Paulo;Brazil;Avion;oui
+Paris_202608134;KeyPers_Paris_1230067;Name67;FistName67;2026-08-13 09:12:46;Réunion;Paris;France;Stockholm;Suède;Avion;non
+Paris_202608135;KeyPers_Paris_1231038;Name1038;FistName1038;2026-08-13 12:03:45;Développement;Paris;France;Washington;USA;Avion;oui
+Paris_202608136;KeyPers_Paris_1231572;Name1572;FistName1572;2026-08-13 04:15:24;Rencontre entreprises;Paris;France;Montreal;Canada;Avion;non
+Paris_202608137;KeyPers_Paris_1231211;Name1211;FistName1211;2026-08-13 12:54:21;Formation;Paris;France;New-York;USA;Avion;oui
+Paris_202608138;KeyPers_Paris_1231110;Name1110;FistName1110;2026-08-13 16:57:05;Rencontre entreprises;Paris;France;Lille;France;Avion;oui
+Paris_202608139;KeyPers_Paris_1230270;Name270;FistName270;2026-08-13 12:08:37;Rencontre entreprises;Paris;France;Compiègne;France;Train;oui
+Paris_2026081310;KeyPers_Paris_1230859;Name859;FistName859;2026-08-13 15:08:34;Rencontre entreprises;Paris;France;Alger;Algeria;Avion;oui
+Paris_2026081311;KeyPers_Paris_1232228;Name2228;FistName2228;2026-08-13 21:36:08;Rencontre entreprises;Paris;France;New-York;USA;Avion;oui
+Paris_2026081312;KeyPers_Paris_1231628;Name1628;FistName1628;2026-08-13 18:15:22;Formation;Paris;France;Bogota;Colombia;Avion;oui
+Paris_2026081313;KeyPers_Paris_1230382;Name382;FistName382;2026-08-13 16:39:02;Réunion;Paris;France;London;England;Avion;oui
+Paris_2026081314;KeyPers_Paris_1234294;Name4294;FistName4294;2026-08-13 20:21:16;Développement;Paris;France;Stockholm;Suède;Avion;oui

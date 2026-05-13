@@ -1,0 +1,9 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202607310;KeyPers_Shanghai_1230869;Name869;FistName869;2026-07-31 15:48:01;PC fixe sans ecran;ProDesk mini/DM
+Shanghai_MATERIEL_INFO_202607311;KeyPers_Shanghai_1230965;Name965;FistName965;2026-07-31 08:48:13; ;Wyse thin client
+Shanghai_MATERIEL_INFO_202607312;KeyPers_Shanghai_1230772;Name772;FistName772;2026-07-31 09:54:39;PC fixe sans ecran; 
+Shanghai_MATERIEL_INFO_202607313;KeyPers_Shanghai_1230588;Name588;FistName588;2026-07-31 15:27:54; ;iMac 27pouces retina
+Shanghai_MATERIEL_INFO_202607314;KeyPers_Shanghai_1230735;Name735;FistName735;2026-07-31 16:20:30;PC fixe sans ecran;PC Fixe (moy)
+Shanghai_MATERIEL_INFO_202607315;KeyPers_Shanghai_1230031;Name31;FistName31;2026-07-31 10:48:16;souris;modèle par défaut
+Shanghai_MATERIEL_INFO_202607316;KeyPers_Shanghai_1230942;Name942;FistName942;2026-07-31 12:50:38;Serveur;Serveur de stockage
+Shanghai_MATERIEL_INFO_202607317;KeyPers_Shanghai_1230425;Name425;FistName425;2026-07-31 10:56:14; ;Laser A3 (40-99kg)

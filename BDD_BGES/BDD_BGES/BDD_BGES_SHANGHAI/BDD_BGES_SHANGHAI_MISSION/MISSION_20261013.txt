@@ -1,0 +1,16 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Shanghai_202610130;KeyPers_Shanghai_1230901;Name901;FistName901;2026-10-13 17:03:43;Development;Shanghai;China;Osaka;Japan;Avion;oui
+Shanghai_202610131;KeyPers_Shanghai_1230933;Name933;FistName933;2026-10-13 02:45:21;Conference;Shanghai;China;Shanghai;China;Transports en commun;oui
+Shanghai_202610132;KeyPers_Shanghai_1230539;Name539;FistName539;2026-10-13 01:14:46;Vocational Training;Shanghai;China;Berlin;Allemagne;Avion;oui
+Shanghai_202610133;KeyPers_Shanghai_1230945;Name945;FistName945;2026-10-13 04:41:01;Vocational Training;Shanghai;China;Berlin;Allemagne;Avion;oui
+Shanghai_202610134;KeyPers_Shanghai_1230658;Name658;FistName658;2026-10-13 05:45:18;Business Meeting;Paris;France;Berlin;Allemagne;Avion;oui
+Shanghai_202610135;KeyPers_Shanghai_1230667;Name667;FistName667;2026-10-13 16:30:45;Team Meeting;Shanghai;China;Vancouver;Canada;Avion;oui
+Shanghai_202610136;KeyPers_Shanghai_1230094;Name94;FistName94;2026-10-13 08:54:58;Team Meeting;Shanghai;China;Sidney;Australia;Avion;oui
+Shanghai_202610137;KeyPers_Shanghai_1230441;Name441;FistName441;2026-10-13 13:41:48;Vocational Training;Shanghai;China;Tunis;Tunisie;Avion;oui
+Shanghai_202610138;KeyPers_Shanghai_1230993;Name993;FistName993;2026-10-13 17:19:39;Development;Shanghai;China;Lille;France;Avion;oui
+Shanghai_202610139;KeyPers_Shanghai_1230040;Name40;FistName40;2026-10-13 12:53:47;Vocational Training;Shanghai;China;New-York;USA;Avion;oui
+Shanghai_2026101310;KeyPers_Shanghai_1230204;Name204;FistName204;2026-10-13 09:18:55;Team Meeting;Shanghai;China;Auckland;New Zealand;Avion;non
+Shanghai_2026101311;KeyPers_Shanghai_1230068;Name68;FistName68;2026-10-13 20:33:18;Vocational Training;Shanghai;China;Shanghai;China;Transports en commun;oui
+Shanghai_2026101312;KeyPers_Shanghai_1230977;Name977;FistName977;2026-10-13 16:15:51;Conference;Shanghai;China;Washington;USA;Avion;oui
+Shanghai_2026101313;KeyPers_Shanghai_1230079;Name79;FistName79;2026-10-13 21:07:04;Development;Shanghai;China;Stockholm;Suède;Avion;oui
+Shanghai_2026101314;KeyPers_Shanghai_1230630;Name630;FistName630;2026-10-13 17:44:10;Team Meeting;Shanghai;China;Pekin;China;Train;oui

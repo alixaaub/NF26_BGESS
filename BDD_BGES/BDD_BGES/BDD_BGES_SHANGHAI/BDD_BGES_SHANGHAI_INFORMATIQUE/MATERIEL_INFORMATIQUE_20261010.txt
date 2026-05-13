@@ -1,0 +1,14 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202610100;KeyPers_Shanghai_1230591;Name591;FistName591;2026-10-10 12:30:32; ;Rasberry pi 4
+Shanghai_MATERIEL_INFO_202610101;KeyPers_Shanghai_1230842;Name842;FistName842;2026-10-10 09:15:22;PC portable;Precision 5xxx
+Shanghai_MATERIEL_INFO_202610102;KeyPers_Shanghai_1230497;Name497;FistName497;2026-10-10 16:33:34;PC fixe tout-en-un; 
+Shanghai_MATERIEL_INFO_202610103;KeyPers_Shanghai_1230464;Name464;FistName464;2026-10-10 08:33:20;PC portable;MacBook air pre-retina
+Shanghai_MATERIEL_INFO_202610104;KeyPers_Shanghai_1230341;Name341;FistName341;2026-10-10 10:31:34;Serveur;Serveur de stockage
+Shanghai_MATERIEL_INFO_202610105;KeyPers_Shanghai_1230444;Name444;FistName444;2026-10-10 16:17:39; ;Laser A3 (>100kg)
+Shanghai_MATERIEL_INFO_202610106;KeyPers_Shanghai_1230012;Name12;FistName12;2026-10-10 09:35:48;PC portable;Victus
+Shanghai_MATERIEL_INFO_202610107;KeyPers_Shanghai_1230582;Name582;FistName582;2026-10-10 16:42:21;PC fixe sans ecran;Precision tower 5xxx
+Shanghai_MATERIEL_INFO_202610108;KeyPers_Shanghai_1230683;Name683;FistName683;2026-10-10 13:20:14;PC fixe sans ecran;Wyse thin client
+Shanghai_MATERIEL_INFO_202610109;KeyPers_Shanghai_1230897;Name897;FistName897;2026-10-10 09:40:40; ;modèle par défaut
+Shanghai_MATERIEL_INFO_2026101010;KeyPers_Shanghai_1230932;Name932;FistName932;2026-10-10 16:53:55;PC portable;Chromebook 11-13pouces
+Shanghai_MATERIEL_INFO_2026101011;KeyPers_Shanghai_1230953;Name953;FistName953;2026-10-10 11:47:35;PC portable;Latitude 5xxx
+Shanghai_MATERIEL_INFO_2026101012;KeyPers_Shanghai_1230478;Name478;FistName478;2026-10-10 11:47:55; ;MacBook air retina

@@ -1,0 +1,12 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202605120;KeyPers_Shanghai_1230914;Name914;FistName914;2026-05-12 15:24:26; ;Transportable
+Shanghai_MATERIEL_INFO_202605121;KeyPers_Shanghai_1230279;Name279;FistName279;2026-05-12 08:55:16;PC portable;Moyenne 14/15pouces
+Shanghai_MATERIEL_INFO_202605122;KeyPers_Shanghai_1230391;Name391;FistName391;2026-05-12 09:30:20;Vidéo projecteur;Pour amphi
+Shanghai_MATERIEL_INFO_202605123;KeyPers_Shanghai_1230764;Name764;FistName764;2026-05-12 10:39:51;PC fixe sans ecran;Elite mini
+Shanghai_MATERIEL_INFO_202605124;KeyPers_Shanghai_1230963;Name963;FistName963;2026-05-12 09:52:51; ;Noeud de calcul
+Shanghai_MATERIEL_INFO_202605125;KeyPers_Shanghai_1230149;Name149;FistName149;2026-05-12 10:55:21;PC fixe sans ecran;Precision tower 5xxx
+Shanghai_MATERIEL_INFO_202605126;KeyPers_Shanghai_1230131;Name131;FistName131;2026-05-12 13:36:16; ;modèle par défaut
+Shanghai_MATERIEL_INFO_202605127;KeyPers_Shanghai_1230578;Name578;FistName578;2026-05-12 16:53:30;PC fixe sans ecran;Optiplex micro
+Shanghai_MATERIEL_INFO_202605128;KeyPers_Shanghai_1230058;Name58;FistName58;2026-05-12 15:53:37; ;Mac mini
+Shanghai_MATERIEL_INFO_202605129;KeyPers_Shanghai_1230367;Name367;FistName367;2026-05-12 14:50:03;PC portable;Latitude 7xxx
+Shanghai_MATERIEL_INFO_2026051210;KeyPers_Shanghai_1230928;Name928;FistName928;2026-05-12 13:13:04;PC fixe sans ecran;Precision tower 3xxx

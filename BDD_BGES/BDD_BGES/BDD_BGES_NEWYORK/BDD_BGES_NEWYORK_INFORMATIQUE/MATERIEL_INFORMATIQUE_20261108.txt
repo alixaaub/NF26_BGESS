@@ -1,0 +1,15 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+NewYork_MATERIEL_INFO_202611080;KeyPers_NewYork_1233023;Name3023;FistName3023;2026-11-08 15:53:11;PC portable;Moyenne 17pouces
+NewYork_MATERIEL_INFO_202611081;KeyPers_NewYork_1232631;Name2631;FistName2631;2026-11-08 09:32:57;Tablette;modèle par défaut
+NewYork_MATERIEL_INFO_202611082;KeyPers_NewYork_1231660;Name1660;FistName1660;2026-11-08 14:40:51; ;modèle par défaut
+NewYork_MATERIEL_INFO_202611083;KeyPers_NewYork_1230805;Name805;FistName805;2026-11-08 09:56:04;Serveur; 
+NewYork_MATERIEL_INFO_202611084;KeyPers_NewYork_1231198;Name1198;FistName1198;2026-11-08 08:09:56;PC fixe sans ecran;Mac pro
+NewYork_MATERIEL_INFO_202611085;KeyPers_NewYork_1230572;Name572;FistName572;2026-11-08 13:06:12;PC portable;Chromebook 11-13pouces
+NewYork_MATERIEL_INFO_202611086;KeyPers_NewYork_1232382;Name2382;FistName2382;2026-11-08 08:49:07;Smartphone;modèle par défaut
+NewYork_MATERIEL_INFO_202611087;KeyPers_NewYork_1230967;Name967;FistName967;2026-11-08 08:37:45; ;modèle par défaut
+NewYork_MATERIEL_INFO_202611088;KeyPers_NewYork_1231693;Name1693;FistName1693;2026-11-08 11:13:15;PC portable;Latitude 5xxx
+NewYork_MATERIEL_INFO_202611089;KeyPers_NewYork_1230748;Name748;FistName748;2026-11-08 13:05:11; ;Optiplex tower
+NewYork_MATERIEL_INFO_2026110810;KeyPers_NewYork_1231264;Name1264;FistName1264;2026-11-08 09:20:23;Vidéo projecteur;modèle par défaut
+NewYork_MATERIEL_INFO_2026110811;KeyPers_NewYork_1230133;Name133;FistName133;2026-11-08 13:09:17;PC fixe sans ecran;Optiplex micro
+NewYork_MATERIEL_INFO_2026110812;KeyPers_NewYork_1232269;Name2269;FistName2269;2026-11-08 09:21:59;PC fixe sans ecran;Prodesk (Tower, SFF)
+NewYork_MATERIEL_INFO_2026110813;KeyPers_NewYork_1230130;Name130;FistName130;2026-11-08 09:04:31;PC fixe tout-en-un;Optiplex All-in-One 7xxx

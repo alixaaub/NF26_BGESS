@@ -1,0 +1,30 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+LONDON_202607150;KeyPers_London_1230751;Name751;FistName751;2026-07-15 22:43:05;Conference;London;England;Lille;France;Avion;oui
+LONDON_202607151;KeyPers_London_1232654;Name2654;FistName2654;2026-07-15 16:33:13;Team Meeting;London;England;Vancouver;Canada;Avion;oui
+LONDON_202607152;KeyPers_London_1230942;Name942;FistName942;2026-07-15 14:16:36;Vocational Training;London;England;Washington;USA;Avion;oui
+LONDON_202607153;KeyPers_London_1231644;Name1644;FistName1644;2026-07-15 22:22:12;Vocational Training;London;England;Sao Paulo;Brazil;Avion;oui
+LONDON_202607154;KeyPers_London_1233424;Name3424;FistName3424;2026-07-15 07:26:40;Development;London;England;Lille;France;Avion;non
+LONDON_202607155;KeyPers_London_1232626;Name2626;FistName2626;2026-07-15 14:29:55;Vocational Training;New-York;USA;Rio de Janeiro;Brazil;Avion;oui
+LONDON_202607156;KeyPers_London_1230661;Name661;FistName661;2026-07-15 07:11:43;Vocational Training;London;England;Mexico;Mexico;Avion;non
+LONDON_202607157;KeyPers_London_1231119;Name1119;FistName1119;2026-07-15 08:22:45;Business Meeting;London;England;Osaka;Japan;Avion;oui
+LONDON_202607158;KeyPers_London_1233966;Name3966;FistName3966;2026-07-15 12:32:36;Development;London;England;Bordeaux;France;Avion;oui
+LONDON_202607159;KeyPers_London_1232397;Name2397;FistName2397;2026-07-15 10:56:49;Development;London;England;Helsinki;Finlande;Avion;oui
+LONDON_2026071510;KeyPers_London_1232730;Name2730;FistName2730;2026-07-15 22:04:18;Team Meeting;London;England;Lille;France;Avion;oui
+LONDON_2026071511;KeyPers_London_1231306;Name1306;FistName1306;2026-07-15 02:38:38;Team Meeting;Shanghai;China;Stockholm;Suède;Avion;oui
+LONDON_2026071512;KeyPers_London_1232817;Name2817;FistName2817;2026-07-15 08:03:58;Conference;London;England;Wellington;New Zealand;Avion;oui
+LONDON_2026071513;KeyPers_London_1231896;Name1896;FistName1896;2026-07-15 18:13:17;Conference;London;England;Montreal;Canada;Avion;oui
+LONDON_2026071514;KeyPers_London_1231378;Name1378;FistName1378;2026-07-15 18:58:55;Team Meeting;London;England;Rabat;Maroc;Avion;oui
+LONDON_2026071515;KeyPers_London_1232324;Name2324;FistName2324;2026-07-15 21:28:53;Conference;London;England;Wellington;New Zealand;Avion;oui
+LONDON_2026071516;KeyPers_London_1231920;Name1920;FistName1920;2026-07-15 03:33:47;Development;London;England;London;England;Taxi;oui
+LONDON_2026071517;KeyPers_London_1230610;Name610;FistName610;2026-07-15 12:40:17;Team Meeting;London;England;Lille;France;Avion;oui
+LONDON_2026071518;KeyPers_London_1230323;Name323;FistName323;2026-07-15 04:20:38;Development;London;England;Montreal;Canada;Avion;non
+LONDON_2026071519;KeyPers_London_1231181;Name1181;FistName1181;2026-07-15 02:54:29;Vocational Training;London;England;Dubaï;Emirats;Avion;oui
+LONDON_2026071520;KeyPers_London_1230703;Name703;FistName703;2026-07-15 17:33:32;Team Meeting;London;England;Rio de Janeiro;Brazil;Avion;oui
+LONDON_2026071521;KeyPers_London_1231680;Name1680;FistName1680;2026-07-15 01:10:39;Development;London;England;Vancouver;Canada;Avion;oui
+LONDON_2026071522;KeyPers_London_1233090;Name3090;FistName3090;2026-07-15 06:26:28;Conference;London;England;Mexico;Mexico;Avion;oui
+LONDON_2026071523;KeyPers_London_1232084;Name2084;FistName2084;2026-07-15 06:45:32;Conference;New-York;USA;London;England;Avion;oui
+LONDON_2026071524;KeyPers_London_1234047;Name4047;FistName4047;2026-07-15 13:47:03;Conference;London;England;Montreal;Canada;Avion;oui
+LONDON_2026071525;KeyPers_London_1231612;Name1612;FistName1612;2026-07-15 07:24:51;Development;London;England;New-York;USA;Avion;oui
+LONDON_2026071526;KeyPers_London_1233810;Name3810;FistName3810;2026-07-15 18:33:59;Development;London;England;Shanghai;China;Avion;oui
+LONDON_2026071527;KeyPers_London_1231189;Name1189;FistName1189;2026-07-15 01:42:26;Vocational Training;London;England;Pekin;China;Avion;oui
+LONDON_2026071528;KeyPers_London_1233846;Name3846;FistName3846;2026-07-15 09:42:18;Conference;London;England;Montreal;Canada;Avion;oui

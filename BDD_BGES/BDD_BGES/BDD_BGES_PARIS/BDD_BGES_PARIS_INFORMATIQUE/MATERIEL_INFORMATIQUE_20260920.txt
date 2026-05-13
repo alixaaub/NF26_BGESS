@@ -1,0 +1,14 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Paris_MATERIEL_INFO_202609200;KeyPers_Paris_1234489;Name4489;FistName4489;2026-09-20 14:11:03;PC fixe sans ecran;Precision tower 7xxx
+Paris_MATERIEL_INFO_202609201;KeyPers_Paris_1232070;Name2070;FistName2070;2026-09-20 08:43:11;Serveur;Serveur de stockage
+Paris_MATERIEL_INFO_202609202;KeyPers_Paris_1232442;Name2442;FistName2442;2026-09-20 10:02:12;PC fixe sans ecran;Precision tower 7xxx
+Paris_MATERIEL_INFO_202609203;KeyPers_Paris_1231509;Name1509;FistName1509;2026-09-20 12:45:22;PC fixe sans ecran;Wyse thin client
+Paris_MATERIEL_INFO_202609204;KeyPers_Paris_1230558;Name558;FistName558;2026-09-20 14:56:09; ;modèle par défaut
+Paris_MATERIEL_INFO_202609205;KeyPers_Paris_1231047;Name1047;FistName1047;2026-09-20 16:57:50;PC fixe sans ecran;ProDesk mini/DM
+Paris_MATERIEL_INFO_202609206;KeyPers_Paris_1232290;Name2290;FistName2290;2026-09-20 11:18:30; ;iMac 21pouces
+Paris_MATERIEL_INFO_202609207;KeyPers_Paris_1233660;Name3660;FistName3660;2026-09-20 15:12:04;imprimante;Laser à poser (<40kg)
+Paris_MATERIEL_INFO_202609208;KeyPers_Paris_1231342;Name1342;FistName1342;2026-09-20 08:52:05;PC portable;Latitude 7xxx
+Paris_MATERIEL_INFO_202609209;KeyPers_Paris_1230648;Name648;FistName648;2026-09-20 10:01:33; ;32pouces et plus
+Paris_MATERIEL_INFO_2026092010;KeyPers_Paris_1232594;Name2594;FistName2594;2026-09-20 12:57:03;PC portable;MacBook air pre-retina
+Paris_MATERIEL_INFO_2026092011;KeyPers_Paris_1231458;Name1458;FistName1458;2026-09-20 10:53:41;PC portable;Precision 3xxx
+Paris_MATERIEL_INFO_2026092012;KeyPers_Paris_1233791;Name3791;FistName3791;2026-09-20 13:12:06;PC fixe sans ecran;Optiplex tower

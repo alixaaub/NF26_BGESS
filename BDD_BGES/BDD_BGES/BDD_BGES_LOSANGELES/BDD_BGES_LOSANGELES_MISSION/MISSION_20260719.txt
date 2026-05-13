@@ -1,0 +1,31 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+LA_202607190;KeyPers_LA_1230357;Name357;FistName357;2026-07-19 23:23:02;Conference;Los Angeles;USA;Wellington;New Zealand;Avion;oui
+LA_202607191;KeyPers_LA_1231043;Name1043;FistName1043;2026-07-19 15:19:54;Conference;Los Angeles;USA;Osaka;Japan;Avion;oui
+LA_202607192;KeyPers_LA_1231393;Name1393;FistName1393;2026-07-19 16:29:04;Conference;Los Angeles;USA;Auckland;New Zealand;Avion;oui
+LA_202607193;KeyPers_LA_1231977;Name1977;FistName1977;2026-07-19 04:19:12;Development;Los Angeles;USA;Rio de Janeiro;Brazil;Avion;non
+LA_202607194;KeyPers_LA_1231305;Name1305;FistName1305;2026-07-19 12:27:16;Team Meeting;Los Angeles;USA;Stockholm;Suède;Avion;oui
+LA_202607195;KeyPers_LA_1230818;Name818;FistName818;2026-07-19 20:44:41;Business Meeting;Los Angeles;USA;Lille;France;Avion;oui
+LA_202607196;KeyPers_LA_1231108;Name1108;FistName1108;2026-07-19 15:26:48;Vocational Training;Los Angeles;USA;Pekin;China;Avion;oui
+LA_202607197;KeyPers_LA_1232388;Name2388;FistName2388;2026-07-19 17:18:57;Business Meeting;Los Angeles;USA;Rio de Janeiro;Brazil;Avion;oui
+LA_202607198;KeyPers_LA_1232964;Name2964;FistName2964;2026-07-19 17:12:22;Business Meeting;Los Angeles;USA;Rabat;Maroc;Avion;oui
+LA_202607199;KeyPers_LA_1230445;Name445;FistName445;2026-07-19 14:31:51;Vocational Training;Los Angeles;USA;Tunis;Tunisie;Avion;oui
+LA_2026071910;KeyPers_LA_1230254;Name254;FistName254;2026-07-19 05:10:02;Development;Los Angeles;USA;Osaka;Japan;Avion;oui
+LA_2026071911;KeyPers_LA_1231347;Name1347;FistName1347;2026-07-19 10:08:08;Development;Los Angeles;USA;Bordeaux;France;Avion;oui
+LA_2026071912;KeyPers_LA_1231738;Name1738;FistName1738;2026-07-19 17:51:41;Vocational Training;Los Angeles;USA;Berlin;Allemagne;Avion;oui
+LA_2026071913;KeyPers_LA_1232979;Name2979;FistName2979;2026-07-19 18:24:51;Vocational Training;Los Angeles;USA;Berlin;Allemagne;Avion;oui
+LA_2026071914;KeyPers_LA_1231344;Name1344;FistName1344;2026-07-19 03:15:48;Business Meeting;Los Angeles;USA;Stockholm;Suède;Avion;oui
+LA_2026071915;KeyPers_LA_1230215;Name215;FistName215;2026-07-19 06:53:52;Vocational Training;Los Angeles;USA;London;England;Avion;oui
+LA_2026071916;KeyPers_LA_1232591;Name2591;FistName2591;2026-07-19 17:50:44;Development;Los Angeles;USA;Auckland;New Zealand;Avion;oui
+LA_2026071917;KeyPers_LA_1230641;Name641;FistName641;2026-07-19 21:01:51;Team Meeting;Los Angeles;USA;Vancouver;Canada;Avion;oui
+LA_2026071918;KeyPers_LA_1232064;Name2064;FistName2064;2026-07-19 20:42:49;Development;Los Angeles;USA;Marseille;France;Avion;oui
+LA_2026071919;KeyPers_LA_1232866;Name2866;FistName2866;2026-07-19 16:11:36;Development;Los Angeles;USA;Stockholm;Suède;Avion;oui
+LA_2026071920;KeyPers_LA_1231145;Name1145;FistName1145;2026-07-19 07:36:14;Team Meeting;Los Angeles;USA;Stockholm;Suède;Avion;oui
+LA_2026071921;KeyPers_LA_1231069;Name1069;FistName1069;2026-07-19 04:22:41;Development;New-York;USA;Marseille;France;Avion;oui
+LA_2026071922;KeyPers_LA_1232376;Name2376;FistName2376;2026-07-19 20:44:32;Vocational Training;Los Angeles;USA;Bogota;Colombia;Avion;oui
+LA_2026071923;KeyPers_LA_1230971;Name971;FistName971;2026-07-19 18:33:58;Development;Los Angeles;USA;London;England;Avion;oui
+LA_2026071924;KeyPers_LA_1232935;Name2935;FistName2935;2026-07-19 21:16:29;Development;Los Angeles;USA;Rabat;Maroc;Avion;oui
+LA_2026071925;KeyPers_LA_1232523;Name2523;FistName2523;2026-07-19 11:34:42;Business Meeting;Paris;France;Alger;Algeria;Avion;oui
+LA_2026071926;KeyPers_LA_1231048;Name1048;FistName1048;2026-07-19 06:39:59;Business Meeting;Los Angeles;USA;Alger;Algeria;Avion;oui
+LA_2026071927;KeyPers_LA_1230221;Name221;FistName221;2026-07-19 09:58:10;Vocational Training;Los Angeles;USA;Rabat;Maroc;Avion;oui
+LA_2026071928;KeyPers_LA_1231486;Name1486;FistName1486;2026-07-19 18:24:33;Vocational Training;Los Angeles;USA;Wellington;New Zealand;Avion;oui
+LA_2026071929;KeyPers_LA_1230853;Name853;FistName853;2026-07-19 04:59:19;Development;Los Angeles;USA;Shanghai;China;Avion;oui

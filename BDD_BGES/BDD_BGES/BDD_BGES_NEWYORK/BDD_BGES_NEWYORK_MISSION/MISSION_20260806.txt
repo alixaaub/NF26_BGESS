@@ -1,0 +1,9 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+NewYork_202608060;KeyPers_NewYork_1232287;Name2287;FistName2287;2026-08-06 10:02:10;Conference;New-York;USA;Lille;France;Avion;oui
+NewYork_202608061;KeyPers_NewYork_1231894;Name1894;FistName1894;2026-08-06 13:35:50;Vocational Training;New-York;USA;Rabat;Maroc;Avion;oui
+NewYork_202608062;KeyPers_NewYork_1232619;Name2619;FistName2619;2026-08-06 04:46:56;Business Meeting;New-York;USA;Bogota;Colombia;Avion;non
+NewYork_202608063;KeyPers_NewYork_1231412;Name1412;FistName1412;2026-08-06 15:57:07;Development;New-York;USA;Tunis;Tunisie;Avion;oui
+NewYork_202608064;KeyPers_NewYork_1232679;Name2679;FistName2679;2026-08-06 05:51:09;Business Meeting;New-York;USA;Stockholm;Suède;Avion;oui
+NewYork_202608065;KeyPers_NewYork_1231595;Name1595;FistName1595;2026-08-06 11:59:08;Vocational Training;New-York;USA;Berlin;Allemagne;Avion;oui
+NewYork_202608066;KeyPers_NewYork_1231477;Name1477;FistName1477;2026-08-06 04:48:38;Team Meeting;Shanghai;China;Helsinki;Finlande;Avion;oui
+NewYork_202608067;KeyPers_NewYork_1231889;Name1889;FistName1889;2026-08-06 09:46:01;Conference;New-York;USA;Alger;Algeria;Avion;oui

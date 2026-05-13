@@ -1,0 +1,11 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+NewYork_202607300;KeyPers_NewYork_1230059;Name59;FistName59;2026-07-30 19:40:45;Team Meeting;New-York;USA;Mexico;Mexico;Avion;oui
+NewYork_202607301;KeyPers_NewYork_1232674;Name2674;FistName2674;2026-07-30 07:07:34;Business Meeting;New-York;USA;Washington;USA;Taxi;oui
+NewYork_202607302;KeyPers_NewYork_1231640;Name1640;FistName1640;2026-07-30 18:02:58;Business Meeting;New-York;USA;Melbourne;Australia;Avion;oui
+NewYork_202607303;KeyPers_NewYork_1231711;Name1711;FistName1711;2026-07-30 12:30:34;Conference;New-York;USA;Melbourne;Australia;Avion;oui
+NewYork_202607304;KeyPers_NewYork_1231076;Name1076;FistName1076;2026-07-30 09:56:02;Vocational Training;New-York;USA;Vancouver;Canada;Avion;oui
+NewYork_202607305;KeyPers_NewYork_1233046;Name3046;FistName3046;2026-07-30 07:41:14;Conference;New-York;USA;Mexico;Mexico;Avion;oui
+NewYork_202607306;KeyPers_NewYork_1230860;Name860;FistName860;2026-07-30 14:59:59;Conference;New-York;USA;Tokyo;Japan;Avion;oui
+NewYork_202607307;KeyPers_NewYork_1230914;Name914;FistName914;2026-07-30 16:29:39;Conference;New-York;USA;Washington;USA;Taxi;oui
+NewYork_202607308;KeyPers_NewYork_1230764;Name764;FistName764;2026-07-30 09:34:53;Development;Paris;France;Osaka;Japan;Avion;oui
+NewYork_202607309;KeyPers_NewYork_1232330;Name2330;FistName2330;2026-07-30 16:21:53;Vocational Training;New-York;USA;Dubaï;Emirats;Avion;oui

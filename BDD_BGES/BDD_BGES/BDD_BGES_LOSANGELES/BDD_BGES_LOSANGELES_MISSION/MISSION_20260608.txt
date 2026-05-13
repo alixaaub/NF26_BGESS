@@ -1,0 +1,34 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+LA_202606080;KeyPers_LA_1230929;Name929;FistName929;2026-06-08 02:30:56;Development;Los Angeles;USA;Los Angeles;USA;Transports en commun;oui
+LA_202606081;KeyPers_LA_1231236;Name1236;FistName1236;2026-06-08 20:36:41;Business Meeting;Los Angeles;USA;Vancouver;Canada;Avion;oui
+LA_202606082;KeyPers_LA_1230058;Name58;FistName58;2026-06-08 09:37:03;Team Meeting;Los Angeles;USA;Washington;USA;Taxi;oui
+LA_202606083;KeyPers_LA_1232681;Name2681;FistName2681;2026-06-08 08:59:42;Business Meeting;Los Angeles;USA;Helsinki;Finlande;Avion;oui
+LA_202606084;KeyPers_LA_1231573;Name1573;FistName1573;2026-06-08 16:42:39;Conference;Los Angeles;USA;London;England;Avion;non
+LA_202606085;KeyPers_LA_1232778;Name2778;FistName2778;2026-06-08 07:51:08;Development;Los Angeles;USA;Rio de Janeiro;Brazil;Avion;oui
+LA_202606086;KeyPers_LA_1232868;Name2868;FistName2868;2026-06-08 01:07:54;Conference;Los Angeles;USA;New-York;USA;Train;oui
+LA_202606087;KeyPers_LA_1230323;Name323;FistName323;2026-06-08 19:59:04;Business Meeting;Los Angeles;USA;Marseille;France;Avion;oui
+LA_202606088;KeyPers_LA_1232986;Name2986;FistName2986;2026-06-08 12:35:13;Business Meeting;Paris;France;Rabat;Maroc;Avion;oui
+LA_202606089;KeyPers_LA_1230044;Name44;FistName44;2026-06-08 23:04:41;Development;Los Angeles;USA;Osaka;Japan;Avion;oui
+LA_2026060810;KeyPers_LA_1231759;Name1759;FistName1759;2026-06-08 02:37:07;Business Meeting;Los Angeles;USA;Shanghai;China;Avion;oui
+LA_2026060811;KeyPers_LA_1232004;Name2004;FistName2004;2026-06-08 09:54:15;Vocational Training;Los Angeles;USA;Helsinki;Finlande;Avion;oui
+LA_2026060812;KeyPers_LA_1232774;Name2774;FistName2774;2026-06-08 18:46:38;Conference;Los Angeles;USA;Montreal;Canada;Avion;oui
+LA_2026060813;KeyPers_LA_1232480;Name2480;FistName2480;2026-06-08 09:47:57;Conference;Los Angeles;USA;Lima;Peru;Avion;oui
+LA_2026060814;KeyPers_LA_1230782;Name782;FistName782;2026-06-08 19:59:54;Conference;Los Angeles;USA;Shanghai;China;Avion;oui
+LA_2026060815;KeyPers_LA_1232805;Name2805;FistName2805;2026-06-08 20:54:22;Business Meeting;Los Angeles;USA;Wellington;New Zealand;Avion;oui
+LA_2026060816;KeyPers_LA_1232425;Name2425;FistName2425;2026-06-08 07:28:58;Vocational Training;Los Angeles;USA;Marseille;France;Avion;oui
+LA_2026060817;KeyPers_LA_1232421;Name2421;FistName2421;2026-06-08 01:58:26;Development;Los Angeles;USA;London;England;Avion;oui
+LA_2026060818;KeyPers_LA_1230175;Name175;FistName175;2026-06-08 05:17:41;Business Meeting;Los Angeles;USA;Melbourne;Australia;Avion;oui
+LA_2026060819;KeyPers_LA_1230115;Name115;FistName115;2026-06-08 05:33:42;Conference;Los Angeles;USA;Compiègne;France;Avion;oui
+LA_2026060820;KeyPers_LA_1230075;Name75;FistName75;2026-06-08 10:20:58;Development;Los Angeles;USA;London;England;Avion;oui
+LA_2026060821;KeyPers_LA_1231778;Name1778;FistName1778;2026-06-08 14:59:41;Development;Los Angeles;USA;Bordeaux;France;Avion;oui
+LA_2026060822;KeyPers_LA_1231316;Name1316;FistName1316;2026-06-08 23:48:29;Development;Los Angeles;USA;New-York;USA;Train;oui
+LA_2026060823;KeyPers_LA_1231402;Name1402;FistName1402;2026-06-08 10:13:45;Business Meeting;Los Angeles;USA;Sidney;Australia;Avion;non
+LA_2026060824;KeyPers_LA_1231996;Name1996;FistName1996;2026-06-08 09:13:52;Team Meeting;Los Angeles;USA;Buenos Aires;Argentina;Avion;oui
+LA_2026060825;KeyPers_LA_1231492;Name1492;FistName1492;2026-06-08 03:10:58;Development;Los Angeles;USA;Oslo;Norvège;Avion;oui
+LA_2026060826;KeyPers_LA_1231705;Name1705;FistName1705;2026-06-08 10:35:34;Team Meeting;Los Angeles;USA;Tunis;Tunisie;Avion;oui
+LA_2026060827;KeyPers_LA_1230133;Name133;FistName133;2026-06-08 12:42:11;Business Meeting;Los Angeles;USA;Vancouver;Canada;Avion;oui
+LA_2026060828;KeyPers_LA_1231178;Name1178;FistName1178;2026-06-08 03:49:15;Team Meeting;Los Angeles;USA;Lima;Peru;Avion;oui
+LA_2026060829;KeyPers_LA_1231763;Name1763;FistName1763;2026-06-08 22:01:47;Conference;Paris;France;Buenos Aires;Argentina;Avion;oui
+LA_2026060830;KeyPers_LA_1230431;Name431;FistName431;2026-06-08 11:42:46;Vocational Training;Los Angeles;USA;Lille;France;Avion;oui
+LA_2026060831;KeyPers_LA_1232696;Name2696;FistName2696;2026-06-08 04:21:01;Development;Los Angeles;USA;Stockholm;Suède;Avion;oui
+LA_2026060832;KeyPers_LA_1231042;Name1042;FistName1042;2026-06-08 12:31:23;Vocational Training;Los Angeles;USA;Buenos Aires;Argentina;Avion;oui

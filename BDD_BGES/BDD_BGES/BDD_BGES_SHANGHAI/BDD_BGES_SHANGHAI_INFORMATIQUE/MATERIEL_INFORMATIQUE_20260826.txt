@@ -1,0 +1,7 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202608260;KeyPers_Shanghai_1230083;Name83;FistName83;2026-08-26 15:07:44;PC portable; 
+Shanghai_MATERIEL_INFO_202608261;KeyPers_Shanghai_1230171;Name171;FistName171;2026-08-26 11:07:37; ;modèle par défaut
+Shanghai_MATERIEL_INFO_202608262;KeyPers_Shanghai_1230912;Name912;FistName912;2026-08-26 15:44:28;PC portable;MacBook pro 13pouces
+Shanghai_MATERIEL_INFO_202608263;KeyPers_Shanghai_1230958;Name958;FistName958;2026-08-26 09:36:46;imprimante;Laser à poser (<40kg)
+Shanghai_MATERIEL_INFO_202608264;KeyPers_Shanghai_1230412;Name412;FistName412;2026-08-26 15:24:25; ;Moyenne 13pouces
+Shanghai_MATERIEL_INFO_202608265;KeyPers_Shanghai_1230043;Name43;FistName43;2026-08-26 11:09:23;PC portable;MacBook air retina

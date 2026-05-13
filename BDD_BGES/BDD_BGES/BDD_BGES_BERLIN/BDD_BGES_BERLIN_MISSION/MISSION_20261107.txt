@@ -1,0 +1,18 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+BERLIN_202611070;KeyPers_Berlin_1230141;Name141;FistName141;2026-11-07 23:42:19;Konferenz;Shanghai;China;Los Angeles;USA;Avion;non
+BERLIN_202611071;KeyPers_Berlin_1231197;Name1197;FistName1197;2026-11-07 15:27:06;Meeting;Berlin;Allemagne;Oslo;Norvège;Avion;oui
+BERLIN_202611072;KeyPers_Berlin_1230555;Name555;FistName555;2026-11-07 23:12:43;Schulung;Berlin;Allemagne;Montreal;Canada;Avion;non
+BERLIN_202611073;KeyPers_Berlin_1232995;Name2995;FistName2995;2026-11-07 02:24:20;Konferenz;Berlin;Allemagne;Vancouver;Canada;Avion;oui
+BERLIN_202611074;KeyPers_Berlin_1231508;Name1508;FistName1508;2026-11-07 02:53:34;Meeting;Berlin;Allemagne;Lima;Peru;Avion;oui
+BERLIN_202611075;KeyPers_Berlin_1232646;Name2646;FistName2646;2026-11-07 05:53:58;Entwicklung;Berlin;Allemagne;Berlin;Allemagne;Transports en commun;oui
+BERLIN_202611076;KeyPers_Berlin_1231913;Name1913;FistName1913;2026-11-07 23:59:03;Schulung;Paris;France;Lille;France;Train;oui
+BERLIN_202611077;KeyPers_Berlin_1232773;Name2773;FistName2773;2026-11-07 18:16:33;Entwicklung;Berlin;Allemagne;Compiègne;France;Avion;oui
+BERLIN_202611078;KeyPers_Berlin_1231239;Name1239;FistName1239;2026-11-07 06:04:37;Schulung;Berlin;Allemagne;Mexico;Mexico;Avion;oui
+BERLIN_202611079;KeyPers_Berlin_1233958;Name3958;FistName3958;2026-11-07 22:19:55;Konferenz;Berlin;Allemagne;Lille;France;Avion;oui
+BERLIN_2026110710;KeyPers_Berlin_1232204;Name2204;FistName2204;2026-11-07 04:47:14;Schulung;Berlin;Allemagne;Compiègne;France;Avion;oui
+BERLIN_2026110711;KeyPers_Berlin_1231517;Name1517;FistName1517;2026-11-07 03:41:55;Entwicklung;Berlin;Allemagne;Washington;USA;Avion;oui
+BERLIN_2026110712;KeyPers_Berlin_1233336;Name3336;FistName3336;2026-11-07 23:05:23;Konferenz;Berlin;Allemagne;Rio de Janeiro;Brazil;Avion;oui
+BERLIN_2026110713;KeyPers_Berlin_1231882;Name1882;FistName1882;2026-11-07 06:29:55;Entwicklung;Berlin;Allemagne;Berlin;Allemagne;Transports en commun;oui
+BERLIN_2026110714;KeyPers_Berlin_1232451;Name2451;FistName2451;2026-11-07 04:01:22;Schulung;Berlin;Allemagne;Lima;Peru;Avion;oui
+BERLIN_2026110715;KeyPers_Berlin_1231985;Name1985;FistName1985;2026-11-07 04:37:34;Konferenz;Berlin;Allemagne;Helsinki;Finlande;Avion;oui
+BERLIN_2026110716;KeyPers_Berlin_1232477;Name2477;FistName2477;2026-11-07 11:52:05;Schulung;Berlin;Allemagne;Pekin;China;Avion;oui

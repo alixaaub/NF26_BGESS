@@ -1,0 +1,9 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+NewYork_MATERIEL_INFO_202610200;KeyPers_NewYork_1230313;Name313;FistName313;2026-10-20 08:51:41;PC portable; 
+NewYork_MATERIEL_INFO_202610201;KeyPers_NewYork_1230719;Name719;FistName719;2026-10-20 09:13:01;PC portable;Latitude 5xxx
+NewYork_MATERIEL_INFO_202610202;KeyPers_NewYork_1230770;Name770;FistName770;2026-10-20 11:49:39;PC fixe sans ecran;Optiplex micro
+NewYork_MATERIEL_INFO_202610203;KeyPers_NewYork_1231002;Name1002;FistName1002;2026-10-20 10:16:23;PC fixe sans ecran;Precision tower 5xxx
+NewYork_MATERIEL_INFO_202610204;KeyPers_NewYork_1231524;Name1524;FistName1524;2026-10-20 10:55:07;PC fixe sans ecran;Precision tower 5xxx
+NewYork_MATERIEL_INFO_202610205;KeyPers_NewYork_1232053;Name2053;FistName2053;2026-10-20 15:50:44;Telephone IP;modèle par défaut
+NewYork_MATERIEL_INFO_202610206;KeyPers_NewYork_1230596;Name596;FistName596;2026-10-20 16:12:05;PC fixe sans ecran;Optiplex tower
+NewYork_MATERIEL_INFO_202610207;KeyPers_NewYork_1231226;Name1226;FistName1226;2026-10-20 16:56:43;PC fixe tout-en-un;Optiplex All-in-One 3xxx

@@ -1,0 +1,14 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202611140;KeyPers_Shanghai_1230640;Name640;FistName640;2026-11-14 15:02:03;PC portable;Precision 7xxx
+Shanghai_MATERIEL_INFO_202611141;KeyPers_Shanghai_1230707;Name707;FistName707;2026-11-14 08:25:47;PC fixe sans ecran;Elite (Tower, SFF, One)
+Shanghai_MATERIEL_INFO_202611142;KeyPers_Shanghai_1230420;Name420;FistName420;2026-11-14 09:44:23;PC fixe tout-en-un; 
+Shanghai_MATERIEL_INFO_202611143;KeyPers_Shanghai_1230605;Name605;FistName605;2026-11-14 09:51:12; ;Precision tower 3xxx
+Shanghai_MATERIEL_INFO_202611144;KeyPers_Shanghai_1230627;Name627;FistName627;2026-11-14 15:43:37;PC portable;Moyenne 14/15pouces
+Shanghai_MATERIEL_INFO_202611145;KeyPers_Shanghai_1230171;Name171;FistName171;2026-11-14 14:22:58; ;Optiplex tower
+Shanghai_MATERIEL_INFO_202611146;KeyPers_Shanghai_1230270;Name270;FistName270;2026-11-14 09:32:51;PC fixe tout-en-un;Mac pro
+Shanghai_MATERIEL_INFO_202611147;KeyPers_Shanghai_1230865;Name865;FistName865;2026-11-14 10:49:45;Ecran;32pouces et plus
+Shanghai_MATERIEL_INFO_202611148;KeyPers_Shanghai_1230074;Name74;FistName74;2026-11-14 08:24:59;Borne wifi;modèle par défaut
+Shanghai_MATERIEL_INFO_202611149;KeyPers_Shanghai_1230296;Name296;FistName296;2026-11-14 09:04:14;PC portable;MacBook pro 15/16pouces
+Shanghai_MATERIEL_INFO_2026111410;KeyPers_Shanghai_1230162;Name162;FistName162;2026-11-14 16:40:12;PC portable;Victus
+Shanghai_MATERIEL_INFO_2026111411;KeyPers_Shanghai_1230281;Name281;FistName281;2026-11-14 14:38:55;Telephone IP;modèle par défaut
+Shanghai_MATERIEL_INFO_2026111412;KeyPers_Shanghai_1230440;Name440;FistName440;2026-11-14 16:42:55; ;Optiplex All-in-One 3xxx

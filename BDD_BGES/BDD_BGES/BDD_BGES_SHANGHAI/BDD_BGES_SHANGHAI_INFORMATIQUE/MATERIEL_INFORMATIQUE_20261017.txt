@@ -1,0 +1,13 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202610170;KeyPers_Shanghai_1230768;Name768;FistName768;2026-10-17 09:35:49;PC fixe sans ecran;Optiplex small
+Shanghai_MATERIEL_INFO_202610171;KeyPers_Shanghai_1230005;Name5;FistName5;2026-10-17 09:29:39;PC portable;EliteBook 10xx
+Shanghai_MATERIEL_INFO_202610172;KeyPers_Shanghai_1230450;Name450;FistName450;2026-10-17 09:36:23;PC portable;EliteBook 8xx
+Shanghai_MATERIEL_INFO_202610173;KeyPers_Shanghai_1230309;Name309;FistName309;2026-10-17 11:51:27; ;24pouces-31pouces
+Shanghai_MATERIEL_INFO_202610174;KeyPers_Shanghai_1230636;Name636;FistName636;2026-10-17 12:45:03;PC portable;Precision 7xxx
+Shanghai_MATERIEL_INFO_202610175;KeyPers_Shanghai_1230715;Name715;FistName715;2026-10-17 09:34:26;PC fixe sans ecran;Optiplex small
+Shanghai_MATERIEL_INFO_202610176;KeyPers_Shanghai_1230117;Name117;FistName117;2026-10-17 16:35:47;Vidéo projecteur;Pour salle
+Shanghai_MATERIEL_INFO_202610177;KeyPers_Shanghai_1230223;Name223;FistName223;2026-10-17 09:02:11; ;modèle par défaut
+Shanghai_MATERIEL_INFO_202610178;KeyPers_Shanghai_1230335;Name335;FistName335;2026-10-17 09:38:45;PC fixe sans ecran;EliteDesk DM
+Shanghai_MATERIEL_INFO_202610179;KeyPers_Shanghai_1230854;Name854;FistName854;2026-10-17 13:50:29;PC fixe sans ecran;Optiplex tower
+Shanghai_MATERIEL_INFO_2026101710;KeyPers_Shanghai_1230769;Name769;FistName769;2026-10-17 16:23:14;PC portable;modèle par défaut
+Shanghai_MATERIEL_INFO_2026101711;KeyPers_Shanghai_1230472;Name472;FistName472;2026-10-17 14:57:25;PC fixe sans ecran;ProDesk mini/DM

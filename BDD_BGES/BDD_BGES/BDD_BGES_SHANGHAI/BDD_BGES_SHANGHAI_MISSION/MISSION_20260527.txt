@@ -1,0 +1,15 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Shanghai_202605270;KeyPers_Shanghai_1230634;Name634;FistName634;2026-05-27 09:51:41;Team Meeting;Shanghai;China;London;England;Avion;oui
+Shanghai_202605271;KeyPers_Shanghai_1230324;Name324;FistName324;2026-05-27 19:35:31;Development;Shanghai;China;Rabat;Maroc;Avion;oui
+Shanghai_202605272;KeyPers_Shanghai_1230603;Name603;FistName603;2026-05-27 03:51:36;Team Meeting;Shanghai;China;Washington;USA;Avion;non
+Shanghai_202605273;KeyPers_Shanghai_1230980;Name980;FistName980;2026-05-27 06:54:43;Development;Shanghai;China;Bogota;Colombia;Avion;oui
+Shanghai_202605274;KeyPers_Shanghai_1230825;Name825;FistName825;2026-05-27 22:02:37;Vocational Training;Shanghai;China;Pekin;China;Avion;oui
+Shanghai_202605275;KeyPers_Shanghai_1230768;Name768;FistName768;2026-05-27 21:35:27;Conference;Shanghai;China;Sidney;Australia;Avion;oui
+Shanghai_202605276;KeyPers_Shanghai_1230525;Name525;FistName525;2026-05-27 03:25:39;Development;Shanghai;China;Sao Paulo;Brazil;Avion;non
+Shanghai_202605277;KeyPers_Shanghai_1230413;Name413;FistName413;2026-05-27 01:09:05;Team Meeting;New-York;USA;Melbourne;Australia;Avion;oui
+Shanghai_202605278;KeyPers_Shanghai_1230053;Name53;FistName53;2026-05-27 06:17:42;Team Meeting;Shanghai;China;Lille;France;Avion;oui
+Shanghai_202605279;KeyPers_Shanghai_1230889;Name889;FistName889;2026-05-27 07:37:29;Business Meeting;Shanghai;China;Shanghai;China;Transports en commun;oui
+Shanghai_2026052710;KeyPers_Shanghai_1230209;Name209;FistName209;2026-05-27 16:51:18;Team Meeting;Shanghai;China;Shanghai;China;Transports en commun;oui
+Shanghai_2026052711;KeyPers_Shanghai_1230039;Name39;FistName39;2026-05-27 22:16:51;Business Meeting;Shanghai;China;Compiègne;France;Avion;oui
+Shanghai_2026052712;KeyPers_Shanghai_1230137;Name137;FistName137;2026-05-27 23:27:53;Business Meeting;New-York;USA;Stockholm;Suède;Avion;oui
+Shanghai_2026052713;KeyPers_Shanghai_1230248;Name248;FistName248;2026-05-27 16:25:22;Vocational Training;Shanghai;China;Rio de Janeiro;Brazil;Avion;oui

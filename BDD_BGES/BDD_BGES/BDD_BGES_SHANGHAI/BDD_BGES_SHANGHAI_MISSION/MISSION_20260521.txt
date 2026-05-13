@@ -1,0 +1,10 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Shanghai_202605210;KeyPers_Shanghai_1230465;Name465;FistName465;2026-05-21 01:06:49;Vocational Training;Shanghai;China;Berlin;Allemagne;Avion;non
+Shanghai_202605211;KeyPers_Shanghai_1230900;Name900;FistName900;2026-05-21 03:24:36;Business Meeting;Shanghai;China;Compiègne;France;Avion;oui
+Shanghai_202605212;KeyPers_Shanghai_1230935;Name935;FistName935;2026-05-21 19:35:01;Development;Shanghai;China;Osaka;Japan;Avion;oui
+Shanghai_202605213;KeyPers_Shanghai_1230050;Name50;FistName50;2026-05-21 18:59:27;Conference;Paris;France;Rio de Janeiro;Brazil;Avion;oui
+Shanghai_202605214;KeyPers_Shanghai_1230844;Name844;FistName844;2026-05-21 14:29:46;Conference;Shanghai;China;Montreal;Canada;Avion;oui
+Shanghai_202605215;KeyPers_Shanghai_1230293;Name293;FistName293;2026-05-21 05:10:41;Conference;Shanghai;China;Bordeaux;France;Avion;oui
+Shanghai_202605216;KeyPers_Shanghai_1230175;Name175;FistName175;2026-05-21 06:54:52;Vocational Training;Shanghai;China;London;England;Avion;oui
+Shanghai_202605217;KeyPers_Shanghai_1230100;Name100;FistName100;2026-05-21 11:01:35;Conference;Shanghai;China;Pekin;China;Avion;oui
+Shanghai_202605218;KeyPers_Shanghai_1230060;Name60;FistName60;2026-05-21 20:52:53;Business Meeting;Shanghai;China;Tunis;Tunisie;Avion;oui

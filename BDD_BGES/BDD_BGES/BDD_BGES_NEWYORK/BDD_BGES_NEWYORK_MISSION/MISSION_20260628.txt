@@ -1,0 +1,17 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+NewYork_202606280;KeyPers_NewYork_1231842;Name1842;FistName1842;2026-06-28 05:44:43;Team Meeting;New-York;USA;Tunis;Tunisie;Avion;oui
+NewYork_202606281;KeyPers_NewYork_1232404;Name2404;FistName2404;2026-06-28 07:45:37;Team Meeting;New-York;USA;Lille;France;Avion;oui
+NewYork_202606282;KeyPers_NewYork_1230908;Name908;FistName908;2026-06-28 09:53:52;Team Meeting;New-York;USA;Montreal;Canada;Avion;oui
+NewYork_202606283;KeyPers_NewYork_1230904;Name904;FistName904;2026-06-28 19:16:59;Development;New-York;USA;New-York;USA;Transports en commun;oui
+NewYork_202606284;KeyPers_NewYork_1232660;Name2660;FistName2660;2026-06-28 22:55:22;Team Meeting;New-York;USA;Shanghai;China;Avion;oui
+NewYork_202606285;KeyPers_NewYork_1232758;Name2758;FistName2758;2026-06-28 14:17:50;Team Meeting;New-York;USA;Auckland;New Zealand;Avion;oui
+NewYork_202606286;KeyPers_NewYork_1230673;Name673;FistName673;2026-06-28 19:31:14;Conference;New-York;USA;Sidney;Australia;Avion;oui
+NewYork_202606287;KeyPers_NewYork_1230484;Name484;FistName484;2026-06-28 01:42:09;Business Meeting;New-York;USA;New-York;USA;Transports en commun;oui
+NewYork_202606288;KeyPers_NewYork_1233012;Name3012;FistName3012;2026-06-28 09:15:45;Business Meeting;New-York;USA;Compiègne;France;Avion;oui
+NewYork_202606289;KeyPers_NewYork_1232688;Name2688;FistName2688;2026-06-28 01:31:51;Team Meeting;New-York;USA;Rabat;Maroc;Avion;oui
+NewYork_2026062810;KeyPers_NewYork_1232323;Name2323;FistName2323;2026-06-28 15:34:19;Vocational Training;New-York;USA;Helsinki;Finlande;Avion;oui
+NewYork_2026062811;KeyPers_NewYork_1232608;Name2608;FistName2608;2026-06-28 08:45:35;Business Meeting;New-York;USA;Helsinki;Finlande;Avion;oui
+NewYork_2026062812;KeyPers_NewYork_1232088;Name2088;FistName2088;2026-06-28 21:30:41;Conference;New-York;USA;Wellington;New Zealand;Avion;oui
+NewYork_2026062813;KeyPers_NewYork_1231428;Name1428;FistName1428;2026-06-28 14:20:14;Vocational Training;New-York;USA;Montreal;Canada;Avion;oui
+NewYork_2026062814;KeyPers_NewYork_1230745;Name745;FistName745;2026-06-28 20:49:18;Team Meeting;New-York;USA;Mexico;Mexico;Avion;oui
+NewYork_2026062815;KeyPers_NewYork_1232146;Name2146;FistName2146;2026-06-28 19:33:28;Development;New-York;USA;Shanghai;China;Avion;oui

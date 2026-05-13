@@ -1,0 +1,12 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202606160;KeyPers_Shanghai_1230907;Name907;FistName907;2026-06-16 11:47:25; ;Precision tower 7xxx
+Shanghai_MATERIEL_INFO_202606161;KeyPers_Shanghai_1230657;Name657;FistName657;2026-06-16 11:01:14;Disque dur;modèle par défaut
+Shanghai_MATERIEL_INFO_202606162;KeyPers_Shanghai_1230173;Name173;FistName173;2026-06-16 16:59:01;PC portable;ZBook Studio
+Shanghai_MATERIEL_INFO_202606163;KeyPers_Shanghai_1230454;Name454;FistName454;2026-06-16 10:40:57;Borne wifi;modèle par défaut
+Shanghai_MATERIEL_INFO_202606164;KeyPers_Shanghai_1230906;Name906;FistName906;2026-06-16 08:51:18;PC fixe tout-en-un;modèle par défaut
+Shanghai_MATERIEL_INFO_202606165;KeyPers_Shanghai_1230709;Name709;FistName709;2026-06-16 15:58:41;imprimante;Laser à poser (<40kg)
+Shanghai_MATERIEL_INFO_202606166;KeyPers_Shanghai_1230934;Name934;FistName934;2026-06-16 16:35:43;PC portable;ZBook
+Shanghai_MATERIEL_INFO_202606167;KeyPers_Shanghai_1230015;Name15;FistName15;2026-06-16 13:54:45;Vidéo projecteur; 
+Shanghai_MATERIEL_INFO_202606168;KeyPers_Shanghai_1230562;Name562;FistName562;2026-06-16 12:20:34;Serveur;Serveur de stockage
+Shanghai_MATERIEL_INFO_202606169;KeyPers_Shanghai_1230122;Name122;FistName122;2026-06-16 12:39:42; ;ZHAN
+Shanghai_MATERIEL_INFO_2026061610;KeyPers_Shanghai_1230755;Name755;FistName755;2026-06-16 12:32:50;imprimante;Laser à poser (<40kg)

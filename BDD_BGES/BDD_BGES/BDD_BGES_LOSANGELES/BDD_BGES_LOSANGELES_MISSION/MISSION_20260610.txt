@@ -1,0 +1,8 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+LA_202606100;KeyPers_LA_1231305;Name1305;FistName1305;2026-06-10 04:14:20;Business Meeting;Paris;France;Rio de Janeiro;Brazil;Avion;oui
+LA_202606101;KeyPers_LA_1231009;Name1009;FistName1009;2026-06-10 07:09:03;Development;Los Angeles;USA;Stockholm;Suède;Avion;oui
+LA_202606102;KeyPers_LA_1230556;Name556;FistName556;2026-06-10 17:41:02;Conference;Los Angeles;USA;Oslo;Norvège;Avion;oui
+LA_202606103;KeyPers_LA_1230049;Name49;FistName49;2026-06-10 18:10:07;Conference;Los Angeles;USA;Marseille;France;Avion;oui
+LA_202606104;KeyPers_LA_1232387;Name2387;FistName2387;2026-06-10 09:55:44;Development;Los Angeles;USA;Los Angeles;USA;Transports en commun;oui
+LA_202606105;KeyPers_LA_1231657;Name1657;FistName1657;2026-06-10 03:04:11;Team Meeting;Los Angeles;USA;Pekin;China;Avion;oui
+LA_202606106;KeyPers_LA_1230840;Name840;FistName840;2026-06-10 14:04:47;Conference;Los Angeles;USA;Stockholm;Suède;Avion;oui

@@ -1,0 +1,11 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202610030;KeyPers_Shanghai_1230419;Name419;FistName419;2026-10-03 13:31:41; ;Elite mini
+Shanghai_MATERIEL_INFO_202610031;KeyPers_Shanghai_1230374;Name374;FistName374;2026-10-03 15:21:14;Vidéo projecteur;Pour salle
+Shanghai_MATERIEL_INFO_202610032;KeyPers_Shanghai_1230051;Name51;FistName51;2026-10-03 08:12:49; ;modèle par défaut
+Shanghai_MATERIEL_INFO_202610033;KeyPers_Shanghai_1230960;Name960;FistName960;2026-10-03 15:39:25;clavier;modèle par défaut
+Shanghai_MATERIEL_INFO_202610034;KeyPers_Shanghai_1230723;Name723;FistName723;2026-10-03 12:39:14;PC portable;modèle par défaut
+Shanghai_MATERIEL_INFO_202610035;KeyPers_Shanghai_1230232;Name232;FistName232;2026-10-03 09:47:07;PC fixe tout-en-un;Optiplex All-in-One 7xxx
+Shanghai_MATERIEL_INFO_202610036;KeyPers_Shanghai_1230794;Name794;FistName794;2026-10-03 08:01:20;PC portable;MacBook pro 13pouces
+Shanghai_MATERIEL_INFO_202610037;KeyPers_Shanghai_1230018;Name18;FistName18;2026-10-03 08:05:56;PC portable; 
+Shanghai_MATERIEL_INFO_202610038;KeyPers_Shanghai_1230062;Name62;FistName62;2026-10-03 10:36:46; ;Mac mini
+Shanghai_MATERIEL_INFO_202610039;KeyPers_Shanghai_1230965;Name965;FistName965;2026-10-03 08:31:20;PC portable;MacBook pro 15/16pouces

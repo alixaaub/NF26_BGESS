@@ -1,0 +1,11 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202605140;KeyPers_Shanghai_1230402;Name402;FistName402;2026-05-14 11:09:43; ;Precision tower 7xxx
+Shanghai_MATERIEL_INFO_202605141;KeyPers_Shanghai_1230510;Name510;FistName510;2026-05-14 16:30:59; ;iMac 21pouces
+Shanghai_MATERIEL_INFO_202605142;KeyPers_Shanghai_1230571;Name571;FistName571;2026-05-14 08:03:12;PC fixe sans ecran;modèle par défaut
+Shanghai_MATERIEL_INFO_202605143;KeyPers_Shanghai_1230672;Name672;FistName672;2026-05-14 13:58:13;PC portable; 
+Shanghai_MATERIEL_INFO_202605144;KeyPers_Shanghai_1230379;Name379;FistName379;2026-05-14 08:38:14;PC fixe sans ecran;Station de travail (moy)
+Shanghai_MATERIEL_INFO_202605145;KeyPers_Shanghai_1230296;Name296;FistName296;2026-05-14 15:30:10;PC portable;Precision 7xxx
+Shanghai_MATERIEL_INFO_202605146;KeyPers_Shanghai_1230138;Name138;FistName138;2026-05-14 12:15:52;PC portable;Moyenne 14/15pouces
+Shanghai_MATERIEL_INFO_202605147;KeyPers_Shanghai_1230041;Name41;FistName41;2026-05-14 08:30:42;PC fixe tout-en-un;Optiplex All-in-One 3xxx
+Shanghai_MATERIEL_INFO_202605148;KeyPers_Shanghai_1230926;Name926;FistName926;2026-05-14 08:06:54;Vidéo projecteur;modèle par défaut
+Shanghai_MATERIEL_INFO_202605149;KeyPers_Shanghai_1230065;Name65;FistName65;2026-05-14 16:38:35;Vidéo projecteur;modèle par défaut

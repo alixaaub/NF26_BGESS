@@ -1,0 +1,15 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Paris_MATERIEL_INFO_202610020;KeyPers_Paris_1233797;Name3797;FistName3797;2026-10-02 10:06:04;PC fixe sans ecran;Optiplex micro
+Paris_MATERIEL_INFO_202610021;KeyPers_Paris_1230602;Name602;FistName602;2026-10-02 08:24:26; ;Precision tower 7xxx
+Paris_MATERIEL_INFO_202610022;KeyPers_Paris_1234994;Name4994;FistName4994;2026-10-02 09:30:11;PC portable;ProBook 
+Paris_MATERIEL_INFO_202610023;KeyPers_Paris_1233288;Name3288;FistName3288;2026-10-02 13:57:07;Serveur;Serveur de stockage
+Paris_MATERIEL_INFO_202610024;KeyPers_Paris_1234908;Name4908;FistName4908;2026-10-02 09:20:32;PC portable;Moyenne 14/15pouces
+Paris_MATERIEL_INFO_202610025;KeyPers_Paris_1234116;Name4116;FistName4116;2026-10-02 12:07:36;PC fixe sans ecran;Precision tower 3xxx
+Paris_MATERIEL_INFO_202610026;KeyPers_Paris_1234322;Name4322;FistName4322;2026-10-02 16:32:45;PC fixe sans ecran;EliteDesk (Tower, SFF, One)
+Paris_MATERIEL_INFO_202610027;KeyPers_Paris_1232469;Name2469;FistName2469;2026-10-02 14:20:37;Ecran;modèle par défaut
+Paris_MATERIEL_INFO_202610028;KeyPers_Paris_1233252;Name3252;FistName3252;2026-10-02 16:57:25;Ecran;32pouces et plus
+Paris_MATERIEL_INFO_202610029;KeyPers_Paris_1234792;Name4792;FistName4792;2026-10-02 13:55:10;PC portable;Latitude 7xxx
+Paris_MATERIEL_INFO_2026100210;KeyPers_Paris_1230896;Name896;FistName896;2026-10-02 13:12:58;PC portable;Moyenne 17pouces
+Paris_MATERIEL_INFO_2026100211;KeyPers_Paris_1231277;Name1277;FistName1277;2026-10-02 12:24:27;PC fixe sans ecran;Optiplex micro
+Paris_MATERIEL_INFO_2026100212;KeyPers_Paris_1234294;Name4294;FistName4294;2026-10-02 09:53:13;Station d'accueil;modèle par défaut
+Paris_MATERIEL_INFO_2026100213;KeyPers_Paris_1230039;Name39;FistName39;2026-10-02 13:06:25; ;Optiplex tower

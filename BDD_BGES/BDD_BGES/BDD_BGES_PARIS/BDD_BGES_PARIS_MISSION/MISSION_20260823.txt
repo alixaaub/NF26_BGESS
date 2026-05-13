@@ -1,0 +1,12 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Paris_202608230;KeyPers_Paris_1230310;Name310;FistName310;2026-08-23 07:49:52;Rencontre entreprises;Paris;France;Alger;Algeria;Avion;oui
+Paris_202608231;KeyPers_Paris_1233762;Name3762;FistName3762;2026-08-23 20:45:12;Développement;Paris;France;Lima;Peru;Avion;oui
+Paris_202608232;KeyPers_Paris_1233744;Name3744;FistName3744;2026-08-23 14:24:47;Développement;Paris;France;Alger;Algeria;Avion;oui
+Paris_202608233;KeyPers_Paris_1231121;Name1121;FistName1121;2026-08-23 04:55:15;Conférence;Paris;France;Rio de Janeiro;Brazil;Avion;oui
+Paris_202608234;KeyPers_Paris_1232551;Name2551;FistName2551;2026-08-23 08:53:21;Rencontre entreprises;Paris;France;Rio de Janeiro;Brazil;Avion;oui
+Paris_202608235;KeyPers_Paris_1230515;Name515;FistName515;2026-08-23 04:46:09;Développement;Paris;France;New-York;USA;Avion;non
+Paris_202608236;KeyPers_Paris_1232249;Name2249;FistName2249;2026-08-23 12:31:25;Développement;Paris;France;Mexico;Mexico;Avion;oui
+Paris_202608237;KeyPers_Paris_1230398;Name398;FistName398;2026-08-23 15:13:59;Réunion;Paris;France;Vancouver;Canada;Avion;oui
+Paris_202608238;KeyPers_Paris_1234872;Name4872;FistName4872;2026-08-23 05:54:59;Conférence;New-York;USA;Sao Paulo;Brazil;Avion;oui
+Paris_202608239;KeyPers_Paris_1230828;Name828;FistName828;2026-08-23 17:10:07;Formation;Paris;France;Melbourne;Australia;Avion;oui
+Paris_2026082310;KeyPers_Paris_1230439;Name439;FistName439;2026-08-23 04:37:16;Rencontre entreprises;Paris;France;Vancouver;Canada;Avion;oui

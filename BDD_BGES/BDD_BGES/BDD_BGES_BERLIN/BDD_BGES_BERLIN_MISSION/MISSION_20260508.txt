@@ -1,0 +1,31 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+BERLIN_202605080;KeyPers_Berlin_1230799;Name799;FistName799;2026-05-08 13:45:26;Schulung;Berlin;Allemagne;Berlin;Allemagne;Transports en commun;oui
+BERLIN_202605081;KeyPers_Berlin_1233045;Name3045;FistName3045;2026-05-08 16:20:02;Schulung;Berlin;Allemagne;Oslo;Norvège;Avion;oui
+BERLIN_202605082;KeyPers_Berlin_1230889;Name889;FistName889;2026-05-08 21:27:29;Meeting;New-York;USA;Bordeaux;France;Avion;oui
+BERLIN_202605083;KeyPers_Berlin_1232275;Name2275;FistName2275;2026-05-08 04:16:06;Konferenz;Berlin;Allemagne;Osaka;Japan;Avion;oui
+BERLIN_202605084;KeyPers_Berlin_1231003;Name1003;FistName1003;2026-05-08 18:52:32;Schulung;Berlin;Allemagne;Marseille;France;Avion;oui
+BERLIN_202605085;KeyPers_Berlin_1232435;Name2435;FistName2435;2026-05-08 06:34:02;Meeting;Berlin;Allemagne;Stockholm;Suède;Avion;oui
+BERLIN_202605086;KeyPers_Berlin_1234052;Name4052;FistName4052;2026-05-08 19:36:10;Meeting;Berlin;Allemagne;Los Angeles;USA;Avion;oui
+BERLIN_202605087;KeyPers_Berlin_1231782;Name1782;FistName1782;2026-05-08 09:49:20;Konferenz;Berlin;Allemagne;Compiègne;France;Avion;oui
+BERLIN_202605088;KeyPers_Berlin_1234057;Name4057;FistName4057;2026-05-08 08:36:07;Meeting;Berlin;Allemagne;Helsinki;Finlande;Avion;oui
+BERLIN_202605089;KeyPers_Berlin_1232721;Name2721;FistName2721;2026-05-08 11:46:14;Schulung;Berlin;Allemagne;Melbourne;Australia;Avion;oui
+BERLIN_2026050810;KeyPers_Berlin_1232231;Name2231;FistName2231;2026-05-08 02:31:15;Meeting;Berlin;Allemagne;Pekin;China;Avion;oui
+BERLIN_2026050811;KeyPers_Berlin_1231963;Name1963;FistName1963;2026-05-08 06:01:18;Schulung;Berlin;Allemagne;Oslo;Norvège;Avion;oui
+BERLIN_2026050812;KeyPers_Berlin_1230333;Name333;FistName333;2026-05-08 23:11:53;Konferenz;Berlin;Allemagne;Dubaï;Emirats;Avion;non
+BERLIN_2026050813;KeyPers_Berlin_1232490;Name2490;FistName2490;2026-05-08 05:13:52;Meeting;Berlin;Allemagne;Mexico;Mexico;Avion;oui
+BERLIN_2026050814;KeyPers_Berlin_1233516;Name3516;FistName3516;2026-05-08 23:55:41;Entwicklung;Berlin;Allemagne;Oslo;Norvège;Avion;oui
+BERLIN_2026050815;KeyPers_Berlin_1233337;Name3337;FistName3337;2026-05-08 19:03:49;Geschäftstreffen;Berlin;Allemagne;Bogota;Colombia;Avion;non
+BERLIN_2026050816;KeyPers_Berlin_1231064;Name1064;FistName1064;2026-05-08 09:17:47;Entwicklung;Berlin;Allemagne;Dubaï;Emirats;Avion;oui
+BERLIN_2026050817;KeyPers_Berlin_1231377;Name1377;FistName1377;2026-05-08 22:12:56;Geschäftstreffen;Berlin;Allemagne;Auckland;New Zealand;Avion;oui
+BERLIN_2026050818;KeyPers_Berlin_1231700;Name1700;FistName1700;2026-05-08 01:15:52;Entwicklung;Berlin;Allemagne;Marseille;France;Avion;oui
+BERLIN_2026050819;KeyPers_Berlin_1233474;Name3474;FistName3474;2026-05-08 18:06:59;Meeting;Berlin;Allemagne;Lima;Peru;Avion;oui
+BERLIN_2026050820;KeyPers_Berlin_1230560;Name560;FistName560;2026-05-08 06:36:56;Konferenz;Berlin;Allemagne;Sao Paulo;Brazil;Avion;oui
+BERLIN_2026050821;KeyPers_Berlin_1231926;Name1926;FistName1926;2026-05-08 07:18:05;Entwicklung;Berlin;Allemagne;Bordeaux;France;Avion;oui
+BERLIN_2026050822;KeyPers_Berlin_1232495;Name2495;FistName2495;2026-05-08 18:54:55;Entwicklung;New-York;USA;Bogota;Colombia;Avion;oui
+BERLIN_2026050823;KeyPers_Berlin_1231039;Name1039;FistName1039;2026-05-08 23:24:16;Entwicklung;Berlin;Allemagne;Tunis;Tunisie;Avion;non
+BERLIN_2026050824;KeyPers_Berlin_1231170;Name1170;FistName1170;2026-05-08 15:36:30;Entwicklung;Berlin;Allemagne;Buenos Aires;Argentina;Avion;oui
+BERLIN_2026050825;KeyPers_Berlin_1231648;Name1648;FistName1648;2026-05-08 18:23:41;Meeting;Shanghai;China;Montreal;Canada;Avion;oui
+BERLIN_2026050826;KeyPers_Berlin_1233646;Name3646;FistName3646;2026-05-08 21:43:46;Entwicklung;Berlin;Allemagne;Stockholm;Suède;Avion;oui
+BERLIN_2026050827;KeyPers_Berlin_1234092;Name4092;FistName4092;2026-05-08 10:14:45;Meeting;Berlin;Allemagne;Helsinki;Finlande;Avion;oui
+BERLIN_2026050828;KeyPers_Berlin_1230512;Name512;FistName512;2026-05-08 17:43:42;Meeting;Berlin;Allemagne;Vancouver;Canada;Avion;oui
+BERLIN_2026050829;KeyPers_Berlin_1230238;Name238;FistName238;2026-05-08 11:24:10;Entwicklung;Berlin;Allemagne;Compiègne;France;Avion;oui

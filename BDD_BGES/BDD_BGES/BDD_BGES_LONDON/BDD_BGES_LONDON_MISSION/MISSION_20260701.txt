@@ -1,0 +1,9 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+LONDON_202607010;KeyPers_London_1231920;Name1920;FistName1920;2026-07-01 18:58:27;Conference;London;England;Tunis;Tunisie;Avion;oui
+LONDON_202607011;KeyPers_London_1232187;Name2187;FistName2187;2026-07-01 23:52:08;Conference;London;England;Auckland;New Zealand;Avion;oui
+LONDON_202607012;KeyPers_London_1231532;Name1532;FistName1532;2026-07-01 08:23:44;Conference;London;England;Shanghai;China;Avion;oui
+LONDON_202607013;KeyPers_London_1234014;Name4014;FistName4014;2026-07-01 21:28:01;Business Meeting;London;England;Auckland;New Zealand;Avion;oui
+LONDON_202607014;KeyPers_London_1233975;Name3975;FistName3975;2026-07-01 18:41:27;Business Meeting;London;England;Washington;USA;Avion;oui
+LONDON_202607015;KeyPers_London_1233998;Name3998;FistName3998;2026-07-01 22:49:33;Vocational Training;London;England;Marseille;France;Avion;non
+LONDON_202607016;KeyPers_London_1233833;Name3833;FistName3833;2026-07-01 18:48:31;Conference;Paris;France;New-York;USA;Avion;oui
+LONDON_202607017;KeyPers_London_1232262;Name2262;FistName2262;2026-07-01 21:08:12;Team Meeting;London;England;Los Angeles;USA;Avion;oui

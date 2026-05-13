@@ -1,0 +1,15 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+NewYork_MATERIEL_INFO_202607050;KeyPers_NewYork_1232690;Name2690;FistName2690;2026-07-05 12:39:39;PC portable;Chromebook 14-15pouces
+NewYork_MATERIEL_INFO_202607051;KeyPers_NewYork_1232217;Name2217;FistName2217;2026-07-05 16:27:59;PC fixe sans ecran;PC Fixe (moy)
+NewYork_MATERIEL_INFO_202607052;KeyPers_NewYork_1231864;Name1864;FistName1864;2026-07-05 15:32:49;Serveur; 
+NewYork_MATERIEL_INFO_202607053;KeyPers_NewYork_1231511;Name1511;FistName1511;2026-07-05 13:30:07;PC fixe sans ecran;Wyse thin client
+NewYork_MATERIEL_INFO_202607054;KeyPers_NewYork_1231617;Name1617;FistName1617;2026-07-05 14:41:17;PC fixe sans ecran;Mac mini
+NewYork_MATERIEL_INFO_202607055;KeyPers_NewYork_1231188;Name1188;FistName1188;2026-07-05 16:50:07;PC fixe sans ecran;Precision tower 3xxx
+NewYork_MATERIEL_INFO_202607056;KeyPers_NewYork_1231412;Name1412;FistName1412;2026-07-05 11:26:57;PC portable; 
+NewYork_MATERIEL_INFO_202607057;KeyPers_NewYork_1231807;Name1807;FistName1807;2026-07-05 13:04:41;PC portable;Moyenne 14/15pouces
+NewYork_MATERIEL_INFO_202607058;KeyPers_NewYork_1230990;Name990;FistName990;2026-07-05 15:58:27;Serveur;Noeud de calcul
+NewYork_MATERIEL_INFO_202607059;KeyPers_NewYork_1232820;Name2820;FistName2820;2026-07-05 08:59:07;PC fixe sans ecran;EliteDesk (Tower, SFF, One)
+NewYork_MATERIEL_INFO_2026070510;KeyPers_NewYork_1232395;Name2395;FistName2395;2026-07-05 16:18:57;PC fixe sans ecran;EliteDesk (Tower, SFF, One)
+NewYork_MATERIEL_INFO_2026070511;KeyPers_NewYork_1231808;Name1808;FistName1808;2026-07-05 13:59:34;PC portable;Precision 5xxx
+NewYork_MATERIEL_INFO_2026070512;KeyPers_NewYork_1230348;Name348;FistName348;2026-07-05 11:06:57;PC portable;Precision 3xxx
+NewYork_MATERIEL_INFO_2026070513;KeyPers_NewYork_1231325;Name1325;FistName1325;2026-07-05 16:43:39;PC fixe sans ecran;Station de travail (moy)

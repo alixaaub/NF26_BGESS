@@ -1,0 +1,8 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202609290;KeyPers_Shanghai_1230464;Name464;FistName464;2026-09-29 11:21:03;PC portable;ProBook 
+Shanghai_MATERIEL_INFO_202609291;KeyPers_Shanghai_1230832;Name832;FistName832;2026-09-29 10:43:10; ;Precision 3xxx
+Shanghai_MATERIEL_INFO_202609292;KeyPers_Shanghai_1230203;Name203;FistName203;2026-09-29 14:22:01;Vidéo projecteur;Pour salle
+Shanghai_MATERIEL_INFO_202609293;KeyPers_Shanghai_1230423;Name423;FistName423;2026-09-29 14:39:45; ;modèle par défaut
+Shanghai_MATERIEL_INFO_202609294;KeyPers_Shanghai_1230117;Name117;FistName117;2026-09-29 13:16:41;PC fixe tout-en-un;iMac 27pouces retina
+Shanghai_MATERIEL_INFO_202609295;KeyPers_Shanghai_1230863;Name863;FistName863;2026-09-29 14:06:15; ;modèle par défaut
+Shanghai_MATERIEL_INFO_202609296;KeyPers_Shanghai_1230720;Name720;FistName720;2026-09-29 15:23:04;Smartphone; 

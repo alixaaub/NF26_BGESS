@@ -1,0 +1,30 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Paris_202606080;KeyPers_Paris_1230033;Name33;FistName33;2026-06-08 08:22:32;Développement;Paris;France;Oslo;Norvège;Avion;oui
+Paris_202606081;KeyPers_Paris_1233411;Name3411;FistName3411;2026-06-08 09:07:03;Rencontre entreprises;Shanghai;China;Buenos Aires;Argentina;Avion;oui
+Paris_202606082;KeyPers_Paris_1234217;Name4217;FistName4217;2026-06-08 03:35:26;Formation;Paris;France;Stockholm;Suède;Avion;oui
+Paris_202606083;KeyPers_Paris_1234109;Name4109;FistName4109;2026-06-08 11:42:36;Conférence;Paris;France;Tokyo;Japan;Avion;oui
+Paris_202606084;KeyPers_Paris_1234244;Name4244;FistName4244;2026-06-08 18:57:51;Conférence;New-York;USA;Mexico;Mexico;Avion;oui
+Paris_202606085;KeyPers_Paris_1230684;Name684;FistName684;2026-06-08 19:18:36;Conférence;Paris;France;Sao Paulo;Brazil;Avion;oui
+Paris_202606086;KeyPers_Paris_1233545;Name3545;FistName3545;2026-06-08 09:32:32;Formation;Paris;France;Pekin;China;Avion;oui
+Paris_202606087;KeyPers_Paris_1234766;Name4766;FistName4766;2026-06-08 23:30:59;Réunion;Paris;France;Berlin;Allemagne;Avion;non
+Paris_202606088;KeyPers_Paris_1230065;Name65;FistName65;2026-06-08 23:41:19;Développement;Paris;France;New-York;USA;Avion;oui
+Paris_202606089;KeyPers_Paris_1231330;Name1330;FistName1330;2026-06-08 13:47:31;Conférence;Paris;France;Melbourne;Australia;Avion;oui
+Paris_2026060810;KeyPers_Paris_1232999;Name2999;FistName2999;2026-06-08 09:09:20;Rencontre entreprises;Paris;France;Berlin;Allemagne;Avion;oui
+Paris_2026060811;KeyPers_Paris_1230163;Name163;FistName163;2026-06-08 15:32:29;Rencontre entreprises;Paris;France;Bordeaux;France;Train;oui
+Paris_2026060812;KeyPers_Paris_1231991;Name1991;FistName1991;2026-06-08 06:02:10;Formation;Shanghai;China;Alger;Algeria;Avion;non
+Paris_2026060813;KeyPers_Paris_1232625;Name2625;FistName2625;2026-06-08 21:06:09;Rencontre entreprises;Paris;France;Bordeaux;France;Avion;oui
+Paris_2026060814;KeyPers_Paris_1233564;Name3564;FistName3564;2026-06-08 09:31:49;Rencontre entreprises;Paris;France;London;England;Avion;oui
+Paris_2026060815;KeyPers_Paris_1232762;Name2762;FistName2762;2026-06-08 02:28:52;Développement;Paris;France;Stockholm;Suède;Avion;oui
+Paris_2026060816;KeyPers_Paris_1234771;Name4771;FistName4771;2026-06-08 02:02:54;Réunion;Paris;France;Compiègne;France;Avion;oui
+Paris_2026060817;KeyPers_Paris_1234099;Name4099;FistName4099;2026-06-08 22:21:21;Rencontre entreprises;Paris;France;Helsinki;Finlande;Avion;oui
+Paris_2026060818;KeyPers_Paris_1233389;Name3389;FistName3389;2026-06-08 18:49:24;Rencontre entreprises;Shanghai;China;Melbourne;Australia;Avion;oui
+Paris_2026060819;KeyPers_Paris_1231229;Name1229;FistName1229;2026-06-08 02:11:59;Développement;Paris;France;Alger;Algeria;Avion;oui
+Paris_2026060820;KeyPers_Paris_1234490;Name4490;FistName4490;2026-06-08 20:58:57;Formation;Shanghai;China;Melbourne;Australia;Avion;non
+Paris_2026060821;KeyPers_Paris_1231145;Name1145;FistName1145;2026-06-08 03:39:04;Réunion;Paris;France;Rio de Janeiro;Brazil;Avion;oui
+Paris_2026060822;KeyPers_Paris_1231014;Name1014;FistName1014;2026-06-08 03:31:55;Développement;Paris;France;Montreal;Canada;Avion;oui
+Paris_2026060823;KeyPers_Paris_1233725;Name3725;FistName3725;2026-06-08 01:32:33;Conférence;Paris;France;Rio de Janeiro;Brazil;Avion;oui
+Paris_2026060824;KeyPers_Paris_1232922;Name2922;FistName2922;2026-06-08 15:31:46;Réunion;Paris;France;Rabat;Maroc;Avion;oui
+Paris_2026060825;KeyPers_Paris_1232075;Name2075;FistName2075;2026-06-08 18:13:50;Développement;Paris;France;Rabat;Maroc;Avion;oui
+Paris_2026060826;KeyPers_Paris_1234034;Name4034;FistName4034;2026-06-08 08:19:50;Rencontre entreprises;Paris;France;Osaka;Japan;Avion;oui
+Paris_2026060827;KeyPers_Paris_1234576;Name4576;FistName4576;2026-06-08 12:32:45;Rencontre entreprises;Paris;France;Osaka;Japan;Avion;oui
+Paris_2026060828;KeyPers_Paris_1231374;Name1374;FistName1374;2026-06-08 20:31:08;Réunion;Paris;France;Buenos Aires;Argentina;Avion;non

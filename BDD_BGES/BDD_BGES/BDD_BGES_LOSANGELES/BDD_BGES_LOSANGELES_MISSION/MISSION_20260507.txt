@@ -1,0 +1,31 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+LA_202605070;KeyPers_LA_1230939;Name939;FistName939;2026-05-07 08:29:22;Conference;Los Angeles;USA;Vancouver;Canada;Avion;oui
+LA_202605071;KeyPers_LA_1230426;Name426;FistName426;2026-05-07 17:12:03;Business Meeting;Los Angeles;USA;Lima;Peru;Avion;oui
+LA_202605072;KeyPers_LA_1231492;Name1492;FistName1492;2026-05-07 07:09:33;Development;Los Angeles;USA;New-York;USA;Avion;oui
+LA_202605073;KeyPers_LA_1232456;Name2456;FistName2456;2026-05-07 18:28:48;Team Meeting;Los Angeles;USA;Helsinki;Finlande;Avion;oui
+LA_202605074;KeyPers_LA_1232495;Name2495;FistName2495;2026-05-07 17:30:43;Team Meeting;Shanghai;China;Washington;USA;Avion;non
+LA_202605075;KeyPers_LA_1232015;Name2015;FistName2015;2026-05-07 04:46:39;Conference;Los Angeles;USA;Rabat;Maroc;Avion;oui
+LA_202605076;KeyPers_LA_1232947;Name2947;FistName2947;2026-05-07 09:11:43;Vocational Training;Los Angeles;USA;Buenos Aires;Argentina;Avion;oui
+LA_202605077;KeyPers_LA_1230348;Name348;FistName348;2026-05-07 23:34:17;Business Meeting;Los Angeles;USA;Montreal;Canada;Avion;oui
+LA_202605078;KeyPers_LA_1230862;Name862;FistName862;2026-05-07 10:26:15;Team Meeting;Los Angeles;USA;Montreal;Canada;Avion;oui
+LA_202605079;KeyPers_LA_1231199;Name1199;FistName1199;2026-05-07 17:23:31;Vocational Training;Los Angeles;USA;Buenos Aires;Argentina;Avion;oui
+LA_2026050710;KeyPers_LA_1232602;Name2602;FistName2602;2026-05-07 19:20:06;Team Meeting;Los Angeles;USA;Marseille;France;Avion;oui
+LA_2026050711;KeyPers_LA_1232589;Name2589;FistName2589;2026-05-07 06:08:59;Team Meeting;Los Angeles;USA;Sao Paulo;Brazil;Avion;oui
+LA_2026050712;KeyPers_LA_1231229;Name1229;FistName1229;2026-05-07 21:51:20;Team Meeting;Los Angeles;USA;Mexico;Mexico;Avion;oui
+LA_2026050713;KeyPers_LA_1230674;Name674;FistName674;2026-05-07 10:12:25;Team Meeting;Los Angeles;USA;Marseille;France;Avion;oui
+LA_2026050714;KeyPers_LA_1230056;Name56;FistName56;2026-05-07 05:10:08;Development;Los Angeles;USA;Bordeaux;France;Avion;oui
+LA_2026050715;KeyPers_LA_1230787;Name787;FistName787;2026-05-07 01:44:11;Conference;Los Angeles;USA;Bordeaux;France;Avion;oui
+LA_2026050716;KeyPers_LA_1231269;Name1269;FistName1269;2026-05-07 10:07:29;Business Meeting;Los Angeles;USA;Lima;Peru;Avion;non
+LA_2026050717;KeyPers_LA_1230397;Name397;FistName397;2026-05-07 22:07:31;Vocational Training;Los Angeles;USA;Bordeaux;France;Avion;oui
+LA_2026050718;KeyPers_LA_1230603;Name603;FistName603;2026-05-07 18:21:34;Team Meeting;Los Angeles;USA;Lille;France;Avion;oui
+LA_2026050719;KeyPers_LA_1230055;Name55;FistName55;2026-05-07 22:52:02;Development;Los Angeles;USA;Mexico;Mexico;Avion;oui
+LA_2026050720;KeyPers_LA_1230394;Name394;FistName394;2026-05-07 11:58:29;Vocational Training;Los Angeles;USA;Lima;Peru;Avion;oui
+LA_2026050721;KeyPers_LA_1231524;Name1524;FistName1524;2026-05-07 14:13:32;Business Meeting;Los Angeles;USA;Compiègne;France;Avion;oui
+LA_2026050722;KeyPers_LA_1232879;Name2879;FistName2879;2026-05-07 09:57:22;Vocational Training;Los Angeles;USA;Buenos Aires;Argentina;Avion;non
+LA_2026050723;KeyPers_LA_1231662;Name1662;FistName1662;2026-05-07 21:23:41;Team Meeting;New-York;USA;London;England;Avion;oui
+LA_2026050724;KeyPers_LA_1230313;Name313;FistName313;2026-05-07 14:17:45;Development;Los Angeles;USA;Compiègne;France;Avion;oui
+LA_2026050725;KeyPers_LA_1230859;Name859;FistName859;2026-05-07 18:23:56;Business Meeting;Los Angeles;USA;Pekin;China;Avion;oui
+LA_2026050726;KeyPers_LA_1232265;Name2265;FistName2265;2026-05-07 01:02:42;Vocational Training;Los Angeles;USA;Rio de Janeiro;Brazil;Avion;oui
+LA_2026050727;KeyPers_LA_1231117;Name1117;FistName1117;2026-05-07 07:33:11;Business Meeting;Los Angeles;USA;Montreal;Canada;Avion;oui
+LA_2026050728;KeyPers_LA_1231569;Name1569;FistName1569;2026-05-07 20:47:17;Vocational Training;Los Angeles;USA;Lille;France;Avion;non
+LA_2026050729;KeyPers_LA_1230785;Name785;FistName785;2026-05-07 21:27:43;Conference;Los Angeles;USA;Osaka;Japan;Avion;oui

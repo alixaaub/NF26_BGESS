@@ -1,0 +1,12 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202611040;KeyPers_Shanghai_1230090;Name90;FistName90;2026-11-04 13:45:25;PC fixe sans ecran;Rasberry pi 4
+Shanghai_MATERIEL_INFO_202611041;KeyPers_Shanghai_1230018;Name18;FistName18;2026-11-04 13:38:38;PC fixe sans ecran;Optiplex tower
+Shanghai_MATERIEL_INFO_202611042;KeyPers_Shanghai_1230588;Name588;FistName588;2026-11-04 14:24:07;imprimante;modèle par défaut
+Shanghai_MATERIEL_INFO_202611043;KeyPers_Shanghai_1230739;Name739;FistName739;2026-11-04 08:56:05;PC portable;Precision 5xxx
+Shanghai_MATERIEL_INFO_202611044;KeyPers_Shanghai_1230773;Name773;FistName773;2026-11-04 10:05:54;PC fixe sans ecran;Optiplex tower
+Shanghai_MATERIEL_INFO_202611045;KeyPers_Shanghai_1230033;Name33;FistName33;2026-11-04 10:21:24;PC fixe tout-en-un;iMac 27pouces retina
+Shanghai_MATERIEL_INFO_202611046;KeyPers_Shanghai_1230783;Name783;FistName783;2026-11-04 16:15:28; ;Latitude 5xxx
+Shanghai_MATERIEL_INFO_202611047;KeyPers_Shanghai_1230693;Name693;FistName693;2026-11-04 10:43:23; ;OMEN 
+Shanghai_MATERIEL_INFO_202611048;KeyPers_Shanghai_1230021;Name21;FistName21;2026-11-04 10:02:15;Telephone IP;modèle par défaut
+Shanghai_MATERIEL_INFO_202611049;KeyPers_Shanghai_1230565;Name565;FistName565;2026-11-04 12:17:47;PC portable; 
+Shanghai_MATERIEL_INFO_2026110410;KeyPers_Shanghai_1230746;Name746;FistName746;2026-11-04 08:39:28;PC fixe sans ecran;Prodesk (Tower, SFF)

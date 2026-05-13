@@ -1,0 +1,8 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202605270;KeyPers_Shanghai_1230003;Name3;FistName3;2026-05-27 14:47:54;PC fixe sans ecran; 
+Shanghai_MATERIEL_INFO_202605271;KeyPers_Shanghai_1230893;Name893;FistName893;2026-05-27 11:58:27;PC portable;Chromebook 14-15pouces
+Shanghai_MATERIEL_INFO_202605272;KeyPers_Shanghai_1230252;Name252;FistName252;2026-05-27 09:37:30;Vidéo projecteur;Pour salle
+Shanghai_MATERIEL_INFO_202605273;KeyPers_Shanghai_1230736;Name736;FistName736;2026-05-27 09:04:37; ;Modèle par défaut
+Shanghai_MATERIEL_INFO_202605274;KeyPers_Shanghai_1230030;Name30;FistName30;2026-05-27 16:06:08; ;Elite mini
+Shanghai_MATERIEL_INFO_202605275;KeyPers_Shanghai_1230184;Name184;FistName184;2026-05-27 15:56:22;PC portable; 
+Shanghai_MATERIEL_INFO_202605276;KeyPers_Shanghai_1230234;Name234;FistName234;2026-05-27 11:20:05;PC portable;MacBook air retina

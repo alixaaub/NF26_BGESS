@@ -1,0 +1,35 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Paris_202607010;KeyPers_Paris_1231459;Name1459;FistName1459;2026-07-01 11:36:14;Développement;Paris;France;Melbourne;Australia;Avion;oui
+Paris_202607011;KeyPers_Paris_1232536;Name2536;FistName2536;2026-07-01 15:28:28;Formation;Paris;France;Dubaï;Emirats;Avion;oui
+Paris_202607012;KeyPers_Paris_1233104;Name3104;FistName3104;2026-07-01 11:13:23;Développement;Paris;France;Wellington;New Zealand;Avion;oui
+Paris_202607013;KeyPers_Paris_1230481;Name481;FistName481;2026-07-01 12:36:04;Rencontre entreprises;Paris;France;Washington;USA;Avion;oui
+Paris_202607014;KeyPers_Paris_1232470;Name2470;FistName2470;2026-07-01 07:25:13;Réunion;Paris;France;Los Angeles;USA;Avion;oui
+Paris_202607015;KeyPers_Paris_1230848;Name848;FistName848;2026-07-01 23:04:43;Développement;Paris;France;Wellington;New Zealand;Avion;oui
+Paris_202607016;KeyPers_Paris_1232926;Name2926;FistName2926;2026-07-01 11:54:17;Formation;Paris;France;Berlin;Allemagne;Avion;non
+Paris_202607017;KeyPers_Paris_1232685;Name2685;FistName2685;2026-07-01 23:30:27;Développement;Paris;France;New-York;USA;Avion;oui
+Paris_202607018;KeyPers_Paris_1230505;Name505;FistName505;2026-07-01 19:18:04;Développement;Paris;France;Helsinki;Finlande;Avion;oui
+Paris_202607019;KeyPers_Paris_1234319;Name4319;FistName4319;2026-07-01 22:32:38;Développement;Paris;France;Oslo;Norvège;Avion;oui
+Paris_2026070110;KeyPers_Paris_1234637;Name4637;FistName4637;2026-07-01 06:44:43;Réunion;Paris;France;Bordeaux;France;Train;oui
+Paris_2026070111;KeyPers_Paris_1230921;Name921;FistName921;2026-07-01 10:14:49;Réunion;Paris;France;Helsinki;Finlande;Avion;oui
+Paris_2026070112;KeyPers_Paris_1232084;Name2084;FistName2084;2026-07-01 15:52:44;Conférence;Paris;France;Lille;France;Train;oui
+Paris_2026070113;KeyPers_Paris_1230179;Name179;FistName179;2026-07-01 09:28:20;Conférence;Paris;France;Compiègne;France;Avion;oui
+Paris_2026070114;KeyPers_Paris_1234844;Name4844;FistName4844;2026-07-01 21:37:31;Réunion;Paris;France;Vancouver;Canada;Avion;oui
+Paris_2026070115;KeyPers_Paris_1232019;Name2019;FistName2019;2026-07-01 05:18:47;Conférence;Paris;France;Mexico;Mexico;Avion;non
+Paris_2026070116;KeyPers_Paris_1231329;Name1329;FistName1329;2026-07-01 07:57:02;Rencontre entreprises;Paris;France;Shanghai;China;Avion;non
+Paris_2026070117;KeyPers_Paris_1234598;Name4598;FistName4598;2026-07-01 07:51:16;Rencontre entreprises;Paris;France;Mexico;Mexico;Avion;oui
+Paris_2026070118;KeyPers_Paris_1234180;Name4180;FistName4180;2026-07-01 19:18:34;Rencontre entreprises;Paris;France;Helsinki;Finlande;Avion;oui
+Paris_2026070119;KeyPers_Paris_1230010;Name10;FistName10;2026-07-01 02:44:33;Réunion;Paris;France;Sidney;Australia;Avion;oui
+Paris_2026070120;KeyPers_Paris_1234201;Name4201;FistName4201;2026-07-01 03:03:47;Conférence;Shanghai;China;Vancouver;Canada;Avion;oui
+Paris_2026070121;KeyPers_Paris_1232791;Name2791;FistName2791;2026-07-01 12:03:22;Réunion;Paris;France;Rio de Janeiro;Brazil;Avion;oui
+Paris_2026070122;KeyPers_Paris_1231280;Name1280;FistName1280;2026-07-01 09:33:38;Rencontre entreprises;Paris;France;Lima;Peru;Avion;non
+Paris_2026070123;KeyPers_Paris_1232508;Name2508;FistName2508;2026-07-01 06:23:34;Développement;Paris;France;Compiègne;France;Avion;oui
+Paris_2026070124;KeyPers_Paris_1232975;Name2975;FistName2975;2026-07-01 17:11:52;Rencontre entreprises;Paris;France;Shanghai;China;Avion;oui
+Paris_2026070125;KeyPers_Paris_1233229;Name3229;FistName3229;2026-07-01 13:33:23;Conférence;Paris;France;Alger;Algeria;Avion;oui
+Paris_2026070126;KeyPers_Paris_1234009;Name4009;FistName4009;2026-07-01 04:48:43;Développement;Paris;France;Vancouver;Canada;Avion;oui
+Paris_2026070127;KeyPers_Paris_1230954;Name954;FistName954;2026-07-01 13:57:03;Conférence;Paris;France;Rio de Janeiro;Brazil;Avion;oui
+Paris_2026070128;KeyPers_Paris_1232133;Name2133;FistName2133;2026-07-01 17:07:47;Rencontre entreprises;Paris;France;Wellington;New Zealand;Avion;oui
+Paris_2026070129;KeyPers_Paris_1233574;Name3574;FistName3574;2026-07-01 15:17:25;Conférence;Paris;France;Rabat;Maroc;Avion;oui
+Paris_2026070130;KeyPers_Paris_1233863;Name3863;FistName3863;2026-07-01 18:07:49;Conférence;Paris;France;Shanghai;China;Avion;non
+Paris_2026070131;KeyPers_Paris_1231098;Name1098;FistName1098;2026-07-01 03:01:37;Rencontre entreprises;Paris;France;Vancouver;Canada;Avion;oui
+Paris_2026070132;KeyPers_Paris_1234629;Name4629;FistName4629;2026-07-01 11:14:15;Réunion;Paris;France;Montreal;Canada;Avion;oui
+Paris_2026070133;KeyPers_Paris_1233242;Name3242;FistName3242;2026-07-01 06:36:06;Rencontre entreprises;Paris;France;Rio de Janeiro;Brazil;Avion;non

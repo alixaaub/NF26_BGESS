@@ -1,0 +1,30 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+LONDON_202608290;KeyPers_London_1232571;Name2571;FistName2571;2026-08-29 04:42:15;Business Meeting;London;England;Rabat;Maroc;Avion;oui
+LONDON_202608291;KeyPers_London_1233175;Name3175;FistName3175;2026-08-29 07:58:08;Team Meeting;London;England;Tokyo;Japan;Avion;oui
+LONDON_202608292;KeyPers_London_1230270;Name270;FistName270;2026-08-29 02:10:56;Development;Shanghai;China;Bogota;Colombia;Avion;oui
+LONDON_202608293;KeyPers_London_1232273;Name2273;FistName2273;2026-08-29 13:23:51;Team Meeting;London;England;Sao Paulo;Brazil;Avion;oui
+LONDON_202608294;KeyPers_London_1232772;Name2772;FistName2772;2026-08-29 03:06:45;Business Meeting;London;England;Washington;USA;Avion;oui
+LONDON_202608295;KeyPers_London_1233107;Name3107;FistName3107;2026-08-29 13:21:36;Development;London;England;Buenos Aires;Argentina;Avion;non
+LONDON_202608296;KeyPers_London_1232481;Name2481;FistName2481;2026-08-29 10:20:48;Team Meeting;London;England;Los Angeles;USA;Avion;non
+LONDON_202608297;KeyPers_London_1231568;Name1568;FistName1568;2026-08-29 16:45:28;Business Meeting;London;England;Buenos Aires;Argentina;Avion;oui
+LONDON_202608298;KeyPers_London_1232670;Name2670;FistName2670;2026-08-29 22:23:48;Vocational Training;London;England;London;England;Transports en commun;oui
+LONDON_202608299;KeyPers_London_1233209;Name3209;FistName3209;2026-08-29 04:18:28;Team Meeting;London;England;Los Angeles;USA;Avion;oui
+LONDON_2026082910;KeyPers_London_1230822;Name822;FistName822;2026-08-29 13:20:01;Vocational Training;London;England;Montreal;Canada;Avion;oui
+LONDON_2026082911;KeyPers_London_1230056;Name56;FistName56;2026-08-29 23:14:55;Team Meeting;London;England;Rabat;Maroc;Avion;oui
+LONDON_2026082912;KeyPers_London_1230244;Name244;FistName244;2026-08-29 15:33:47;Development;London;England;Stockholm;Suède;Avion;oui
+LONDON_2026082913;KeyPers_London_1232989;Name2989;FistName2989;2026-08-29 06:59:49;Team Meeting;London;England;Buenos Aires;Argentina;Avion;oui
+LONDON_2026082914;KeyPers_London_1232325;Name2325;FistName2325;2026-08-29 16:46:42;Development;London;England;Sao Paulo;Brazil;Avion;oui
+LONDON_2026082915;KeyPers_London_1232450;Name2450;FistName2450;2026-08-29 19:42:55;Development;London;England;Oslo;Norvège;Avion;oui
+LONDON_2026082916;KeyPers_London_1233274;Name3274;FistName3274;2026-08-29 15:53:23;Development;London;England;Alger;Algeria;Avion;oui
+LONDON_2026082917;KeyPers_London_1232918;Name2918;FistName2918;2026-08-29 02:19:32;Team Meeting;London;England;Tokyo;Japan;Avion;oui
+LONDON_2026082918;KeyPers_London_1231402;Name1402;FistName1402;2026-08-29 23:46:23;Business Meeting;London;England;Bogota;Colombia;Avion;oui
+LONDON_2026082919;KeyPers_London_1233947;Name3947;FistName3947;2026-08-29 08:07:56;Development;London;England;Los Angeles;USA;Avion;oui
+LONDON_2026082920;KeyPers_London_1230556;Name556;FistName556;2026-08-29 04:36:05;Business Meeting;London;England;Lima;Peru;Avion;oui
+LONDON_2026082921;KeyPers_London_1232528;Name2528;FistName2528;2026-08-29 07:28:16;Development;London;England;Lima;Peru;Avion;oui
+LONDON_2026082922;KeyPers_London_1232990;Name2990;FistName2990;2026-08-29 18:10:35;Business Meeting;London;England;Auckland;New Zealand;Avion;oui
+LONDON_2026082923;KeyPers_London_1232928;Name2928;FistName2928;2026-08-29 12:34:39;Conference;London;England;Lille;France;Avion;oui
+LONDON_2026082924;KeyPers_London_1231177;Name1177;FistName1177;2026-08-29 06:34:22;Vocational Training;London;England;Melbourne;Australia;Avion;oui
+LONDON_2026082925;KeyPers_London_1233170;Name3170;FistName3170;2026-08-29 18:39:29;Development;London;England;Tunis;Tunisie;Avion;oui
+LONDON_2026082926;KeyPers_London_1233989;Name3989;FistName3989;2026-08-29 14:14:21;Business Meeting;London;England;Marseille;France;Avion;oui
+LONDON_2026082927;KeyPers_London_1231720;Name1720;FistName1720;2026-08-29 18:41:12;Vocational Training;London;England;Berlin;Allemagne;Avion;oui
+LONDON_2026082928;KeyPers_London_1232387;Name2387;FistName2387;2026-08-29 16:56:47;Development;London;England;Pekin;China;Avion;oui

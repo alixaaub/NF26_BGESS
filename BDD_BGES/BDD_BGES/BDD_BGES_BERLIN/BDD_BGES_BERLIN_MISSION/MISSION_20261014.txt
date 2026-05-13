@@ -1,0 +1,32 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+BERLIN_202610140;KeyPers_Berlin_1234195;Name4195;FistName4195;2026-10-14 08:57:59;Schulung;Berlin;Allemagne;Lille;France;Avion;oui
+BERLIN_202610141;KeyPers_Berlin_1232166;Name2166;FistName2166;2026-10-14 06:13:27;Schulung;Berlin;Allemagne;Tunis;Tunisie;Avion;oui
+BERLIN_202610142;KeyPers_Berlin_1230811;Name811;FistName811;2026-10-14 17:09:25;Konferenz;Berlin;Allemagne;Auckland;New Zealand;Avion;oui
+BERLIN_202610143;KeyPers_Berlin_1232173;Name2173;FistName2173;2026-10-14 03:41:11;Meeting;Berlin;Allemagne;Berlin;Allemagne;Transports en commun;oui
+BERLIN_202610144;KeyPers_Berlin_1233913;Name3913;FistName3913;2026-10-14 13:36:32;Schulung;Berlin;Allemagne;Washington;USA;Avion;non
+BERLIN_202610145;KeyPers_Berlin_1233629;Name3629;FistName3629;2026-10-14 06:50:10;Entwicklung;Berlin;Allemagne;Rabat;Maroc;Avion;oui
+BERLIN_202610146;KeyPers_Berlin_1233500;Name3500;FistName3500;2026-10-14 23:18:38;Geschäftstreffen;Paris;France;Tunis;Tunisie;Avion;oui
+BERLIN_202610147;KeyPers_Berlin_1230132;Name132;FistName132;2026-10-14 03:49:48;Geschäftstreffen;Berlin;Allemagne;Rio de Janeiro;Brazil;Avion;oui
+BERLIN_202610148;KeyPers_Berlin_1233257;Name3257;FistName3257;2026-10-14 13:25:17;Entwicklung;Berlin;Allemagne;Tunis;Tunisie;Avion;non
+BERLIN_202610149;KeyPers_Berlin_1232234;Name2234;FistName2234;2026-10-14 10:09:13;Geschäftstreffen;Berlin;Allemagne;Pekin;China;Avion;oui
+BERLIN_2026101410;KeyPers_Berlin_1232302;Name2302;FistName2302;2026-10-14 11:26:01;Konferenz;Berlin;Allemagne;Oslo;Norvège;Avion;oui
+BERLIN_2026101411;KeyPers_Berlin_1233182;Name3182;FistName3182;2026-10-14 21:45:16;Schulung;Berlin;Allemagne;Compiègne;France;Avion;oui
+BERLIN_2026101412;KeyPers_Berlin_1233079;Name3079;FistName3079;2026-10-14 20:03:30;Konferenz;Berlin;Allemagne;Marseille;France;Avion;oui
+BERLIN_2026101413;KeyPers_Berlin_1232398;Name2398;FistName2398;2026-10-14 23:05:27;Konferenz;Berlin;Allemagne;Melbourne;Australia;Avion;non
+BERLIN_2026101414;KeyPers_Berlin_1233457;Name3457;FistName3457;2026-10-14 17:25:30;Meeting;Berlin;Allemagne;Montreal;Canada;Avion;oui
+BERLIN_2026101415;KeyPers_Berlin_1232959;Name2959;FistName2959;2026-10-14 23:58:44;Entwicklung;Berlin;Allemagne;Sidney;Australia;Avion;oui
+BERLIN_2026101416;KeyPers_Berlin_1232586;Name2586;FistName2586;2026-10-14 23:25:23;Konferenz;Berlin;Allemagne;Montreal;Canada;Avion;oui
+BERLIN_2026101417;KeyPers_Berlin_1231198;Name1198;FistName1198;2026-10-14 06:52:10;Entwicklung;Berlin;Allemagne;Bordeaux;France;Avion;non
+BERLIN_2026101418;KeyPers_Berlin_1230379;Name379;FistName379;2026-10-14 20:35:11;Entwicklung;Berlin;Allemagne;Vancouver;Canada;Avion;oui
+BERLIN_2026101419;KeyPers_Berlin_1232249;Name2249;FistName2249;2026-10-14 15:43:36;Geschäftstreffen;Berlin;Allemagne;Shanghai;China;Avion;oui
+BERLIN_2026101420;KeyPers_Berlin_1231315;Name1315;FistName1315;2026-10-14 18:11:43;Entwicklung;Berlin;Allemagne;Mexico;Mexico;Avion;oui
+BERLIN_2026101421;KeyPers_Berlin_1234134;Name4134;FistName4134;2026-10-14 18:53:45;Schulung;Berlin;Allemagne;Oslo;Norvège;Avion;oui
+BERLIN_2026101422;KeyPers_Berlin_1230911;Name911;FistName911;2026-10-14 12:46:20;Geschäftstreffen;Berlin;Allemagne;Stockholm;Suède;Avion;oui
+BERLIN_2026101423;KeyPers_Berlin_1233994;Name3994;FistName3994;2026-10-14 10:46:59;Geschäftstreffen;Berlin;Allemagne;Dubaï;Emirats;Avion;non
+BERLIN_2026101424;KeyPers_Berlin_1234223;Name4223;FistName4223;2026-10-14 10:01:40;Schulung;Berlin;Allemagne;Tunis;Tunisie;Avion;oui
+BERLIN_2026101425;KeyPers_Berlin_1231395;Name1395;FistName1395;2026-10-14 19:03:41;Schulung;Berlin;Allemagne;Mexico;Mexico;Avion;oui
+BERLIN_2026101426;KeyPers_Berlin_1232171;Name2171;FistName2171;2026-10-14 17:12:22;Meeting;Berlin;Allemagne;Los Angeles;USA;Avion;oui
+BERLIN_2026101427;KeyPers_Berlin_1231652;Name1652;FistName1652;2026-10-14 19:16:01;Geschäftstreffen;Berlin;Allemagne;Washington;USA;Avion;oui
+BERLIN_2026101428;KeyPers_Berlin_1233532;Name3532;FistName3532;2026-10-14 02:18:48;Entwicklung;Berlin;Allemagne;New-York;USA;Avion;non
+BERLIN_2026101429;KeyPers_Berlin_1230051;Name51;FistName51;2026-10-14 01:37:26;Geschäftstreffen;Shanghai;China;Berlin;Allemagne;Avion;oui
+BERLIN_2026101430;KeyPers_Berlin_1233581;Name3581;FistName3581;2026-10-14 08:55:21;Konferenz;Berlin;Allemagne;Los Angeles;USA;Avion;oui

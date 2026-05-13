@@ -1,0 +1,15 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Paris_MATERIEL_INFO_202610210;KeyPers_Paris_1234848;Name4848;FistName4848;2026-10-21 15:28:30;PC portable;modèle par défaut
+Paris_MATERIEL_INFO_202610211;KeyPers_Paris_1230285;Name285;FistName285;2026-10-21 12:12:01;PC fixe sans ecran;ProDesk mini/DM
+Paris_MATERIEL_INFO_202610212;KeyPers_Paris_1232530;Name2530;FistName2530;2026-10-21 12:03:45; ;Pour salle
+Paris_MATERIEL_INFO_202610213;KeyPers_Paris_1231347;Name1347;FistName1347;2026-10-21 13:58:47;imprimante;modèle par défaut
+Paris_MATERIEL_INFO_202610214;KeyPers_Paris_1232958;Name2958;FistName2958;2026-10-21 13:46:29;Vidéo projecteur;Pour amphi
+Paris_MATERIEL_INFO_202610215;KeyPers_Paris_1234057;Name4057;FistName4057;2026-10-21 09:43:28;Vidéo projecteur;modèle par défaut
+Paris_MATERIEL_INFO_202610216;KeyPers_Paris_1231950;Name1950;FistName1950;2026-10-21 15:38:19;PC portable;ZBook Studio
+Paris_MATERIEL_INFO_202610217;KeyPers_Paris_1230934;Name934;FistName934;2026-10-21 14:10:24;PC fixe sans ecran;modèle par défaut
+Paris_MATERIEL_INFO_202610218;KeyPers_Paris_1234743;Name4743;FistName4743;2026-10-21 11:35:03;Vidéo projecteur;Pour amphi
+Paris_MATERIEL_INFO_202610219;KeyPers_Paris_1231655;Name1655;FistName1655;2026-10-21 13:02:12;PC fixe tout-en-un; 
+Paris_MATERIEL_INFO_2026102110;KeyPers_Paris_1234783;Name4783;FistName4783;2026-10-21 14:05:35;imprimante;Laser A3 (>100kg)
+Paris_MATERIEL_INFO_2026102111;KeyPers_Paris_1231133;Name1133;FistName1133;2026-10-21 10:40:50; ;Laser à poser (<40kg)
+Paris_MATERIEL_INFO_2026102112;KeyPers_Paris_1233146;Name3146;FistName3146;2026-10-21 12:57:07;Ecran;modèle par défaut
+Paris_MATERIEL_INFO_2026102113;KeyPers_Paris_1230275;Name275;FistName275;2026-10-21 12:21:51;Vidéo projecteur;Pour salle

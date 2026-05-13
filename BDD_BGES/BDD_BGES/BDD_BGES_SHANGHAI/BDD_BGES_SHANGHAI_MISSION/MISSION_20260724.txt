@@ -1,0 +1,15 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Shanghai_202607240;KeyPers_Shanghai_1230853;Name853;FistName853;2026-07-24 10:28:53;Business Meeting;Shanghai;China;Tunis;Tunisie;Avion;oui
+Shanghai_202607241;KeyPers_Shanghai_1230439;Name439;FistName439;2026-07-24 13:47:25;Development;Shanghai;China;Rio de Janeiro;Brazil;Avion;non
+Shanghai_202607242;KeyPers_Shanghai_1230644;Name644;FistName644;2026-07-24 13:42:18;Development;Shanghai;China;Stockholm;Suède;Avion;oui
+Shanghai_202607243;KeyPers_Shanghai_1230389;Name389;FistName389;2026-07-24 17:19:42;Team Meeting;Shanghai;China;Tunis;Tunisie;Avion;oui
+Shanghai_202607244;KeyPers_Shanghai_1230888;Name888;FistName888;2026-07-24 12:10:34;Vocational Training;Shanghai;China;London;England;Avion;oui
+Shanghai_202607245;KeyPers_Shanghai_1230489;Name489;FistName489;2026-07-24 23:52:31;Team Meeting;Shanghai;China;Stockholm;Suède;Avion;oui
+Shanghai_202607246;KeyPers_Shanghai_1230817;Name817;FistName817;2026-07-24 17:33:16;Team Meeting;Shanghai;China;Vancouver;Canada;Avion;oui
+Shanghai_202607247;KeyPers_Shanghai_1230686;Name686;FistName686;2026-07-24 19:04:54;Vocational Training;Shanghai;China;Lima;Peru;Avion;oui
+Shanghai_202607248;KeyPers_Shanghai_1230269;Name269;FistName269;2026-07-24 08:57:52;Development;Shanghai;China;Berlin;Allemagne;Avion;oui
+Shanghai_202607249;KeyPers_Shanghai_1230112;Name112;FistName112;2026-07-24 13:13:52;Conference;Shanghai;China;Rio de Janeiro;Brazil;Avion;oui
+Shanghai_2026072410;KeyPers_Shanghai_1230287;Name287;FistName287;2026-07-24 05:24:50;Development;Shanghai;China;Wellington;New Zealand;Avion;oui
+Shanghai_2026072411;KeyPers_Shanghai_1230815;Name815;FistName815;2026-07-24 02:59:27;Vocational Training;Shanghai;China;Montreal;Canada;Avion;oui
+Shanghai_2026072412;KeyPers_Shanghai_1230604;Name604;FistName604;2026-07-24 12:37:03;Development;Shanghai;China;Sao Paulo;Brazil;Avion;oui
+Shanghai_2026072413;KeyPers_Shanghai_1230131;Name131;FistName131;2026-07-24 05:53:07;Business Meeting;Shanghai;China;Vancouver;Canada;Avion;oui

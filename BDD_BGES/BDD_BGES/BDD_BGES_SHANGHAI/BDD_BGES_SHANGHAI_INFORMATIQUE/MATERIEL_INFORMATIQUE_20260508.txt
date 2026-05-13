@@ -1,0 +1,5 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202605080;KeyPers_Shanghai_1230328;Name328;FistName328;2026-05-08 16:16:06;PC fixe sans ecran;Precision tower 7xxx
+Shanghai_MATERIEL_INFO_202605081;KeyPers_Shanghai_1230570;Name570;FistName570;2026-05-08 15:38:36; ;MacBook air
+Shanghai_MATERIEL_INFO_202605082;KeyPers_Shanghai_1230496;Name496;FistName496;2026-05-08 13:38:23;PC fixe tout-en-un;Optiplex All-in-One 5xxx
+Shanghai_MATERIEL_INFO_202605083;KeyPers_Shanghai_1230386;Name386;FistName386;2026-05-08 12:52:55;clavier;modèle par défaut

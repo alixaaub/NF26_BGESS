@@ -1,0 +1,13 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202609220;KeyPers_Shanghai_1230794;Name794;FistName794;2026-09-22 11:30:08; ;modèle par défaut
+Shanghai_MATERIEL_INFO_202609221;KeyPers_Shanghai_1230707;Name707;FistName707;2026-09-22 08:49:24;PC portable;Latitude 7xxx
+Shanghai_MATERIEL_INFO_202609222;KeyPers_Shanghai_1230947;Name947;FistName947;2026-09-22 15:18:59;PC fixe sans ecran;Mac pro
+Shanghai_MATERIEL_INFO_202609223;KeyPers_Shanghai_1230559;Name559;FistName559;2026-09-22 09:18:05;PC fixe tout-en-un;iMac 21pouces retina
+Shanghai_MATERIEL_INFO_202609224;KeyPers_Shanghai_1230430;Name430;FistName430;2026-09-22 14:55:28; ;Elite (Tower, SFF, One)
+Shanghai_MATERIEL_INFO_202609225;KeyPers_Shanghai_1230985;Name985;FistName985;2026-09-22 09:34:25; ;OMEN 
+Shanghai_MATERIEL_INFO_202609226;KeyPers_Shanghai_1230680;Name680;FistName680;2026-09-22 09:48:11;PC portable;MacBook air retina
+Shanghai_MATERIEL_INFO_202609227;KeyPers_Shanghai_1230810;Name810;FistName810;2026-09-22 08:42:36;PC portable;Chromebook 11-13pouces
+Shanghai_MATERIEL_INFO_202609228;KeyPers_Shanghai_1230862;Name862;FistName862;2026-09-22 10:03:18;PC fixe sans ecran;Optiplex small
+Shanghai_MATERIEL_INFO_202609229;KeyPers_Shanghai_1230643;Name643;FistName643;2026-09-22 10:50:55; ;Laser A3 (>100kg)
+Shanghai_MATERIEL_INFO_2026092210;KeyPers_Shanghai_1230197;Name197;FistName197;2026-09-22 13:57:34;Vidéo projecteur;Pour salle
+Shanghai_MATERIEL_INFO_2026092211;KeyPers_Shanghai_1230014;Name14;FistName14;2026-09-22 16:31:19;PC fixe sans ecran;Z

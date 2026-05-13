@@ -1,0 +1,14 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Paris_MATERIEL_INFO_202605220;KeyPers_Paris_1234015;Name4015;FistName4015;2026-05-22 09:19:15;Vidéo projecteur;Transportable
+Paris_MATERIEL_INFO_202605221;KeyPers_Paris_1234328;Name4328;FistName4328;2026-05-22 13:41:25;PC fixe sans ecran;PC Fixe (moy)
+Paris_MATERIEL_INFO_202605222;KeyPers_Paris_1233964;Name3964;FistName3964;2026-05-22 10:04:58;Serveur;Serveur de stockage
+Paris_MATERIEL_INFO_202605223;KeyPers_Paris_1233277;Name3277;FistName3277;2026-05-22 16:20:42;PC fixe sans ecran;Rasberry pi 4
+Paris_MATERIEL_INFO_202605224;KeyPers_Paris_1231661;Name1661;FistName1661;2026-05-22 09:57:18;Serveur;Modèle par défaut
+Paris_MATERIEL_INFO_202605225;KeyPers_Paris_1234284;Name4284;FistName4284;2026-05-22 14:14:28; ;Modèle par défaut
+Paris_MATERIEL_INFO_202605226;KeyPers_Paris_1234607;Name4607;FistName4607;2026-05-22 09:09:10;Vidéo projecteur;Transportable
+Paris_MATERIEL_INFO_202605227;KeyPers_Paris_1234006;Name4006;FistName4006;2026-05-22 09:48:52;souris;modèle par défaut
+Paris_MATERIEL_INFO_202605228;KeyPers_Paris_1234166;Name4166;FistName4166;2026-05-22 14:21:42;PC portable;Latitude 7xxx
+Paris_MATERIEL_INFO_202605229;KeyPers_Paris_1233216;Name3216;FistName3216;2026-05-22 08:32:58;Telephone IP;modèle par défaut
+Paris_MATERIEL_INFO_2026052210;KeyPers_Paris_1232732;Name2732;FistName2732;2026-05-22 16:01:40;PC fixe sans ecran;Rasberry pi 4
+Paris_MATERIEL_INFO_2026052211;KeyPers_Paris_1233753;Name3753;FistName3753;2026-05-22 11:57:13;PC fixe tout-en-un;modèle par défaut
+Paris_MATERIEL_INFO_2026052212;KeyPers_Paris_1234263;Name4263;FistName4263;2026-05-22 08:03:33; ;modèle par défaut

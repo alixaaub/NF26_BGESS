@@ -1,0 +1,14 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+LONDON_202607190;KeyPers_London_1232957;Name2957;FistName2957;2026-07-19 05:35:03;Business Meeting;London;England;Melbourne;Australia;Avion;oui
+LONDON_202607191;KeyPers_London_1230977;Name977;FistName977;2026-07-19 07:05:30;Vocational Training;London;England;Dubaï;Emirats;Avion;oui
+LONDON_202607192;KeyPers_London_1233288;Name3288;FistName3288;2026-07-19 06:22:51;Team Meeting;London;England;Tunis;Tunisie;Avion;non
+LONDON_202607193;KeyPers_London_1234186;Name4186;FistName4186;2026-07-19 07:12:41;Development;London;England;Washington;USA;Avion;oui
+LONDON_202607194;KeyPers_London_1232058;Name2058;FistName2058;2026-07-19 23:43:56;Business Meeting;London;England;Pekin;China;Avion;oui
+LONDON_202607195;KeyPers_London_1230498;Name498;FistName498;2026-07-19 10:21:12;Vocational Training;London;England;Tunis;Tunisie;Avion;oui
+LONDON_202607196;KeyPers_London_1232607;Name2607;FistName2607;2026-07-19 03:41:31;Team Meeting;London;England;Osaka;Japan;Avion;oui
+LONDON_202607197;KeyPers_London_1232975;Name2975;FistName2975;2026-07-19 03:49:10;Business Meeting;London;England;Rio de Janeiro;Brazil;Avion;oui
+LONDON_202607198;KeyPers_London_1233711;Name3711;FistName3711;2026-07-19 07:14:40;Vocational Training;Paris;France;Sao Paulo;Brazil;Avion;oui
+LONDON_202607199;KeyPers_London_1232754;Name2754;FistName2754;2026-07-19 17:38:22;Business Meeting;London;England;Bordeaux;France;Avion;oui
+LONDON_2026071910;KeyPers_London_1233159;Name3159;FistName3159;2026-07-19 03:12:10;Business Meeting;London;England;Tokyo;Japan;Avion;oui
+LONDON_2026071911;KeyPers_London_1232024;Name2024;FistName2024;2026-07-19 15:57:30;Vocational Training;London;England;Osaka;Japan;Avion;oui
+LONDON_2026071912;KeyPers_London_1232187;Name2187;FistName2187;2026-07-19 11:05:14;Team Meeting;London;England;New-York;USA;Avion;oui

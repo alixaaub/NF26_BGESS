@@ -1,0 +1,13 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+NewYork_MATERIEL_INFO_202607220;KeyPers_NewYork_1232869;Name2869;FistName2869;2026-07-22 09:52:33;PC fixe tout-en-un;Mac pro
+NewYork_MATERIEL_INFO_202607221;KeyPers_NewYork_1230789;Name789;FistName789;2026-07-22 15:55:30; ;Moyenne 14/15pouces
+NewYork_MATERIEL_INFO_202607222;KeyPers_NewYork_1232160;Name2160;FistName2160;2026-07-22 10:42:46; ;ProBook 
+NewYork_MATERIEL_INFO_202607223;KeyPers_NewYork_1232452;Name2452;FistName2452;2026-07-22 08:53:37;Vidéo projecteur;modèle par défaut
+NewYork_MATERIEL_INFO_202607224;KeyPers_NewYork_1232070;Name2070;FistName2070;2026-07-22 14:59:01;PC portable;MacBook air retina
+NewYork_MATERIEL_INFO_202607225;KeyPers_NewYork_1231891;Name1891;FistName1891;2026-07-22 09:59:53;PC fixe sans ecran;Optiplex small
+NewYork_MATERIEL_INFO_202607226;KeyPers_NewYork_1231298;Name1298;FistName1298;2026-07-22 15:39:33;PC fixe sans ecran;EliteDesk (Tower, SFF, One)
+NewYork_MATERIEL_INFO_202607227;KeyPers_NewYork_1230550;Name550;FistName550;2026-07-22 11:19:34;PC portable;Moyenne 17pouces
+NewYork_MATERIEL_INFO_202607228;KeyPers_NewYork_1232686;Name2686;FistName2686;2026-07-22 15:54:48; ;MacBook air pre-retina
+NewYork_MATERIEL_INFO_202607229;KeyPers_NewYork_1230891;Name891;FistName891;2026-07-22 10:43:11;PC fixe sans ecran;EliteDesk (Tower, SFF, One)
+NewYork_MATERIEL_INFO_2026072210;KeyPers_NewYork_1231384;Name1384;FistName1384;2026-07-22 11:17:44;PC fixe sans ecran;Optiplex micro
+NewYork_MATERIEL_INFO_2026072211;KeyPers_NewYork_1232883;Name2883;FistName2883;2026-07-22 15:19:43;PC fixe sans ecran;EliteDesk (Tower, SFF, One)
