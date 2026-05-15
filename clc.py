@@ -1,5 +1,8 @@
 import os
 os.environ["PYARROW_IGNORE_TIMEZONE"] = "1"
+import sys
+os.environ['PYSPARK_PYTHON'] = sys.executable
+os.environ['PYSPARK_DRIVER_PYTHON'] = sys.executable
 
 from datetime import datetime, timedelta
 import asyncio
@@ -56,7 +59,10 @@ TRANSLATIONS_MATRIX = {"Ökonom":"Economiste",
 
 #Map pour la traduction
 dict_expr = create_map([lit(x) for k, v in TRANSLATIONS_MATRIX.items() for x in (k, v)])
-
+df_traductions = ps.DataFrame(
+    list(TRANSLATIONS_MATRIX.items()), 
+    columns=["MOT_ORIGINE", "MOT_TRADUIT"]
+)
 LANGUE_CIBLE = "fr"
 
 def get_site_from_path(col_path):
@@ -76,25 +82,32 @@ def init_constellation():
     try:
         psdf_pers = ps.read_csv(personnel_path, sep=";")
         psdf_pers = psdf_pers.drop_duplicates()
-        psdf_pers['FONCTION_PERSONNEL'] = psdf_pers['FONCTION_PERSONNEL'].replace(TRANSLATIONS_MATRIX)
+
+        psdf_pers = psdf_pers.merge(df_traductions, left_on='FONCTION_PERSONNEL', right_on='MOT_ORIGINE', how='left')
+        # On remplace par la traduction si elle existe, sinon on garde le mot d'origine
+        psdf_pers['FONCTION_PERSONNEL'] = psdf_pers['MOT_TRADUIT'].fillna(psdf_pers['FONCTION_PERSONNEL'])
         
-        dim_personnel = psdf_pers[['ID_PERSONNEL', 'FONCTION_PERSONNEL', 'DT_NAISS']].drop_duplicates()
-        dim_site = psdf_pers[['VILLE', 'PAYS']].drop_duplicates().rename(columns={"VILLE": "ID_SITE"}) # Exemple d'ID_SITE
+        # --- SOLUTION INFAILLIBLE POUR LE SITE ---
+        # Au lieu de .split(), on utilise une regex (extract) qui est nativement supportée
+        # (Capture tout ce qui se trouve entre "PERS_" et "_")
+        psdf_pers["SITE"] = psdf_pers["ID_PERSONNEL"].str.extract(r'PERS_(.*?)_')
+
+        # Création de la dimension
+        dim_personnel = psdf_pers[['ID_PERSONNEL', 'FONCTION_PERSONNEL', 'DT_NAISS', 'SITE']].drop_duplicates()
+        
     except Exception as e:
         print(f"Attention : aucun fichier personnel trouvé ({e}). Tables initialisées vides.")
-        dim_personnel = ps.DataFrame(columns=['ID_PERSONNEL', 'FONCTION_PERSONNEL', 'AGE'])
-        dim_site = ps.DataFrame(columns=['ID_SITE', 'PAYS'])
+        dim_personnel = ps.DataFrame(columns=['ID_PERSONNEL', 'FONCTION_PERSONNEL', 'DT_NAISS', 'SITE'])
         
     # Initialisation de la structure de la constellation
     schema_initial = {
-        "DF_IMPACT": psdf_impact, # Stocké dans le schéma pour être accessible par l'ETL quotidien
+        "DF_IMPACT": psdf_impact, # Stocké ici, sera utilisé avec un simple .merge() dans l'ETL quotidien, sans broadcast
         "DIM_PERSONNEL": dim_personnel,
         "DIM_MISSION": ps.DataFrame(columns=["ID_MISSION", "TYPE_MISSION", "VILLE_DEPART", "PAYS_DEPART", "VILLE_DESTINATION", "PAYS_DESTINATION", "TRANSPORT", "ALLER_RETOUR"]),
         "DIM_MATERIEL": ps.DataFrame(columns=["ID_MATERIEL", "TYPE", "MODELE"]),
-        "FAIT_MISSION": ps.DataFrame(columns=["ID_PERSONNEL", "ID_MISSION", "ID_DATE_MISSION"]),
-        "FAIT_MATERIEL": ps.DataFrame(columns=["ID_PERSONNEL", "ID_MATERIEL", "ID_DATE_ACHAT"])
+        "FAIT_MISSION": ps.DataFrame(columns=["SITE", "ID_PERSONNEL", "ID_MISSION", "ID_DATE_MISSION"]),
+        "FAIT_MATERIEL": ps.DataFrame(columns=["SITE", "ID_PERSONNEL", "ID_MATERIEL", "ID_DATE_ACHAT"])
     }
-    
     print("[OK] Schéma de constellation initialisé.")
     return schema_initial
 
@@ -110,7 +123,6 @@ def etl_daily_missions(date_str, schema_existant):
     it_path = f"file://{BASE_DIR}/BDD_BGES_*/BDD_BGES_*_INFORMATIQUE/MATERIEL_INFORMATIQUE_{date_str}.txt"
     mission_ok = False
     it_ok = False
-
 
     try:
         psdf_mission = ps.read_csv(mission_path, sep=";")
@@ -151,6 +163,8 @@ def etl_daily_missions(date_str, schema_existant):
         
         fait_mission_jour = psdf_mission[["ID_PERSONNEL", "ID_MISSION", "DATE_MISSION"]].drop_duplicates()
         fait_mission_jour = fait_mission_jour.rename(columns={"DATE_MISSION": "ID_DATE_MISSION"})
+        fait_mission_jour["SITE"] =  fait_mission_jour["ID_PERSONNEL"].str.split("_")[1]
+
         schema_existant["FAIT_MISSION"] = ps.concat([schema_existant["FAIT_MISSION"], fait_mission_jour]).drop_duplicates(["ID_PERSONNEL", "ID_MISSION"])
 
     # 3. Mettre à jour DIM_MATERIEL et FAIT_MATERIEL
@@ -162,6 +176,7 @@ def etl_daily_missions(date_str, schema_existant):
             "ID_MATERIELINFO": "ID_MATERIEL", 
             "DATE_ACHAT": "ID_DATE_ACHAT"
         })
+        fait_mat_jour["SITE"] =  fait_mat_jour["ID_PERSONNEL"].str.split("_")[1]
         schema_existant["FAIT_MATERIEL"] = ps.concat([schema_existant["FAIT_MATERIEL"], fait_mat_jour]).drop_duplicates(["ID_PERSONNEL", "ID_MATERIEL"])
 
     print(f"[SUCCES] Données du jour fusionnées. Le schéma global mis à jour a été renvoyé.")
@@ -177,11 +192,12 @@ def main():
     current_date = datetime(2026, 4, 29)
     end_date = datetime(2026, 11, 5)
     delta = timedelta(days=1)
+    date_str = current_date.strftime("%Y%m%d")
 
     while current_date <= end_date:
-      print(f"\nLancement du processus ETL pour le jour : {current_date.strftime('%Y-%m-%d')}")
+      print(f"\nLancement du processus ETL pour le jour : {date_str}")
 
-      schema = etl_daily_missions(date_str=str(current_date), schema_existant = schema)
+      schema = etl_daily_missions(date_str=date_str, schema_existant = schema)
 
       schema["FAIT_MISSION"].show(5)
       schema["FAIT_MATERIEL"].show(5)
