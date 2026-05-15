@@ -1,9 +1,7 @@
 import os
 os.environ["PYARROW_IGNORE_TIMEZONE"] = "1"
 
-import pandas as pd
-import numpy as np
-from datetime import datetime, date, timedelta
+from datetime import datetime, timedelta
 import asyncio
 import nest_asyncio
 nest_asyncio.apply()
@@ -14,7 +12,8 @@ warnings.filterwarnings("ignore", message="If `index_col` is not specified*")
 import pyspark.pandas as ps
 from pyspark.sql import SparkSession
 from pyspark.sql import Row
-from numpy._core.multiarray import empty_like
+from pyspark.sql.types import StringType
+from pyspark.sql.window import Window
 from sklearn.linear_model import LinearRegression
 
 spark = SparkSession.builder.getOrCreate()
@@ -25,29 +24,12 @@ from pyspark.sql.functions import *
 # CONFIGURATION (codé en dur)
 # ==============================================================================
 
-BASE_DIR = os.path.join(os.path.dirname("BDD_BGES"), "BDD_BGES/BDD_BGES")
+BASE_DIR = os.path.abspath("BDD_BGES/BDD_BGES")
 
 SITES = ["BERLIN", "LONDON", "LOSANGELES", "NEWYORK", "PARIS", "SHANGHAI"]
 
 IMPACT_PATH = os.path.join(BASE_DIR, "materiel_informatique_impact.csv")
 
-# Colonnes à conserver par type de fichier
-COLS_PERSONNEL = [
-    'ID_PERSONNEL', 'NOM_PERSONNEL', 'PRENOM_PERSONNEL',
-    'NUM_VOIE', 'CMPL_VOIE', 'CD_POSTAL', 'VILLE', 'PAYS',
-    'FONCTION_PERSONNEL', 'TS_CREATION_PERSONNEL'
-]
-
-COLS_MATERIEL = [
-    'ID_MATERIELINFO', 'ID_PERSONNEL', 'NOM_PERSONNEL', 'PRENOM_PERSONNEL',
-    'DATE_ACHAT', 'TYPE', 'MODELE'
-]
-
-COLS_MISSION = [
-    'ID_MISSION', 'ID_PERSONNEL', 'NOM_PERSONNEL', 'PRENOM_PERSONNEL',
-    'DATE_MISSION', 'TYPE_MISSION', 'VILLE_DEPART', 'PAYS_DEPART',
-    'VILLE_DESTINATION', 'PAYS_DESTINATION', 'TRANSPORT', 'ALLER_RETOUR'
-]
 
 # Dictionnaires de traductions (à compléter)
 TRANSLATIONS_MATRIX = {"Ökonom":"Economiste",
@@ -72,27 +54,156 @@ TRANSLATIONS_MATRIX = {"Ökonom":"Economiste",
     "Development":"Développement"
 }
 
+#Map pour la traduction
+dict_expr = create_map([lit(x) for k, v in TRANSLATIONS_MATRIX.items() for x in (k, v)])
+
 LANGUE_CIBLE = "fr"
 
+def get_site_from_path(col_path):
+    """Extrait le nom du site à partir du chemin du fichier"""
+    return regexp_extract(col_path, r'PERSONNEL_([A-Z]+)\.txt|BDD_BGES_([A-Z]+)', 1)
+
+
+def init_constellation():
+    print("--- Initialisation du Schéma Constellation ---")
+    
+    # 1A. Référentiel IMPACT
+    psdf_impact = ps.read_csv(IMPACT_PATH)
+    psdf_impact.columns = [str(c).strip().upper().replace("È", "E") for c in psdf_impact.columns]
+    
+    # 1B. Référentiel PERSONNEL
+    personnel_path = f"file://{BASE_DIR}/BDD_BGES_*/PERSONNEL_*.txt"
+    try:
+        psdf_pers = ps.read_csv(personnel_path, sep=";")
+        psdf_pers = psdf_pers.drop_duplicates()
+        psdf_pers['FONCTION_PERSONNEL'] = psdf_pers['FONCTION_PERSONNEL'].replace(TRANSLATIONS_MATRIX)
+        
+        dim_personnel = psdf_pers[['ID_PERSONNEL', 'FONCTION_PERSONNEL', 'DT_NAISS']].drop_duplicates()
+        dim_site = psdf_pers[['VILLE', 'PAYS']].drop_duplicates().rename(columns={"VILLE": "ID_SITE"}) # Exemple d'ID_SITE
+    except Exception as e:
+        print(f"Attention : aucun fichier personnel trouvé ({e}). Tables initialisées vides.")
+        dim_personnel = ps.DataFrame(columns=['ID_PERSONNEL', 'FONCTION_PERSONNEL', 'AGE'])
+        dim_site = ps.DataFrame(columns=['ID_SITE', 'PAYS'])
+        
+    # Initialisation de la structure de la constellation
+    schema_initial = {
+        "DF_IMPACT": psdf_impact, # Stocké dans le schéma pour être accessible par l'ETL quotidien
+        "DIM_PERSONNEL": dim_personnel,
+        "DIM_MISSION": ps.DataFrame(columns=["ID_MISSION", "TYPE_MISSION", "VILLE_DEPART", "PAYS_DEPART", "VILLE_DESTINATION", "PAYS_DESTINATION", "TRANSPORT", "ALLER_RETOUR"]),
+        "DIM_MATERIEL": ps.DataFrame(columns=["ID_MATERIEL", "TYPE", "MODELE"]),
+        "FAIT_MISSION": ps.DataFrame(columns=["ID_PERSONNEL", "ID_MISSION", "ID_DATE_MISSION"]),
+        "FAIT_MATERIEL": ps.DataFrame(columns=["ID_PERSONNEL", "ID_MATERIEL", "ID_DATE_ACHAT"])
+    }
+    
+    print("[OK] Schéma de constellation initialisé.")
+    return schema_initial
+
+
+def etl_daily_missions(date_str, schema_existant):
+    print(f"\n--- Lancement ETL Transactionnel pour le : {date_str} ---")
+    
+    # Récupération du référentiel impact depuis le schéma reçu en paramètre
+    psdf_impact = schema_existant["DF_IMPACT"]
+    
+    # --- EXTRACT ---
+    mission_path = f"file://{BASE_DIR}/BDD_BGES_*/BDD_BGES_*_MISSION/MISSION_{date_str}.txt"
+    it_path = f"file://{BASE_DIR}/BDD_BGES_*/BDD_BGES_*_INFORMATIQUE/MATERIEL_INFORMATIQUE_{date_str}.txt"
+    mission_ok = False
+    it_ok = False
+
+
+    try:
+        psdf_mission = ps.read_csv(mission_path, sep=";")
+        mission_ok = True
+    except:
+        psdf_mission = ps.DataFrame()
+
+    try:
+        psdf_it = ps.read_csv(it_path, sep=";")
+        it_ok = True
+    except:
+        psdf_it = ps.DataFrame()
+
+    # --- TRANSFORM ---
+    try:
+        if mission_ok :
+            psdf_mission = psdf_mission.drop_duplicates()
+            psdf_mission['TYPE_MISSION'] = psdf_mission['TYPE_MISSION'].replace(TRANSLATIONS_MATRIX)
+            psdf_mission['TRANSPORT'] = psdf_mission['TRANSPORT'].replace(TRANSLATIONS_MATRIX)
+            psdf_mission.apply(handle_missing_values)
+        if it_ok : 
+            psdf_it = psdf_it.drop_duplicates()
+            psdf_it = psdf_it.merge(psdf_impact, on=['TYPE', 'MODELE'], how="left")
+            psdf_it.apply(handle_missing_values)
+    except:
+        print("Problemo commando")
+        pass
+
+    # --- Loader ---
+
+    # Mettre à jour DIM_MISSION et FAIT_MISSION
+    if not psdf_mission.empty:
+        dim_mission_jour = psdf_mission[
+            ["ID_MISSION", "TYPE_MISSION", "VILLE_DEPART", "PAYS_DEPART", 
+             "VILLE_DESTINATION", "PAYS_DESTINATION", "TRANSPORT", "ALLER_RETOUR"]
+        ].drop_duplicates()
+        schema_existant["DIM_MISSION"] = ps.concat([schema_existant["DIM_MISSION"], dim_mission_jour]).drop_duplicates(["ID_MISSION"])
+        
+        fait_mission_jour = psdf_mission[["ID_PERSONNEL", "ID_MISSION", "DATE_MISSION"]].drop_duplicates()
+        fait_mission_jour = fait_mission_jour.rename(columns={"DATE_MISSION": "ID_DATE_MISSION"})
+        schema_existant["FAIT_MISSION"] = ps.concat([schema_existant["FAIT_MISSION"], fait_mission_jour]).drop_duplicates(["ID_PERSONNEL", "ID_MISSION"])
+
+    # 3. Mettre à jour DIM_MATERIEL et FAIT_MATERIEL
+    if not psdf_it.empty:
+        dim_mat_jour = psdf_it[["ID_MATERIELINFO", "TYPE", "MODELE"]].drop_duplicates().rename(columns={"ID_MATERIELINFO": "ID_MATERIEL"})
+        schema_existant["DIM_MATERIEL"] = ps.concat([schema_existant["DIM_MATERIEL"], dim_mat_jour]).drop_duplicates(["ID_MATERIEL"])
+        
+        fait_mat_jour = psdf_it[["ID_PERSONNEL", "ID_MATERIELINFO", "DATE_ACHAT"]].drop_duplicates().rename(columns={
+            "ID_MATERIELINFO": "ID_MATERIEL", 
+            "DATE_ACHAT": "ID_DATE_ACHAT"
+        })
+        schema_existant["FAIT_MATERIEL"] = ps.concat([schema_existant["FAIT_MATERIEL"], fait_mat_jour]).drop_duplicates(["ID_PERSONNEL", "ID_MATERIEL"])
+
+    print(f"[SUCCES] Données du jour fusionnées. Le schéma global mis à jour a été renvoyé.")
+    return schema_existant
 
 
 
-# Initialisation des tables en tant que DataFrame PySpark Pandas
+def main():
 
-schema = {
-    # Table de faits centrale
-    'ALICIA_KEYS': ps.DataFrame(columns=[
-        'ID_PERSONNEL', 'ID_MATERIELINFO', 'ID_MISSION'
-    ]),
-    # Dimensions
-    'DF_PERSONNEL': ps.DataFrame(columns=COLS_PERSONNEL),
-    'DF_MATERIEL':  ps.DataFrame(columns=COLS_MATERIEL + ['IMPACT']),
-    'DF_MISSION':   ps.DataFrame(columns=COLS_MISSION),
-}
+    schema= init_constellation()
 
-# ==============================================================================
-# HELPERS
-# ==============================================================================
+
+    current_date = datetime(2026, 4, 29)
+    end_date = datetime(2026, 11, 5)
+    delta = timedelta(days=1)
+
+    while current_date <= end_date:
+      print(f"\nLancement du processus ETL pour le jour : {current_date.strftime('%Y-%m-%d')}")
+
+      schema = etl_daily_missions(date_str=str(current_date), schema_existant = schema)
+
+      schema["FAIT_MISSION"].show(5)
+      schema["FAIT_MATERIEL"].show(5)
+
+      # Poser une question?
+      rep = str(input("Souhaitez-vous poser une question? Si oui, laquelle? (Sinon, 0 pour continuer, q pour quitter)"))
+      if rep == "q":
+          break
+      elif rep !=0:
+          ask_questions(rep)
+      print("\nOn passe au jour suivant!")
+
+      current_date += delta
+
+    print("Processus terminé avec succès.")
+
+
+if __name__ == "__main__":
+
+    main()
+
+
 
 def _filter_columns(df: ps.DataFrame, cols: list) -> ps.DataFrame:
     """Supprime toutes les colonnes qui ne sont pas dans 'cols'."""
@@ -189,179 +300,3 @@ def handle_missing_values(df, strategy="mean", target_col=None, feature_cols=Non
 
 def ask_questions(rep = int):
     pass
-
-
-def etl(current_date):
-    date_str = current_date.strftime("%Y%m%d")
-    print(f"--- Lancement ETL pour le jour : {date_str} ---")
-
-    # Chargement du référentiel IMPACT une seule fois
-    impact_ref = ps.read_csv(IMPACT_PATH, dtype=str)
-    impact_ref.columns = [str(c).strip().upper().replace("È", "E") for c in impact_ref.columns]
-    print(f"[OK] Référentiel IMPACT chargé")
-
-    # Dictionnaires pour stocker les données du transformer
-    missions_jour  = []
-    info_jour      = []
-    personnel_jour = []
-
-    for site in SITES:
-
-        # ── EXTRACTOR ─────────────────────────────────────────────────────────
-
-        mission_path   = os.path.join(BASE_DIR, f"BDD_BGES_{site}", f"BDD_BGES_{site}_MISSION",
-                                      f"MISSION_{date_str}.txt")
-        it_path        = os.path.join(BASE_DIR, f"BDD_BGES_{site}", f"BDD_BGES_{site}_INFORMATIQUE",
-                                      f"MATERIEL_INFORMATIQUE_{date_str}.txt")
-        personnel_path = os.path.join(BASE_DIR, f"BDD_BGES_{site}",
-                                      f"PERSONNEL_{site}.txt")
-
-        print(f"\n  [SITE : {site}]")
-
-        # ── MISSION ───────────────────────────────────────────────────────────
-        if os.path.exists(mission_path):
-            df_mission = ps.read_csv(mission_path, sep=';')
-
-            # --- TRANSFORMER ---
-            #traduire aller_retour
-            df_mission = df_mission.drop_duplicates()
-            df_mission = _filter_columns(df_mission, COLS_MISSION)
-            df_mission = normalize_data(df_mission, ['TYPE_MISSION', 'TRANSPORT'])
-            df_mission = standardize_timezone(df_mission, 'DATE_MISSION')
-
-            missions_jour.append(df_mission)
-            print(f"    [OK] MISSION")
-        else:
-            print(f"    [SKIP] Pas de fichier MISSION pour ce jour")
-
-        # ── MATÉRIEL INFORMATIQUE ─────────────────────────────────────────────
-        if os.path.exists(it_path):
-            df_it = ps.read_csv(it_path, sep=';')
-
-            # --- TRANSFORMER ---
-
-            #Traduire Type, modele
-            df_it = df_it.drop_duplicates()
-            df_it = _filter_columns(df_it, COLS_MATERIEL)
-            df_it = standardize_timezone(df_it, 'DATE_ACHAT')
-
-            # Jointure distribuée avec le référentiel IMPACT
-            df_it = df_it.merge(impact_ref, on=['TYPE', 'MODELE'], how="left")
-            
-            # nb_sans_impact = df_it["IMPACT"].isna().sum() 
-            # Note : En spark, un `.sum()` déclenche un Job (Action). Peut ralentir si fait à chaque boucle.
-            
-            info_jour.append(df_it)
-            print(f"    [OK] MATERIEL INFORMATIQUE")
-        else:
-            print(f"    [SKIP] Pas de fichier MATERIEL pour ce jour")
-
-        # ── PERSONNEL ─────────────────────────────────────────────────────────
-        if os.path.exists(personnel_path):
-            df_pers = ps.read_csv(personnel_path, sep=';')
-
-            # --- TRANSFORMER ---
-            #traduire fonction_personnel
-            df_pers = df_pers.drop_duplicates()
-            df_pers = _filter_columns(df_pers, COLS_PERSONNEL)
-            df_pers = normalize_data(df_pers, ['FONCTION_PERSONNEL'])
-            df_pers = standardize_timezone(df_pers, 'TS_CREATION_PERSONNEL')
-
-            personnel_jour.append(df_pers)
-            print(f"    [OK] PERSONNEL")
-        else:
-            print(f"    [SKIP] Pas de fichier PERSONNEL pour ce site")
-
-    # ── LOAD — Chargement dans le schéma flocon ────────────────────────────────
-
-    if missions_jour or info_jour or personnel_jour:
-
-        # Concaténation de tous les sites du jour (Opération optimisée dans Spark)
-        df_all_missions  = ps.concat(missions_jour,  ignore_index=True) if missions_jour  else ps.DataFrame(columns=COLS_MISSION)
-        df_all_materiel  = ps.concat(info_jour,      ignore_index=True) if info_jour      else ps.DataFrame(columns=COLS_MATERIEL + ['IMPACT'])
-        df_all_personnel = ps.concat(personnel_jour, ignore_index=True) if personnel_jour else ps.DataFrame(columns=COLS_PERSONNEL)
-
-        df_all_missions.to_spark().show(5)
-        df_all_materiel.to_spark().show(5)
-        df_all_personnel.to_spark().show(5)
-
-        if not df_all_missions.empty:
-            schema["DF_MISSION"] = _append_unique(schema["DF_MISSION"], df_all_missions, pk="ID_MISSION")
-
-        if not df_all_materiel.empty:
-            schema["DF_MATERIEL"] = _append_unique(schema["DF_MATERIEL"], df_all_materiel, pk="ID_MATERIELINFO")
-
-        if not df_all_personnel.empty:
-            schema["DF_PERSONNEL"] = _append_unique(schema["DF_PERSONNEL"], df_all_personnel, pk="ID_PERSONNEL")
-
-        # ==============================================================================
-        # Table de faits ALICIA_KEYS — croisement des clés du jour
-        # /!\ Les boucles for python imbriquées ont été remplacées par des "merge" (jointures) PySpark
-        # ==============================================================================
-        
-        if not df_all_personnel.empty:
-            # Extraction des clés uniques du personnel
-            df_pers_keys = df_all_personnel[["ID_PERSONNEL"]].drop_duplicates()
-            
-            # Extraction des clés matériels existantes pour le jour
-            if not df_all_materiel.empty:
-                df_mat_keys = df_all_materiel[["ID_PERSONNEL", "ID_MATERIELINFO"]].drop_duplicates()
-            else:
-                df_mat_keys = ps.DataFrame(columns=["ID_PERSONNEL", "ID_MATERIELINFO"])
-                
-            # Extraction des clés missions existantes pour le jour
-            if not df_all_missions.empty:
-                df_mis_keys = df_all_missions[["ID_PERSONNEL", "ID_MISSION"]].drop_duplicates()
-            else:
-                df_mis_keys = ps.DataFrame(columns=["ID_PERSONNEL", "ID_MISSION"])
-                
-            # Jointure gauche (Le DataFrame Spark s'occupe du produit cartésien interne)
-            df_facts = df_pers_keys.merge(df_mat_keys, on="ID_PERSONNEL", how="left")
-            df_facts = df_facts.merge(df_mis_keys, on="ID_PERSONNEL", how="left")
-
-            if not df_facts.empty:
-                combined_facts = ps.concat([schema["ALICIA_KEYS"], df_facts], ignore_index=True)
-                schema["ALICIA_KEYS"] = combined_facts.drop_duplicates(
-                    subset=["ID_PERSONNEL", "ID_MATERIELINFO", "ID_MISSION"], 
-                    keep="last"
-                )
-                # print(f"[LOAD] ALICIA_KEYS   ← {len(df_facts)} ligne(s) ajoutée(s) ce jour")
-                df_facts.to_spark().show(5)
-    # Résumé
-    print(f"\n{'─'*50}")
-    print("Schéma flocon à jour (Note : les `.len()` forcent une évaluation sous PySpark)")
-    print(f"{'─'*50}\n")
-    return
-
-# ==============================================================================
-# MAIN
-# ==============================================================================
-
-
-def main():
-
-    current_date = datetime(2026, 4, 29)
-    end_date = datetime(2026, 11, 5)
-    delta = timedelta(days=1)
-
-    while current_date <= end_date:
-      print(f"\nLancement du processus ETL pour le jour : {current_date.strftime('%Y-%m-%d')}")
-      # On appelle l'ETL pour le jour N
-      etl(current_date)
-
-      # Poser une question?
-      rep = str(input("Souhaitez-vous poser une question? Si oui, laquelle? (Sinon, 0 pour continuer, q pour quitter)"))
-      if rep == "q":
-          break
-      elif rep !=0:
-          ask_questions(rep)
-      print("\nOn passe au jour suivant!")
-
-      current_date += delta
-
-    print("Processus terminé avec succès.")
-
-
-if __name__ == "__main__":
-
-    main()
