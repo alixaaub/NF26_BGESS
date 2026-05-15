@@ -1,0 +1,193 @@
+VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;DISTANCE_KM
+Berlin;Allemagne;Alger;Algeria;1927.66
+Berlin;Allemagne;Auckland;New Zealand;17741.48
+Berlin;Allemagne;Berlin;Allemagne;8.0
+Berlin;Allemagne;Bogota;Colombia;9429.51
+Berlin;Allemagne;Bordeaux;France;1333.07
+Berlin;Allemagne;Buenos Aires;Argentina;11887.22
+Berlin;Allemagne;Compiègne;France;817.55
+Berlin;Allemagne;Dubaï;Emirats;4624.02
+Berlin;Allemagne;Helsinki;Finlande;1108.32
+Berlin;Allemagne;Lille;France;745.42
+Berlin;Allemagne;Lima;Peru;11089.69
+Berlin;Allemagne;London;England;933.84
+Berlin;Allemagne;Los Angeles;USA;9331.71
+Berlin;Allemagne;Marseille;France;1185.94
+Berlin;Allemagne;Melbourne;Australia;15966.2
+Berlin;Allemagne;Mexico;Mexico;9518.84
+Berlin;Allemagne;Montreal;Canada;6015.86
+Berlin;Allemagne;New-York;USA;6401.96
+Berlin;Allemagne;Osaka;Japan;8838.74
+Berlin;Allemagne;Oslo;Norvège;839.66
+Berlin;Allemagne;Pekin;China;7377.15
+Berlin;Allemagne;Rabat;Maroc;2611.82
+Berlin;Allemagne;Rio de Janeiro;Brazil;9988.48
+Berlin;Allemagne;Sao Paulo;Brazil;10231.14
+Berlin;Allemagne;Shanghai;China;8416.5
+Berlin;Allemagne;Sidney;Australia;16089.15
+Berlin;Allemagne;Stockholm;Suède;811.9
+Berlin;Allemagne;Tokyo;Japan;8943.47
+Berlin;Allemagne;Tunis;Tunisie;2099.01
+Berlin;Allemagne;Vancouver;Canada;8002.93
+Berlin;Allemagne;Washington;USA;6728.36
+Berlin;Allemagne;Wellington;New Zealand;18132.94
+London;England;Alger;Algeria;1656.55
+London;England;Auckland;New Zealand;18327.05
+London;England;Berlin;Allemagne;933.84
+London;England;Bogota;Colombia;8496.58
+London;England;Bordeaux;France;742.0
+London;England;Buenos Aires;Argentina;11102.56
+London;England;Compiègne;France;313.03
+London;England;Dubaï;Emirats;5476.69
+London;England;Helsinki;Finlande;1826.16
+London;England;Lille;France;243.73
+London;England;Lima;Peru;10159.87
+London;England;London;England;8.0
+London;England;Los Angeles;USA;8776.45
+London;England;Marseille;France;1002.33
+London;England;Melbourne;Australia;16898.58
+London;England;Mexico;Mexico;8761.47
+London;England;Montreal;Canada;5236.27
+London;England;New-York;USA;5585.24
+London;England;Osaka;Japan;9522.37
+London;England;Oslo;Norvège;1155.53
+London;England;Pekin;China;8162.04
+London;England;Rabat;Maroc;2016.55
+London;England;Rio de Janeiro;Brazil;9254.24
+London;England;Sao Paulo;Brazil;9472.8
+London;England;Shanghai;China;9217.19
+London;England;Sidney;Australia;16989.32
+London;England;Stockholm;Suède;1436.38
+London;England;Tokyo;Japan;9586.22
+London;England;Tunis;Tunisie;2107.65
+London;England;Vancouver;Canada;7603.17
+London;England;Washington;USA;5913.79
+London;England;Wellington;New Zealand;18804.73
+Los Angeles;USA;Alger;Algeria;10090.05
+Los Angeles;USA;Auckland;New Zealand;10477.78
+Los Angeles;USA;Berlin;Allemagne;9331.71
+Los Angeles;USA;Bogota;Colombia;5598.11
+Los Angeles;USA;Bordeaux;France;9249.01
+Los Angeles;USA;Buenos Aires;Argentina;9831.47
+Los Angeles;USA;Compiègne;France;9088.34
+Los Angeles;USA;Dubaï;Emirats;13403.76
+Los Angeles;USA;Helsinki;Finlande;9033.07
+Los Angeles;USA;Lille;France;9006.0
+Los Angeles;USA;Lima;Peru;6710.85
+Los Angeles;USA;London;England;8776.45
+Los Angeles;USA;Los Angeles;USA;8.0
+Los Angeles;USA;Marseille;France;9710.11
+Los Angeles;USA;Melbourne;Australia;12764.22
+Los Angeles;USA;Mexico;Mexico;1954.42
+Los Angeles;USA;Montreal;Canada;3974.89
+Los Angeles;USA;New-York;USA;3944.28
+Los Angeles;USA;Osaka;Japan;9209.1
+Los Angeles;USA;Oslo;Norvège;8594.06
+Los Angeles;USA;Pekin;China;10084.63
+Los Angeles;USA;Rabat;Maroc;9627.76
+Los Angeles;USA;Rio de Janeiro;Brazil;10130.74
+Los Angeles;USA;Sao Paulo;Brazil;9894.96
+Los Angeles;USA;Shanghai;China;10455.1
+Los Angeles;USA;Sidney;Australia;12063.41
+Los Angeles;USA;Stockholm;Suède;8902.33
+Los Angeles;USA;Tokyo;Japan;8829.92
+Los Angeles;USA;Tunis;Tunisie;10721.25
+Los Angeles;USA;Vancouver;Canada;1736.12
+Los Angeles;USA;Washington;USA;3700.18
+Los Angeles;USA;Wellington;New Zealand;10792.01
+New-York;USA;Alger;Algeria;6491.35
+New-York;USA;Auckland;New Zealand;14186.08
+New-York;USA;Berlin;Allemagne;6401.96
+New-York;USA;Bogota;Colombia;3994.12
+New-York;USA;Bordeaux;France;5816.85
+New-York;USA;Buenos Aires;Argentina;8492.28
+New-York;USA;Compiègne;France;5861.93
+New-York;USA;Dubaï;Emirats;11024.34
+New-York;USA;Helsinki;Finlande;6637.14
+New-York;USA;Lille;France;5828.45
+New-York;USA;Lima;Peru;5849.16
+New-York;USA;London;England;5585.24
+New-York;USA;Los Angeles;USA;3944.28
+New-York;USA;Marseille;France;6321.77
+New-York;USA;Melbourne;Australia;16672.0
+New-York;USA;Mexico;Mexico;3224.28
+New-York;USA;Montreal;Canada;533.38
+New-York;USA;New-York;USA;8.0
+New-York;USA;Osaka;Japan;11127.11
+New-York;USA;Oslo;Norvège;5930.22
+New-York;USA;Pekin;China;11014.53
+New-York;USA;Rabat;Maroc;5851.09
+New-York;USA;Rio de Janeiro;Brazil;7731.34
+New-York;USA;Sao Paulo;Brazil;7657.84
+New-York;USA;Shanghai;China;11881.74
+New-York;USA;Sidney;Australia;15988.14
+New-York;USA;Stockholm;Suède;6337.6
+New-York;USA;Tokyo;Japan;10871.3
+New-York;USA;Tunis;Tunisie;7152.65
+New-York;USA;Vancouver;Canada;3914.19
+New-York;USA;Washington;USA;328.71
+New-York;USA;Wellington;New Zealand;14393.86
+Paris;France;Alger;Algeria;1343.96
+Paris;France;Auckland;New Zealand;18538.88
+Paris;France;Berlin;Allemagne;880.84
+Paris;France;Bogota;Colombia;8626.71
+Paris;France;Bordeaux;France;498.31
+Paris;France;Buenos Aires;Argentina;11024.52
+Paris;France;Compiègne;France;72.32
+Paris;France;Dubaï;Emirats;5252.59
+Paris;France;Helsinki;Finlande;1914.35
+Paris;France;Lille;France;204.85
+Paris;France;Lima;Peru;10243.25
+Paris;France;London;England;342.53
+Paris;France;Los Angeles;USA;9105.03
+Paris;France;Marseille;France;661.84
+Paris;France;Melbourne;Australia;16789.72
+Paris;France;Mexico;Mexico;9044.71
+Paris;France;Montreal;Canada;5518.97
+Paris;France;New-York;USA;5850.66
+Paris;France;Osaka;Japan;9657.78
+Paris;France;Oslo;Norvège;1344.07
+Paris;France;Pekin;China;8239.33
+Paris;France;Rabat;Maroc;1813.84
+Paris;France;Rio de Janeiro;Brazil;9144.06
+Paris;France;Sao Paulo;Brazil;9376.93
+Paris;France;Shanghai;China;9284.69
+Paris;France;Sidney;Australia;16959.63
+Paris;France;Stockholm;Suède;1547.57
+Paris;France;Tokyo;Japan;9740.91
+Paris;France;Tunis;Tunisie;1767.76
+Paris;France;Vancouver;Canada;7944.67
+Paris;France;Washington;USA;6179.35
+Paris;France;Wellington;New Zealand;18980.62
+Shanghai;China;Alger;Algeria;10127.0
+Shanghai;China;Auckland;New Zealand;9359.71
+Shanghai;China;Berlin;Allemagne;8416.5
+Shanghai;China;Bogota;Colombia;15707.17
+Shanghai;China;Bordeaux;France;9749.25
+Shanghai;China;Buenos Aires;Argentina;19629.06
+Shanghai;China;Compiègne;France;9215.98
+Shanghai;China;Dubaï;Emirats;6433.02
+Shanghai;China;Helsinki;Finlande;7391.49
+Shanghai;China;Lille;France;9114.63
+Shanghai;China;Lima;Peru;17165.81
+Shanghai;China;London;England;9217.19
+Shanghai;China;Los Angeles;USA;10455.1
+Shanghai;China;Marseille;France;9506.13
+Shanghai;China;Melbourne;Australia;8024.14
+Shanghai;China;Mexico;Mexico;12375.26
+Shanghai;China;Montreal;Canada;11372.29
+Shanghai;China;New-York;USA;11881.74
+Shanghai;China;Osaka;Japan;1365.52
+Shanghai;China;Oslo;Norvège;8104.93
+Shanghai;China;Pekin;China;1066.39
+Shanghai;China;Rabat;Maroc;10983.3
+Shanghai;China;Rio de Janeiro;Brazil;18248.48
+Shanghai;China;Sao Paulo;Brazil;18570.44
+Shanghai;China;Shanghai;China;8.0
+Shanghai;China;Sidney;Australia;7853.15
+Shanghai;China;Stockholm;Suède;7781.34
+Shanghai;China;Tokyo;Japan;1767.77
+Shanghai;China;Tunis;Tunisie;9887.67
+Shanghai;China;Vancouver;Canada;9046.88
+Shanghai;China;Washington;USA;12008.77
+Shanghai;China;Wellington;New Zealand;9717.34

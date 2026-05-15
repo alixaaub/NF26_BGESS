@@ -5,3 +5,4 @@ pyarrow==14.0.1
 numpy==1.26.4
 scikit-learn
 ipykernel
+geopy
