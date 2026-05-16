@@ -1,0 +1,45 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202611060,,MacBook pro 15/16pouces,330
+BERLIN_MATERIEL_INFO_202611061,souris,modèle par défaut,5
+BERLIN_MATERIEL_INFO_202611062,imprimante,Laser A3 (>100kg),1800
+BERLIN_MATERIEL_INFO_202611063,PC portable,Moyenne 14/15pouces,294
+BERLIN_MATERIEL_INFO_202611064,imprimante,,500
+BERLIN_MATERIEL_INFO_202611065,,iMac 27pouces retina,450
+LONDON_MATERIEL_INFO_202611060,imprimante,modèle par défaut,500
+LONDON_MATERIEL_INFO_202611061,PC fixe sans ecran,Precision tower 3xxx,285
+LONDON_MATERIEL_INFO_202611062,,Latitude 3xxx,220
+LONDON_MATERIEL_INFO_202611063,PC fixe tout-en-un,Optiplex All-in-One 5xxx,318
+LONDON_MATERIEL_INFO_202611064,PC portable,modèle par défaut,260
+LONDON_MATERIEL_INFO_202611065,PC fixe tout-en-un,modèle par défaut,352
+LONDON_MATERIEL_INFO_202611066,PC fixe tout-en-un,Mac pro,900
+LA_MATERIEL_INFO_202611060,,modèle par défaut,350
+LA_MATERIEL_INFO_202611061,PC portable,Latitude 7xxx,264
+LA_MATERIEL_INFO_202611062,,MacBook air pre-retina,310
+LA_MATERIEL_INFO_202611063,Disque dur,modèle par défaut,10
+LA_MATERIEL_INFO_202611064,PC fixe sans ecran,"EliteDesk (Tower, SFF, One)",393
+LA_MATERIEL_INFO_202611065,PC fixe sans ecran,OMEN,290
+LA_MATERIEL_INFO_202611066,PC portable,Precision 5xxx,280
+NewYork_MATERIEL_INFO_202611060,PC fixe sans ecran,ProDesk mini/DM,100
+NewYork_MATERIEL_INFO_202611061,,Optiplex All-in-One 3xxx,241
+NewYork_MATERIEL_INFO_202611062,PC portable,,260
+NewYork_MATERIEL_INFO_202611063,,Precision 5xxx,280
+NewYork_MATERIEL_INFO_202611064,PC portable,Moyenne 14/15pouces,294
+NewYork_MATERIEL_INFO_202611065,PC fixe sans ecran,"EliteDesk (Tower, SFF, One)",393
+NewYork_MATERIEL_INFO_202611066,,modèle par défaut,350
+NewYork_MATERIEL_INFO_202611067,Tablette,,150
+NewYork_MATERIEL_INFO_202611068,,Precision tower 3xxx,285
+Paris_MATERIEL_INFO_202611060,PC portable,Latitude 7xxx,264
+Paris_MATERIEL_INFO_202611061,,Victus,267
+Shanghai_MATERIEL_INFO_202611060,,Laser à poser (<40kg),430
+Shanghai_MATERIEL_INFO_202611061,Borne wifi,modèle par défaut,10
+Shanghai_MATERIEL_INFO_202611062,PC fixe sans ecran,ProDesk mini/DM,100
+Shanghai_MATERIEL_INFO_202611063,PC portable,MacBook air retina,176
+Shanghai_MATERIEL_INFO_202611064,Serveur,Modèle par défaut,1300
+Shanghai_MATERIEL_INFO_202611065,PC portable,Victus,267
+Shanghai_MATERIEL_INFO_202611066,PC fixe sans ecran,Optiplex micro,174
+Shanghai_MATERIEL_INFO_202611067,,iMac 21pouces,290
+Shanghai_MATERIEL_INFO_202611068,PC fixe tout-en-un,,352
+Shanghai_MATERIEL_INFO_202611069,,ProBook,226
+Shanghai_MATERIEL_INFO_2026110610,Smartphone,modèle par défaut,63
+Shanghai_MATERIEL_INFO_2026110611,Serveur,Noeud de calcul,1300
+Shanghai_MATERIEL_INFO_2026110612,,Optiplex All-in-One 5xxx,318

@@ -1,0 +1,43 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202606010,PC portable,EliteBook 8xx,290
+BERLIN_MATERIEL_INFO_202606011,Tablette,modèle par défaut,150
+BERLIN_MATERIEL_INFO_202606012,Vidéo projecteur,Pour salle,150
+BERLIN_MATERIEL_INFO_202606013,Ecran,jusqu'à 23pouces,350
+BERLIN_MATERIEL_INFO_202606014,,Mac pro,900
+LONDON_MATERIEL_INFO_202606010,PC portable,ZBook,303
+LONDON_MATERIEL_INFO_202606011,PC portable,ZBook,303
+LONDON_MATERIEL_INFO_202606012,PC fixe tout-en-un,modèle par défaut,352
+LONDON_MATERIEL_INFO_202606013,souris,modèle par défaut,5
+LONDON_MATERIEL_INFO_202606014,PC fixe tout-en-un,Mac pro,900
+LA_MATERIEL_INFO_202606010,PC portable,Precision 7xxx,304
+LA_MATERIEL_INFO_202606011,PC fixe tout-en-un,Optiplex All-in-One 7xxx,382
+LA_MATERIEL_INFO_202606012,PC portable,MacBook air pre-retina,310
+LA_MATERIEL_INFO_202606013,PC fixe tout-en-un,iMac 21pouces retina,300
+LA_MATERIEL_INFO_202606014,Tablette,modèle par défaut,150
+LA_MATERIEL_INFO_202606015,,Latitude 7xxx,264
+NewYork_MATERIEL_INFO_202606010,PC portable,Latitude 5xxx,300
+NewYork_MATERIEL_INFO_202606011,,EliteBook 10xx,223
+NewYork_MATERIEL_INFO_202606012,,modèle par défaut,350
+NewYork_MATERIEL_INFO_202606013,,PC Fixe (moy),300
+NewYork_MATERIEL_INFO_202606014,PC portable,Latitude 3xxx,220
+NewYork_MATERIEL_INFO_202606015,PC portable,MacBook pro 13pouces,256
+NewYork_MATERIEL_INFO_202606016,PC fixe sans ecran,Station de travail (moy),600
+NewYork_MATERIEL_INFO_202606017,Station d'accueil,modèle par défaut,26
+NewYork_MATERIEL_INFO_202606018,,PC Fixe (moy),300
+NewYork_MATERIEL_INFO_202606019,,MacBook pro 15/16pouces,330
+Paris_MATERIEL_INFO_202606010,Disque dur,modèle par défaut,10
+Paris_MATERIEL_INFO_202606011,,iMac pro,700
+Paris_MATERIEL_INFO_202606012,,Precision tower 3xxx,285
+Paris_MATERIEL_INFO_202606013,PC fixe sans ecran,Optiplex micro,174
+Paris_MATERIEL_INFO_202606014,Vidéo projecteur,Pour amphi,200
+Paris_MATERIEL_INFO_202606015,PC portable,Chromebook 11-13pouces,175
+Paris_MATERIEL_INFO_202606016,PC fixe sans ecran,Optiplex tower,260
+Paris_MATERIEL_INFO_202606017,PC fixe sans ecran,Precision tower 5xxx,440
+Paris_MATERIEL_INFO_202606018,PC portable,MacBook air,250
+Paris_MATERIEL_INFO_202606019,PC fixe tout-en-un,iMac 21pouces,290
+Paris_MATERIEL_INFO_2026060110,PC fixe tout-en-un,,352
+Paris_MATERIEL_INFO_2026060111,,"EliteDesk (Tower, SFF, One)",393
+Paris_MATERIEL_INFO_2026060112,PC portable,ZBook Studio,379
+Paris_MATERIEL_INFO_2026060113,PC fixe sans ecran,ZHAN,264
+Shanghai_MATERIEL_INFO_202606010,,modèle par défaut,350
+Shanghai_MATERIEL_INFO_202606011,PC fixe tout-en-un,iMac 21pouces,290

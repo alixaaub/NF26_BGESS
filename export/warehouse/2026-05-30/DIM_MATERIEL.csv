@@ -1,0 +1,37 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202605300,PC portable,EliteBook 10xx,223
+BERLIN_MATERIEL_INFO_202605301,PC portable,Latitude 5xxx,300
+BERLIN_MATERIEL_INFO_202605302,clavier,modèle par défaut,24
+BERLIN_MATERIEL_INFO_202605303,,Modèle par défaut,350
+BERLIN_MATERIEL_INFO_202605304,Serveur,Modèle par défaut,1300
+LONDON_MATERIEL_INFO_202605300,imprimante,Laser à poser (<40kg),430
+LONDON_MATERIEL_INFO_202605301,PC fixe tout-en-un,Optiplex All-in-One 5xxx,318
+LONDON_MATERIEL_INFO_202605302,PC fixe sans ecran,,350
+LONDON_MATERIEL_INFO_202605303,PC portable,,260
+LA_MATERIEL_INFO_202605300,,Station de travail (moy),600
+LA_MATERIEL_INFO_202605301,PC portable,,260
+LA_MATERIEL_INFO_202605302,PC fixe sans ecran,Precision tower 5xxx,440
+LA_MATERIEL_INFO_202605303,PC fixe tout-en-un,Optiplex All-in-One 5xxx,318
+LA_MATERIEL_INFO_202605304,PC fixe tout-en-un,modèle par défaut,352
+LA_MATERIEL_INFO_202605305,PC fixe sans ecran,Z,409
+NewYork_MATERIEL_INFO_202605300,Vidéo projecteur,modèle par défaut,94
+Paris_MATERIEL_INFO_202605300,Serveur,Serveur de stockage,2500
+Paris_MATERIEL_INFO_202605301,PC fixe tout-en-un,iMac pro,700
+Paris_MATERIEL_INFO_202605302,Smartphone,modèle par défaut,63
+Paris_MATERIEL_INFO_202605303,imprimante,Laser A3 (>100kg),1800
+Paris_MATERIEL_INFO_202605304,PC portable,MacBook air retina,176
+Paris_MATERIEL_INFO_202605305,PC fixe sans ecran,Z,409
+Paris_MATERIEL_INFO_202605306,Ecran,jusqu'à 23pouces,350
+Paris_MATERIEL_INFO_202605307,,Pour salle,150
+Paris_MATERIEL_INFO_202605308,PC fixe tout-en-un,iMac 21pouces retina,300
+Paris_MATERIEL_INFO_202605309,,Pour salle,150
+Paris_MATERIEL_INFO_2026053010,Ecran,32pouces et plus,590
+Paris_MATERIEL_INFO_2026053011,PC fixe sans ecran,,350
+Shanghai_MATERIEL_INFO_202605300,PC portable,EliteBook 8xx,290
+Shanghai_MATERIEL_INFO_202605301,PC fixe sans ecran,ZHAN,264
+Shanghai_MATERIEL_INFO_202605302,,modèle par défaut,350
+Shanghai_MATERIEL_INFO_202605303,Ecran,24pouces-31pouces,430
+Shanghai_MATERIEL_INFO_202605304,imprimante,Laser A3 (40-99kg),960
+Shanghai_MATERIEL_INFO_202605305,PC portable,Victus,267
+Shanghai_MATERIEL_INFO_202605306,,ProDesk mini/DM,100
+Shanghai_MATERIEL_INFO_202605307,PC portable,MacBook air pre-retina,310

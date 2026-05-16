@@ -1,0 +1,45 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202611090,PC fixe tout-en-un,,352
+BERLIN_MATERIEL_INFO_202611091,PC fixe sans ecran,ProDesk mini/DM,100
+BERLIN_MATERIEL_INFO_202611092,,modèle par défaut,350
+LONDON_MATERIEL_INFO_202611090,,modèle par défaut,350
+LONDON_MATERIEL_INFO_202611091,PC portable,EliteBook 8xx,290
+LONDON_MATERIEL_INFO_202611092,,Mac pro,900
+LONDON_MATERIEL_INFO_202611093,Telephone IP,modèle par défaut,17
+LONDON_MATERIEL_INFO_202611094,Ecran,,430
+LONDON_MATERIEL_INFO_202611095,,Optiplex small,240
+LONDON_MATERIEL_INFO_202611096,,Optiplex All-in-One 5xxx,318
+LA_MATERIEL_INFO_202611090,Serveur,Modèle par défaut,1300
+LA_MATERIEL_INFO_202611091,,MacBook air pre-retina,310
+LA_MATERIEL_INFO_202611092,PC fixe sans ecran,,350
+LA_MATERIEL_INFO_202611093,PC portable,Precision 7xxx,304
+LA_MATERIEL_INFO_202611094,PC fixe sans ecran,Precision tower 7xxx,555
+LA_MATERIEL_INFO_202611095,Ecran,,430
+LA_MATERIEL_INFO_202611096,PC portable,ZBook Studio,379
+LA_MATERIEL_INFO_202611097,,Optiplex tower,260
+NewYork_MATERIEL_INFO_202611090,PC portable,,260
+NewYork_MATERIEL_INFO_202611091,Borne wifi,modèle par défaut,10
+NewYork_MATERIEL_INFO_202611092,souris,modèle par défaut,5
+NewYork_MATERIEL_INFO_202611093,,Precision tower 7xxx,555
+NewYork_MATERIEL_INFO_202611094,PC fixe tout-en-un,Optiplex All-in-One 3xxx,241
+NewYork_MATERIEL_INFO_202611095,PC portable,MacBook pro 13pouces,256
+Paris_MATERIEL_INFO_202611090,Ecran,24pouces-31pouces,430
+Paris_MATERIEL_INFO_202611091,PC fixe sans ecran,,350
+Paris_MATERIEL_INFO_202611092,,modèle par défaut,350
+Paris_MATERIEL_INFO_202611093,PC fixe tout-en-un,Optiplex All-in-One 5xxx,318
+Paris_MATERIEL_INFO_202611094,PC fixe sans ecran,Rasberry pi 4,15
+Paris_MATERIEL_INFO_202611095,,Latitude 3xxx,220
+Paris_MATERIEL_INFO_202611096,PC fixe sans ecran,Mac pro,900
+Paris_MATERIEL_INFO_202611097,PC fixe sans ecran,,350
+Paris_MATERIEL_INFO_202611098,,Serveur de stockage,2500
+Paris_MATERIEL_INFO_202611099,PC fixe sans ecran,Precision tower 3xxx,285
+Paris_MATERIEL_INFO_2026110910,,modèle par défaut,350
+Paris_MATERIEL_INFO_2026110911,Serveur,Serveur de stockage,2500
+Paris_MATERIEL_INFO_2026110912,PC portable,Latitude 3xxx,220
+Shanghai_MATERIEL_INFO_202611090,,Precision tower 3xxx,285
+Shanghai_MATERIEL_INFO_202611091,imprimante,modèle par défaut,500
+Shanghai_MATERIEL_INFO_202611092,PC fixe tout-en-un,iMac 21pouces retina,300
+Shanghai_MATERIEL_INFO_202611093,,Precision 3xxx,266
+Shanghai_MATERIEL_INFO_202611094,,24pouces-31pouces,430
+Shanghai_MATERIEL_INFO_202611095,imprimante,modèle par défaut,500
+Shanghai_MATERIEL_INFO_202611096,Serveur,Modèle par défaut,1300

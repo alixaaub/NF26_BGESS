@@ -1,0 +1,51 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202605040,PC portable,,260
+BERLIN_MATERIEL_INFO_202605041,Vidéo projecteur,Pour amphi,200
+BERLIN_MATERIEL_INFO_202605042,PC fixe sans ecran,Mac mini,270
+BERLIN_MATERIEL_INFO_202605043,PC portable,Precision 7xxx,304
+BERLIN_MATERIEL_INFO_202605044,PC portable,Moyenne 17pouces,365
+BERLIN_MATERIEL_INFO_202605045,PC fixe tout-en-un,iMac pro,700
+LONDON_MATERIEL_INFO_202605040,PC fixe sans ecran,Precision tower 5xxx,440
+LONDON_MATERIEL_INFO_202605041,PC fixe sans ecran,Station de travail (moy),600
+LONDON_MATERIEL_INFO_202605042,PC fixe tout-en-un,Optiplex All-in-One 3xxx,241
+LONDON_MATERIEL_INFO_202605043,PC portable,Precision 3xxx,266
+LONDON_MATERIEL_INFO_202605044,Ecran,jusqu'à 23pouces,350
+LONDON_MATERIEL_INFO_202605045,,Chromebook 11-13pouces,175
+LONDON_MATERIEL_INFO_202605046,PC fixe sans ecran,Optiplex tower,260
+LONDON_MATERIEL_INFO_202605047,imprimante,Laser A3 (>100kg),1800
+LA_MATERIEL_INFO_202605040,PC fixe tout-en-un,iMac pro,700
+LA_MATERIEL_INFO_202605041,PC portable,MacBook air pre-retina,310
+LA_MATERIEL_INFO_202605042,PC fixe sans ecran,"Elite (Tower, SFF, One)",393
+LA_MATERIEL_INFO_202605043,PC fixe tout-en-un,modèle par défaut,352
+LA_MATERIEL_INFO_202605044,PC fixe sans ecran,Wyse thin client,69
+LA_MATERIEL_INFO_202605045,,MacBook air,250
+LA_MATERIEL_INFO_202605046,,EliteBook 6xx,175
+LA_MATERIEL_INFO_202605047,PC fixe sans ecran,Mac mini,270
+LA_MATERIEL_INFO_202605048,PC portable,,260
+LA_MATERIEL_INFO_202605049,PC portable,Moyenne 14/15pouces,294
+LA_MATERIEL_INFO_2026050410,PC portable,,260
+LA_MATERIEL_INFO_2026050411,PC fixe tout-en-un,iMac 27pouces retina,450
+NewYork_MATERIEL_INFO_202605040,PC fixe sans ecran,,350
+NewYork_MATERIEL_INFO_202605041,PC portable,EliteBook 10xx,223
+NewYork_MATERIEL_INFO_202605042,,Precision 7xxx,304
+Paris_MATERIEL_INFO_202605040,PC fixe sans ecran,Mac mini,270
+Paris_MATERIEL_INFO_202605041,PC fixe sans ecran,Precision tower 3xxx,285
+Paris_MATERIEL_INFO_202605042,,Moyenne 14/15pouces,294
+Paris_MATERIEL_INFO_202605043,Vidéo projecteur,Pour salle,150
+Paris_MATERIEL_INFO_202605044,imprimante,Laser A3 (40-99kg),960
+Paris_MATERIEL_INFO_202605045,PC fixe tout-en-un,Optiplex All-in-One 7xxx,382
+Paris_MATERIEL_INFO_202605046,PC fixe tout-en-un,iMac 21pouces,290
+Paris_MATERIEL_INFO_202605047,PC portable,ZBook,303
+Paris_MATERIEL_INFO_202605048,,modèle par défaut,350
+Shanghai_MATERIEL_INFO_202605040,,iMac 21pouces retina,300
+Shanghai_MATERIEL_INFO_202605041,,modèle par défaut,350
+Shanghai_MATERIEL_INFO_202605042,PC fixe sans ecran,"Elite (Tower, SFF, One)",393
+Shanghai_MATERIEL_INFO_202605043,PC portable,Chromebook 11-13pouces,175
+Shanghai_MATERIEL_INFO_202605044,PC portable,Chromebook 11-13pouces,175
+Shanghai_MATERIEL_INFO_202605045,PC portable,EliteBook 8xx,290
+Shanghai_MATERIEL_INFO_202605046,PC portable,EliteBook 6xx,175
+Shanghai_MATERIEL_INFO_202605047,PC fixe sans ecran,PC Fixe (moy),300
+Shanghai_MATERIEL_INFO_202605048,PC fixe sans ecran,Precision tower 5xxx,440
+Shanghai_MATERIEL_INFO_202605049,PC portable,Precision 5xxx,280
+Shanghai_MATERIEL_INFO_2026050410,PC portable,ZBook,303
+Shanghai_MATERIEL_INFO_2026050411,,Z,409

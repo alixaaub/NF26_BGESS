@@ -1,0 +1,49 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202606160,Tablette,,150
+BERLIN_MATERIEL_INFO_202606161,PC fixe sans ecran,,350
+BERLIN_MATERIEL_INFO_202606162,Ecran,jusqu'à 23pouces,350
+BERLIN_MATERIEL_INFO_202606163,PC portable,MacBook pro 13pouces,256
+BERLIN_MATERIEL_INFO_202606164,PC portable,,260
+BERLIN_MATERIEL_INFO_202606165,PC portable,Precision 5xxx,280
+LONDON_MATERIEL_INFO_202606160,PC portable,OMEN,290
+LONDON_MATERIEL_INFO_202606161,PC fixe sans ecran,"Elite (Tower, SFF, One)",393
+LONDON_MATERIEL_INFO_202606162,clavier,modèle par défaut,24
+LONDON_MATERIEL_INFO_202606163,souris,modèle par défaut,5
+LONDON_MATERIEL_INFO_202606164,clavier,,24
+LONDON_MATERIEL_INFO_202606165,PC fixe sans ecran,Wyse thin client,69
+LONDON_MATERIEL_INFO_202606166,,Optiplex tower,260
+LA_MATERIEL_INFO_202606160,,Precision tower 7xxx,555
+LA_MATERIEL_INFO_202606161,PC fixe tout-en-un,Mac pro,900
+LA_MATERIEL_INFO_202606162,,modèle par défaut,350
+NewYork_MATERIEL_INFO_202606160,PC portable,,260
+NewYork_MATERIEL_INFO_202606161,clavier,modèle par défaut,24
+NewYork_MATERIEL_INFO_202606162,Ecran,jusqu'à 23pouces,350
+NewYork_MATERIEL_INFO_202606163,PC fixe tout-en-un,iMac 27pouces retina,450
+NewYork_MATERIEL_INFO_202606164,Ecran,jusqu'à 23pouces,350
+NewYork_MATERIEL_INFO_202606165,PC fixe sans ecran,,350
+NewYork_MATERIEL_INFO_202606166,PC portable,EliteBook 8xx,290
+NewYork_MATERIEL_INFO_202606167,PC portable,ZBook,303
+NewYork_MATERIEL_INFO_202606168,PC fixe sans ecran,Mac pro,900
+Paris_MATERIEL_INFO_202606160,Telephone IP,modèle par défaut,17
+Paris_MATERIEL_INFO_202606161,Ecran,32pouces et plus,590
+Paris_MATERIEL_INFO_202606162,PC fixe tout-en-un,iMac pro,700
+Paris_MATERIEL_INFO_202606163,Smartphone,modèle par défaut,63
+Paris_MATERIEL_INFO_202606164,PC fixe sans ecran,,350
+Paris_MATERIEL_INFO_202606165,PC portable,Moyenne 13pouces,250
+Paris_MATERIEL_INFO_202606166,,PC Fixe (moy),300
+Paris_MATERIEL_INFO_202606167,Ecran,jusqu'à 23pouces,350
+Paris_MATERIEL_INFO_202606168,Smartphone,modèle par défaut,63
+Paris_MATERIEL_INFO_202606169,,Optiplex micro,174
+Paris_MATERIEL_INFO_2026061610,PC portable,ZBook Studio,379
+Paris_MATERIEL_INFO_2026061611,PC portable,EliteBook 6xx,175
+Shanghai_MATERIEL_INFO_202606160,,Precision tower 7xxx,555
+Shanghai_MATERIEL_INFO_202606161,Disque dur,modèle par défaut,10
+Shanghai_MATERIEL_INFO_202606162,PC portable,ZBook Studio,379
+Shanghai_MATERIEL_INFO_202606163,Borne wifi,modèle par défaut,10
+Shanghai_MATERIEL_INFO_202606164,PC fixe tout-en-un,modèle par défaut,352
+Shanghai_MATERIEL_INFO_202606165,imprimante,Laser à poser (<40kg),430
+Shanghai_MATERIEL_INFO_202606166,PC portable,ZBook,303
+Shanghai_MATERIEL_INFO_202606167,Vidéo projecteur,,94
+Shanghai_MATERIEL_INFO_202606168,Serveur,Serveur de stockage,2500
+Shanghai_MATERIEL_INFO_202606169,,ZHAN,264
+Shanghai_MATERIEL_INFO_2026061610,imprimante,Laser à poser (<40kg),430

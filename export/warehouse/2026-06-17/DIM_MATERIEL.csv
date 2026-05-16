@@ -1,0 +1,41 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202606170,Vidéo projecteur,modèle par défaut,94
+LONDON_MATERIEL_INFO_202606170,Telephone IP,modèle par défaut,17
+LONDON_MATERIEL_INFO_202606171,PC portable,ProBook,226
+LONDON_MATERIEL_INFO_202606172,PC fixe sans ecran,ZHAN,264
+LA_MATERIEL_INFO_202606170,imprimante,Laser A3 (>100kg),1800
+LA_MATERIEL_INFO_202606171,PC fixe sans ecran,Station de travail (moy),600
+LA_MATERIEL_INFO_202606172,Serveur,Modèle par défaut,1300
+LA_MATERIEL_INFO_202606173,,Optiplex small,240
+LA_MATERIEL_INFO_202606174,PC portable,Latitude 5xxx,300
+LA_MATERIEL_INFO_202606175,PC portable,MacBook pro 13pouces,256
+LA_MATERIEL_INFO_202606176,PC fixe tout-en-un,,352
+LA_MATERIEL_INFO_202606177,Borne wifi,modèle par défaut,10
+NewYork_MATERIEL_INFO_202606170,,modèle par défaut,350
+NewYork_MATERIEL_INFO_202606171,PC fixe sans ecran,Rasberry pi 4,15
+NewYork_MATERIEL_INFO_202606172,,"Prodesk (Tower, SFF)",322
+NewYork_MATERIEL_INFO_202606173,,Optiplex All-in-One 5xxx,318
+NewYork_MATERIEL_INFO_202606174,Vidéo projecteur,Pour amphi,200
+NewYork_MATERIEL_INFO_202606175,PC fixe sans ecran,"Prodesk (Tower, SFF)",322
+Paris_MATERIEL_INFO_202606170,Tablette,modèle par défaut,150
+Paris_MATERIEL_INFO_202606171,PC portable,ZBook,303
+Paris_MATERIEL_INFO_202606172,PC fixe sans ecran,Optiplex tower,260
+Paris_MATERIEL_INFO_202606173,Ecran,32pouces et plus,590
+Paris_MATERIEL_INFO_202606174,PC fixe sans ecran,"Elite (Tower, SFF, One)",393
+Paris_MATERIEL_INFO_202606175,Borne wifi,modèle par défaut,10
+Paris_MATERIEL_INFO_202606176,,Optiplex All-in-One 7xxx,382
+Paris_MATERIEL_INFO_202606177,PC fixe sans ecran,Z,409
+Paris_MATERIEL_INFO_202606178,PC fixe sans ecran,Z,409
+Paris_MATERIEL_INFO_202606179,,iMac 21pouces retina,300
+Shanghai_MATERIEL_INFO_202606170,PC portable,MacBook pro 13pouces,256
+Shanghai_MATERIEL_INFO_202606171,Smartphone,modèle par défaut,63
+Shanghai_MATERIEL_INFO_202606172,PC portable,Moyenne 14/15pouces,294
+Shanghai_MATERIEL_INFO_202606173,PC fixe sans ecran,EliteDesk DM,230
+Shanghai_MATERIEL_INFO_202606174,Borne wifi,modèle par défaut,10
+Shanghai_MATERIEL_INFO_202606175,imprimante,modèle par défaut,500
+Shanghai_MATERIEL_INFO_202606176,PC portable,Latitude 3xxx,220
+Shanghai_MATERIEL_INFO_202606177,PC portable,Latitude 3xxx,220
+Shanghai_MATERIEL_INFO_202606178,,Optiplex micro,174
+Shanghai_MATERIEL_INFO_202606179,PC fixe sans ecran,Wyse thin client,69
+Shanghai_MATERIEL_INFO_2026061710,PC fixe tout-en-un,Optiplex All-in-One 7xxx,382
+Shanghai_MATERIEL_INFO_2026061711,PC fixe sans ecran,Wyse thin client,69

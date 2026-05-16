@@ -1,0 +1,33 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202608150,,Optiplex small,240
+BERLIN_MATERIEL_INFO_202608151,PC fixe tout-en-un,Optiplex All-in-One 7xxx,382
+LONDON_MATERIEL_INFO_202608150,Ecran,modèle par défaut,430
+LA_MATERIEL_INFO_202608150,PC fixe sans ecran,"EliteDesk (Tower, SFF, One)",393
+LA_MATERIEL_INFO_202608151,PC portable,Precision 5xxx,280
+LA_MATERIEL_INFO_202608152,Ecran,24pouces-31pouces,430
+LA_MATERIEL_INFO_202608153,PC fixe sans ecran,,350
+LA_MATERIEL_INFO_202608154,PC fixe sans ecran,Optiplex micro,174
+LA_MATERIEL_INFO_202608155,,32pouces et plus,590
+LA_MATERIEL_INFO_202608156,Ecran,32pouces et plus,590
+LA_MATERIEL_INFO_202608157,PC portable,,260
+LA_MATERIEL_INFO_202608158,clavier,modèle par défaut,24
+LA_MATERIEL_INFO_202608159,PC fixe tout-en-un,iMac pro,700
+LA_MATERIEL_INFO_2026081510,,modèle par défaut,350
+NewYork_MATERIEL_INFO_202608150,,ProBook,226
+NewYork_MATERIEL_INFO_202608151,imprimante,Laser à poser (<40kg),430
+NewYork_MATERIEL_INFO_202608152,PC fixe sans ecran,ZHAN,264
+NewYork_MATERIEL_INFO_202608153,PC fixe sans ecran,Wyse thin client,69
+NewYork_MATERIEL_INFO_202608154,imprimante,modèle par défaut,500
+NewYork_MATERIEL_INFO_202608155,PC portable,Precision 7xxx,304
+Paris_MATERIEL_INFO_202608150,PC portable,EliteBook 10xx,223
+Paris_MATERIEL_INFO_202608151,,Laser à poser (<40kg),430
+Paris_MATERIEL_INFO_202608152,PC portable,ZBook,303
+Paris_MATERIEL_INFO_202608153,PC portable,modèle par défaut,260
+Paris_MATERIEL_INFO_202608154,PC fixe sans ecran,ZHAN,264
+Shanghai_MATERIEL_INFO_202608150,Ecran,modèle par défaut,430
+Shanghai_MATERIEL_INFO_202608151,PC fixe sans ecran,Z,409
+Shanghai_MATERIEL_INFO_202608152,Vidéo projecteur,Pour salle,150
+Shanghai_MATERIEL_INFO_202608153,PC portable,Moyenne 17pouces,365
+Shanghai_MATERIEL_INFO_202608154,PC portable,ZBook Studio,379
+Shanghai_MATERIEL_INFO_202608155,,OMEN,290
+Shanghai_MATERIEL_INFO_202608156,PC fixe sans ecran,OMEN,290

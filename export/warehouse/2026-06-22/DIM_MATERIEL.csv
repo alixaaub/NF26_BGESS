@@ -1,0 +1,27 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202606220,PC fixe sans ecran,modèle par défaut,350
+LONDON_MATERIEL_INFO_202606220,PC portable,Precision 3xxx,266
+LONDON_MATERIEL_INFO_202606221,,ProBook,226
+LONDON_MATERIEL_INFO_202606222,,jusqu'à 23pouces,350
+LONDON_MATERIEL_INFO_202606223,imprimante,Laser A3 (40-99kg),960
+LONDON_MATERIEL_INFO_202606224,Ecran,32pouces et plus,590
+LONDON_MATERIEL_INFO_202606225,,Precision tower 5xxx,440
+LONDON_MATERIEL_INFO_202606226,,Laser à poser (<40kg),430
+LONDON_MATERIEL_INFO_202606227,Disque dur,modèle par défaut,10
+LONDON_MATERIEL_INFO_202606228,PC fixe tout-en-un,Optiplex All-in-One 7xxx,382
+LONDON_MATERIEL_INFO_202606229,PC fixe sans ecran,Z,409
+LONDON_MATERIEL_INFO_2026062210,PC fixe sans ecran,Wyse thin client,69
+LONDON_MATERIEL_INFO_2026062211,PC portable,ZBook,303
+LA_MATERIEL_INFO_202606220,PC fixe tout-en-un,Mac pro,900
+NewYork_MATERIEL_INFO_202606220,PC fixe sans ecran,Precision tower 7xxx,555
+NewYork_MATERIEL_INFO_202606221,Vidéo projecteur,Transportable,94
+NewYork_MATERIEL_INFO_202606222,PC portable,Precision 5xxx,280
+NewYork_MATERIEL_INFO_202606223,PC portable,modèle par défaut,260
+NewYork_MATERIEL_INFO_202606224,Vidéo projecteur,Pour salle,150
+NewYork_MATERIEL_INFO_202606225,,modèle par défaut,350
+Paris_MATERIEL_INFO_202606220,PC fixe sans ecran,Precision tower 7xxx,555
+Paris_MATERIEL_INFO_202606221,PC portable,Chromebook 14-15pouces,170
+Paris_MATERIEL_INFO_202606222,Smartphone,modèle par défaut,63
+Shanghai_MATERIEL_INFO_202606220,,Chromebook 14-15pouces,170
+Shanghai_MATERIEL_INFO_202606221,PC fixe tout-en-un,Optiplex All-in-One 5xxx,318
+Shanghai_MATERIEL_INFO_202606222,PC fixe sans ecran,Optiplex tower,260

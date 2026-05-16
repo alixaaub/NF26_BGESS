@@ -1,0 +1,42 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202607100,,Z,409
+BERLIN_MATERIEL_INFO_202607101,,ZBook Studio,379
+BERLIN_MATERIEL_INFO_202607102,PC fixe sans ecran,"EliteDesk (Tower, SFF, One)",393
+BERLIN_MATERIEL_INFO_202607103,PC fixe sans ecran,PC Fixe (moy),300
+BERLIN_MATERIEL_INFO_202607104,Serveur,Serveur de stockage,2500
+LONDON_MATERIEL_INFO_202607100,PC portable,modèle par défaut,260
+LONDON_MATERIEL_INFO_202607101,PC fixe sans ecran,Optiplex small,240
+LONDON_MATERIEL_INFO_202607102,,Rasberry pi 4,15
+LONDON_MATERIEL_INFO_202607103,clavier,modèle par défaut,24
+LONDON_MATERIEL_INFO_202607104,PC fixe tout-en-un,Optiplex All-in-One 5xxx,318
+LA_MATERIEL_INFO_202607100,,"Prodesk (Tower, SFF)",322
+NewYork_MATERIEL_INFO_202607100,Telephone IP,modèle par défaut,17
+NewYork_MATERIEL_INFO_202607101,clavier,modèle par défaut,24
+NewYork_MATERIEL_INFO_202607102,PC portable,ZBook Studio,379
+NewYork_MATERIEL_INFO_202607103,Smartphone,modèle par défaut,63
+NewYork_MATERIEL_INFO_202607104,PC fixe sans ecran,ZHAN,264
+NewYork_MATERIEL_INFO_202607105,PC fixe sans ecran,"Elite (Tower, SFF, One)",393
+NewYork_MATERIEL_INFO_202607106,PC portable,Moyenne 17pouces,365
+NewYork_MATERIEL_INFO_202607107,Ecran,32pouces et plus,590
+NewYork_MATERIEL_INFO_202607108,PC fixe tout-en-un,iMac 27pouces retina,450
+NewYork_MATERIEL_INFO_202607109,PC fixe sans ecran,,350
+Paris_MATERIEL_INFO_202607100,PC portable,Chromebook 14-15pouces,170
+Paris_MATERIEL_INFO_202607101,,ZBook Studio,379
+Paris_MATERIEL_INFO_202607102,Serveur,Serveur de stockage,2500
+Paris_MATERIEL_INFO_202607103,PC fixe tout-en-un,iMac 21pouces retina,300
+Paris_MATERIEL_INFO_202607104,PC fixe tout-en-un,Mac pro,900
+Paris_MATERIEL_INFO_202607105,PC portable,Victus,267
+Paris_MATERIEL_INFO_202607106,PC fixe sans ecran,Precision tower 5xxx,440
+Paris_MATERIEL_INFO_202607107,PC fixe sans ecran,Rasberry pi 4,15
+Paris_MATERIEL_INFO_202607108,,ZBook Studio,379
+Paris_MATERIEL_INFO_202607109,PC fixe sans ecran,Optiplex small,240
+Shanghai_MATERIEL_INFO_202607100,PC fixe sans ecran,OMEN,290
+Shanghai_MATERIEL_INFO_202607101,PC portable,ProBook,226
+Shanghai_MATERIEL_INFO_202607102,,Wyse thin client,69
+Shanghai_MATERIEL_INFO_202607103,,modèle par défaut,350
+Shanghai_MATERIEL_INFO_202607104,Ecran,24pouces-31pouces,430
+Shanghai_MATERIEL_INFO_202607105,PC fixe sans ecran,Optiplex tower,260
+Shanghai_MATERIEL_INFO_202607106,,iMac 21pouces,290
+Shanghai_MATERIEL_INFO_202607107,PC fixe sans ecran,Optiplex small,240
+Shanghai_MATERIEL_INFO_202607108,,24pouces-31pouces,430
+Shanghai_MATERIEL_INFO_202607109,Ecran,modèle par défaut,430

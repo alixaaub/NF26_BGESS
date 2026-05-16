@@ -1,0 +1,39 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202605150,,Chromebook 11-13pouces,175
+BERLIN_MATERIEL_INFO_202605151,Ecran,modèle par défaut,430
+LONDON_MATERIEL_INFO_202605150,PC portable,MacBook air,250
+LONDON_MATERIEL_INFO_202605151,,ZBook Studio,379
+LONDON_MATERIEL_INFO_202605152,PC portable,MacBook air,250
+LONDON_MATERIEL_INFO_202605153,PC fixe sans ecran,modèle par défaut,350
+LONDON_MATERIEL_INFO_202605154,imprimante,,500
+LONDON_MATERIEL_INFO_202605155,PC fixe sans ecran,Optiplex tower,260
+LA_MATERIEL_INFO_202605150,imprimante,,500
+LA_MATERIEL_INFO_202605151,Vidéo projecteur,Pour amphi,200
+LA_MATERIEL_INFO_202605152,,ProBook,226
+LA_MATERIEL_INFO_202605153,PC fixe sans ecran,OMEN,290
+LA_MATERIEL_INFO_202605154,PC portable,Precision 3xxx,266
+LA_MATERIEL_INFO_202605155,Vidéo projecteur,Transportable,94
+LA_MATERIEL_INFO_202605156,PC fixe sans ecran,,350
+LA_MATERIEL_INFO_202605157,Tablette,modèle par défaut,150
+LA_MATERIEL_INFO_202605158,PC portable,,260
+LA_MATERIEL_INFO_202605159,Borne wifi,modèle par défaut,10
+NewYork_MATERIEL_INFO_202605150,,modèle par défaut,350
+NewYork_MATERIEL_INFO_202605151,,Victus,267
+NewYork_MATERIEL_INFO_202605152,,MacBook air pre-retina,310
+NewYork_MATERIEL_INFO_202605153,PC portable,Chromebook 11-13pouces,175
+NewYork_MATERIEL_INFO_202605154,PC fixe sans ecran,,350
+NewYork_MATERIEL_INFO_202605155,Ecran,32pouces et plus,590
+NewYork_MATERIEL_INFO_202605156,Serveur,Noeud de calcul,1300
+NewYork_MATERIEL_INFO_202605157,PC portable,OMEN,290
+NewYork_MATERIEL_INFO_202605158,Ecran,32pouces et plus,590
+Paris_MATERIEL_INFO_202605150,Station d'accueil,modèle par défaut,26
+Paris_MATERIEL_INFO_202605151,PC fixe sans ecran,EliteDesk DM,230
+Paris_MATERIEL_INFO_202605152,Disque dur,modèle par défaut,10
+Paris_MATERIEL_INFO_202605153,PC portable,Latitude 3xxx,220
+Paris_MATERIEL_INFO_202605154,PC fixe sans ecran,ProDesk mini/DM,100
+Paris_MATERIEL_INFO_202605155,,Precision tower 7xxx,555
+Paris_MATERIEL_INFO_202605156,PC fixe sans ecran,Optiplex micro,174
+Shanghai_MATERIEL_INFO_202605150,,modèle par défaut,350
+Shanghai_MATERIEL_INFO_202605151,Serveur,Serveur de stockage,2500
+Shanghai_MATERIEL_INFO_202605152,PC portable,ProBook,226
+Shanghai_MATERIEL_INFO_202605153,PC fixe sans ecran,Mac pro,900

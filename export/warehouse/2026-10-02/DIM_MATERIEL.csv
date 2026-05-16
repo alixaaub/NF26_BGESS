@@ -1,0 +1,42 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202610020,PC fixe tout-en-un,modèle par défaut,352
+BERLIN_MATERIEL_INFO_202610021,PC fixe sans ecran,EliteDesk DM,230
+LONDON_MATERIEL_INFO_202610020,PC fixe tout-en-un,Optiplex All-in-One 7xxx,382
+LONDON_MATERIEL_INFO_202610021,,Victus,267
+LA_MATERIEL_INFO_202610020,PC portable,Moyenne 17pouces,365
+LA_MATERIEL_INFO_202610021,PC fixe tout-en-un,iMac 21pouces retina,300
+LA_MATERIEL_INFO_202610022,PC fixe sans ecran,,350
+LA_MATERIEL_INFO_202610023,PC portable,Chromebook 14-15pouces,170
+LA_MATERIEL_INFO_202610024,PC fixe sans ecran,,350
+LA_MATERIEL_INFO_202610025,Serveur,,1300
+LA_MATERIEL_INFO_202610026,PC portable,MacBook air pre-retina,310
+LA_MATERIEL_INFO_202610027,PC fixe sans ecran,Optiplex micro,174
+LA_MATERIEL_INFO_202610028,PC fixe sans ecran,Optiplex micro,174
+LA_MATERIEL_INFO_202610029,PC portable,OMEN,290
+LA_MATERIEL_INFO_2026100210,PC fixe tout-en-un,modèle par défaut,352
+LA_MATERIEL_INFO_2026100211,PC portable,Latitude 3xxx,220
+NewYork_MATERIEL_INFO_202610020,PC portable,MacBook air,250
+NewYork_MATERIEL_INFO_202610021,,modèle par défaut,350
+NewYork_MATERIEL_INFO_202610022,PC portable,Latitude 3xxx,220
+NewYork_MATERIEL_INFO_202610023,PC portable,Victus,267
+Paris_MATERIEL_INFO_202610020,PC fixe sans ecran,Optiplex micro,174
+Paris_MATERIEL_INFO_202610021,,Precision tower 7xxx,555
+Paris_MATERIEL_INFO_202610022,PC portable,ProBook,226
+Paris_MATERIEL_INFO_202610023,Serveur,Serveur de stockage,2500
+Paris_MATERIEL_INFO_202610024,PC portable,Moyenne 14/15pouces,294
+Paris_MATERIEL_INFO_202610025,PC fixe sans ecran,Precision tower 3xxx,285
+Paris_MATERIEL_INFO_202610026,PC fixe sans ecran,"EliteDesk (Tower, SFF, One)",393
+Paris_MATERIEL_INFO_202610027,Ecran,modèle par défaut,430
+Paris_MATERIEL_INFO_202610028,Ecran,32pouces et plus,590
+Paris_MATERIEL_INFO_202610029,PC portable,Latitude 7xxx,264
+Paris_MATERIEL_INFO_2026100210,PC portable,Moyenne 17pouces,365
+Paris_MATERIEL_INFO_2026100211,PC fixe sans ecran,Optiplex micro,174
+Paris_MATERIEL_INFO_2026100212,Station d'accueil,modèle par défaut,26
+Paris_MATERIEL_INFO_2026100213,,Optiplex tower,260
+Shanghai_MATERIEL_INFO_202610020,PC portable,OMEN,290
+Shanghai_MATERIEL_INFO_202610021,PC portable,Precision 7xxx,304
+Shanghai_MATERIEL_INFO_202610022,PC portable,modèle par défaut,260
+Shanghai_MATERIEL_INFO_202610023,,modèle par défaut,350
+Shanghai_MATERIEL_INFO_202610024,PC fixe sans ecran,,350
+Shanghai_MATERIEL_INFO_202610025,Smartphone,modèle par défaut,63
+Shanghai_MATERIEL_INFO_202610026,PC fixe tout-en-un,Optiplex All-in-One 3xxx,241

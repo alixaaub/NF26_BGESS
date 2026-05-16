@@ -1,0 +1,43 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202610240,PC portable,Moyenne 13pouces,250
+BERLIN_MATERIEL_INFO_202610241,PC fixe sans ecran,Optiplex small,240
+BERLIN_MATERIEL_INFO_202610242,PC fixe tout-en-un,iMac 21pouces retina,300
+LONDON_MATERIEL_INFO_202610240,PC portable,ZBook,303
+LONDON_MATERIEL_INFO_202610241,PC fixe sans ecran,Optiplex micro,174
+LONDON_MATERIEL_INFO_202610242,PC fixe sans ecran,"Prodesk (Tower, SFF)",322
+LONDON_MATERIEL_INFO_202610243,PC fixe tout-en-un,Optiplex All-in-One 3xxx,241
+LONDON_MATERIEL_INFO_202610244,PC portable,MacBook air retina,176
+LONDON_MATERIEL_INFO_202610245,PC fixe sans ecran,OMEN,290
+LONDON_MATERIEL_INFO_202610246,PC fixe sans ecran,,350
+LA_MATERIEL_INFO_202610240,,modèle par défaut,350
+LA_MATERIEL_INFO_202610241,PC fixe sans ecran,Optiplex micro,174
+LA_MATERIEL_INFO_202610242,PC fixe tout-en-un,modèle par défaut,352
+LA_MATERIEL_INFO_202610243,Serveur,Serveur de stockage,2500
+NewYork_MATERIEL_INFO_202610240,,iMac 21pouces retina,300
+NewYork_MATERIEL_INFO_202610241,,OMEN,290
+NewYork_MATERIEL_INFO_202610242,,jusqu'à 23pouces,350
+NewYork_MATERIEL_INFO_202610243,Vidéo projecteur,,94
+NewYork_MATERIEL_INFO_202610244,,modèle par défaut,350
+NewYork_MATERIEL_INFO_202610245,PC fixe tout-en-un,modèle par défaut,352
+NewYork_MATERIEL_INFO_202610246,Telephone IP,modèle par défaut,17
+NewYork_MATERIEL_INFO_202610247,PC fixe tout-en-un,iMac 27pouces retina,450
+Paris_MATERIEL_INFO_202610240,Station d'accueil,modèle par défaut,26
+Paris_MATERIEL_INFO_202610241,imprimante,,500
+Paris_MATERIEL_INFO_202610242,PC fixe sans ecran,Optiplex tower,260
+Paris_MATERIEL_INFO_202610243,PC fixe sans ecran,OMEN,290
+Paris_MATERIEL_INFO_202610244,Vidéo projecteur,Pour amphi,200
+Paris_MATERIEL_INFO_202610245,clavier,modèle par défaut,24
+Paris_MATERIEL_INFO_202610246,PC fixe tout-en-un,iMac 21pouces retina,300
+Shanghai_MATERIEL_INFO_202610240,,modèle par défaut,350
+Shanghai_MATERIEL_INFO_202610241,PC fixe sans ecran,Precision tower 5xxx,440
+Shanghai_MATERIEL_INFO_202610242,Vidéo projecteur,modèle par défaut,94
+Shanghai_MATERIEL_INFO_202610243,,MacBook air retina,176
+Shanghai_MATERIEL_INFO_202610244,,jusqu'à 23pouces,350
+Shanghai_MATERIEL_INFO_202610245,Borne wifi,modèle par défaut,10
+Shanghai_MATERIEL_INFO_202610246,Tablette,modèle par défaut,150
+Shanghai_MATERIEL_INFO_202610247,PC fixe sans ecran,Optiplex micro,174
+Shanghai_MATERIEL_INFO_202610248,PC portable,Chromebook 11-13pouces,175
+Shanghai_MATERIEL_INFO_202610249,,EliteBook 8xx,290
+Shanghai_MATERIEL_INFO_2026102410,PC fixe sans ecran,PC Fixe (moy),300
+Shanghai_MATERIEL_INFO_2026102411,PC portable,ProBook,226
+Shanghai_MATERIEL_INFO_2026102412,PC portable,Moyenne 14/15pouces,294

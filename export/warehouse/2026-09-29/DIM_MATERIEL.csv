@@ -1,0 +1,44 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202609290,,modèle par défaut,350
+BERLIN_MATERIEL_INFO_202609291,PC fixe tout-en-un,iMac 21pouces,290
+BERLIN_MATERIEL_INFO_202609292,Vidéo projecteur,Pour amphi,200
+BERLIN_MATERIEL_INFO_202609293,PC portable,MacBook air pre-retina,310
+BERLIN_MATERIEL_INFO_202609294,Vidéo projecteur,Pour salle,150
+BERLIN_MATERIEL_INFO_202609295,Vidéo projecteur,Pour salle,150
+LONDON_MATERIEL_INFO_202609290,Vidéo projecteur,Pour salle,150
+LONDON_MATERIEL_INFO_202609291,PC fixe sans ecran,Mac mini,270
+LONDON_MATERIEL_INFO_202609292,Telephone IP,modèle par défaut,17
+LA_MATERIEL_INFO_202609290,,Mac pro,900
+LA_MATERIEL_INFO_202609291,imprimante,modèle par défaut,500
+LA_MATERIEL_INFO_202609292,PC portable,ZBook Studio,379
+LA_MATERIEL_INFO_202609293,,Latitude 3xxx,220
+LA_MATERIEL_INFO_202609294,imprimante,Laser A3 (>100kg),1800
+LA_MATERIEL_INFO_202609295,,PC Fixe (moy),300
+LA_MATERIEL_INFO_202609296,PC portable,MacBook pro 13pouces,256
+LA_MATERIEL_INFO_202609297,Ecran,32pouces et plus,590
+LA_MATERIEL_INFO_202609298,PC fixe tout-en-un,iMac 21pouces,290
+LA_MATERIEL_INFO_202609299,PC fixe tout-en-un,iMac 21pouces,290
+LA_MATERIEL_INFO_2026092910,Disque dur,modèle par défaut,10
+LA_MATERIEL_INFO_2026092911,PC fixe sans ecran,modèle par défaut,350
+NewYork_MATERIEL_INFO_202609290,PC portable,,260
+NewYork_MATERIEL_INFO_202609291,,Laser A3 (>100kg),1800
+NewYork_MATERIEL_INFO_202609292,PC portable,Latitude 7xxx,264
+NewYork_MATERIEL_INFO_202609293,souris,modèle par défaut,5
+NewYork_MATERIEL_INFO_202609294,Serveur,Modèle par défaut,1300
+NewYork_MATERIEL_INFO_202609295,Serveur,Serveur de stockage,2500
+NewYork_MATERIEL_INFO_202609296,PC portable,ZBook Studio,379
+NewYork_MATERIEL_INFO_202609297,,modèle par défaut,350
+Paris_MATERIEL_INFO_202609290,Vidéo projecteur,Pour salle,150
+Paris_MATERIEL_INFO_202609291,PC fixe tout-en-un,iMac 27pouces retina,450
+Paris_MATERIEL_INFO_202609292,,Rasberry pi 4,15
+Paris_MATERIEL_INFO_202609293,souris,modèle par défaut,5
+Paris_MATERIEL_INFO_202609294,PC portable,ZBook Studio,379
+Paris_MATERIEL_INFO_202609295,PC fixe sans ecran,,350
+Paris_MATERIEL_INFO_202609296,,Chromebook 14-15pouces,170
+Shanghai_MATERIEL_INFO_202609290,PC portable,ProBook,226
+Shanghai_MATERIEL_INFO_202609291,,Precision 3xxx,266
+Shanghai_MATERIEL_INFO_202609292,Vidéo projecteur,Pour salle,150
+Shanghai_MATERIEL_INFO_202609293,,modèle par défaut,350
+Shanghai_MATERIEL_INFO_202609294,PC fixe tout-en-un,iMac 27pouces retina,450
+Shanghai_MATERIEL_INFO_202609295,,modèle par défaut,350
+Shanghai_MATERIEL_INFO_202609296,Smartphone,,63

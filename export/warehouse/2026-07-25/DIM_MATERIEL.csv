@@ -1,0 +1,39 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202607250,PC portable,ProBook,226
+BERLIN_MATERIEL_INFO_202607251,PC portable,Moyenne 17pouces,365
+BERLIN_MATERIEL_INFO_202607252,Tablette,modèle par défaut,150
+LONDON_MATERIEL_INFO_202607250,PC fixe tout-en-un,Optiplex All-in-One 5xxx,318
+LONDON_MATERIEL_INFO_202607251,PC fixe sans ecran,Precision tower 5xxx,440
+LONDON_MATERIEL_INFO_202607252,,modèle par défaut,350
+LONDON_MATERIEL_INFO_202607253,imprimante,Laser A3 (>100kg),1800
+LONDON_MATERIEL_INFO_202607254,PC portable,Moyenne 14/15pouces,294
+LONDON_MATERIEL_INFO_202607255,imprimante,Laser à poser (<40kg),430
+LONDON_MATERIEL_INFO_202607256,PC fixe sans ecran,ProDesk mini/DM,100
+LONDON_MATERIEL_INFO_202607257,PC portable,MacBook air retina,176
+LONDON_MATERIEL_INFO_202607258,PC fixe sans ecran,Precision tower 7xxx,555
+LA_MATERIEL_INFO_202607250,PC portable,MacBook air retina,176
+NewYork_MATERIEL_INFO_202607250,PC portable,,260
+NewYork_MATERIEL_INFO_202607251,Ecran,modèle par défaut,430
+NewYork_MATERIEL_INFO_202607252,PC portable,ZBook,303
+NewYork_MATERIEL_INFO_202607253,Tablette,modèle par défaut,150
+NewYork_MATERIEL_INFO_202607254,PC portable,Moyenne 14/15pouces,294
+NewYork_MATERIEL_INFO_202607255,PC fixe tout-en-un,iMac 21pouces retina,300
+NewYork_MATERIEL_INFO_202607256,PC portable,ZBook Studio,379
+NewYork_MATERIEL_INFO_202607257,PC fixe sans ecran,PC Fixe (moy),300
+NewYork_MATERIEL_INFO_202607258,,EliteDesk DM,230
+NewYork_MATERIEL_INFO_202607259,PC portable,Latitude 5xxx,300
+NewYork_MATERIEL_INFO_2026072510,PC portable,Moyenne 14/15pouces,294
+NewYork_MATERIEL_INFO_2026072511,Vidéo projecteur,modèle par défaut,94
+NewYork_MATERIEL_INFO_2026072512,Serveur,Serveur de stockage,2500
+NewYork_MATERIEL_INFO_2026072513,PC fixe tout-en-un,Optiplex All-in-One 7xxx,382
+Paris_MATERIEL_INFO_202607250,Ecran,24pouces-31pouces,430
+Paris_MATERIEL_INFO_202607251,,Precision 3xxx,266
+Paris_MATERIEL_INFO_202607252,PC fixe sans ecran,,350
+Paris_MATERIEL_INFO_202607253,Vidéo projecteur,Pour amphi,200
+Shanghai_MATERIEL_INFO_202607250,Telephone IP,modèle par défaut,17
+Shanghai_MATERIEL_INFO_202607251,clavier,modèle par défaut,24
+Shanghai_MATERIEL_INFO_202607252,,modèle par défaut,350
+Shanghai_MATERIEL_INFO_202607253,PC fixe sans ecran,Mac mini,270
+Shanghai_MATERIEL_INFO_202607254,PC fixe tout-en-un,Mac pro,900
+Shanghai_MATERIEL_INFO_202607255,PC fixe tout-en-un,iMac 21pouces,290
+Shanghai_MATERIEL_INFO_202607256,Station d'accueil,modèle par défaut,26

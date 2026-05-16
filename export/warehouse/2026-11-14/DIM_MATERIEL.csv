@@ -1,0 +1,41 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202611140,PC portable,Moyenne 14/15pouces,294
+BERLIN_MATERIEL_INFO_202611141,PC portable,Precision 5xxx,280
+BERLIN_MATERIEL_INFO_202611142,Ecran,modèle par défaut,430
+LONDON_MATERIEL_INFO_202611140,PC fixe tout-en-un,Optiplex All-in-One 7xxx,382
+LONDON_MATERIEL_INFO_202611141,,OMEN,290
+LONDON_MATERIEL_INFO_202611142,PC fixe sans ecran,PC Fixe (moy),300
+LONDON_MATERIEL_INFO_202611143,PC fixe sans ecran,Precision tower 3xxx,285
+LONDON_MATERIEL_INFO_202611144,,EliteBook 6xx,175
+LONDON_MATERIEL_INFO_202611145,,Transportable,94
+LONDON_MATERIEL_INFO_202611146,PC fixe sans ecran,Wyse thin client,69
+LONDON_MATERIEL_INFO_202611147,,ZBook Studio,379
+LONDON_MATERIEL_INFO_202611148,Vidéo projecteur,modèle par défaut,94
+LA_MATERIEL_INFO_202611140,,"Elite (Tower, SFF, One)",393
+LA_MATERIEL_INFO_202611141,,modèle par défaut,350
+LA_MATERIEL_INFO_202611142,Vidéo projecteur,modèle par défaut,94
+LA_MATERIEL_INFO_202611143,PC fixe sans ecran,"Elite (Tower, SFF, One)",393
+LA_MATERIEL_INFO_202611144,,Wyse thin client,69
+LA_MATERIEL_INFO_202611145,,Mac pro,900
+LA_MATERIEL_INFO_202611146,PC fixe sans ecran,Elite mini,137
+LA_MATERIEL_INFO_202611147,PC fixe tout-en-un,iMac 21pouces,290
+LA_MATERIEL_INFO_202611148,PC portable,Precision 5xxx,280
+LA_MATERIEL_INFO_202611149,,MacBook air retina,176
+LA_MATERIEL_INFO_2026111410,,OMEN,290
+NewYork_MATERIEL_INFO_202611140,,modèle par défaut,350
+NewYork_MATERIEL_INFO_202611141,PC portable,EliteBook 10xx,223
+Paris_MATERIEL_INFO_202611140,PC fixe sans ecran,Optiplex small,240
+Paris_MATERIEL_INFO_202611141,Ecran,32pouces et plus,590
+Shanghai_MATERIEL_INFO_202611140,PC portable,Precision 7xxx,304
+Shanghai_MATERIEL_INFO_202611141,PC fixe sans ecran,"Elite (Tower, SFF, One)",393
+Shanghai_MATERIEL_INFO_202611142,PC fixe tout-en-un,,352
+Shanghai_MATERIEL_INFO_202611143,,Precision tower 3xxx,285
+Shanghai_MATERIEL_INFO_202611144,PC portable,Moyenne 14/15pouces,294
+Shanghai_MATERIEL_INFO_202611145,,Optiplex tower,260
+Shanghai_MATERIEL_INFO_202611146,PC fixe tout-en-un,Mac pro,900
+Shanghai_MATERIEL_INFO_202611147,Ecran,32pouces et plus,590
+Shanghai_MATERIEL_INFO_202611148,Borne wifi,modèle par défaut,10
+Shanghai_MATERIEL_INFO_202611149,PC portable,MacBook pro 15/16pouces,330
+Shanghai_MATERIEL_INFO_2026111410,PC portable,Victus,267
+Shanghai_MATERIEL_INFO_2026111411,Telephone IP,modèle par défaut,17
+Shanghai_MATERIEL_INFO_2026111412,,Optiplex All-in-One 3xxx,241

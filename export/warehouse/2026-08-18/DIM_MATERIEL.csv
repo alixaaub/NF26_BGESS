@@ -1,0 +1,40 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202608180,PC portable,Moyenne 17pouces,365
+BERLIN_MATERIEL_INFO_202608181,,modèle par défaut,350
+BERLIN_MATERIEL_INFO_202608182,PC portable,MacBook air,250
+BERLIN_MATERIEL_INFO_202608183,PC fixe tout-en-un,iMac 27pouces retina,450
+LONDON_MATERIEL_INFO_202608180,,modèle par défaut,350
+LONDON_MATERIEL_INFO_202608181,PC portable,EliteBook 6xx,175
+LONDON_MATERIEL_INFO_202608182,,Mac pro,900
+LONDON_MATERIEL_INFO_202608183,,Optiplex micro,174
+LONDON_MATERIEL_INFO_202608184,PC fixe tout-en-un,,352
+LONDON_MATERIEL_INFO_202608185,Vidéo projecteur,Transportable,94
+LONDON_MATERIEL_INFO_202608186,Vidéo projecteur,modèle par défaut,94
+LONDON_MATERIEL_INFO_202608187,PC fixe sans ecran,Precision tower 7xxx,555
+LA_MATERIEL_INFO_202608180,,MacBook air,250
+LA_MATERIEL_INFO_202608181,PC portable,MacBook pro 15/16pouces,330
+LA_MATERIEL_INFO_202608182,PC fixe tout-en-un,Optiplex All-in-One 5xxx,318
+LA_MATERIEL_INFO_202608183,,modèle par défaut,350
+LA_MATERIEL_INFO_202608184,,Modèle par défaut,350
+LA_MATERIEL_INFO_202608185,,modèle par défaut,350
+LA_MATERIEL_INFO_202608186,PC portable,ZBook,303
+LA_MATERIEL_INFO_202608187,Vidéo projecteur,Pour salle,150
+LA_MATERIEL_INFO_202608188,,EliteBook 8xx,290
+LA_MATERIEL_INFO_202608189,,iMac pro,700
+LA_MATERIEL_INFO_2026081810,imprimante,Laser A3 (>100kg),1800
+NewYork_MATERIEL_INFO_202608180,Vidéo projecteur,Pour salle,150
+Paris_MATERIEL_INFO_202608180,Station d'accueil,modèle par défaut,26
+Paris_MATERIEL_INFO_202608181,,Latitude 7xxx,264
+Paris_MATERIEL_INFO_202608182,PC portable,EliteBook 8xx,290
+Paris_MATERIEL_INFO_202608183,,modèle par défaut,350
+Paris_MATERIEL_INFO_202608184,PC portable,Latitude 5xxx,300
+Paris_MATERIEL_INFO_202608185,PC fixe tout-en-un,Optiplex All-in-One 7xxx,382
+Paris_MATERIEL_INFO_202608186,Vidéo projecteur,Pour amphi,200
+Paris_MATERIEL_INFO_202608187,Ecran,modèle par défaut,430
+Paris_MATERIEL_INFO_202608188,PC portable,EliteBook 10xx,223
+Paris_MATERIEL_INFO_202608189,PC portable,Latitude 5xxx,300
+Paris_MATERIEL_INFO_2026081810,Vidéo projecteur,Transportable,94
+Paris_MATERIEL_INFO_2026081811,PC fixe tout-en-un,iMac 21pouces retina,300
+Paris_MATERIEL_INFO_2026081812,PC fixe sans ecran,Station de travail (moy),600
+Shanghai_MATERIEL_INFO_202608180,PC portable,Moyenne 17pouces,365
+Shanghai_MATERIEL_INFO_202608181,,Precision tower 3xxx,285

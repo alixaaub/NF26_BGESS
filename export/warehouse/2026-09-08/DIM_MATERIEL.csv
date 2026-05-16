@@ -1,0 +1,29 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202609080,imprimante,modèle par défaut,500
+BERLIN_MATERIEL_INFO_202609081,,modèle par défaut,350
+BERLIN_MATERIEL_INFO_202609082,imprimante,Laser A3 (>100kg),1800
+LONDON_MATERIEL_INFO_202609080,Vidéo projecteur,Pour salle,150
+LONDON_MATERIEL_INFO_202609081,,modèle par défaut,350
+LONDON_MATERIEL_INFO_202609082,PC portable,Moyenne 14/15pouces,294
+LA_MATERIEL_INFO_202609080,PC fixe sans ecran,Optiplex small,240
+LA_MATERIEL_INFO_202609081,PC fixe sans ecran,"Elite (Tower, SFF, One)",393
+LA_MATERIEL_INFO_202609082,PC fixe sans ecran,Optiplex micro,174
+LA_MATERIEL_INFO_202609083,PC portable,Precision 5xxx,280
+LA_MATERIEL_INFO_202609084,PC fixe tout-en-un,iMac 21pouces,290
+LA_MATERIEL_INFO_202609085,,Chromebook 14-15pouces,170
+LA_MATERIEL_INFO_202609086,imprimante,modèle par défaut,500
+LA_MATERIEL_INFO_202609087,PC fixe sans ecran,PC Fixe (moy),300
+LA_MATERIEL_INFO_202609088,PC fixe tout-en-un,iMac 27pouces retina,450
+LA_MATERIEL_INFO_202609089,PC portable,MacBook pro 15/16pouces,330
+LA_MATERIEL_INFO_2026090810,Serveur,Serveur de stockage,2500
+NewYork_MATERIEL_INFO_202609080,PC portable,ZBook,303
+NewYork_MATERIEL_INFO_202609081,,PC Fixe (moy),300
+NewYork_MATERIEL_INFO_202609082,Vidéo projecteur,Pour amphi,200
+NewYork_MATERIEL_INFO_202609083,,Rasberry pi 4,15
+Paris_MATERIEL_INFO_202609080,PC portable,EliteBook 8xx,290
+Shanghai_MATERIEL_INFO_202609080,PC fixe tout-en-un,iMac 21pouces retina,300
+Shanghai_MATERIEL_INFO_202609081,PC portable,Latitude 7xxx,264
+Shanghai_MATERIEL_INFO_202609082,PC fixe sans ecran,OMEN,290
+Shanghai_MATERIEL_INFO_202609083,PC fixe tout-en-un,iMac 21pouces retina,300
+Shanghai_MATERIEL_INFO_202609084,PC portable,ProBook,226
+Shanghai_MATERIEL_INFO_202609085,,24pouces-31pouces,430

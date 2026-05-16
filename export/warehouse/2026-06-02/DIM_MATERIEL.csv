@@ -1,0 +1,48 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202606020,,Pour salle,150
+BERLIN_MATERIEL_INFO_202606021,,MacBook air retina,176
+LONDON_MATERIEL_INFO_202606020,PC portable,Moyenne 14/15pouces,294
+LONDON_MATERIEL_INFO_202606021,PC fixe tout-en-un,iMac 21pouces retina,300
+LONDON_MATERIEL_INFO_202606022,PC fixe tout-en-un,modèle par défaut,352
+LONDON_MATERIEL_INFO_202606023,PC fixe tout-en-un,Optiplex All-in-One 5xxx,318
+LONDON_MATERIEL_INFO_202606024,PC fixe sans ecran,"Prodesk (Tower, SFF)",322
+LONDON_MATERIEL_INFO_202606025,PC portable,modèle par défaut,260
+LONDON_MATERIEL_INFO_202606026,PC portable,Chromebook 11-13pouces,175
+LONDON_MATERIEL_INFO_202606027,PC fixe sans ecran,Precision tower 5xxx,440
+LONDON_MATERIEL_INFO_202606028,,modèle par défaut,350
+LONDON_MATERIEL_INFO_202606029,PC fixe sans ecran,Precision tower 3xxx,285
+LONDON_MATERIEL_INFO_2026060210,PC portable,MacBook air pre-retina,310
+LONDON_MATERIEL_INFO_2026060211,Serveur,,1300
+LONDON_MATERIEL_INFO_2026060212,Vidéo projecteur,Pour salle,150
+LA_MATERIEL_INFO_202606020,,Z,409
+LA_MATERIEL_INFO_202606021,PC portable,OMEN,290
+LA_MATERIEL_INFO_202606022,PC fixe tout-en-un,iMac pro,700
+LA_MATERIEL_INFO_202606023,,MacBook air,250
+LA_MATERIEL_INFO_202606024,Ecran,modèle par défaut,430
+LA_MATERIEL_INFO_202606025,,EliteBook 8xx,290
+LA_MATERIEL_INFO_202606026,PC portable,Moyenne 17pouces,365
+LA_MATERIEL_INFO_202606027,PC fixe tout-en-un,modèle par défaut,352
+LA_MATERIEL_INFO_202606028,PC fixe sans ecran,modèle par défaut,350
+NewYork_MATERIEL_INFO_202606020,Smartphone,modèle par défaut,63
+NewYork_MATERIEL_INFO_202606021,PC fixe sans ecran,,350
+NewYork_MATERIEL_INFO_202606022,,iMac 27pouces retina,450
+NewYork_MATERIEL_INFO_202606023,PC portable,MacBook air,250
+NewYork_MATERIEL_INFO_202606024,PC fixe sans ecran,Z,409
+NewYork_MATERIEL_INFO_202606025,PC fixe tout-en-un,Optiplex All-in-One 5xxx,318
+NewYork_MATERIEL_INFO_202606026,,OMEN,290
+NewYork_MATERIEL_INFO_202606027,,modèle par défaut,350
+NewYork_MATERIEL_INFO_202606028,Serveur,Modèle par défaut,1300
+NewYork_MATERIEL_INFO_202606029,PC fixe tout-en-un,iMac pro,700
+NewYork_MATERIEL_INFO_2026060210,PC fixe sans ecran,Z,409
+NewYork_MATERIEL_INFO_2026060211,PC fixe sans ecran,Z,409
+NewYork_MATERIEL_INFO_2026060212,PC portable,ProBook,226
+Paris_MATERIEL_INFO_202606020,,EliteBook 6xx,175
+Paris_MATERIEL_INFO_202606021,PC fixe sans ecran,Mac pro,900
+Paris_MATERIEL_INFO_202606022,PC portable,Latitude 5xxx,300
+Paris_MATERIEL_INFO_202606023,Vidéo projecteur,Transportable,94
+Paris_MATERIEL_INFO_202606024,PC portable,,260
+Paris_MATERIEL_INFO_202606025,,EliteBook 6xx,175
+Paris_MATERIEL_INFO_202606026,,modèle par défaut,350
+Paris_MATERIEL_INFO_202606027,PC fixe sans ecran,Station de travail (moy),600
+Paris_MATERIEL_INFO_202606028,,24pouces-31pouces,430
+Shanghai_MATERIEL_INFO_202606020,Tablette,modèle par défaut,150

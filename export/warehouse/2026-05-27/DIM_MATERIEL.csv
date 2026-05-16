@@ -1,0 +1,45 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202605270,PC portable,Moyenne 13pouces,250
+BERLIN_MATERIEL_INFO_202605271,,Laser A3 (40-99kg),960
+BERLIN_MATERIEL_INFO_202605272,Ecran,32pouces et plus,590
+LONDON_MATERIEL_INFO_202605270,Telephone IP,modèle par défaut,17
+LONDON_MATERIEL_INFO_202605271,PC portable,ZBook Studio,379
+LONDON_MATERIEL_INFO_202605272,PC portable,EliteBook 6xx,175
+LA_MATERIEL_INFO_202605270,PC fixe sans ecran,Mac mini,270
+LA_MATERIEL_INFO_202605271,,Precision 5xxx,280
+LA_MATERIEL_INFO_202605272,Ecran,24pouces-31pouces,430
+LA_MATERIEL_INFO_202605273,Serveur,Serveur de stockage,2500
+LA_MATERIEL_INFO_202605274,PC fixe sans ecran,OMEN,290
+LA_MATERIEL_INFO_202605275,PC portable,Moyenne 14/15pouces,294
+LA_MATERIEL_INFO_202605276,PC portable,OMEN,290
+LA_MATERIEL_INFO_202605277,PC portable,MacBook air pre-retina,310
+NewYork_MATERIEL_INFO_202605270,,Mac pro,900
+NewYork_MATERIEL_INFO_202605271,PC fixe sans ecran,Elite mini,137
+NewYork_MATERIEL_INFO_202605272,PC fixe sans ecran,Z,409
+NewYork_MATERIEL_INFO_202605273,Station d'accueil,modèle par défaut,26
+NewYork_MATERIEL_INFO_202605274,,jusqu'à 23pouces,350
+NewYork_MATERIEL_INFO_202605275,PC portable,EliteBook 8xx,290
+NewYork_MATERIEL_INFO_202605276,,"Prodesk (Tower, SFF)",322
+NewYork_MATERIEL_INFO_202605277,PC portable,EliteBook 8xx,290
+NewYork_MATERIEL_INFO_202605278,Vidéo projecteur,modèle par défaut,94
+NewYork_MATERIEL_INFO_202605279,Ecran,32pouces et plus,590
+NewYork_MATERIEL_INFO_2026052710,Ecran,modèle par défaut,430
+NewYork_MATERIEL_INFO_2026052711,Disque dur,modèle par défaut,10
+NewYork_MATERIEL_INFO_2026052712,PC portable,Latitude 7xxx,264
+NewYork_MATERIEL_INFO_2026052713,,Optiplex All-in-One 5xxx,318
+Paris_MATERIEL_INFO_202605270,,"EliteDesk (Tower, SFF, One)",393
+Paris_MATERIEL_INFO_202605271,PC portable,MacBook air pre-retina,310
+Paris_MATERIEL_INFO_202605272,,modèle par défaut,350
+Paris_MATERIEL_INFO_202605273,,MacBook pro 13pouces,256
+Paris_MATERIEL_INFO_202605274,PC fixe sans ecran,Mac pro,900
+Paris_MATERIEL_INFO_202605275,Vidéo projecteur,Transportable,94
+Paris_MATERIEL_INFO_202605276,PC fixe sans ecran,Mac mini,270
+Paris_MATERIEL_INFO_202605277,PC portable,MacBook air retina,176
+Paris_MATERIEL_INFO_202605278,Ecran,32pouces et plus,590
+Shanghai_MATERIEL_INFO_202605270,PC fixe sans ecran,,350
+Shanghai_MATERIEL_INFO_202605271,PC portable,Chromebook 14-15pouces,170
+Shanghai_MATERIEL_INFO_202605272,Vidéo projecteur,Pour salle,150
+Shanghai_MATERIEL_INFO_202605273,,Modèle par défaut,350
+Shanghai_MATERIEL_INFO_202605274,,Elite mini,137
+Shanghai_MATERIEL_INFO_202605275,PC portable,,260
+Shanghai_MATERIEL_INFO_202605276,PC portable,MacBook air retina,176

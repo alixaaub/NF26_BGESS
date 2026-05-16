@@ -1,0 +1,43 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202610280,,Station de travail (moy),600
+BERLIN_MATERIEL_INFO_202610281,PC portable,MacBook air pre-retina,310
+BERLIN_MATERIEL_INFO_202610282,PC portable,EliteBook 10xx,223
+BERLIN_MATERIEL_INFO_202610283,,OMEN,290
+BERLIN_MATERIEL_INFO_202610284,PC fixe sans ecran,Elite mini,137
+BERLIN_MATERIEL_INFO_202610285,Ecran,modèle par défaut,430
+LONDON_MATERIEL_INFO_202610280,PC portable,Chromebook 11-13pouces,175
+LONDON_MATERIEL_INFO_202610281,,iMac 21pouces retina,300
+LONDON_MATERIEL_INFO_202610282,PC fixe sans ecran,Precision tower 7xxx,555
+LONDON_MATERIEL_INFO_202610283,Serveur,Modèle par défaut,1300
+LONDON_MATERIEL_INFO_202610284,PC fixe sans ecran,,350
+LA_MATERIEL_INFO_202610280,clavier,modèle par défaut,24
+LA_MATERIEL_INFO_202610281,,Station de travail (moy),600
+LA_MATERIEL_INFO_202610282,PC portable,Moyenne 17pouces,365
+NewYork_MATERIEL_INFO_202610280,,Victus,267
+NewYork_MATERIEL_INFO_202610281,PC portable,MacBook pro 15/16pouces,330
+NewYork_MATERIEL_INFO_202610282,PC fixe sans ecran,,350
+NewYork_MATERIEL_INFO_202610283,PC fixe sans ecran,Wyse thin client,69
+NewYork_MATERIEL_INFO_202610284,PC portable,modèle par défaut,260
+NewYork_MATERIEL_INFO_202610285,PC portable,Latitude 7xxx,264
+Paris_MATERIEL_INFO_202610280,,ProDesk mini/DM,100
+Paris_MATERIEL_INFO_202610281,Serveur,Modèle par défaut,1300
+Paris_MATERIEL_INFO_202610282,PC fixe sans ecran,"Elite (Tower, SFF, One)",393
+Paris_MATERIEL_INFO_202610283,,Mac pro,900
+Paris_MATERIEL_INFO_202610284,Serveur,Modèle par défaut,1300
+Paris_MATERIEL_INFO_202610285,,Optiplex All-in-One 7xxx,382
+Paris_MATERIEL_INFO_202610286,PC fixe sans ecran,OMEN,290
+Paris_MATERIEL_INFO_202610287,PC fixe sans ecran,Optiplex micro,174
+Paris_MATERIEL_INFO_202610288,,Laser à poser (<40kg),430
+Shanghai_MATERIEL_INFO_202610280,PC fixe sans ecran,PC Fixe (moy),300
+Shanghai_MATERIEL_INFO_202610281,PC portable,Moyenne 13pouces,250
+Shanghai_MATERIEL_INFO_202610282,Serveur,Noeud de calcul,1300
+Shanghai_MATERIEL_INFO_202610283,PC portable,,260
+Shanghai_MATERIEL_INFO_202610284,Serveur,Serveur de stockage,2500
+Shanghai_MATERIEL_INFO_202610285,PC fixe sans ecran,Optiplex small,240
+Shanghai_MATERIEL_INFO_202610286,Ecran,jusqu'à 23pouces,350
+Shanghai_MATERIEL_INFO_202610287,PC portable,Moyenne 13pouces,250
+Shanghai_MATERIEL_INFO_202610288,PC portable,Moyenne 14/15pouces,294
+Shanghai_MATERIEL_INFO_202610289,Ecran,24pouces-31pouces,430
+Shanghai_MATERIEL_INFO_2026102810,,Precision tower 5xxx,440
+Shanghai_MATERIEL_INFO_2026102811,PC fixe sans ecran,Optiplex small,240
+Shanghai_MATERIEL_INFO_2026102812,,32pouces et plus,590

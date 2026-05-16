@@ -1,0 +1,37 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202609060,Tablette,modèle par défaut,150
+BERLIN_MATERIEL_INFO_202609061,PC portable,modèle par défaut,260
+BERLIN_MATERIEL_INFO_202609062,PC fixe tout-en-un,Optiplex All-in-One 3xxx,241
+BERLIN_MATERIEL_INFO_202609063,PC fixe tout-en-un,modèle par défaut,352
+BERLIN_MATERIEL_INFO_202609064,,modèle par défaut,350
+LONDON_MATERIEL_INFO_202609060,PC portable,EliteBook 6xx,175
+LONDON_MATERIEL_INFO_202609061,,jusqu'à 23pouces,350
+LONDON_MATERIEL_INFO_202609062,PC fixe sans ecran,Precision tower 5xxx,440
+LONDON_MATERIEL_INFO_202609063,Station d'accueil,modèle par défaut,26
+LONDON_MATERIEL_INFO_202609064,PC fixe sans ecran,EliteDesk DM,230
+LONDON_MATERIEL_INFO_202609065,clavier,modèle par défaut,24
+LONDON_MATERIEL_INFO_202609066,PC fixe sans ecran,Elite mini,137
+LONDON_MATERIEL_INFO_202609067,PC fixe sans ecran,Rasberry pi 4,15
+LONDON_MATERIEL_INFO_202609068,PC portable,MacBook air pre-retina,310
+LA_MATERIEL_INFO_202609060,PC fixe tout-en-un,Optiplex All-in-One 7xxx,382
+LA_MATERIEL_INFO_202609061,Station d'accueil,modèle par défaut,26
+LA_MATERIEL_INFO_202609062,,Laser A3 (40-99kg),960
+LA_MATERIEL_INFO_202609063,imprimante,modèle par défaut,500
+LA_MATERIEL_INFO_202609064,PC fixe sans ecran,Precision tower 7xxx,555
+LA_MATERIEL_INFO_202609065,PC portable,Precision 7xxx,304
+LA_MATERIEL_INFO_202609066,,MacBook pro 13pouces,256
+LA_MATERIEL_INFO_202609067,PC portable,ProBook,226
+LA_MATERIEL_INFO_202609068,,ZBook Studio,379
+NewYork_MATERIEL_INFO_202609060,PC portable,EliteBook 8xx,290
+Paris_MATERIEL_INFO_202609060,PC fixe tout-en-un,Optiplex All-in-One 7xxx,382
+Paris_MATERIEL_INFO_202609061,PC portable,Chromebook 11-13pouces,175
+Paris_MATERIEL_INFO_202609062,PC portable,Chromebook 11-13pouces,175
+Paris_MATERIEL_INFO_202609063,PC fixe sans ecran,OMEN,290
+Paris_MATERIEL_INFO_202609064,PC portable,Precision 7xxx,304
+Paris_MATERIEL_INFO_202609065,PC fixe sans ecran,Mac pro,900
+Paris_MATERIEL_INFO_202609066,PC fixe sans ecran,Optiplex small,240
+Paris_MATERIEL_INFO_202609067,PC fixe tout-en-un,modèle par défaut,352
+Shanghai_MATERIEL_INFO_202609060,PC fixe sans ecran,Rasberry pi 4,15
+Shanghai_MATERIEL_INFO_202609061,PC portable,OMEN,290
+Shanghai_MATERIEL_INFO_202609062,PC portable,,260
+Shanghai_MATERIEL_INFO_202609063,Serveur,,1300

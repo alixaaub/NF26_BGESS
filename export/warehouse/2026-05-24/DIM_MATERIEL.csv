@@ -1,0 +1,38 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202605240,PC fixe tout-en-un,modèle par défaut,352
+LONDON_MATERIEL_INFO_202605240,PC fixe sans ecran,EliteDesk DM,230
+LONDON_MATERIEL_INFO_202605241,PC fixe sans ecran,Rasberry pi 4,15
+LONDON_MATERIEL_INFO_202605242,PC portable,Latitude 5xxx,300
+LONDON_MATERIEL_INFO_202605243,PC fixe sans ecran,Station de travail (moy),600
+LONDON_MATERIEL_INFO_202605244,clavier,modèle par défaut,24
+LONDON_MATERIEL_INFO_202605245,,MacBook pro 15/16pouces,330
+LA_MATERIEL_INFO_202605240,PC fixe sans ecran,,350
+LA_MATERIEL_INFO_202605241,PC portable,,260
+LA_MATERIEL_INFO_202605242,Vidéo projecteur,Transportable,94
+LA_MATERIEL_INFO_202605243,PC fixe tout-en-un,Optiplex All-in-One 3xxx,241
+LA_MATERIEL_INFO_202605244,,EliteBook 8xx,290
+NewYork_MATERIEL_INFO_202605240,Serveur,,1300
+NewYork_MATERIEL_INFO_202605241,Telephone IP,modèle par défaut,17
+NewYork_MATERIEL_INFO_202605242,,Chromebook 14-15pouces,170
+NewYork_MATERIEL_INFO_202605243,imprimante,Laser A3 (>100kg),1800
+Paris_MATERIEL_INFO_202605240,Borne wifi,modèle par défaut,10
+Paris_MATERIEL_INFO_202605241,PC portable,Moyenne 14/15pouces,294
+Paris_MATERIEL_INFO_202605242,PC portable,MacBook air retina,176
+Paris_MATERIEL_INFO_202605243,PC portable,Precision 5xxx,280
+Paris_MATERIEL_INFO_202605244,PC portable,,260
+Paris_MATERIEL_INFO_202605245,Ecran,modèle par défaut,430
+Paris_MATERIEL_INFO_202605246,Ecran,jusqu'à 23pouces,350
+Shanghai_MATERIEL_INFO_202605240,PC fixe tout-en-un,iMac 27pouces retina,450
+Shanghai_MATERIEL_INFO_202605241,PC portable,modèle par défaut,260
+Shanghai_MATERIEL_INFO_202605242,PC portable,Latitude 5xxx,300
+Shanghai_MATERIEL_INFO_202605243,Smartphone,modèle par défaut,63
+Shanghai_MATERIEL_INFO_202605244,Vidéo projecteur,Pour amphi,200
+Shanghai_MATERIEL_INFO_202605245,,Rasberry pi 4,15
+Shanghai_MATERIEL_INFO_202605246,,Precision 3xxx,266
+Shanghai_MATERIEL_INFO_202605247,PC fixe sans ecran,"Prodesk (Tower, SFF)",322
+Shanghai_MATERIEL_INFO_202605248,PC fixe sans ecran,Mac pro,900
+Shanghai_MATERIEL_INFO_202605249,PC portable,Latitude 5xxx,300
+Shanghai_MATERIEL_INFO_2026052410,PC portable,MacBook air retina,176
+Shanghai_MATERIEL_INFO_2026052411,PC fixe sans ecran,ZHAN,264
+Shanghai_MATERIEL_INFO_2026052412,Borne wifi,modèle par défaut,10
+Shanghai_MATERIEL_INFO_2026052413,Station d'accueil,modèle par défaut,26

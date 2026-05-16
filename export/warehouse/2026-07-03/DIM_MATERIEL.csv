@@ -1,0 +1,49 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202607030,PC portable,ProBook,226
+BERLIN_MATERIEL_INFO_202607031,PC portable,MacBook pro 15/16pouces,330
+BERLIN_MATERIEL_INFO_202607032,PC fixe tout-en-un,Mac pro,900
+LONDON_MATERIEL_INFO_202607030,PC fixe sans ecran,Precision tower 5xxx,440
+LONDON_MATERIEL_INFO_202607031,PC fixe sans ecran,,350
+LONDON_MATERIEL_INFO_202607032,PC fixe sans ecran,,350
+LONDON_MATERIEL_INFO_202607033,PC portable,MacBook pro 13pouces,256
+LONDON_MATERIEL_INFO_202607034,,Victus,267
+LONDON_MATERIEL_INFO_202607035,imprimante,Laser à poser (<40kg),430
+LONDON_MATERIEL_INFO_202607036,PC portable,Precision 3xxx,266
+LONDON_MATERIEL_INFO_202607037,PC fixe sans ecran,Z,409
+LONDON_MATERIEL_INFO_202607038,,EliteBook 8xx,290
+LONDON_MATERIEL_INFO_202607039,PC portable,Chromebook 14-15pouces,170
+LONDON_MATERIEL_INFO_2026070310,PC fixe tout-en-un,Mac pro,900
+LONDON_MATERIEL_INFO_2026070311,PC fixe sans ecran,"Prodesk (Tower, SFF)",322
+LONDON_MATERIEL_INFO_2026070312,PC fixe tout-en-un,modèle par défaut,352
+LA_MATERIEL_INFO_202607030,,iMac 21pouces,290
+LA_MATERIEL_INFO_202607031,clavier,modèle par défaut,24
+LA_MATERIEL_INFO_202607032,PC portable,MacBook air pre-retina,310
+LA_MATERIEL_INFO_202607033,PC portable,EliteBook 10xx,223
+LA_MATERIEL_INFO_202607034,PC fixe sans ecran,Wyse thin client,69
+LA_MATERIEL_INFO_202607035,PC portable,modèle par défaut,260
+LA_MATERIEL_INFO_202607036,,Precision tower 3xxx,285
+LA_MATERIEL_INFO_202607037,PC portable,,260
+LA_MATERIEL_INFO_202607038,PC fixe sans ecran,,350
+LA_MATERIEL_INFO_202607039,Smartphone,modèle par défaut,63
+LA_MATERIEL_INFO_2026070310,Ecran,modèle par défaut,430
+NewYork_MATERIEL_INFO_202607030,PC fixe sans ecran,Wyse thin client,69
+NewYork_MATERIEL_INFO_202607031,Serveur,Noeud de calcul,1300
+NewYork_MATERIEL_INFO_202607032,,modèle par défaut,350
+Paris_MATERIEL_INFO_202607030,,ProDesk mini/DM,100
+Paris_MATERIEL_INFO_202607031,PC fixe sans ecran,"Elite (Tower, SFF, One)",393
+Paris_MATERIEL_INFO_202607032,PC fixe sans ecran,Mac mini,270
+Paris_MATERIEL_INFO_202607033,PC fixe sans ecran,Mac pro,900
+Paris_MATERIEL_INFO_202607034,Smartphone,modèle par défaut,63
+Paris_MATERIEL_INFO_202607035,,MacBook air retina,176
+Paris_MATERIEL_INFO_202607036,,MacBook pro 13pouces,256
+Paris_MATERIEL_INFO_202607037,,iMac pro,700
+Paris_MATERIEL_INFO_202607038,imprimante,Laser A3 (40-99kg),960
+Paris_MATERIEL_INFO_202607039,PC portable,EliteBook 6xx,175
+Shanghai_MATERIEL_INFO_202607030,,Optiplex All-in-One 3xxx,241
+Shanghai_MATERIEL_INFO_202607031,PC fixe sans ecran,,350
+Shanghai_MATERIEL_INFO_202607032,Smartphone,,63
+Shanghai_MATERIEL_INFO_202607033,PC portable,Moyenne 14/15pouces,294
+Shanghai_MATERIEL_INFO_202607034,PC fixe tout-en-un,iMac 27pouces retina,450
+Shanghai_MATERIEL_INFO_202607035,Borne wifi,modèle par défaut,10
+Shanghai_MATERIEL_INFO_202607036,PC fixe sans ecran,"EliteDesk (Tower, SFF, One)",393
+Shanghai_MATERIEL_INFO_202607037,PC fixe sans ecran,ProDesk mini/DM,100

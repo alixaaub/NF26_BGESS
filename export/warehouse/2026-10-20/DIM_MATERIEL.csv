@@ -1,0 +1,33 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202610200,Vidéo projecteur,modèle par défaut,94
+LONDON_MATERIEL_INFO_202610200,PC portable,ZBook Studio,379
+LONDON_MATERIEL_INFO_202610201,PC fixe sans ecran,Rasberry pi 4,15
+LONDON_MATERIEL_INFO_202610202,PC portable,Moyenne 13pouces,250
+LONDON_MATERIEL_INFO_202610203,PC portable,OMEN,290
+LA_MATERIEL_INFO_202610200,PC portable,,260
+LA_MATERIEL_INFO_202610201,Vidéo projecteur,Transportable,94
+LA_MATERIEL_INFO_202610202,Vidéo projecteur,modèle par défaut,94
+LA_MATERIEL_INFO_202610203,PC fixe sans ecran,Mac mini,270
+LA_MATERIEL_INFO_202610204,Ecran,24pouces-31pouces,430
+NewYork_MATERIEL_INFO_202610200,PC portable,,260
+NewYork_MATERIEL_INFO_202610201,PC portable,Latitude 5xxx,300
+NewYork_MATERIEL_INFO_202610202,PC fixe sans ecran,Optiplex micro,174
+NewYork_MATERIEL_INFO_202610203,PC fixe sans ecran,Precision tower 5xxx,440
+NewYork_MATERIEL_INFO_202610204,PC fixe sans ecran,Precision tower 5xxx,440
+NewYork_MATERIEL_INFO_202610205,Telephone IP,modèle par défaut,17
+NewYork_MATERIEL_INFO_202610206,PC fixe sans ecran,Optiplex tower,260
+NewYork_MATERIEL_INFO_202610207,PC fixe tout-en-un,Optiplex All-in-One 3xxx,241
+Paris_MATERIEL_INFO_202610200,PC fixe tout-en-un,Optiplex All-in-One 3xxx,241
+Paris_MATERIEL_INFO_202610201,Disque dur,modèle par défaut,10
+Paris_MATERIEL_INFO_202610202,PC fixe sans ecran,Precision tower 5xxx,440
+Shanghai_MATERIEL_INFO_202610200,PC portable,modèle par défaut,260
+Shanghai_MATERIEL_INFO_202610201,,EliteBook 10xx,223
+Shanghai_MATERIEL_INFO_202610202,PC fixe sans ecran,Rasberry pi 4,15
+Shanghai_MATERIEL_INFO_202610203,,iMac 21pouces retina,300
+Shanghai_MATERIEL_INFO_202610204,PC fixe sans ecran,"EliteDesk (Tower, SFF, One)",393
+Shanghai_MATERIEL_INFO_202610205,PC portable,,260
+Shanghai_MATERIEL_INFO_202610206,Disque dur,modèle par défaut,10
+Shanghai_MATERIEL_INFO_202610207,,modèle par défaut,350
+Shanghai_MATERIEL_INFO_202610208,PC fixe sans ecran,Precision tower 3xxx,285
+Shanghai_MATERIEL_INFO_202610209,PC portable,Precision 5xxx,280
+Shanghai_MATERIEL_INFO_2026102010,PC fixe sans ecran,Z,409

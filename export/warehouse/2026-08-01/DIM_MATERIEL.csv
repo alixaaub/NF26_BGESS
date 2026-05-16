@@ -1,0 +1,42 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202608010,,iMac pro,700
+BERLIN_MATERIEL_INFO_202608011,,Optiplex All-in-One 7xxx,382
+BERLIN_MATERIEL_INFO_202608012,Ecran,modèle par défaut,430
+BERLIN_MATERIEL_INFO_202608013,PC portable,Chromebook 14-15pouces,170
+BERLIN_MATERIEL_INFO_202608014,PC fixe tout-en-un,iMac 27pouces retina,450
+LONDON_MATERIEL_INFO_202608010,Vidéo projecteur,Pour amphi,200
+LONDON_MATERIEL_INFO_202608011,PC portable,EliteBook 8xx,290
+LONDON_MATERIEL_INFO_202608012,,modèle par défaut,350
+LONDON_MATERIEL_INFO_202608013,Vidéo projecteur,modèle par défaut,94
+LONDON_MATERIEL_INFO_202608014,,Optiplex small,240
+LA_MATERIEL_INFO_202608010,PC portable,Precision 3xxx,266
+LA_MATERIEL_INFO_202608011,PC portable,Precision 7xxx,304
+LA_MATERIEL_INFO_202608012,PC fixe tout-en-un,iMac 21pouces retina,300
+LA_MATERIEL_INFO_202608013,imprimante,Laser A3 (>100kg),1800
+LA_MATERIEL_INFO_202608014,PC portable,EliteBook 8xx,290
+LA_MATERIEL_INFO_202608015,Ecran,32pouces et plus,590
+LA_MATERIEL_INFO_202608016,,Mac mini,270
+LA_MATERIEL_INFO_202608017,Ecran,32pouces et plus,590
+LA_MATERIEL_INFO_202608018,,24pouces-31pouces,430
+LA_MATERIEL_INFO_202608019,PC fixe tout-en-un,Optiplex All-in-One 5xxx,318
+LA_MATERIEL_INFO_2026080110,PC portable,EliteBook 6xx,175
+NewYork_MATERIEL_INFO_202608010,PC fixe sans ecran,ZHAN,264
+NewYork_MATERIEL_INFO_202608011,PC portable,OMEN,290
+NewYork_MATERIEL_INFO_202608012,PC fixe sans ecran,PC Fixe (moy),300
+NewYork_MATERIEL_INFO_202608013,Station d'accueil,,26
+NewYork_MATERIEL_INFO_202608014,,EliteBook 6xx,175
+NewYork_MATERIEL_INFO_202608015,imprimante,modèle par défaut,500
+NewYork_MATERIEL_INFO_202608016,clavier,modèle par défaut,24
+NewYork_MATERIEL_INFO_202608017,PC portable,Latitude 5xxx,300
+NewYork_MATERIEL_INFO_202608018,imprimante,modèle par défaut,500
+NewYork_MATERIEL_INFO_202608019,PC fixe tout-en-un,iMac 27pouces retina,450
+NewYork_MATERIEL_INFO_2026080110,imprimante,Laser à poser (<40kg),430
+Paris_MATERIEL_INFO_202608010,,Latitude 5xxx,300
+Paris_MATERIEL_INFO_202608011,Ecran,24pouces-31pouces,430
+Paris_MATERIEL_INFO_202608012,PC portable,MacBook air,250
+Paris_MATERIEL_INFO_202608013,Vidéo projecteur,,94
+Shanghai_MATERIEL_INFO_202608010,PC portable,MacBook pro 13pouces,256
+Shanghai_MATERIEL_INFO_202608011,PC portable,,260
+Shanghai_MATERIEL_INFO_202608012,Vidéo projecteur,Pour salle,150
+Shanghai_MATERIEL_INFO_202608013,,EliteDesk DM,230
+Shanghai_MATERIEL_INFO_202608014,PC fixe sans ecran,Rasberry pi 4,15

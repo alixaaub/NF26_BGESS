@@ -1,0 +1,41 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202608140,Serveur,Serveur de stockage,2500
+LONDON_MATERIEL_INFO_202608140,PC fixe sans ecran,,350
+LONDON_MATERIEL_INFO_202608141,PC fixe sans ecran,Optiplex tower,260
+LONDON_MATERIEL_INFO_202608142,Borne wifi,modèle par défaut,10
+LONDON_MATERIEL_INFO_202608143,Borne wifi,modèle par défaut,10
+LONDON_MATERIEL_INFO_202608144,Ecran,32pouces et plus,590
+LA_MATERIEL_INFO_202608140,Vidéo projecteur,Transportable,94
+LA_MATERIEL_INFO_202608141,Vidéo projecteur,Pour amphi,200
+LA_MATERIEL_INFO_202608142,PC fixe sans ecran,Optiplex small,240
+LA_MATERIEL_INFO_202608143,Tablette,modèle par défaut,150
+LA_MATERIEL_INFO_202608144,Vidéo projecteur,Transportable,94
+LA_MATERIEL_INFO_202608145,PC fixe sans ecran,Precision tower 7xxx,555
+LA_MATERIEL_INFO_202608146,Vidéo projecteur,Pour amphi,200
+LA_MATERIEL_INFO_202608147,PC portable,Moyenne 14/15pouces,294
+LA_MATERIEL_INFO_202608148,PC portable,,260
+LA_MATERIEL_INFO_202608149,PC portable,EliteBook 10xx,223
+LA_MATERIEL_INFO_2026081410,Vidéo projecteur,Transportable,94
+LA_MATERIEL_INFO_2026081411,Serveur,Noeud de calcul,1300
+NewYork_MATERIEL_INFO_202608140,imprimante,modèle par défaut,500
+NewYork_MATERIEL_INFO_202608141,PC fixe sans ecran,Optiplex small,240
+NewYork_MATERIEL_INFO_202608142,PC portable,Chromebook 11-13pouces,175
+NewYork_MATERIEL_INFO_202608143,PC fixe sans ecran,Optiplex micro,174
+NewYork_MATERIEL_INFO_202608144,PC fixe sans ecran,Station de travail (moy),600
+NewYork_MATERIEL_INFO_202608145,PC fixe tout-en-un,modèle par défaut,352
+NewYork_MATERIEL_INFO_202608146,PC portable,Moyenne 13pouces,250
+NewYork_MATERIEL_INFO_202608147,,Noeud de calcul,1300
+NewYork_MATERIEL_INFO_202608148,Vidéo projecteur,modèle par défaut,94
+NewYork_MATERIEL_INFO_202608149,PC fixe sans ecran,Optiplex tower,260
+Paris_MATERIEL_INFO_202608140,PC fixe sans ecran,"Prodesk (Tower, SFF)",322
+Paris_MATERIEL_INFO_202608141,Ecran,jusqu'à 23pouces,350
+Paris_MATERIEL_INFO_202608142,,Pour salle,150
+Paris_MATERIEL_INFO_202608143,PC portable,,260
+Paris_MATERIEL_INFO_202608144,,Moyenne 14/15pouces,294
+Paris_MATERIEL_INFO_202608145,PC fixe sans ecran,,350
+Paris_MATERIEL_INFO_202608146,,Moyenne 14/15pouces,294
+Shanghai_MATERIEL_INFO_202608140,PC portable,,260
+Shanghai_MATERIEL_INFO_202608141,,32pouces et plus,590
+Shanghai_MATERIEL_INFO_202608142,PC portable,Precision 7xxx,304
+Shanghai_MATERIEL_INFO_202608143,Serveur,Modèle par défaut,1300
+Shanghai_MATERIEL_INFO_202608144,,Precision 3xxx,266

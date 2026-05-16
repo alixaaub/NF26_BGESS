@@ -1,0 +1,41 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202610260,,modèle par défaut,350
+BERLIN_MATERIEL_INFO_202610261,,modèle par défaut,350
+BERLIN_MATERIEL_INFO_202610262,PC portable,EliteBook 8xx,290
+BERLIN_MATERIEL_INFO_202610263,,MacBook air pre-retina,310
+BERLIN_MATERIEL_INFO_202610264,,OMEN,290
+BERLIN_MATERIEL_INFO_202610265,Vidéo projecteur,Transportable,94
+LONDON_MATERIEL_INFO_202610260,PC fixe sans ecran,Wyse thin client,69
+LONDON_MATERIEL_INFO_202610261,PC fixe sans ecran,Station de travail (moy),600
+LONDON_MATERIEL_INFO_202610262,PC portable,,260
+LONDON_MATERIEL_INFO_202610263,PC fixe sans ecran,Wyse thin client,69
+LA_MATERIEL_INFO_202610260,,Moyenne 17pouces,365
+LA_MATERIEL_INFO_202610261,,Moyenne 14/15pouces,294
+LA_MATERIEL_INFO_202610262,,modèle par défaut,350
+LA_MATERIEL_INFO_202610263,PC portable,MacBook pro 15/16pouces,330
+LA_MATERIEL_INFO_202610264,,Wyse thin client,69
+LA_MATERIEL_INFO_202610265,PC fixe sans ecran,Mac mini,270
+LA_MATERIEL_INFO_202610266,Disque dur,modèle par défaut,10
+LA_MATERIEL_INFO_202610267,imprimante,Laser à poser (<40kg),430
+LA_MATERIEL_INFO_202610268,PC portable,ProBook,226
+LA_MATERIEL_INFO_202610269,,Laser à poser (<40kg),430
+LA_MATERIEL_INFO_2026102610,,Elite mini,137
+LA_MATERIEL_INFO_2026102611,PC fixe tout-en-un,modèle par défaut,352
+LA_MATERIEL_INFO_2026102612,PC fixe sans ecran,Rasberry pi 4,15
+LA_MATERIEL_INFO_2026102613,,Z,409
+NewYork_MATERIEL_INFO_202610260,PC fixe sans ecran,Precision tower 5xxx,440
+NewYork_MATERIEL_INFO_202610261,,MacBook air retina,176
+NewYork_MATERIEL_INFO_202610262,Ecran,modèle par défaut,430
+NewYork_MATERIEL_INFO_202610263,PC fixe tout-en-un,modèle par défaut,352
+NewYork_MATERIEL_INFO_202610264,PC fixe tout-en-un,modèle par défaut,352
+NewYork_MATERIEL_INFO_202610265,PC portable,ZBook Studio,379
+NewYork_MATERIEL_INFO_202610266,PC portable,Chromebook 14-15pouces,170
+NewYork_MATERIEL_INFO_202610267,PC portable,,260
+Paris_MATERIEL_INFO_202610260,Ecran,modèle par défaut,430
+Paris_MATERIEL_INFO_202610261,PC fixe sans ecran,Z,409
+Paris_MATERIEL_INFO_202610262,Disque dur,modèle par défaut,10
+Paris_MATERIEL_INFO_202610263,imprimante,modèle par défaut,500
+Paris_MATERIEL_INFO_202610264,PC fixe sans ecran,"Prodesk (Tower, SFF)",322
+Paris_MATERIEL_INFO_202610265,PC portable,Precision 3xxx,266
+Shanghai_MATERIEL_INFO_202610260,,Mac pro,900
+Shanghai_MATERIEL_INFO_202610261,PC fixe sans ecran,Optiplex tower,260

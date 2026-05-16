@@ -1,0 +1,49 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202606250,PC fixe sans ecran,"Prodesk (Tower, SFF)",322
+BERLIN_MATERIEL_INFO_202606251,PC fixe sans ecran,Optiplex micro,174
+BERLIN_MATERIEL_INFO_202606252,PC fixe sans ecran,Mac mini,270
+LONDON_MATERIEL_INFO_202606250,imprimante,Laser A3 (40-99kg),960
+LONDON_MATERIEL_INFO_202606251,PC fixe sans ecran,Precision tower 5xxx,440
+LONDON_MATERIEL_INFO_202606252,PC fixe sans ecran,Rasberry pi 4,15
+LONDON_MATERIEL_INFO_202606253,,Precision 3xxx,266
+LONDON_MATERIEL_INFO_202606254,PC portable,Chromebook 11-13pouces,175
+LONDON_MATERIEL_INFO_202606255,Vidéo projecteur,modèle par défaut,94
+LONDON_MATERIEL_INFO_202606256,PC portable,Latitude 5xxx,300
+LONDON_MATERIEL_INFO_202606257,PC portable,Moyenne 17pouces,365
+LONDON_MATERIEL_INFO_202606258,Station d'accueil,modèle par défaut,26
+LONDON_MATERIEL_INFO_202606259,PC fixe sans ecran,ZHAN,264
+LONDON_MATERIEL_INFO_2026062510,PC portable,Victus,267
+LONDON_MATERIEL_INFO_2026062511,PC fixe sans ecran,Precision tower 3xxx,285
+LONDON_MATERIEL_INFO_2026062512,,modèle par défaut,350
+LONDON_MATERIEL_INFO_2026062513,PC portable,ProBook,226
+LA_MATERIEL_INFO_202606250,,Noeud de calcul,1300
+NewYork_MATERIEL_INFO_202606250,PC portable,Latitude 7xxx,264
+NewYork_MATERIEL_INFO_202606251,Ecran,24pouces-31pouces,430
+NewYork_MATERIEL_INFO_202606252,,EliteDesk DM,230
+NewYork_MATERIEL_INFO_202606253,PC portable,,260
+NewYork_MATERIEL_INFO_202606254,PC portable,Latitude 7xxx,264
+NewYork_MATERIEL_INFO_202606255,Serveur,Serveur de stockage,2500
+Paris_MATERIEL_INFO_202606250,,iMac pro,700
+Paris_MATERIEL_INFO_202606251,PC fixe sans ecran,Optiplex tower,260
+Paris_MATERIEL_INFO_202606252,Vidéo projecteur,,94
+Paris_MATERIEL_INFO_202606253,PC portable,ZBook,303
+Paris_MATERIEL_INFO_202606254,,Mac mini,270
+Paris_MATERIEL_INFO_202606255,Ecran,32pouces et plus,590
+Paris_MATERIEL_INFO_202606256,PC portable,Latitude 5xxx,300
+Paris_MATERIEL_INFO_202606257,,EliteBook 8xx,290
+Paris_MATERIEL_INFO_202606258,PC portable,,260
+Paris_MATERIEL_INFO_202606259,Serveur,,1300
+Paris_MATERIEL_INFO_2026062510,,Moyenne 17pouces,365
+Paris_MATERIEL_INFO_2026062511,imprimante,modèle par défaut,500
+Shanghai_MATERIEL_INFO_202606250,PC portable,EliteBook 10xx,223
+Shanghai_MATERIEL_INFO_202606251,imprimante,modèle par défaut,500
+Shanghai_MATERIEL_INFO_202606252,PC fixe tout-en-un,modèle par défaut,352
+Shanghai_MATERIEL_INFO_202606253,PC fixe sans ecran,,350
+Shanghai_MATERIEL_INFO_202606254,PC fixe sans ecran,Station de travail (moy),600
+Shanghai_MATERIEL_INFO_202606255,Ecran,jusqu'à 23pouces,350
+Shanghai_MATERIEL_INFO_202606256,,Modèle par défaut,350
+Shanghai_MATERIEL_INFO_202606257,PC portable,MacBook air pre-retina,310
+Shanghai_MATERIEL_INFO_202606258,PC fixe sans ecran,modèle par défaut,350
+Shanghai_MATERIEL_INFO_202606259,PC portable,Precision 7xxx,304
+Shanghai_MATERIEL_INFO_2026062510,PC fixe sans ecran,Mac mini,270
+Shanghai_MATERIEL_INFO_2026062511,PC portable,MacBook air,250

@@ -1,0 +1,25 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202608040,PC portable,OMEN,290
+BERLIN_MATERIEL_INFO_202608041,Vidéo projecteur,Pour amphi,200
+BERLIN_MATERIEL_INFO_202608042,,Latitude 5xxx,300
+LONDON_MATERIEL_INFO_202608040,,PC Fixe (moy),300
+LA_MATERIEL_INFO_202608040,imprimante,Laser A3 (>100kg),1800
+LA_MATERIEL_INFO_202608041,,iMac 27pouces retina,450
+LA_MATERIEL_INFO_202608042,,32pouces et plus,590
+NewYork_MATERIEL_INFO_202608040,PC portable,MacBook pro 15/16pouces,330
+NewYork_MATERIEL_INFO_202608041,PC fixe sans ecran,Optiplex small,240
+NewYork_MATERIEL_INFO_202608042,Smartphone,modèle par défaut,63
+NewYork_MATERIEL_INFO_202608043,PC portable,Moyenne 17pouces,365
+Paris_MATERIEL_INFO_202608040,souris,modèle par défaut,5
+Paris_MATERIEL_INFO_202608041,Ecran,modèle par défaut,430
+Paris_MATERIEL_INFO_202608042,,modèle par défaut,350
+Shanghai_MATERIEL_INFO_202608040,PC portable,MacBook pro 15/16pouces,330
+Shanghai_MATERIEL_INFO_202608041,,modèle par défaut,350
+Shanghai_MATERIEL_INFO_202608042,,modèle par défaut,350
+Shanghai_MATERIEL_INFO_202608043,PC fixe sans ecran,Optiplex tower,260
+Shanghai_MATERIEL_INFO_202608044,Tablette,modèle par défaut,150
+Shanghai_MATERIEL_INFO_202608045,imprimante,modèle par défaut,500
+Shanghai_MATERIEL_INFO_202608046,PC fixe tout-en-un,Mac pro,900
+Shanghai_MATERIEL_INFO_202608047,PC portable,ZBook,303
+Shanghai_MATERIEL_INFO_202608048,Borne wifi,modèle par défaut,10
+Shanghai_MATERIEL_INFO_202608049,Station d'accueil,modèle par défaut,26

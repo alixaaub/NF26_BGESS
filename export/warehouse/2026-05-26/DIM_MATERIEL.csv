@@ -1,0 +1,55 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202605260,PC fixe tout-en-un,Optiplex All-in-One 3xxx,241
+BERLIN_MATERIEL_INFO_202605261,,Victus,267
+BERLIN_MATERIEL_INFO_202605262,PC fixe sans ecran,,350
+BERLIN_MATERIEL_INFO_202605263,PC fixe sans ecran,OMEN,290
+BERLIN_MATERIEL_INFO_202605264,PC fixe tout-en-un,Mac pro,900
+LONDON_MATERIEL_INFO_202605260,,modèle par défaut,350
+LONDON_MATERIEL_INFO_202605261,,"EliteDesk (Tower, SFF, One)",393
+LONDON_MATERIEL_INFO_202605262,,modèle par défaut,350
+LONDON_MATERIEL_INFO_202605263,,Precision 5xxx,280
+LONDON_MATERIEL_INFO_202605264,Vidéo projecteur,Pour amphi,200
+LONDON_MATERIEL_INFO_202605265,Tablette,modèle par défaut,150
+LONDON_MATERIEL_INFO_202605266,PC portable,Precision 3xxx,266
+LONDON_MATERIEL_INFO_202605267,PC portable,OMEN,290
+LONDON_MATERIEL_INFO_202605268,PC fixe sans ecran,Wyse thin client,69
+LONDON_MATERIEL_INFO_202605269,Tablette,modèle par défaut,150
+LONDON_MATERIEL_INFO_2026052610,imprimante,,500
+LONDON_MATERIEL_INFO_2026052611,Serveur,,1300
+LONDON_MATERIEL_INFO_2026052612,PC fixe tout-en-un,Optiplex All-in-One 3xxx,241
+LA_MATERIEL_INFO_202605260,PC portable,OMEN,290
+LA_MATERIEL_INFO_202605261,PC fixe sans ecran,,350
+LA_MATERIEL_INFO_202605262,PC fixe sans ecran,,350
+LA_MATERIEL_INFO_202605263,PC portable,Chromebook 14-15pouces,170
+LA_MATERIEL_INFO_202605264,PC fixe sans ecran,"EliteDesk (Tower, SFF, One)",393
+LA_MATERIEL_INFO_202605265,Ecran,jusqu'à 23pouces,350
+LA_MATERIEL_INFO_202605266,PC portable,Latitude 3xxx,220
+NewYork_MATERIEL_INFO_202605260,PC fixe sans ecran,,350
+NewYork_MATERIEL_INFO_202605261,PC portable,Chromebook 11-13pouces,175
+NewYork_MATERIEL_INFO_202605262,PC fixe sans ecran,Z,409
+Paris_MATERIEL_INFO_202605260,Ecran,24pouces-31pouces,430
+Paris_MATERIEL_INFO_202605261,,jusqu'à 23pouces,350
+Paris_MATERIEL_INFO_202605262,PC portable,Moyenne 14/15pouces,294
+Paris_MATERIEL_INFO_202605263,,Laser à poser (<40kg),430
+Paris_MATERIEL_INFO_202605264,,modèle par défaut,350
+Paris_MATERIEL_INFO_202605265,PC fixe sans ecran,Station de travail (moy),600
+Paris_MATERIEL_INFO_202605266,PC fixe sans ecran,PC Fixe (moy),300
+Paris_MATERIEL_INFO_202605267,Telephone IP,modèle par défaut,17
+Paris_MATERIEL_INFO_202605268,PC portable,modèle par défaut,260
+Paris_MATERIEL_INFO_202605269,,modèle par défaut,350
+Paris_MATERIEL_INFO_2026052610,PC portable,Precision 3xxx,266
+Paris_MATERIEL_INFO_2026052611,PC fixe sans ecran,ProDesk mini/DM,100
+Paris_MATERIEL_INFO_2026052612,PC fixe tout-en-un,modèle par défaut,352
+Paris_MATERIEL_INFO_2026052613,PC portable,Latitude 5xxx,300
+Shanghai_MATERIEL_INFO_202605260,PC fixe sans ecran,OMEN,290
+Shanghai_MATERIEL_INFO_202605261,PC fixe tout-en-un,Optiplex All-in-One 3xxx,241
+Shanghai_MATERIEL_INFO_202605262,PC portable,Precision 5xxx,280
+Shanghai_MATERIEL_INFO_202605263,PC fixe tout-en-un,iMac 27pouces retina,450
+Shanghai_MATERIEL_INFO_202605264,PC portable,ZBook,303
+Shanghai_MATERIEL_INFO_202605265,Smartphone,modèle par défaut,63
+Shanghai_MATERIEL_INFO_202605266,,modèle par défaut,350
+Shanghai_MATERIEL_INFO_202605267,Disque dur,modèle par défaut,10
+Shanghai_MATERIEL_INFO_202605268,,modèle par défaut,350
+Shanghai_MATERIEL_INFO_202605269,PC fixe sans ecran,ProDesk mini/DM,100
+Shanghai_MATERIEL_INFO_2026052610,,Laser A3 (>100kg),1800
+Shanghai_MATERIEL_INFO_2026052611,Ecran,32pouces et plus,590

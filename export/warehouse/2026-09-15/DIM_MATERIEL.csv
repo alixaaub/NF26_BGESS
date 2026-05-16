@@ -1,0 +1,69 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202609150,imprimante,Laser A3 (>100kg),1800
+BERLIN_MATERIEL_INFO_202609151,PC portable,Latitude 3xxx,220
+BERLIN_MATERIEL_INFO_202609152,Serveur,Serveur de stockage,2500
+BERLIN_MATERIEL_INFO_202609153,PC portable,EliteBook 8xx,290
+BERLIN_MATERIEL_INFO_202609154,PC portable,Latitude 3xxx,220
+LONDON_MATERIEL_INFO_202609150,PC portable,Moyenne 14/15pouces,294
+LONDON_MATERIEL_INFO_202609151,PC fixe tout-en-un,iMac 21pouces,290
+LONDON_MATERIEL_INFO_202609152,PC fixe sans ecran,,350
+LONDON_MATERIEL_INFO_202609153,,MacBook air,250
+LONDON_MATERIEL_INFO_202609154,PC portable,Precision 7xxx,304
+LONDON_MATERIEL_INFO_202609155,PC portable,EliteBook 6xx,175
+LONDON_MATERIEL_INFO_202609156,PC fixe tout-en-un,iMac 21pouces,290
+LONDON_MATERIEL_INFO_202609157,Ecran,24pouces-31pouces,430
+LONDON_MATERIEL_INFO_202609158,PC portable,ZBook,303
+LONDON_MATERIEL_INFO_202609159,Tablette,modèle par défaut,150
+LONDON_MATERIEL_INFO_2026091510,imprimante,Laser A3 (40-99kg),960
+LONDON_MATERIEL_INFO_2026091511,PC fixe tout-en-un,Optiplex All-in-One 3xxx,241
+LONDON_MATERIEL_INFO_2026091512,PC portable,Latitude 5xxx,300
+LA_MATERIEL_INFO_202609150,,modèle par défaut,350
+LA_MATERIEL_INFO_202609151,PC fixe sans ecran,EliteDesk DM,230
+LA_MATERIEL_INFO_202609152,PC portable,Precision 3xxx,266
+LA_MATERIEL_INFO_202609153,imprimante,Laser à poser (<40kg),430
+LA_MATERIEL_INFO_202609154,Station d'accueil,,26
+LA_MATERIEL_INFO_202609155,,Station de travail (moy),600
+LA_MATERIEL_INFO_202609156,PC portable,Precision 3xxx,266
+LA_MATERIEL_INFO_202609157,PC portable,Moyenne 13pouces,250
+LA_MATERIEL_INFO_202609158,Smartphone,modèle par défaut,63
+LA_MATERIEL_INFO_202609159,PC portable,Victus,267
+LA_MATERIEL_INFO_2026091510,PC portable,MacBook pro 15/16pouces,330
+NewYork_MATERIEL_INFO_202609150,PC portable,OMEN,290
+NewYork_MATERIEL_INFO_202609151,Vidéo projecteur,Transportable,94
+NewYork_MATERIEL_INFO_202609152,PC portable,Latitude 7xxx,264
+NewYork_MATERIEL_INFO_202609153,PC fixe sans ecran,Mac pro,900
+NewYork_MATERIEL_INFO_202609154,,Pour salle,150
+NewYork_MATERIEL_INFO_202609155,Vidéo projecteur,modèle par défaut,94
+NewYork_MATERIEL_INFO_202609156,PC fixe sans ecran,Station de travail (moy),600
+NewYork_MATERIEL_INFO_202609157,PC portable,Chromebook 11-13pouces,175
+NewYork_MATERIEL_INFO_202609158,PC fixe tout-en-un,modèle par défaut,352
+NewYork_MATERIEL_INFO_202609159,PC fixe sans ecran,"EliteDesk (Tower, SFF, One)",393
+NewYork_MATERIEL_INFO_2026091510,,Precision 3xxx,266
+NewYork_MATERIEL_INFO_2026091511,,Precision 7xxx,304
+Paris_MATERIEL_INFO_202609150,Disque dur,modèle par défaut,10
+Paris_MATERIEL_INFO_202609151,Tablette,modèle par défaut,150
+Paris_MATERIEL_INFO_202609152,imprimante,Laser à poser (<40kg),430
+Paris_MATERIEL_INFO_202609153,PC fixe sans ecran,,350
+Paris_MATERIEL_INFO_202609154,,Mac pro,900
+Paris_MATERIEL_INFO_202609155,PC fixe sans ecran,,350
+Paris_MATERIEL_INFO_202609156,,modèle par défaut,350
+Paris_MATERIEL_INFO_202609157,PC fixe tout-en-un,,352
+Paris_MATERIEL_INFO_202609158,Serveur,Noeud de calcul,1300
+Paris_MATERIEL_INFO_202609159,PC fixe sans ecran,"Prodesk (Tower, SFF)",322
+Paris_MATERIEL_INFO_2026091510,PC fixe tout-en-un,iMac pro,700
+Paris_MATERIEL_INFO_2026091511,Smartphone,modèle par défaut,63
+Paris_MATERIEL_INFO_2026091512,PC fixe sans ecran,Mac mini,270
+Paris_MATERIEL_INFO_2026091513,PC fixe sans ecran,Precision tower 7xxx,555
+Shanghai_MATERIEL_INFO_202609150,PC fixe tout-en-un,Optiplex All-in-One 3xxx,241
+Shanghai_MATERIEL_INFO_202609151,Vidéo projecteur,Pour amphi,200
+Shanghai_MATERIEL_INFO_202609152,PC fixe sans ecran,Optiplex micro,174
+Shanghai_MATERIEL_INFO_202609153,PC portable,,260
+Shanghai_MATERIEL_INFO_202609154,PC portable,modèle par défaut,260
+Shanghai_MATERIEL_INFO_202609155,PC portable,Latitude 3xxx,220
+Shanghai_MATERIEL_INFO_202609156,Vidéo projecteur,modèle par défaut,94
+Shanghai_MATERIEL_INFO_202609157,PC fixe sans ecran,EliteDesk DM,230
+Shanghai_MATERIEL_INFO_202609158,PC portable,EliteBook 10xx,223
+Shanghai_MATERIEL_INFO_202609159,,Serveur de stockage,2500
+Shanghai_MATERIEL_INFO_2026091510,PC portable,OMEN,290
+Shanghai_MATERIEL_INFO_2026091511,PC fixe tout-en-un,iMac 21pouces retina,300
+Shanghai_MATERIEL_INFO_2026091512,Disque dur,modèle par défaut,10

@@ -1,0 +1,23 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202604300,PC portable,MacBook air,250
+BERLIN_MATERIEL_INFO_202604301,PC portable,EliteBook 10xx,223
+BERLIN_MATERIEL_INFO_202604302,,modèle par défaut,350
+BERLIN_MATERIEL_INFO_202604303,PC fixe sans ecran,"EliteDesk (Tower, SFF, One)",393
+LONDON_MATERIEL_INFO_202604300,PC portable,MacBook air,250
+LONDON_MATERIEL_INFO_202604301,PC portable,ProBook,226
+LONDON_MATERIEL_INFO_202604302,PC portable,MacBook air,250
+LONDON_MATERIEL_INFO_202604303,PC portable,,260
+LONDON_MATERIEL_INFO_202604304,PC fixe sans ecran,,350
+LA_MATERIEL_INFO_202604300,PC fixe sans ecran,Station de travail (moy),600
+NewYork_MATERIEL_INFO_202604300,PC fixe tout-en-un,,352
+NewYork_MATERIEL_INFO_202604301,PC fixe sans ecran,Precision tower 7xxx,555
+NewYork_MATERIEL_INFO_202604302,,ProDesk mini/DM,100
+NewYork_MATERIEL_INFO_202604303,Serveur,Noeud de calcul,1300
+NewYork_MATERIEL_INFO_202604304,PC fixe sans ecran,Station de travail (moy),600
+Paris_MATERIEL_INFO_202604300,PC portable,Precision 7xxx,304
+Paris_MATERIEL_INFO_202604301,PC fixe sans ecran,PC Fixe (moy),300
+Paris_MATERIEL_INFO_202604302,Serveur,Serveur de stockage,2500
+Paris_MATERIEL_INFO_202604303,PC fixe sans ecran,Optiplex micro,174
+Shanghai_MATERIEL_INFO_202604300,PC fixe tout-en-un,Mac pro,900
+Shanghai_MATERIEL_INFO_202604301,,ProBook,226
+Shanghai_MATERIEL_INFO_202604302,PC fixe sans ecran,Elite mini,137

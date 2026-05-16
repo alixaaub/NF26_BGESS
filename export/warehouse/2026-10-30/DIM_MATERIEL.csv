@@ -1,0 +1,66 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202610300,imprimante,Laser à poser (<40kg),430
+BERLIN_MATERIEL_INFO_202610301,PC fixe sans ecran,PC Fixe (moy),300
+BERLIN_MATERIEL_INFO_202610302,Ecran,jusqu'à 23pouces,350
+LONDON_MATERIEL_INFO_202610300,,modèle par défaut,350
+LONDON_MATERIEL_INFO_202610301,Ecran,modèle par défaut,430
+LONDON_MATERIEL_INFO_202610302,PC portable,Latitude 5xxx,300
+LONDON_MATERIEL_INFO_202610303,Ecran,,430
+LONDON_MATERIEL_INFO_202610304,PC portable,Latitude 5xxx,300
+LONDON_MATERIEL_INFO_202610305,imprimante,modèle par défaut,500
+LONDON_MATERIEL_INFO_202610306,,Pour amphi,200
+LONDON_MATERIEL_INFO_202610307,PC portable,Chromebook 14-15pouces,170
+LONDON_MATERIEL_INFO_202610308,Vidéo projecteur,Transportable,94
+LONDON_MATERIEL_INFO_202610309,PC portable,Precision 3xxx,266
+LONDON_MATERIEL_INFO_2026103010,PC fixe sans ecran,EliteDesk DM,230
+LONDON_MATERIEL_INFO_2026103011,PC portable,,260
+LONDON_MATERIEL_INFO_2026103012,PC portable,,260
+LA_MATERIEL_INFO_202610300,PC fixe sans ecran,Optiplex micro,174
+LA_MATERIEL_INFO_202610301,PC portable,modèle par défaut,260
+LA_MATERIEL_INFO_202610302,PC portable,MacBook air,250
+LA_MATERIEL_INFO_202610303,PC fixe sans ecran,,350
+LA_MATERIEL_INFO_202610304,Vidéo projecteur,Pour amphi,200
+LA_MATERIEL_INFO_202610305,PC fixe sans ecran,"EliteDesk (Tower, SFF, One)",393
+LA_MATERIEL_INFO_202610306,PC portable,EliteBook 6xx,175
+LA_MATERIEL_INFO_202610307,PC portable,,260
+LA_MATERIEL_INFO_202610308,PC portable,Moyenne 13pouces,250
+LA_MATERIEL_INFO_202610309,PC fixe sans ecran,Mac pro,900
+LA_MATERIEL_INFO_2026103010,,Station de travail (moy),600
+LA_MATERIEL_INFO_2026103011,PC fixe sans ecran,Mac pro,900
+LA_MATERIEL_INFO_2026103012,PC fixe tout-en-un,iMac 21pouces,290
+LA_MATERIEL_INFO_2026103013,PC fixe sans ecran,modèle par défaut,350
+NewYork_MATERIEL_INFO_202610300,PC portable,Precision 3xxx,266
+NewYork_MATERIEL_INFO_202610301,souris,modèle par défaut,5
+NewYork_MATERIEL_INFO_202610302,PC portable,OMEN,290
+NewYork_MATERIEL_INFO_202610303,PC portable,modèle par défaut,260
+NewYork_MATERIEL_INFO_202610304,,MacBook pro 13pouces,256
+NewYork_MATERIEL_INFO_202610305,,modèle par défaut,350
+NewYork_MATERIEL_INFO_202610306,PC portable,ProBook,226
+NewYork_MATERIEL_INFO_202610307,PC portable,,260
+NewYork_MATERIEL_INFO_202610308,PC fixe sans ecran,modèle par défaut,350
+NewYork_MATERIEL_INFO_202610309,,EliteBook 6xx,175
+NewYork_MATERIEL_INFO_2026103010,,Chromebook 11-13pouces,175
+NewYork_MATERIEL_INFO_2026103011,Station d'accueil,modèle par défaut,26
+NewYork_MATERIEL_INFO_2026103012,Vidéo projecteur,Pour salle,150
+Paris_MATERIEL_INFO_202610300,Serveur,Serveur de stockage,2500
+Paris_MATERIEL_INFO_202610301,,modèle par défaut,350
+Paris_MATERIEL_INFO_202610302,PC portable,,260
+Paris_MATERIEL_INFO_202610303,PC portable,EliteBook 8xx,290
+Paris_MATERIEL_INFO_202610304,,Precision tower 3xxx,285
+Paris_MATERIEL_INFO_202610305,PC portable,MacBook pro 15/16pouces,330
+Paris_MATERIEL_INFO_202610306,,Optiplex All-in-One 5xxx,318
+Paris_MATERIEL_INFO_202610307,,Precision tower 5xxx,440
+Paris_MATERIEL_INFO_202610308,clavier,modèle par défaut,24
+Shanghai_MATERIEL_INFO_202610300,PC fixe sans ecran,"EliteDesk (Tower, SFF, One)",393
+Shanghai_MATERIEL_INFO_202610301,PC fixe sans ecran,ZHAN,264
+Shanghai_MATERIEL_INFO_202610302,PC portable,EliteBook 6xx,175
+Shanghai_MATERIEL_INFO_202610303,Serveur,Noeud de calcul,1300
+Shanghai_MATERIEL_INFO_202610304,,Pour amphi,200
+Shanghai_MATERIEL_INFO_202610305,Vidéo projecteur,Pour salle,150
+Shanghai_MATERIEL_INFO_202610306,PC portable,Latitude 5xxx,300
+Shanghai_MATERIEL_INFO_202610307,PC fixe sans ecran,Rasberry pi 4,15
+Shanghai_MATERIEL_INFO_202610308,Vidéo projecteur,Transportable,94
+Shanghai_MATERIEL_INFO_202610309,PC portable,Moyenne 14/15pouces,294
+Shanghai_MATERIEL_INFO_2026103010,imprimante,modèle par défaut,500
+Shanghai_MATERIEL_INFO_2026103011,PC fixe tout-en-un,iMac pro,700
+Shanghai_MATERIEL_INFO_2026103012,Station d'accueil,modèle par défaut,26

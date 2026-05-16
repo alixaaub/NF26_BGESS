@@ -1,0 +1,50 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202608310,,ZBook Studio,379
+BERLIN_MATERIEL_INFO_202608311,PC portable,,260
+BERLIN_MATERIEL_INFO_202608312,PC portable,Latitude 7xxx,264
+LONDON_MATERIEL_INFO_202608310,PC fixe sans ecran,Optiplex tower,260
+LONDON_MATERIEL_INFO_202608311,,Precision tower 5xxx,440
+LONDON_MATERIEL_INFO_202608312,,Moyenne 13pouces,250
+LONDON_MATERIEL_INFO_202608313,PC fixe sans ecran,Precision tower 5xxx,440
+LONDON_MATERIEL_INFO_202608314,clavier,modèle par défaut,24
+LONDON_MATERIEL_INFO_202608315,souris,modèle par défaut,5
+LONDON_MATERIEL_INFO_202608316,PC portable,Precision 5xxx,280
+LONDON_MATERIEL_INFO_202608317,PC fixe sans ecran,Precision tower 7xxx,555
+LONDON_MATERIEL_INFO_202608318,PC fixe sans ecran,Optiplex micro,174
+LA_MATERIEL_INFO_202608310,PC portable,Latitude 5xxx,300
+LA_MATERIEL_INFO_202608311,Ecran,modèle par défaut,430
+LA_MATERIEL_INFO_202608312,PC portable,,260
+LA_MATERIEL_INFO_202608313,PC portable,Moyenne 17pouces,365
+LA_MATERIEL_INFO_202608314,Ecran,jusqu'à 23pouces,350
+LA_MATERIEL_INFO_202608315,PC fixe tout-en-un,iMac 27pouces retina,450
+LA_MATERIEL_INFO_202608316,,Z,409
+NewYork_MATERIEL_INFO_202608310,PC portable,ZBook Studio,379
+NewYork_MATERIEL_INFO_202608311,PC portable,ZBook Studio,379
+NewYork_MATERIEL_INFO_202608312,PC portable,,260
+NewYork_MATERIEL_INFO_202608313,souris,modèle par défaut,5
+NewYork_MATERIEL_INFO_202608314,Vidéo projecteur,Pour amphi,200
+NewYork_MATERIEL_INFO_202608315,,Latitude 3xxx,220
+NewYork_MATERIEL_INFO_202608316,Tablette,modèle par défaut,150
+NewYork_MATERIEL_INFO_202608317,Ecran,,430
+NewYork_MATERIEL_INFO_202608318,PC portable,ZBook Studio,379
+NewYork_MATERIEL_INFO_202608319,,Mac pro,900
+NewYork_MATERIEL_INFO_2026083110,PC fixe tout-en-un,modèle par défaut,352
+NewYork_MATERIEL_INFO_2026083111,PC fixe sans ecran,Precision tower 5xxx,440
+Paris_MATERIEL_INFO_202608310,PC fixe sans ecran,Elite mini,137
+Paris_MATERIEL_INFO_202608311,imprimante,Laser à poser (<40kg),430
+Paris_MATERIEL_INFO_202608312,PC fixe sans ecran,Precision tower 3xxx,285
+Paris_MATERIEL_INFO_202608313,Tablette,,150
+Paris_MATERIEL_INFO_202608314,PC portable,EliteBook 6xx,175
+Paris_MATERIEL_INFO_202608315,Ecran,32pouces et plus,590
+Shanghai_MATERIEL_INFO_202608310,PC portable,,260
+Shanghai_MATERIEL_INFO_202608311,Borne wifi,modèle par défaut,10
+Shanghai_MATERIEL_INFO_202608312,PC fixe tout-en-un,Optiplex All-in-One 5xxx,318
+Shanghai_MATERIEL_INFO_202608313,PC fixe sans ecran,Z,409
+Shanghai_MATERIEL_INFO_202608314,PC fixe sans ecran,Optiplex micro,174
+Shanghai_MATERIEL_INFO_202608315,PC fixe sans ecran,ProDesk mini/DM,100
+Shanghai_MATERIEL_INFO_202608316,,"EliteDesk (Tower, SFF, One)",393
+Shanghai_MATERIEL_INFO_202608317,PC fixe sans ecran,Mac pro,900
+Shanghai_MATERIEL_INFO_202608318,,Chromebook 11-13pouces,175
+Shanghai_MATERIEL_INFO_202608319,Ecran,jusqu'à 23pouces,350
+Shanghai_MATERIEL_INFO_2026083110,,PC Fixe (moy),300
+Shanghai_MATERIEL_INFO_2026083111,PC portable,ZBook,303

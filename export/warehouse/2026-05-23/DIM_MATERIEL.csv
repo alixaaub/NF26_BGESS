@@ -1,0 +1,50 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202605230,Telephone IP,modèle par défaut,17
+BERLIN_MATERIEL_INFO_202605231,PC portable,Latitude 3xxx,220
+BERLIN_MATERIEL_INFO_202605232,PC fixe tout-en-un,modèle par défaut,352
+LONDON_MATERIEL_INFO_202605230,PC portable,MacBook pro 15/16pouces,330
+LONDON_MATERIEL_INFO_202605231,PC fixe sans ecran,Optiplex small,240
+LONDON_MATERIEL_INFO_202605232,PC portable,MacBook air retina,176
+LONDON_MATERIEL_INFO_202605233,PC fixe sans ecran,EliteDesk DM,230
+LONDON_MATERIEL_INFO_202605234,PC portable,EliteBook 8xx,290
+LONDON_MATERIEL_INFO_202605235,Station d'accueil,modèle par défaut,26
+LONDON_MATERIEL_INFO_202605236,,Chromebook 14-15pouces,170
+LONDON_MATERIEL_INFO_202605237,PC portable,MacBook pro 15/16pouces,330
+LONDON_MATERIEL_INFO_202605238,Serveur,Modèle par défaut,1300
+LA_MATERIEL_INFO_202605230,PC portable,MacBook air,250
+LA_MATERIEL_INFO_202605231,Ecran,modèle par défaut,430
+LA_MATERIEL_INFO_202605232,PC portable,MacBook pro 15/16pouces,330
+LA_MATERIEL_INFO_202605233,PC portable,ZBook,303
+LA_MATERIEL_INFO_202605234,PC portable,Latitude 3xxx,220
+LA_MATERIEL_INFO_202605235,PC fixe sans ecran,modèle par défaut,350
+LA_MATERIEL_INFO_202605236,,Precision tower 7xxx,555
+LA_MATERIEL_INFO_202605237,imprimante,modèle par défaut,500
+LA_MATERIEL_INFO_202605238,imprimante,Laser A3 (40-99kg),960
+LA_MATERIEL_INFO_202605239,Smartphone,modèle par défaut,63
+LA_MATERIEL_INFO_2026052310,,Serveur de stockage,2500
+LA_MATERIEL_INFO_2026052311,PC portable,,260
+LA_MATERIEL_INFO_2026052312,PC fixe tout-en-un,,352
+LA_MATERIEL_INFO_2026052313,PC fixe sans ecran,ProDesk mini/DM,100
+NewYork_MATERIEL_INFO_202605230,Serveur,Noeud de calcul,1300
+NewYork_MATERIEL_INFO_202605231,PC fixe sans ecran,Precision tower 3xxx,285
+NewYork_MATERIEL_INFO_202605232,PC portable,ZBook Studio,379
+NewYork_MATERIEL_INFO_202605233,PC fixe sans ecran,PC Fixe (moy),300
+NewYork_MATERIEL_INFO_202605234,clavier,modèle par défaut,24
+Paris_MATERIEL_INFO_202605230,PC portable,modèle par défaut,260
+Paris_MATERIEL_INFO_202605231,,modèle par défaut,350
+Paris_MATERIEL_INFO_202605232,Ecran,32pouces et plus,590
+Paris_MATERIEL_INFO_202605233,PC fixe tout-en-un,iMac pro,700
+Paris_MATERIEL_INFO_202605234,,modèle par défaut,350
+Paris_MATERIEL_INFO_202605235,Ecran,32pouces et plus,590
+Shanghai_MATERIEL_INFO_202605230,imprimante,Laser A3 (>100kg),1800
+Shanghai_MATERIEL_INFO_202605231,PC portable,,260
+Shanghai_MATERIEL_INFO_202605232,,modèle par défaut,350
+Shanghai_MATERIEL_INFO_202605233,,Optiplex small,240
+Shanghai_MATERIEL_INFO_202605234,PC fixe sans ecran,OMEN,290
+Shanghai_MATERIEL_INFO_202605235,,EliteDesk DM,230
+Shanghai_MATERIEL_INFO_202605236,souris,modèle par défaut,5
+Shanghai_MATERIEL_INFO_202605237,,Laser A3 (>100kg),1800
+Shanghai_MATERIEL_INFO_202605238,Telephone IP,modèle par défaut,17
+Shanghai_MATERIEL_INFO_202605239,,PC Fixe (moy),300
+Shanghai_MATERIEL_INFO_2026052310,PC portable,Precision 5xxx,280
+Shanghai_MATERIEL_INFO_2026052311,,Chromebook 14-15pouces,170

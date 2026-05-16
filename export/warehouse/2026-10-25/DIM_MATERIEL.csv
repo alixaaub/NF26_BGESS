@@ -1,0 +1,34 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202610250,Ecran,,430
+LONDON_MATERIEL_INFO_202610250,,ProBook,226
+LONDON_MATERIEL_INFO_202610251,imprimante,Laser A3 (40-99kg),960
+LONDON_MATERIEL_INFO_202610252,Tablette,,150
+LONDON_MATERIEL_INFO_202610253,PC fixe tout-en-un,,352
+LONDON_MATERIEL_INFO_202610254,PC portable,MacBook pro 15/16pouces,330
+LONDON_MATERIEL_INFO_202610255,PC fixe sans ecran,"Prodesk (Tower, SFF)",322
+LONDON_MATERIEL_INFO_202610256,PC fixe tout-en-un,iMac 21pouces,290
+LA_MATERIEL_INFO_202610250,PC fixe sans ecran,modèle par défaut,350
+LA_MATERIEL_INFO_202610251,PC fixe sans ecran,ProDesk mini/DM,100
+LA_MATERIEL_INFO_202610252,imprimante,Laser à poser (<40kg),430
+NewYork_MATERIEL_INFO_202610250,PC fixe sans ecran,PC Fixe (moy),300
+NewYork_MATERIEL_INFO_202610251,,modèle par défaut,350
+NewYork_MATERIEL_INFO_202610252,PC portable,MacBook air retina,176
+Paris_MATERIEL_INFO_202610250,,PC Fixe (moy),300
+Paris_MATERIEL_INFO_202610251,imprimante,,500
+Paris_MATERIEL_INFO_202610252,Tablette,modèle par défaut,150
+Paris_MATERIEL_INFO_202610253,PC fixe sans ecran,"EliteDesk (Tower, SFF, One)",393
+Paris_MATERIEL_INFO_202610254,PC fixe sans ecran,Mac mini,270
+Paris_MATERIEL_INFO_202610255,Vidéo projecteur,Transportable,94
+Paris_MATERIEL_INFO_202610256,PC fixe sans ecran,ProDesk mini/DM,100
+Shanghai_MATERIEL_INFO_202610250,,Optiplex tower,260
+Shanghai_MATERIEL_INFO_202610251,,modèle par défaut,350
+Shanghai_MATERIEL_INFO_202610252,PC portable,EliteBook 8xx,290
+Shanghai_MATERIEL_INFO_202610253,PC portable,Latitude 5xxx,300
+Shanghai_MATERIEL_INFO_202610254,PC fixe sans ecran,"EliteDesk (Tower, SFF, One)",393
+Shanghai_MATERIEL_INFO_202610255,,modèle par défaut,350
+Shanghai_MATERIEL_INFO_202610256,,modèle par défaut,350
+Shanghai_MATERIEL_INFO_202610257,PC fixe sans ecran,ZHAN,264
+Shanghai_MATERIEL_INFO_202610258,PC fixe tout-en-un,Optiplex All-in-One 5xxx,318
+Shanghai_MATERIEL_INFO_202610259,PC fixe sans ecran,Optiplex small,240
+Shanghai_MATERIEL_INFO_2026102510,PC fixe sans ecran,EliteDesk DM,230
+Shanghai_MATERIEL_INFO_2026102511,,Mac mini,270

@@ -1,0 +1,41 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202605170,PC portable,MacBook air retina,176
+BERLIN_MATERIEL_INFO_202605171,Serveur,Noeud de calcul,1300
+LONDON_MATERIEL_INFO_202605170,PC fixe sans ecran,Precision tower 7xxx,555
+LONDON_MATERIEL_INFO_202605171,PC fixe sans ecran,OMEN,290
+LONDON_MATERIEL_INFO_202605172,PC fixe sans ecran,Precision tower 7xxx,555
+LONDON_MATERIEL_INFO_202605173,,EliteDesk DM,230
+LONDON_MATERIEL_INFO_202605174,,EliteBook 10xx,223
+LONDON_MATERIEL_INFO_202605175,PC fixe sans ecran,Mac pro,900
+LONDON_MATERIEL_INFO_202605176,Ecran,,430
+LONDON_MATERIEL_INFO_202605177,PC fixe tout-en-un,Optiplex All-in-One 5xxx,318
+LA_MATERIEL_INFO_202605170,,Optiplex All-in-One 3xxx,241
+LA_MATERIEL_INFO_202605171,PC portable,Latitude 5xxx,300
+LA_MATERIEL_INFO_202605172,,Precision tower 7xxx,555
+LA_MATERIEL_INFO_202605173,PC portable,Moyenne 14/15pouces,294
+LA_MATERIEL_INFO_202605174,PC portable,ZBook,303
+LA_MATERIEL_INFO_202605175,PC portable,EliteBook 6xx,175
+LA_MATERIEL_INFO_202605176,PC portable,Chromebook 14-15pouces,170
+NewYork_MATERIEL_INFO_202605170,PC fixe sans ecran,Precision tower 7xxx,555
+NewYork_MATERIEL_INFO_202605171,,Precision 5xxx,280
+NewYork_MATERIEL_INFO_202605172,PC fixe sans ecran,EliteDesk DM,230
+NewYork_MATERIEL_INFO_202605173,Ecran,32pouces et plus,590
+NewYork_MATERIEL_INFO_202605174,PC portable,Chromebook 11-13pouces,175
+NewYork_MATERIEL_INFO_202605175,PC fixe sans ecran,modèle par défaut,350
+NewYork_MATERIEL_INFO_202605176,PC fixe tout-en-un,Optiplex All-in-One 7xxx,382
+Paris_MATERIEL_INFO_202605170,PC portable,ProBook,226
+Paris_MATERIEL_INFO_202605171,PC portable,MacBook air retina,176
+Shanghai_MATERIEL_INFO_202605170,,Victus,267
+Shanghai_MATERIEL_INFO_202605171,PC fixe tout-en-un,iMac 27pouces retina,450
+Shanghai_MATERIEL_INFO_202605172,,MacBook air pre-retina,310
+Shanghai_MATERIEL_INFO_202605173,PC portable,MacBook air pre-retina,310
+Shanghai_MATERIEL_INFO_202605174,PC fixe sans ecran,,350
+Shanghai_MATERIEL_INFO_202605175,,Precision tower 5xxx,440
+Shanghai_MATERIEL_INFO_202605176,PC fixe sans ecran,ZHAN,264
+Shanghai_MATERIEL_INFO_202605177,PC portable,MacBook pro 15/16pouces,330
+Shanghai_MATERIEL_INFO_202605178,PC fixe sans ecran,Mac mini,270
+Shanghai_MATERIEL_INFO_202605179,,Mac pro,900
+Shanghai_MATERIEL_INFO_2026051710,Serveur,Noeud de calcul,1300
+Shanghai_MATERIEL_INFO_2026051711,Ecran,jusqu'à 23pouces,350
+Shanghai_MATERIEL_INFO_2026051712,PC portable,ZBook Studio,379
+Shanghai_MATERIEL_INFO_2026051713,PC portable,Latitude 7xxx,264

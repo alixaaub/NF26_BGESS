@@ -1,0 +1,28 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202607270,Ecran,24pouces-31pouces,430
+BERLIN_MATERIEL_INFO_202607271,PC fixe tout-en-un,Optiplex All-in-One 5xxx,318
+BERLIN_MATERIEL_INFO_202607272,PC portable,,260
+LONDON_MATERIEL_INFO_202607270,PC fixe sans ecran,"Elite (Tower, SFF, One)",393
+LONDON_MATERIEL_INFO_202607271,Borne wifi,modèle par défaut,10
+LA_MATERIEL_INFO_202607270,,ZBook Studio,379
+LA_MATERIEL_INFO_202607271,PC fixe sans ecran,Precision tower 5xxx,440
+LA_MATERIEL_INFO_202607272,PC fixe sans ecran,Precision tower 3xxx,285
+LA_MATERIEL_INFO_202607273,,Moyenne 13pouces,250
+LA_MATERIEL_INFO_202607274,PC fixe tout-en-un,modèle par défaut,352
+LA_MATERIEL_INFO_202607275,PC fixe sans ecran,Wyse thin client,69
+LA_MATERIEL_INFO_202607276,PC fixe tout-en-un,iMac 21pouces retina,300
+NewYork_MATERIEL_INFO_202607270,Telephone IP,modèle par défaut,17
+NewYork_MATERIEL_INFO_202607271,PC portable,MacBook air retina,176
+NewYork_MATERIEL_INFO_202607272,,Optiplex micro,174
+NewYork_MATERIEL_INFO_202607273,,Modèle par défaut,350
+Paris_MATERIEL_INFO_202607270,PC fixe sans ecran,Optiplex micro,174
+Paris_MATERIEL_INFO_202607271,,MacBook air,250
+Paris_MATERIEL_INFO_202607272,,Pour amphi,200
+Paris_MATERIEL_INFO_202607273,,modèle par défaut,350
+Paris_MATERIEL_INFO_202607274,PC fixe sans ecran,Optiplex small,240
+Paris_MATERIEL_INFO_202607275,Ecran,modèle par défaut,430
+Shanghai_MATERIEL_INFO_202607270,,Mac pro,900
+Shanghai_MATERIEL_INFO_202607271,PC portable,Moyenne 17pouces,365
+Shanghai_MATERIEL_INFO_202607272,PC portable,EliteBook 6xx,175
+Shanghai_MATERIEL_INFO_202607273,Telephone IP,modèle par défaut,17
+Shanghai_MATERIEL_INFO_202607274,PC portable,Victus,267

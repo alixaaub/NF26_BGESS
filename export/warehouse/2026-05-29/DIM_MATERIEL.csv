@@ -1,0 +1,50 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202605290,PC fixe sans ecran,Optiplex micro,174
+BERLIN_MATERIEL_INFO_202605291,,Laser A3 (>100kg),1800
+BERLIN_MATERIEL_INFO_202605292,,"Prodesk (Tower, SFF)",322
+BERLIN_MATERIEL_INFO_202605293,,iMac pro,700
+BERLIN_MATERIEL_INFO_202605294,souris,modèle par défaut,5
+LONDON_MATERIEL_INFO_202605290,,EliteBook 8xx,290
+LONDON_MATERIEL_INFO_202605291,PC portable,,260
+LONDON_MATERIEL_INFO_202605292,,"Elite (Tower, SFF, One)",393
+LONDON_MATERIEL_INFO_202605293,imprimante,Laser A3 (40-99kg),960
+LONDON_MATERIEL_INFO_202605294,,jusqu'à 23pouces,350
+LONDON_MATERIEL_INFO_202605295,PC fixe tout-en-un,Optiplex All-in-One 7xxx,382
+LONDON_MATERIEL_INFO_202605296,PC fixe sans ecran,,350
+LONDON_MATERIEL_INFO_202605297,Serveur,Serveur de stockage,2500
+LONDON_MATERIEL_INFO_202605298,,Latitude 7xxx,264
+LONDON_MATERIEL_INFO_202605299,Disque dur,modèle par défaut,10
+LONDON_MATERIEL_INFO_2026052910,imprimante,modèle par défaut,500
+LONDON_MATERIEL_INFO_2026052911,PC fixe sans ecran,modèle par défaut,350
+LONDON_MATERIEL_INFO_2026052912,PC portable,Chromebook 14-15pouces,170
+LA_MATERIEL_INFO_202605290,imprimante,Laser A3 (>100kg),1800
+LA_MATERIEL_INFO_202605291,PC fixe sans ecran,,350
+LA_MATERIEL_INFO_202605292,imprimante,Laser à poser (<40kg),430
+LA_MATERIEL_INFO_202605293,PC fixe sans ecran,OMEN,290
+LA_MATERIEL_INFO_202605294,Station d'accueil,modèle par défaut,26
+LA_MATERIEL_INFO_202605295,PC portable,Chromebook 14-15pouces,170
+LA_MATERIEL_INFO_202605296,PC portable,Moyenne 17pouces,365
+LA_MATERIEL_INFO_202605297,Vidéo projecteur,Pour salle,150
+LA_MATERIEL_INFO_202605298,PC fixe tout-en-un,,352
+LA_MATERIEL_INFO_202605299,imprimante,modèle par défaut,500
+LA_MATERIEL_INFO_2026052910,PC fixe tout-en-un,iMac 21pouces retina,300
+NewYork_MATERIEL_INFO_202605290,imprimante,Laser A3 (>100kg),1800
+NewYork_MATERIEL_INFO_202605291,PC portable,ZBook Studio,379
+NewYork_MATERIEL_INFO_202605292,,Chromebook 11-13pouces,175
+NewYork_MATERIEL_INFO_202605293,,Optiplex All-in-One 5xxx,318
+NewYork_MATERIEL_INFO_202605294,,Precision tower 5xxx,440
+NewYork_MATERIEL_INFO_202605295,PC portable,EliteBook 8xx,290
+NewYork_MATERIEL_INFO_202605296,PC portable,EliteBook 10xx,223
+NewYork_MATERIEL_INFO_202605297,PC portable,Moyenne 13pouces,250
+NewYork_MATERIEL_INFO_202605298,PC portable,Precision 7xxx,304
+NewYork_MATERIEL_INFO_202605299,PC fixe sans ecran,"Prodesk (Tower, SFF)",322
+Paris_MATERIEL_INFO_202605290,souris,modèle par défaut,5
+Shanghai_MATERIEL_INFO_202605290,,Optiplex tower,260
+Shanghai_MATERIEL_INFO_202605291,PC portable,Moyenne 14/15pouces,294
+Shanghai_MATERIEL_INFO_202605292,,Victus,267
+Shanghai_MATERIEL_INFO_202605293,Serveur,Serveur de stockage,2500
+Shanghai_MATERIEL_INFO_202605294,PC fixe sans ecran,ZHAN,264
+Shanghai_MATERIEL_INFO_202605295,PC fixe sans ecran,"Elite (Tower, SFF, One)",393
+Shanghai_MATERIEL_INFO_202605296,PC fixe sans ecran,Elite mini,137
+Shanghai_MATERIEL_INFO_202605297,PC fixe sans ecran,"Elite (Tower, SFF, One)",393
+Shanghai_MATERIEL_INFO_202605298,PC fixe sans ecran,"EliteDesk (Tower, SFF, One)",393

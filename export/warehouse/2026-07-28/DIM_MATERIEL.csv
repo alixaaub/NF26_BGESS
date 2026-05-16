@@ -1,0 +1,32 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202607280,,PC Fixe (moy),300
+BERLIN_MATERIEL_INFO_202607281,,EliteBook 8xx,290
+BERLIN_MATERIEL_INFO_202607282,PC fixe sans ecran,"EliteDesk (Tower, SFF, One)",393
+BERLIN_MATERIEL_INFO_202607283,PC fixe tout-en-un,iMac 21pouces,290
+BERLIN_MATERIEL_INFO_202607284,Serveur,Modèle par défaut,1300
+BERLIN_MATERIEL_INFO_202607285,,Precision 5xxx,280
+LONDON_MATERIEL_INFO_202607280,PC portable,modèle par défaut,260
+LONDON_MATERIEL_INFO_202607281,imprimante,Laser A3 (>100kg),1800
+LA_MATERIEL_INFO_202607280,PC fixe tout-en-un,Optiplex All-in-One 7xxx,382
+NewYork_MATERIEL_INFO_202607280,Serveur,Noeud de calcul,1300
+NewYork_MATERIEL_INFO_202607281,,Optiplex All-in-One 7xxx,382
+NewYork_MATERIEL_INFO_202607282,PC portable,OMEN,290
+NewYork_MATERIEL_INFO_202607283,PC fixe tout-en-un,iMac 27pouces retina,450
+NewYork_MATERIEL_INFO_202607284,PC portable,EliteBook 10xx,223
+NewYork_MATERIEL_INFO_202607285,Ecran,jusqu'à 23pouces,350
+NewYork_MATERIEL_INFO_202607286,,32pouces et plus,590
+NewYork_MATERIEL_INFO_202607287,PC portable,Latitude 7xxx,264
+NewYork_MATERIEL_INFO_202607288,Ecran,modèle par défaut,430
+Paris_MATERIEL_INFO_202607280,PC portable,Moyenne 17pouces,365
+Paris_MATERIEL_INFO_202607281,PC fixe tout-en-un,modèle par défaut,352
+Paris_MATERIEL_INFO_202607282,,Serveur de stockage,2500
+Paris_MATERIEL_INFO_202607283,Vidéo projecteur,modèle par défaut,94
+Paris_MATERIEL_INFO_202607284,,MacBook pro 13pouces,256
+Paris_MATERIEL_INFO_202607285,,Mac pro,900
+Paris_MATERIEL_INFO_202607286,PC portable,MacBook air pre-retina,310
+Paris_MATERIEL_INFO_202607287,PC portable,Latitude 7xxx,264
+Paris_MATERIEL_INFO_202607288,PC fixe sans ecran,PC Fixe (moy),300
+Shanghai_MATERIEL_INFO_202607280,PC fixe sans ecran,Precision tower 3xxx,285
+Shanghai_MATERIEL_INFO_202607281,PC portable,EliteBook 10xx,223
+Shanghai_MATERIEL_INFO_202607282,,Precision tower 3xxx,285
+Shanghai_MATERIEL_INFO_202607283,PC fixe tout-en-un,,352

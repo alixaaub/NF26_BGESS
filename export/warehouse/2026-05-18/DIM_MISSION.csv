@@ -1,0 +1,135 @@
+ID_MISSION,TYPE_MISSION,VILLE_DEPART,PAYS_DEPART,VILLE_DESTINATION,PAYS_DESTINATION,TRANSPORT,ALLER_RETOUR,DISTANCE_KM,CO2EQ,IMPACT
+BERLIN_202605180,Rencontre entreprises,Berlin,Allemagne,Rio de Janeiro,Brazil,Avion,oui,9988.48,0.152,3036.4979
+BERLIN_202605181,Conférence,Berlin,Allemagne,Melbourne,Australia,Avion,oui,15966.2,0.152,4853.7248
+BERLIN_202605182,Conférence,Berlin,Allemagne,Compiègne,France,Avion,oui,817.55,0.2586,422.8369
+BERLIN_202605183,Développement,New-York,USA,Bordeaux,France,Avion,oui,5816.85,0.152,1768.3224
+BERLIN_202605184,Réunion,Berlin,Allemagne,Rio de Janeiro,Brazil,Avion,oui,9988.48,0.152,3036.4979
+BERLIN_202605185,Développement,Berlin,Allemagne,Lima,Peru,Avion,oui,11089.69,0.152,3371.2658
+BERLIN_202605186,Rencontre entreprises,Berlin,Allemagne,Dubaï,Emirats,Avion,oui,4624.02,0.152,1405.7021
+BERLIN_202605187,Rencontre entreprises,Berlin,Allemagne,Auckland,New Zealand,Avion,oui,17741.48,0.152,5393.4099
+BERLIN_202605188,Formation,Berlin,Allemagne,Lima,Peru,Avion,oui,11089.69,0.152,3371.2658
+BERLIN_202605189,Rencontre entreprises,Berlin,Allemagne,Montreal,Canada,Avion,oui,6015.86,0.152,1828.8214
+BERLIN_2026051810,Développement,Berlin,Allemagne,Stockholm,Suède,Avion,oui,811.9,0.2586,419.9147
+BERLIN_2026051811,Rencontre entreprises,Berlin,Allemagne,Rabat,Maroc,Avion,oui,2611.82,0.1875,979.4325
+BERLIN_2026051812,Conférence,Berlin,Allemagne,Los Angeles,USA,Avion,oui,9331.71,0.152,2836.8398
+BERLIN_2026051813,Développement,Berlin,Allemagne,Washington,USA,Avion,oui,6728.36,0.152,2045.4214
+BERLIN_2026051814,Développement,Berlin,Allemagne,New-York,USA,Avion,oui,6401.96,0.152,1946.1958
+BERLIN_2026051815,Développement,Berlin,Allemagne,Osaka,Japan,Avion,oui,8838.74,0.152,2686.977
+BERLIN_2026051816,Développement,Berlin,Allemagne,Washington,USA,Avion,oui,6728.36,0.152,2045.4214
+BERLIN_2026051817,Réunion,Berlin,Allemagne,Vancouver,Canada,Avion,oui,8002.93,0.152,2432.8907
+BERLIN_2026051818,Réunion,Berlin,Allemagne,Bogota,Colombia,Avion,oui,9429.51,0.152,2866.571
+BERLIN_2026051819,Conférence,Berlin,Allemagne,Marseille,France,Avion,oui,1185.94,0.1875,444.7275
+BERLIN_2026051820,Conférence,Berlin,Allemagne,Dubaï,Emirats,Avion,oui,4624.02,0.152,1405.7021
+BERLIN_2026051821,Rencontre entreprises,Berlin,Allemagne,Rabat,Maroc,Avion,oui,2611.82,0.1875,979.4325
+BERLIN_2026051822,Rencontre entreprises,Berlin,Allemagne,Osaka,Japan,Avion,non,8838.74,0.152,1343.4885
+BERLIN_2026051823,Développement,Berlin,Allemagne,Auckland,New Zealand,Avion,oui,17741.48,0.152,5393.4099
+BERLIN_2026051824,Réunion,Berlin,Allemagne,Compiègne,France,Avion,oui,817.55,0.2586,422.8369
+BERLIN_2026051825,Formation,Berlin,Allemagne,Rio de Janeiro,Brazil,Avion,oui,9988.48,0.152,3036.4979
+BERLIN_2026051826,Développement,Berlin,Allemagne,Los Angeles,USA,Avion,oui,9331.71,0.152,2836.8398
+LONDON_202605180,Réunion,London,England,Helsinki,Finlande,Avion,oui,1826.16,0.1875,684.81
+LONDON_202605181,Conférence,London,England,Sidney,Australia,Avion,oui,16989.32,0.152,5164.7533
+LONDON_202605182,Conférence,London,England,Rio de Janeiro,Brazil,Avion,oui,9254.24,0.152,2813.289
+LONDON_202605183,Formation,London,England,Rabat,Maroc,Avion,oui,2016.55,0.1875,756.2062
+LONDON_202605184,Réunion,London,England,Mexico,Mexico,Avion,oui,8761.47,0.152,2663.4869
+LONDON_202605185,Conférence,London,England,Tokyo,Japan,Avion,oui,9586.22,0.152,2914.2109
+LONDON_202605186,Développement,London,England,London,England,Transports en commun,oui,8.0,0.11065,1.7704
+LONDON_202605187,Conférence,London,England,Lille,France,Avion,oui,243.73,0.2586,126.0572
+LONDON_202605188,Développement,London,England,Los Angeles,USA,Avion,oui,8776.45,0.152,2668.0408
+LONDON_202605189,Formation,London,England,Marseille,France,Avion,oui,1002.33,0.1875,375.8738
+LONDON_2026051810,Rencontre entreprises,London,England,Lille,France,Avion,oui,243.73,0.2586,126.0572
+LONDON_2026051811,Réunion,London,England,Stockholm,Suède,Avion,oui,1436.38,0.1875,538.6425
+LONDON_2026051812,Conférence,London,England,Los Angeles,USA,Avion,oui,8776.45,0.152,2668.0408
+LONDON_2026051813,Formation,London,England,Compiègne,France,Avion,oui,313.03,0.2586,161.8991
+LONDON_2026051814,Réunion,London,England,Sidney,Australia,Avion,oui,16989.32,0.152,5164.7533
+LONDON_2026051815,Formation,London,England,Oslo,Norvège,Avion,oui,1155.53,0.1875,433.3238
+LONDON_2026051816,Conférence,London,England,Shanghai,China,Avion,non,9217.19,0.152,1401.0129
+LONDON_2026051817,Conférence,London,England,Alger,Algeria,Avion,oui,1656.55,0.1875,621.2062
+LONDON_2026051818,Développement,London,England,Compiègne,France,Avion,oui,313.03,0.2586,161.8991
+LONDON_2026051819,Développement,London,England,Tunis,Tunisie,Avion,oui,2107.65,0.1875,790.3688
+LONDON_2026051820,Conférence,London,England,Tokyo,Japan,Avion,oui,9586.22,0.152,2914.2109
+LONDON_2026051821,Conférence,London,England,Rio de Janeiro,Brazil,Avion,oui,9254.24,0.152,2813.289
+LONDON_2026051822,Formation,London,England,Lille,France,Avion,oui,243.73,0.2586,126.0572
+LONDON_2026051823,Rencontre entreprises,London,England,Stockholm,Suède,Avion,oui,1436.38,0.1875,538.6425
+LONDON_2026051824,Développement,London,England,Mexico,Mexico,Avion,oui,8761.47,0.152,2663.4869
+LONDON_2026051825,Formation,London,England,Mexico,Mexico,Avion,non,8761.47,0.152,1331.7434
+LONDON_2026051826,Rencontre entreprises,London,England,London,England,Transports en commun,oui,8.0,0.11065,1.7704
+LONDON_2026051827,Développement,London,England,Pekin,China,Avion,oui,8162.04,0.152,2481.2602
+LONDON_2026051828,Rencontre entreprises,London,England,Bordeaux,France,Avion,oui,742.0,0.2586,383.7624
+LONDON_2026051829,Formation,London,England,London,England,Transports en commun,oui,8.0,0.11065,1.7704
+LONDON_2026051830,Formation,London,England,Compiègne,France,Avion,oui,313.03,0.2586,161.8991
+LONDON_2026051831,Rencontre entreprises,London,England,Auckland,New Zealand,Avion,oui,18327.05,0.152,5571.4232
+LONDON_2026051832,Conférence,London,England,Bordeaux,France,Avion,oui,742.0,0.2586,383.7624
+LONDON_2026051833,Développement,Shanghai,China,Compiègne,France,Avion,oui,9215.98,0.152,2801.6579
+LONDON_2026051834,Formation,London,England,Rabat,Maroc,Avion,oui,2016.55,0.1875,756.2062
+LONDON_2026051835,Réunion,London,England,Bordeaux,France,Avion,oui,742.0,0.2586,383.7624
+LONDON_2026051836,Réunion,London,England,Dubaï,Emirats,Avion,oui,5476.69,0.152,1664.9138
+LA_202605180,Formation,Los Angeles,USA,Compiègne,France,Avion,oui,9088.34,0.152,2762.8554
+LA_202605181,Rencontre entreprises,Los Angeles,USA,Helsinki,Finlande,Avion,oui,9033.07,0.152,2746.0533
+LA_202605182,Formation,Los Angeles,USA,Alger,Algeria,Avion,oui,10090.05,0.152,3067.3752
+LA_202605183,Réunion,Shanghai,China,Tunis,Tunisie,Avion,oui,9887.67,0.152,3005.8517
+LA_202605184,Formation,Los Angeles,USA,Sao Paulo,Brazil,Avion,oui,9894.96,0.152,3008.0678
+LA_202605185,Développement,Los Angeles,USA,Bogota,Colombia,Avion,oui,5598.11,0.152,1701.8254
+LA_202605186,Conférence,Los Angeles,USA,Rabat,Maroc,Avion,non,9627.76,0.152,1463.4195
+LA_202605187,Formation,Los Angeles,USA,London,England,Avion,oui,8776.45,0.152,2668.0408
+LA_202605188,Rencontre entreprises,Los Angeles,USA,Wellington,New Zealand,Avion,non,10792.01,0.152,1640.3855
+LA_202605189,Rencontre entreprises,Los Angeles,USA,Auckland,New Zealand,Avion,oui,10477.78,0.152,3185.2451
+LA_2026051810,Réunion,Shanghai,China,Los Angeles,USA,Avion,oui,10455.1,0.152,3178.3504
+LA_2026051811,Conférence,Los Angeles,USA,Shanghai,China,Avion,oui,10455.1,0.152,3178.3504
+LA_2026051812,Développement,Paris,France,Oslo,Norvège,Avion,oui,1344.07,0.1875,504.0262
+LA_2026051813,Formation,Shanghai,China,Sao Paulo,Brazil,Avion,oui,18570.44,0.152,5645.4138
+LA_2026051814,Rencontre entreprises,Los Angeles,USA,New-York,USA,Avion,oui,3944.28,0.152,1199.0611
+LA_2026051815,Rencontre entreprises,Los Angeles,USA,Sao Paulo,Brazil,Avion,non,9894.96,0.152,1504.0339
+LA_2026051816,Conférence,Los Angeles,USA,Bordeaux,France,Avion,oui,9249.01,0.152,2811.699
+LA_2026051817,Conférence,Paris,France,Tunis,Tunisie,Avion,oui,1767.76,0.1875,662.91
+LA_2026051818,Rencontre entreprises,Los Angeles,USA,Alger,Algeria,Avion,non,10090.05,0.152,1533.6876
+LA_2026051819,Formation,Los Angeles,USA,Vancouver,Canada,Avion,non,1736.12,0.1875,325.5225
+LA_2026051820,Réunion,Los Angeles,USA,Pekin,China,Avion,oui,10084.63,0.152,3065.7275
+LA_2026051821,Développement,Los Angeles,USA,Wellington,New Zealand,Avion,oui,10792.01,0.152,3280.771
+LA_2026051822,Formation,Los Angeles,USA,Tokyo,Japan,Avion,oui,8829.92,0.152,2684.2957
+LA_2026051823,Conférence,Los Angeles,USA,Berlin,Allemagne,Avion,oui,9331.71,0.152,2836.8398
+LA_2026051824,Conférence,Los Angeles,USA,Lille,France,Avion,oui,9006.0,0.152,2737.824
+LA_2026051825,Rencontre entreprises,Los Angeles,USA,Stockholm,Suède,Avion,oui,8902.33,0.152,2706.3083
+LA_2026051826,Réunion,Los Angeles,USA,Bordeaux,France,Avion,oui,9249.01,0.152,2811.699
+LA_2026051827,Rencontre entreprises,Shanghai,China,Sao Paulo,Brazil,Avion,oui,18570.44,0.152,5645.4138
+LA_2026051828,Conférence,Los Angeles,USA,Auckland,New Zealand,Avion,oui,10477.78,0.152,3185.2451
+LA_2026051829,Conférence,Los Angeles,USA,Melbourne,Australia,Avion,oui,12764.22,0.152,3880.3229
+LA_2026051830,Conférence,Los Angeles,USA,Rabat,Maroc,Avion,oui,9627.76,0.152,2926.839
+LA_2026051831,Réunion,Los Angeles,USA,Lima,Peru,Avion,non,6710.85,0.152,1020.0492
+NewYork_202605180,Conférence,Paris,France,New-York,USA,Avion,oui,5850.66,0.152,1778.6006
+NewYork_202605181,Réunion,New-York,USA,Tokyo,Japan,Avion,oui,10871.3,0.152,3304.8752
+NewYork_202605182,Formation,Shanghai,China,Berlin,Allemagne,Avion,oui,8416.5,0.152,2558.616
+NewYork_202605183,Développement,New-York,USA,Stockholm,Suède,Avion,oui,6337.6,0.152,1926.6304
+NewYork_202605184,Développement,New-York,USA,Montreal,Canada,Avion,oui,533.38,0.2586,275.8641
+NewYork_202605185,Formation,New-York,USA,Montreal,Canada,Avion,oui,533.38,0.2586,275.8641
+NewYork_202605186,Développement,New-York,USA,Sao Paulo,Brazil,Avion,oui,7657.84,0.152,2327.9834
+NewYork_202605187,Réunion,New-York,USA,Rio de Janeiro,Brazil,Avion,oui,7731.34,0.152,2350.3274
+NewYork_202605188,Réunion,New-York,USA,Sao Paulo,Brazil,Avion,oui,7657.84,0.152,2327.9834
+NewYork_202605189,Formation,New-York,USA,Wellington,New Zealand,Avion,oui,14393.86,0.152,4375.7334
+NewYork_2026051810,Développement,New-York,USA,Montreal,Canada,Avion,oui,533.38,0.2586,275.8641
+NewYork_2026051811,Développement,New-York,USA,Dubaï,Emirats,Avion,oui,11024.34,0.152,3351.3994
+NewYork_2026051812,Conférence,New-York,USA,Rabat,Maroc,Avion,oui,5851.09,0.152,1778.7314
+NewYork_2026051813,Conférence,New-York,USA,Dubaï,Emirats,Avion,oui,11024.34,0.152,3351.3994
+NewYork_2026051814,Formation,New-York,USA,Sidney,Australia,Avion,oui,15988.14,0.152,4860.3946
+NewYork_2026051815,Rencontre entreprises,New-York,USA,Oslo,Norvège,Avion,oui,5930.22,0.152,1802.7869
+NewYork_2026051816,Rencontre entreprises,New-York,USA,Compiègne,France,Avion,non,5861.93,0.152,891.0134
+NewYork_2026051817,Formation,New-York,USA,Berlin,Allemagne,Avion,oui,6401.96,0.152,1946.1958
+NewYork_2026051818,Conférence,New-York,USA,Rabat,Maroc,Avion,oui,5851.09,0.152,1778.7314
+Paris_202605180,Développement,Paris,France,Marseille,France,Train,non,661.84,0.0033,2.1841
+Paris_202605181,Réunion,Paris,France,Bordeaux,France,Avion,oui,498.31,0.2586,257.7259
+Paris_202605182,Réunion,Paris,France,Tunis,Tunisie,Avion,oui,1767.76,0.1875,662.91
+Paris_202605183,Développement,Paris,France,Sidney,Australia,Avion,oui,16959.63,0.152,5155.7275
+Paris_202605184,Formation,Paris,France,Dubaï,Emirats,Avion,oui,5252.59,0.152,1596.7874
+Paris_202605185,Rencontre entreprises,Paris,France,Auckland,New Zealand,Avion,oui,18538.88,0.152,5635.8195
+Paris_202605186,Conférence,Paris,France,Helsinki,Finlande,Avion,oui,1914.35,0.1875,717.8812
+Paris_202605187,Rencontre entreprises,Paris,France,Osaka,Japan,Avion,oui,9657.78,0.152,2935.9651
+Shanghai_202605180,Formation,Shanghai,China,Sao Paulo,Brazil,Avion,non,18570.44,0.152,2822.7069
+Shanghai_202605181,Réunion,New-York,USA,Auckland,New Zealand,Avion,oui,14186.08,0.152,4312.5683
+Shanghai_202605182,Réunion,Shanghai,China,Sidney,Australia,Avion,oui,7853.15,0.152,2387.3576
+Shanghai_202605183,Développement,Shanghai,China,Bogota,Colombia,Avion,non,15707.17,0.152,2387.4898
+Shanghai_202605184,Rencontre entreprises,Shanghai,China,Buenos Aires,Argentina,Avion,oui,19629.06,0.152,5967.2342
+Shanghai_202605185,Conférence,Shanghai,China,Los Angeles,USA,Avion,oui,10455.1,0.152,3178.3504
+Shanghai_202605186,Rencontre entreprises,Shanghai,China,Mexico,Mexico,Avion,oui,12375.26,0.152,3762.079
+Shanghai_202605187,Développement,Shanghai,China,Los Angeles,USA,Avion,oui,10455.1,0.152,3178.3504
+Shanghai_202605188,Conférence,Shanghai,China,Tunis,Tunisie,Avion,oui,9887.67,0.152,3005.8517
+Shanghai_202605189,Formation,Shanghai,China,Dubaï,Emirats,Avion,oui,6433.02,0.152,1955.6381
+Shanghai_2026051810,Conférence,Shanghai,China,Pekin,China,Train,oui,1066.39,0.0033,7.0382

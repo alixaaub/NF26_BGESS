@@ -1,0 +1,36 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202606260,PC portable,MacBook air,250
+BERLIN_MATERIEL_INFO_202606261,PC portable,OMEN,290
+BERLIN_MATERIEL_INFO_202606262,PC portable,MacBook pro 15/16pouces,330
+BERLIN_MATERIEL_INFO_202606263,PC fixe sans ecran,Optiplex micro,174
+BERLIN_MATERIEL_INFO_202606264,imprimante,Laser A3 (40-99kg),960
+LONDON_MATERIEL_INFO_202606260,PC portable,modèle par défaut,260
+LONDON_MATERIEL_INFO_202606261,PC fixe sans ecran,"Elite (Tower, SFF, One)",393
+LONDON_MATERIEL_INFO_202606262,PC fixe sans ecran,modèle par défaut,350
+LONDON_MATERIEL_INFO_202606263,PC fixe tout-en-un,iMac pro,700
+LONDON_MATERIEL_INFO_202606264,imprimante,Laser A3 (40-99kg),960
+LONDON_MATERIEL_INFO_202606265,PC portable,Moyenne 14/15pouces,294
+LONDON_MATERIEL_INFO_202606266,PC fixe sans ecran,"EliteDesk (Tower, SFF, One)",393
+LONDON_MATERIEL_INFO_202606267,,EliteBook 10xx,223
+LONDON_MATERIEL_INFO_202606268,Borne wifi,modèle par défaut,10
+LONDON_MATERIEL_INFO_202606269,PC portable,Moyenne 13pouces,250
+LONDON_MATERIEL_INFO_2026062610,,Mac mini,270
+LONDON_MATERIEL_INFO_2026062611,PC fixe sans ecran,OMEN,290
+LA_MATERIEL_INFO_202606260,Ecran,jusqu'à 23pouces,350
+NewYork_MATERIEL_INFO_202606260,,modèle par défaut,350
+Paris_MATERIEL_INFO_202606260,imprimante,Laser A3 (40-99kg),960
+Paris_MATERIEL_INFO_202606261,Vidéo projecteur,Pour amphi,200
+Paris_MATERIEL_INFO_202606262,PC portable,,260
+Paris_MATERIEL_INFO_202606263,,Rasberry pi 4,15
+Shanghai_MATERIEL_INFO_202606260,clavier,modèle par défaut,24
+Shanghai_MATERIEL_INFO_202606261,PC portable,Chromebook 11-13pouces,175
+Shanghai_MATERIEL_INFO_202606262,PC fixe sans ecran,ProDesk mini/DM,100
+Shanghai_MATERIEL_INFO_202606263,imprimante,,500
+Shanghai_MATERIEL_INFO_202606264,PC portable,MacBook air,250
+Shanghai_MATERIEL_INFO_202606265,Serveur,,1300
+Shanghai_MATERIEL_INFO_202606266,Serveur,Serveur de stockage,2500
+Shanghai_MATERIEL_INFO_202606267,PC portable,MacBook air pre-retina,310
+Shanghai_MATERIEL_INFO_202606268,PC fixe tout-en-un,Optiplex All-in-One 3xxx,241
+Shanghai_MATERIEL_INFO_202606269,PC portable,Precision 7xxx,304
+Shanghai_MATERIEL_INFO_2026062610,PC fixe tout-en-un,Optiplex All-in-One 5xxx,318
+Shanghai_MATERIEL_INFO_2026062611,PC fixe sans ecran,"EliteDesk (Tower, SFF, One)",393

@@ -1,0 +1,44 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202608160,Serveur,Modèle par défaut,1300
+BERLIN_MATERIEL_INFO_202608161,PC fixe sans ecran,Station de travail (moy),600
+BERLIN_MATERIEL_INFO_202608162,PC fixe sans ecran,Wyse thin client,69
+BERLIN_MATERIEL_INFO_202608163,,ZBook,303
+LONDON_MATERIEL_INFO_202608160,,MacBook air pre-retina,310
+LONDON_MATERIEL_INFO_202608161,Ecran,24pouces-31pouces,430
+LONDON_MATERIEL_INFO_202608162,Vidéo projecteur,Pour amphi,200
+LONDON_MATERIEL_INFO_202608163,Vidéo projecteur,Transportable,94
+LONDON_MATERIEL_INFO_202608164,PC fixe sans ecran,Rasberry pi 4,15
+LONDON_MATERIEL_INFO_202608165,Ecran,32pouces et plus,590
+LONDON_MATERIEL_INFO_202608166,Ecran,modèle par défaut,430
+LONDON_MATERIEL_INFO_202608167,PC fixe sans ecran,EliteDesk DM,230
+LONDON_MATERIEL_INFO_202608168,PC fixe sans ecran,,350
+LONDON_MATERIEL_INFO_202608169,Vidéo projecteur,Pour amphi,200
+LONDON_MATERIEL_INFO_2026081610,PC fixe sans ecran,Rasberry pi 4,15
+LA_MATERIEL_INFO_202608160,PC fixe tout-en-un,iMac pro,700
+LA_MATERIEL_INFO_202608161,,modèle par défaut,350
+LA_MATERIEL_INFO_202608162,PC portable,ProBook,226
+LA_MATERIEL_INFO_202608163,PC portable,Latitude 5xxx,300
+LA_MATERIEL_INFO_202608164,,"Elite (Tower, SFF, One)",393
+LA_MATERIEL_INFO_202608165,,Optiplex micro,174
+LA_MATERIEL_INFO_202608166,imprimante,Laser à poser (<40kg),430
+LA_MATERIEL_INFO_202608167,,24pouces-31pouces,430
+NewYork_MATERIEL_INFO_202608160,PC fixe sans ecran,Optiplex tower,260
+NewYork_MATERIEL_INFO_202608161,PC fixe sans ecran,Wyse thin client,69
+NewYork_MATERIEL_INFO_202608162,Serveur,Serveur de stockage,2500
+NewYork_MATERIEL_INFO_202608163,Serveur,Serveur de stockage,2500
+NewYork_MATERIEL_INFO_202608164,PC fixe tout-en-un,modèle par défaut,352
+NewYork_MATERIEL_INFO_202608165,imprimante,Laser à poser (<40kg),430
+Paris_MATERIEL_INFO_202608160,PC portable,Latitude 7xxx,264
+Paris_MATERIEL_INFO_202608161,Serveur,Serveur de stockage,2500
+Paris_MATERIEL_INFO_202608162,PC portable,MacBook air pre-retina,310
+Paris_MATERIEL_INFO_202608163,,modèle par défaut,350
+Paris_MATERIEL_INFO_202608164,,Precision tower 5xxx,440
+Paris_MATERIEL_INFO_202608165,PC fixe sans ecran,Mac mini,270
+Paris_MATERIEL_INFO_202608166,PC portable,Latitude 7xxx,264
+Paris_MATERIEL_INFO_202608167,PC portable,ZBook,303
+Paris_MATERIEL_INFO_202608168,PC fixe tout-en-un,Mac pro,900
+Shanghai_MATERIEL_INFO_202608160,imprimante,Laser A3 (>100kg),1800
+Shanghai_MATERIEL_INFO_202608161,,modèle par défaut,350
+Shanghai_MATERIEL_INFO_202608162,PC fixe tout-en-un,Optiplex All-in-One 7xxx,382
+Shanghai_MATERIEL_INFO_202608163,,iMac 21pouces retina,300
+Shanghai_MATERIEL_INFO_202608164,Vidéo projecteur,Pour salle,150

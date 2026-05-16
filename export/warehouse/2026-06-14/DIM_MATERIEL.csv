@@ -1,0 +1,47 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202606140,Ecran,24pouces-31pouces,430
+BERLIN_MATERIEL_INFO_202606141,PC fixe tout-en-un,iMac 21pouces retina,300
+BERLIN_MATERIEL_INFO_202606142,,Modèle par défaut,350
+BERLIN_MATERIEL_INFO_202606143,imprimante,Laser A3 (40-99kg),960
+BERLIN_MATERIEL_INFO_202606144,PC portable,Moyenne 17pouces,365
+BERLIN_MATERIEL_INFO_202606145,Borne wifi,modèle par défaut,10
+LONDON_MATERIEL_INFO_202606140,imprimante,Laser A3 (>100kg),1800
+LONDON_MATERIEL_INFO_202606141,PC fixe tout-en-un,iMac 21pouces,290
+LONDON_MATERIEL_INFO_202606142,PC portable,modèle par défaut,260
+LA_MATERIEL_INFO_202606140,Serveur,Noeud de calcul,1300
+NewYork_MATERIEL_INFO_202606140,PC fixe sans ecran,Elite mini,137
+NewYork_MATERIEL_INFO_202606141,Ecran,32pouces et plus,590
+NewYork_MATERIEL_INFO_202606142,Vidéo projecteur,Transportable,94
+NewYork_MATERIEL_INFO_202606143,PC fixe tout-en-un,iMac pro,700
+NewYork_MATERIEL_INFO_202606144,,modèle par défaut,350
+NewYork_MATERIEL_INFO_202606145,PC fixe sans ecran,modèle par défaut,350
+NewYork_MATERIEL_INFO_202606146,,Optiplex All-in-One 3xxx,241
+NewYork_MATERIEL_INFO_202606147,PC fixe sans ecran,Elite mini,137
+NewYork_MATERIEL_INFO_202606148,PC portable,EliteBook 6xx,175
+NewYork_MATERIEL_INFO_202606149,souris,,5
+NewYork_MATERIEL_INFO_2026061410,,modèle par défaut,350
+NewYork_MATERIEL_INFO_2026061411,PC fixe sans ecran,Wyse thin client,69
+Paris_MATERIEL_INFO_202606140,imprimante,Laser à poser (<40kg),430
+Paris_MATERIEL_INFO_202606141,PC fixe tout-en-un,iMac 21pouces,290
+Paris_MATERIEL_INFO_202606142,PC fixe sans ecran,Station de travail (moy),600
+Paris_MATERIEL_INFO_202606143,PC fixe sans ecran,Optiplex tower,260
+Paris_MATERIEL_INFO_202606144,PC portable,Latitude 3xxx,220
+Paris_MATERIEL_INFO_202606145,imprimante,,500
+Paris_MATERIEL_INFO_202606146,PC portable,MacBook air,250
+Paris_MATERIEL_INFO_202606147,PC portable,MacBook pro 15/16pouces,330
+Paris_MATERIEL_INFO_202606148,,MacBook air pre-retina,310
+Paris_MATERIEL_INFO_202606149,Vidéo projecteur,Transportable,94
+Paris_MATERIEL_INFO_2026061410,PC fixe tout-en-un,,352
+Paris_MATERIEL_INFO_2026061411,,iMac pro,700
+Shanghai_MATERIEL_INFO_202606140,imprimante,modèle par défaut,500
+Shanghai_MATERIEL_INFO_202606141,imprimante,Laser A3 (>100kg),1800
+Shanghai_MATERIEL_INFO_202606142,imprimante,Laser A3 (>100kg),1800
+Shanghai_MATERIEL_INFO_202606143,PC fixe sans ecran,Precision tower 7xxx,555
+Shanghai_MATERIEL_INFO_202606144,PC portable,Moyenne 14/15pouces,294
+Shanghai_MATERIEL_INFO_202606145,PC fixe sans ecran,ZHAN,264
+Shanghai_MATERIEL_INFO_202606146,PC fixe sans ecran,Optiplex tower,260
+Shanghai_MATERIEL_INFO_202606147,PC fixe sans ecran,Optiplex tower,260
+Shanghai_MATERIEL_INFO_202606148,,"EliteDesk (Tower, SFF, One)",393
+Shanghai_MATERIEL_INFO_202606149,PC portable,Precision 7xxx,304
+Shanghai_MATERIEL_INFO_2026061410,,Precision 3xxx,266
+Shanghai_MATERIEL_INFO_2026061411,,32pouces et plus,590

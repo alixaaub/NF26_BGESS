@@ -1,0 +1,44 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202606080,,Modèle par défaut,350
+BERLIN_MATERIEL_INFO_202606081,,PC Fixe (moy),300
+BERLIN_MATERIEL_INFO_202606082,,modèle par défaut,350
+BERLIN_MATERIEL_INFO_202606083,PC fixe sans ecran,"EliteDesk (Tower, SFF, One)",393
+BERLIN_MATERIEL_INFO_202606084,,MacBook pro 13pouces,256
+LONDON_MATERIEL_INFO_202606080,Ecran,modèle par défaut,430
+LONDON_MATERIEL_INFO_202606081,PC portable,EliteBook 6xx,175
+LONDON_MATERIEL_INFO_202606082,Station d'accueil,modèle par défaut,26
+LONDON_MATERIEL_INFO_202606083,PC portable,Moyenne 13pouces,250
+LONDON_MATERIEL_INFO_202606084,Telephone IP,modèle par défaut,17
+LONDON_MATERIEL_INFO_202606085,PC fixe tout-en-un,Optiplex All-in-One 7xxx,382
+LONDON_MATERIEL_INFO_202606086,,Transportable,94
+LONDON_MATERIEL_INFO_202606087,PC fixe tout-en-un,Mac pro,900
+LONDON_MATERIEL_INFO_202606088,PC portable,Victus,267
+LONDON_MATERIEL_INFO_202606089,PC fixe sans ecran,ProDesk mini/DM,100
+LONDON_MATERIEL_INFO_2026060810,,Moyenne 14/15pouces,294
+LA_MATERIEL_INFO_202606080,Ecran,32pouces et plus,590
+LA_MATERIEL_INFO_202606081,Telephone IP,modèle par défaut,17
+LA_MATERIEL_INFO_202606082,,Optiplex small,240
+LA_MATERIEL_INFO_202606083,PC portable,,260
+LA_MATERIEL_INFO_202606084,PC portable,EliteBook 10xx,223
+LA_MATERIEL_INFO_202606085,PC fixe sans ecran,Precision tower 3xxx,285
+LA_MATERIEL_INFO_202606086,PC portable,MacBook air,250
+NewYork_MATERIEL_INFO_202606080,PC portable,Latitude 5xxx,300
+NewYork_MATERIEL_INFO_202606081,Vidéo projecteur,,94
+NewYork_MATERIEL_INFO_202606082,Smartphone,modèle par défaut,63
+NewYork_MATERIEL_INFO_202606083,Tablette,modèle par défaut,150
+NewYork_MATERIEL_INFO_202606084,Serveur,Serveur de stockage,2500
+NewYork_MATERIEL_INFO_202606085,PC fixe sans ecran,Mac pro,900
+NewYork_MATERIEL_INFO_202606086,PC fixe sans ecran,Station de travail (moy),600
+NewYork_MATERIEL_INFO_202606087,Telephone IP,modèle par défaut,17
+NewYork_MATERIEL_INFO_202606088,,"Elite (Tower, SFF, One)",393
+Paris_MATERIEL_INFO_202606080,imprimante,Laser à poser (<40kg),430
+Paris_MATERIEL_INFO_202606081,PC fixe sans ecran,Elite mini,137
+Paris_MATERIEL_INFO_202606082,PC portable,EliteBook 6xx,175
+Paris_MATERIEL_INFO_202606083,PC portable,Moyenne 17pouces,365
+Paris_MATERIEL_INFO_202606084,PC fixe sans ecran,Optiplex micro,174
+Paris_MATERIEL_INFO_202606085,clavier,modèle par défaut,24
+Paris_MATERIEL_INFO_202606086,Ecran,,430
+Paris_MATERIEL_INFO_202606087,PC fixe sans ecran,"Elite (Tower, SFF, One)",393
+Paris_MATERIEL_INFO_202606088,Station d'accueil,modèle par défaut,26
+Paris_MATERIEL_INFO_202606089,,Station de travail (moy),600
+Shanghai_MATERIEL_INFO_202606080,PC portable,Victus,267

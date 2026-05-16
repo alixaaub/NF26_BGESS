@@ -1,0 +1,45 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202610220,,Mac pro,900
+BERLIN_MATERIEL_INFO_202610221,Smartphone,modèle par défaut,63
+BERLIN_MATERIEL_INFO_202610222,Vidéo projecteur,modèle par défaut,94
+BERLIN_MATERIEL_INFO_202610223,Vidéo projecteur,modèle par défaut,94
+BERLIN_MATERIEL_INFO_202610224,PC fixe tout-en-un,Optiplex All-in-One 5xxx,318
+LONDON_MATERIEL_INFO_202610220,PC fixe sans ecran,Precision tower 7xxx,555
+LONDON_MATERIEL_INFO_202610221,PC fixe sans ecran,Elite mini,137
+LONDON_MATERIEL_INFO_202610222,Serveur,Noeud de calcul,1300
+LA_MATERIEL_INFO_202610220,,Mac pro,900
+LA_MATERIEL_INFO_202610221,,Moyenne 13pouces,250
+LA_MATERIEL_INFO_202610222,,"Elite (Tower, SFF, One)",393
+LA_MATERIEL_INFO_202610223,PC portable,Precision 7xxx,304
+LA_MATERIEL_INFO_202610224,,ZHAN,264
+LA_MATERIEL_INFO_202610225,PC fixe tout-en-un,,352
+LA_MATERIEL_INFO_202610226,PC portable,OMEN,290
+LA_MATERIEL_INFO_202610227,,modèle par défaut,350
+LA_MATERIEL_INFO_202610228,PC fixe tout-en-un,Mac pro,900
+LA_MATERIEL_INFO_202610229,PC portable,,260
+NewYork_MATERIEL_INFO_202610220,PC portable,,260
+NewYork_MATERIEL_INFO_202610221,,"EliteDesk (Tower, SFF, One)",393
+NewYork_MATERIEL_INFO_202610222,PC portable,OMEN,290
+NewYork_MATERIEL_INFO_202610223,PC fixe tout-en-un,Mac pro,900
+NewYork_MATERIEL_INFO_202610224,PC fixe sans ecran,Station de travail (moy),600
+NewYork_MATERIEL_INFO_202610225,PC portable,MacBook air,250
+Paris_MATERIEL_INFO_202610220,PC portable,Latitude 7xxx,264
+Paris_MATERIEL_INFO_202610221,,Laser à poser (<40kg),430
+Paris_MATERIEL_INFO_202610222,PC portable,Precision 5xxx,280
+Paris_MATERIEL_INFO_202610223,PC portable,Latitude 3xxx,220
+Paris_MATERIEL_INFO_202610224,Ecran,32pouces et plus,590
+Paris_MATERIEL_INFO_202610225,PC fixe sans ecran,Elite mini,137
+Paris_MATERIEL_INFO_202610226,,modèle par défaut,350
+Paris_MATERIEL_INFO_202610227,PC portable,Victus,267
+Paris_MATERIEL_INFO_202610228,,Precision 5xxx,280
+Paris_MATERIEL_INFO_202610229,PC portable,Precision 7xxx,304
+Paris_MATERIEL_INFO_2026102210,Ecran,32pouces et plus,590
+Shanghai_MATERIEL_INFO_202610220,PC fixe sans ecran,OMEN,290
+Shanghai_MATERIEL_INFO_202610221,Ecran,,430
+Shanghai_MATERIEL_INFO_202610222,imprimante,modèle par défaut,500
+Shanghai_MATERIEL_INFO_202610223,clavier,modèle par défaut,24
+Shanghai_MATERIEL_INFO_202610224,,modèle par défaut,350
+Shanghai_MATERIEL_INFO_202610225,PC portable,,260
+Shanghai_MATERIEL_INFO_202610226,PC fixe sans ecran,"Prodesk (Tower, SFF)",322
+Shanghai_MATERIEL_INFO_202610227,,Precision tower 3xxx,285
+Shanghai_MATERIEL_INFO_202610228,PC fixe tout-en-un,Optiplex All-in-One 3xxx,241

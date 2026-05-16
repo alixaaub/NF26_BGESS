@@ -1,0 +1,45 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202608290,PC portable,Latitude 7xxx,264
+BERLIN_MATERIEL_INFO_202608291,PC fixe tout-en-un,iMac 21pouces retina,300
+BERLIN_MATERIEL_INFO_202608292,PC portable,MacBook air,250
+BERLIN_MATERIEL_INFO_202608293,,ZBook Studio,379
+BERLIN_MATERIEL_INFO_202608294,PC portable,MacBook air,250
+LONDON_MATERIEL_INFO_202608290,Vidéo projecteur,,94
+LONDON_MATERIEL_INFO_202608291,Ecran,jusqu'à 23pouces,350
+LONDON_MATERIEL_INFO_202608292,Ecran,modèle par défaut,430
+LONDON_MATERIEL_INFO_202608293,,"Prodesk (Tower, SFF)",322
+LONDON_MATERIEL_INFO_202608294,PC portable,EliteBook 8xx,290
+LONDON_MATERIEL_INFO_202608295,Serveur,Noeud de calcul,1300
+LONDON_MATERIEL_INFO_202608296,PC portable,EliteBook 6xx,175
+LONDON_MATERIEL_INFO_202608297,PC portable,OMEN,290
+LONDON_MATERIEL_INFO_202608298,PC fixe tout-en-un,modèle par défaut,352
+LONDON_MATERIEL_INFO_202608299,,iMac 21pouces,290
+LONDON_MATERIEL_INFO_2026082910,,Precision tower 3xxx,285
+LA_MATERIEL_INFO_202608290,Ecran,24pouces-31pouces,430
+LA_MATERIEL_INFO_202608291,Ecran,32pouces et plus,590
+LA_MATERIEL_INFO_202608292,Disque dur,,10
+LA_MATERIEL_INFO_202608293,PC portable,ZBook,303
+LA_MATERIEL_INFO_202608294,Disque dur,modèle par défaut,10
+LA_MATERIEL_INFO_202608295,PC fixe sans ecran,Mac pro,900
+LA_MATERIEL_INFO_202608296,souris,modèle par défaut,5
+NewYork_MATERIEL_INFO_202608290,PC portable,Latitude 3xxx,220
+NewYork_MATERIEL_INFO_202608291,PC fixe sans ecran,"EliteDesk (Tower, SFF, One)",393
+NewYork_MATERIEL_INFO_202608292,,modèle par défaut,350
+Paris_MATERIEL_INFO_202608290,PC fixe tout-en-un,iMac 21pouces retina,300
+Paris_MATERIEL_INFO_202608291,PC fixe sans ecran,Rasberry pi 4,15
+Paris_MATERIEL_INFO_202608292,,ZHAN,264
+Paris_MATERIEL_INFO_202608293,PC fixe sans ecran,Station de travail (moy),600
+Paris_MATERIEL_INFO_202608294,Serveur,,1300
+Paris_MATERIEL_INFO_202608295,,modèle par défaut,350
+Paris_MATERIEL_INFO_202608296,Vidéo projecteur,,94
+Shanghai_MATERIEL_INFO_202608290,PC portable,Precision 7xxx,304
+Shanghai_MATERIEL_INFO_202608291,,EliteDesk DM,230
+Shanghai_MATERIEL_INFO_202608292,PC portable,Moyenne 13pouces,250
+Shanghai_MATERIEL_INFO_202608293,Telephone IP,modèle par défaut,17
+Shanghai_MATERIEL_INFO_202608294,PC fixe sans ecran,Wyse thin client,69
+Shanghai_MATERIEL_INFO_202608295,PC fixe tout-en-un,Optiplex All-in-One 3xxx,241
+Shanghai_MATERIEL_INFO_202608296,Serveur,Modèle par défaut,1300
+Shanghai_MATERIEL_INFO_202608297,imprimante,,500
+Shanghai_MATERIEL_INFO_202608298,PC fixe sans ecran,Precision tower 7xxx,555
+Shanghai_MATERIEL_INFO_202608299,,ProDesk mini/DM,100
+Shanghai_MATERIEL_INFO_2026082910,PC fixe sans ecran,Rasberry pi 4,15

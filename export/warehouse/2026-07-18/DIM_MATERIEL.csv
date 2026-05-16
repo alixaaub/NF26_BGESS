@@ -1,0 +1,43 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202607180,PC portable,ZBook,303
+BERLIN_MATERIEL_INFO_202607181,PC portable,Chromebook 11-13pouces,175
+LONDON_MATERIEL_INFO_202607180,PC fixe sans ecran,ZHAN,264
+LONDON_MATERIEL_INFO_202607181,PC portable,EliteBook 8xx,290
+LONDON_MATERIEL_INFO_202607182,Vidéo projecteur,Pour salle,150
+LONDON_MATERIEL_INFO_202607183,PC portable,MacBook air,250
+LONDON_MATERIEL_INFO_202607184,imprimante,Laser à poser (<40kg),430
+LONDON_MATERIEL_INFO_202607185,PC fixe sans ecran,Precision tower 3xxx,285
+LONDON_MATERIEL_INFO_202607186,Serveur,Noeud de calcul,1300
+LONDON_MATERIEL_INFO_202607187,Vidéo projecteur,Pour amphi,200
+LONDON_MATERIEL_INFO_202607188,,jusqu'à 23pouces,350
+LONDON_MATERIEL_INFO_202607189,PC portable,MacBook air retina,176
+LONDON_MATERIEL_INFO_2026071810,PC fixe tout-en-un,Optiplex All-in-One 7xxx,382
+LA_MATERIEL_INFO_202607180,Station d'accueil,modèle par défaut,26
+LA_MATERIEL_INFO_202607181,PC portable,MacBook air pre-retina,310
+LA_MATERIEL_INFO_202607182,,modèle par défaut,350
+LA_MATERIEL_INFO_202607183,PC portable,,260
+LA_MATERIEL_INFO_202607184,PC fixe sans ecran,,350
+LA_MATERIEL_INFO_202607185,PC fixe sans ecran,Precision tower 7xxx,555
+LA_MATERIEL_INFO_202607186,PC portable,OMEN,290
+NewYork_MATERIEL_INFO_202607180,Serveur,Serveur de stockage,2500
+NewYork_MATERIEL_INFO_202607181,PC portable,Moyenne 13pouces,250
+NewYork_MATERIEL_INFO_202607182,PC fixe sans ecran,EliteDesk DM,230
+NewYork_MATERIEL_INFO_202607183,PC portable,Moyenne 14/15pouces,294
+NewYork_MATERIEL_INFO_202607184,,modèle par défaut,350
+NewYork_MATERIEL_INFO_202607185,PC fixe sans ecran,Optiplex micro,174
+NewYork_MATERIEL_INFO_202607186,,modèle par défaut,350
+NewYork_MATERIEL_INFO_202607187,,Mac mini,270
+NewYork_MATERIEL_INFO_202607188,,EliteBook 10xx,223
+NewYork_MATERIEL_INFO_202607189,,Elite mini,137
+NewYork_MATERIEL_INFO_2026071810,,32pouces et plus,590
+NewYork_MATERIEL_INFO_2026071811,,iMac 21pouces,290
+NewYork_MATERIEL_INFO_2026071812,imprimante,Laser A3 (40-99kg),960
+NewYork_MATERIEL_INFO_2026071813,PC fixe tout-en-un,iMac 21pouces,290
+Paris_MATERIEL_INFO_202607180,PC portable,Precision 3xxx,266
+Paris_MATERIEL_INFO_202607181,Station d'accueil,modèle par défaut,26
+Paris_MATERIEL_INFO_202607182,Ecran,24pouces-31pouces,430
+Shanghai_MATERIEL_INFO_202607180,,modèle par défaut,350
+Shanghai_MATERIEL_INFO_202607181,PC fixe sans ecran,Precision tower 7xxx,555
+Shanghai_MATERIEL_INFO_202607182,PC fixe tout-en-un,iMac 27pouces retina,450
+Shanghai_MATERIEL_INFO_202607183,PC portable,ZBook,303
+Shanghai_MATERIEL_INFO_202607184,PC portable,MacBook air pre-retina,310

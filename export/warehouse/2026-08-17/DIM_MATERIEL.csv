@@ -1,0 +1,59 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202608170,Tablette,modèle par défaut,150
+BERLIN_MATERIEL_INFO_202608171,,ZHAN,264
+BERLIN_MATERIEL_INFO_202608172,PC fixe sans ecran,,350
+BERLIN_MATERIEL_INFO_202608173,,Modèle par défaut,350
+BERLIN_MATERIEL_INFO_202608174,PC fixe sans ecran,,350
+BERLIN_MATERIEL_INFO_202608175,,modèle par défaut,350
+LONDON_MATERIEL_INFO_202608170,Smartphone,modèle par défaut,63
+LONDON_MATERIEL_INFO_202608171,PC fixe tout-en-un,iMac 27pouces retina,450
+LONDON_MATERIEL_INFO_202608172,Borne wifi,,10
+LONDON_MATERIEL_INFO_202608173,PC portable,Chromebook 11-13pouces,175
+LONDON_MATERIEL_INFO_202608174,PC fixe tout-en-un,iMac 21pouces,290
+LONDON_MATERIEL_INFO_202608175,,MacBook air retina,176
+LA_MATERIEL_INFO_202608170,PC fixe sans ecran,,350
+LA_MATERIEL_INFO_202608171,PC fixe sans ecran,Optiplex micro,174
+LA_MATERIEL_INFO_202608172,PC portable,Moyenne 17pouces,365
+LA_MATERIEL_INFO_202608173,,Latitude 7xxx,264
+LA_MATERIEL_INFO_202608174,PC fixe sans ecran,ProDesk mini/DM,100
+LA_MATERIEL_INFO_202608175,PC fixe sans ecran,Rasberry pi 4,15
+LA_MATERIEL_INFO_202608176,PC portable,ProBook,226
+LA_MATERIEL_INFO_202608177,PC portable,Latitude 3xxx,220
+LA_MATERIEL_INFO_202608178,PC fixe tout-en-un,,352
+LA_MATERIEL_INFO_202608179,PC fixe sans ecran,Optiplex tower,260
+LA_MATERIEL_INFO_2026081710,PC portable,EliteBook 8xx,290
+NewYork_MATERIEL_INFO_202608170,Serveur,Noeud de calcul,1300
+NewYork_MATERIEL_INFO_202608171,PC fixe sans ecran,Optiplex micro,174
+NewYork_MATERIEL_INFO_202608172,Serveur,Serveur de stockage,2500
+NewYork_MATERIEL_INFO_202608173,Serveur,Modèle par défaut,1300
+NewYork_MATERIEL_INFO_202608174,PC portable,MacBook pro 15/16pouces,330
+NewYork_MATERIEL_INFO_202608175,PC portable,,260
+NewYork_MATERIEL_INFO_202608176,,Precision tower 7xxx,555
+NewYork_MATERIEL_INFO_202608177,PC fixe sans ecran,Optiplex tower,260
+NewYork_MATERIEL_INFO_202608178,PC portable,Chromebook 11-13pouces,175
+NewYork_MATERIEL_INFO_202608179,Telephone IP,modèle par défaut,17
+Paris_MATERIEL_INFO_202608170,PC portable,Precision 7xxx,304
+Paris_MATERIEL_INFO_202608171,,Laser A3 (40-99kg),960
+Paris_MATERIEL_INFO_202608172,PC portable,Chromebook 14-15pouces,170
+Paris_MATERIEL_INFO_202608173,PC portable,EliteBook 6xx,175
+Paris_MATERIEL_INFO_202608174,PC fixe sans ecran,Optiplex micro,174
+Paris_MATERIEL_INFO_202608175,PC portable,Chromebook 11-13pouces,175
+Paris_MATERIEL_INFO_202608176,PC portable,Precision 3xxx,266
+Paris_MATERIEL_INFO_202608177,PC portable,MacBook pro 15/16pouces,330
+Paris_MATERIEL_INFO_202608178,Serveur,Noeud de calcul,1300
+Paris_MATERIEL_INFO_202608179,PC fixe tout-en-un,iMac 21pouces,290
+Paris_MATERIEL_INFO_2026081710,PC portable,Moyenne 13pouces,250
+Shanghai_MATERIEL_INFO_202608170,PC portable,modèle par défaut,260
+Shanghai_MATERIEL_INFO_202608171,PC fixe sans ecran,Optiplex small,240
+Shanghai_MATERIEL_INFO_202608172,Tablette,modèle par défaut,150
+Shanghai_MATERIEL_INFO_202608173,Disque dur,modèle par défaut,10
+Shanghai_MATERIEL_INFO_202608174,,Precision 7xxx,304
+Shanghai_MATERIEL_INFO_202608175,PC fixe tout-en-un,,352
+Shanghai_MATERIEL_INFO_202608176,PC portable,Moyenne 14/15pouces,294
+Shanghai_MATERIEL_INFO_202608177,Serveur,Serveur de stockage,2500
+Shanghai_MATERIEL_INFO_202608178,PC portable,Latitude 5xxx,300
+Shanghai_MATERIEL_INFO_202608179,PC portable,Latitude 3xxx,220
+Shanghai_MATERIEL_INFO_2026081710,Smartphone,modèle par défaut,63
+Shanghai_MATERIEL_INFO_2026081711,Vidéo projecteur,modèle par défaut,94
+Shanghai_MATERIEL_INFO_2026081712,PC fixe sans ecran,Optiplex micro,174
+Shanghai_MATERIEL_INFO_2026081713,,modèle par défaut,350

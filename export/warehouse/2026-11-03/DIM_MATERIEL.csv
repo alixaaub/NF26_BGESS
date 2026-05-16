@@ -1,0 +1,34 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202611030,PC fixe sans ecran,Z,409
+BERLIN_MATERIEL_INFO_202611031,PC fixe tout-en-un,Optiplex All-in-One 5xxx,318
+LONDON_MATERIEL_INFO_202611030,PC fixe sans ecran,,350
+LONDON_MATERIEL_INFO_202611031,Ecran,24pouces-31pouces,430
+LA_MATERIEL_INFO_202611030,PC fixe sans ecran,Mac mini,270
+LA_MATERIEL_INFO_202611031,Ecran,jusqu'à 23pouces,350
+LA_MATERIEL_INFO_202611032,clavier,modèle par défaut,24
+LA_MATERIEL_INFO_202611033,souris,modèle par défaut,5
+LA_MATERIEL_INFO_202611034,,ZHAN,264
+LA_MATERIEL_INFO_202611035,Telephone IP,modèle par défaut,17
+LA_MATERIEL_INFO_202611036,,modèle par défaut,350
+LA_MATERIEL_INFO_202611037,souris,modèle par défaut,5
+NewYork_MATERIEL_INFO_202611030,PC fixe tout-en-un,iMac 27pouces retina,450
+NewYork_MATERIEL_INFO_202611031,PC portable,modèle par défaut,260
+NewYork_MATERIEL_INFO_202611032,PC fixe sans ecran,"Elite (Tower, SFF, One)",393
+NewYork_MATERIEL_INFO_202611033,PC portable,ZBook Studio,379
+NewYork_MATERIEL_INFO_202611034,PC portable,Precision 7xxx,304
+NewYork_MATERIEL_INFO_202611035,,Mac pro,900
+NewYork_MATERIEL_INFO_202611036,PC portable,MacBook air retina,176
+NewYork_MATERIEL_INFO_202611037,PC fixe tout-en-un,iMac 27pouces retina,450
+NewYork_MATERIEL_INFO_202611038,PC fixe sans ecran,Precision tower 7xxx,555
+NewYork_MATERIEL_INFO_202611039,PC fixe sans ecran,Rasberry pi 4,15
+NewYork_MATERIEL_INFO_2026110310,PC portable,Precision 7xxx,304
+NewYork_MATERIEL_INFO_2026110311,PC fixe sans ecran,Elite mini,137
+Paris_MATERIEL_INFO_202611030,Tablette,modèle par défaut,150
+Paris_MATERIEL_INFO_202611031,PC fixe tout-en-un,,352
+Paris_MATERIEL_INFO_202611032,PC fixe sans ecran,"Prodesk (Tower, SFF)",322
+Paris_MATERIEL_INFO_202611033,Disque dur,modèle par défaut,10
+Paris_MATERIEL_INFO_202611034,PC portable,EliteBook 8xx,290
+Paris_MATERIEL_INFO_202611035,PC fixe tout-en-un,Mac pro,900
+Paris_MATERIEL_INFO_202611036,PC fixe sans ecran,Optiplex small,240
+Shanghai_MATERIEL_INFO_202611030,,Chromebook 11-13pouces,175
+Shanghai_MATERIEL_INFO_202611031,PC portable,EliteBook 6xx,175

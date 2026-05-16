@@ -1,0 +1,34 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202608020,Vidéo projecteur,Pour amphi,200
+LONDON_MATERIEL_INFO_202608020,PC fixe sans ecran,Station de travail (moy),600
+LONDON_MATERIEL_INFO_202608021,PC fixe sans ecran,Rasberry pi 4,15
+LONDON_MATERIEL_INFO_202608022,Telephone IP,modèle par défaut,17
+LONDON_MATERIEL_INFO_202608023,Ecran,,430
+LONDON_MATERIEL_INFO_202608024,,Station de travail (moy),600
+LONDON_MATERIEL_INFO_202608025,PC portable,MacBook air retina,176
+LONDON_MATERIEL_INFO_202608026,PC portable,Precision 5xxx,280
+LONDON_MATERIEL_INFO_202608027,PC fixe sans ecran,Rasberry pi 4,15
+LONDON_MATERIEL_INFO_202608028,PC fixe sans ecran,Rasberry pi 4,15
+LONDON_MATERIEL_INFO_202608029,PC portable,Latitude 7xxx,264
+LA_MATERIEL_INFO_202608020,,Mac mini,270
+LA_MATERIEL_INFO_202608021,PC fixe sans ecran,ProDesk mini/DM,100
+LA_MATERIEL_INFO_202608022,PC portable,Precision 5xxx,280
+NewYork_MATERIEL_INFO_202608020,PC portable,,260
+NewYork_MATERIEL_INFO_202608021,PC fixe sans ecran,,350
+NewYork_MATERIEL_INFO_202608022,PC portable,Precision 7xxx,304
+NewYork_MATERIEL_INFO_202608023,PC fixe tout-en-un,modèle par défaut,352
+NewYork_MATERIEL_INFO_202608024,PC fixe tout-en-un,Mac pro,900
+NewYork_MATERIEL_INFO_202608025,PC portable,Precision 7xxx,304
+NewYork_MATERIEL_INFO_202608026,souris,modèle par défaut,5
+NewYork_MATERIEL_INFO_202608027,Smartphone,modèle par défaut,63
+NewYork_MATERIEL_INFO_202608028,Disque dur,modèle par défaut,10
+Paris_MATERIEL_INFO_202608020,PC fixe sans ecran,ProDesk mini/DM,100
+Paris_MATERIEL_INFO_202608021,clavier,modèle par défaut,24
+Shanghai_MATERIEL_INFO_202608020,Serveur,Modèle par défaut,1300
+Shanghai_MATERIEL_INFO_202608021,souris,modèle par défaut,5
+Shanghai_MATERIEL_INFO_202608022,souris,modèle par défaut,5
+Shanghai_MATERIEL_INFO_202608023,imprimante,Laser à poser (<40kg),430
+Shanghai_MATERIEL_INFO_202608024,PC portable,,260
+Shanghai_MATERIEL_INFO_202608025,PC portable,Chromebook 14-15pouces,170
+Shanghai_MATERIEL_INFO_202608026,PC portable,Chromebook 14-15pouces,170
+Shanghai_MATERIEL_INFO_202608027,Vidéo projecteur,Pour salle,150

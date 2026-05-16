@@ -1,0 +1,45 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202606110,,modèle par défaut,350
+LONDON_MATERIEL_INFO_202606110,imprimante,Laser A3 (40-99kg),960
+LONDON_MATERIEL_INFO_202606111,PC portable,MacBook air,250
+LONDON_MATERIEL_INFO_202606112,PC portable,EliteBook 8xx,290
+LONDON_MATERIEL_INFO_202606113,PC fixe sans ecran,Mac mini,270
+LONDON_MATERIEL_INFO_202606114,,Optiplex small,240
+LONDON_MATERIEL_INFO_202606115,,Transportable,94
+LONDON_MATERIEL_INFO_202606116,,OMEN,290
+LA_MATERIEL_INFO_202606110,PC fixe tout-en-un,iMac pro,700
+LA_MATERIEL_INFO_202606111,Disque dur,modèle par défaut,10
+LA_MATERIEL_INFO_202606112,,modèle par défaut,350
+LA_MATERIEL_INFO_202606113,clavier,modèle par défaut,24
+LA_MATERIEL_INFO_202606114,PC fixe sans ecran,OMEN,290
+LA_MATERIEL_INFO_202606115,PC fixe sans ecran,Optiplex micro,174
+LA_MATERIEL_INFO_202606116,Borne wifi,,10
+LA_MATERIEL_INFO_202606117,PC fixe sans ecran,Rasberry pi 4,15
+LA_MATERIEL_INFO_202606118,Telephone IP,modèle par défaut,17
+LA_MATERIEL_INFO_202606119,PC fixe sans ecran,modèle par défaut,350
+NewYork_MATERIEL_INFO_202606110,PC portable,MacBook pro 15/16pouces,330
+NewYork_MATERIEL_INFO_202606111,imprimante,Laser A3 (40-99kg),960
+NewYork_MATERIEL_INFO_202606112,PC fixe sans ecran,Z,409
+Paris_MATERIEL_INFO_202606110,,MacBook air retina,176
+Paris_MATERIEL_INFO_202606111,,Optiplex All-in-One 7xxx,382
+Paris_MATERIEL_INFO_202606112,PC fixe tout-en-un,iMac 21pouces retina,300
+Paris_MATERIEL_INFO_202606113,clavier,modèle par défaut,24
+Paris_MATERIEL_INFO_202606114,PC fixe sans ecran,PC Fixe (moy),300
+Paris_MATERIEL_INFO_202606115,PC fixe sans ecran,Precision tower 5xxx,440
+Paris_MATERIEL_INFO_202606116,Smartphone,modèle par défaut,63
+Paris_MATERIEL_INFO_202606117,,Laser A3 (>100kg),1800
+Paris_MATERIEL_INFO_202606118,PC fixe sans ecran,Precision tower 5xxx,440
+Paris_MATERIEL_INFO_202606119,Serveur,Modèle par défaut,1300
+Paris_MATERIEL_INFO_2026061110,,Modèle par défaut,350
+Paris_MATERIEL_INFO_2026061111,Tablette,modèle par défaut,150
+Shanghai_MATERIEL_INFO_202606110,,Mac pro,900
+Shanghai_MATERIEL_INFO_202606111,,ZHAN,264
+Shanghai_MATERIEL_INFO_202606112,,Precision tower 5xxx,440
+Shanghai_MATERIEL_INFO_202606113,PC fixe sans ecran,Mac mini,270
+Shanghai_MATERIEL_INFO_202606114,,PC Fixe (moy),300
+Shanghai_MATERIEL_INFO_202606115,PC fixe tout-en-un,Optiplex All-in-One 7xxx,382
+Shanghai_MATERIEL_INFO_202606116,PC fixe sans ecran,"Elite (Tower, SFF, One)",393
+Shanghai_MATERIEL_INFO_202606117,PC portable,Victus,267
+Shanghai_MATERIEL_INFO_202606118,PC portable,Precision 7xxx,304
+Shanghai_MATERIEL_INFO_202606119,PC portable,ProBook,226
+Shanghai_MATERIEL_INFO_2026061110,PC fixe sans ecran,Precision tower 5xxx,440

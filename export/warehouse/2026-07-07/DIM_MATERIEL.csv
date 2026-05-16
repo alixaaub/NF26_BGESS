@@ -1,0 +1,44 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202607070,PC fixe sans ecran,Optiplex tower,260
+BERLIN_MATERIEL_INFO_202607071,,Moyenne 14/15pouces,294
+LONDON_MATERIEL_INFO_202607070,,Precision tower 5xxx,440
+LONDON_MATERIEL_INFO_202607071,Vidéo projecteur,Pour amphi,200
+LONDON_MATERIEL_INFO_202607072,PC fixe sans ecran,EliteDesk DM,230
+LONDON_MATERIEL_INFO_202607073,PC fixe sans ecran,ZHAN,264
+LONDON_MATERIEL_INFO_202607074,PC fixe sans ecran,Rasberry pi 4,15
+LONDON_MATERIEL_INFO_202607075,PC portable,MacBook air pre-retina,310
+LONDON_MATERIEL_INFO_202607076,Vidéo projecteur,Transportable,94
+LONDON_MATERIEL_INFO_202607077,clavier,modèle par défaut,24
+LONDON_MATERIEL_INFO_202607078,imprimante,Laser A3 (>100kg),1800
+LA_MATERIEL_INFO_202607070,,Station de travail (moy),600
+LA_MATERIEL_INFO_202607071,PC fixe sans ecran,,350
+LA_MATERIEL_INFO_202607072,Ecran,24pouces-31pouces,430
+NewYork_MATERIEL_INFO_202607070,,ProDesk mini/DM,100
+NewYork_MATERIEL_INFO_202607071,PC portable,Moyenne 17pouces,365
+NewYork_MATERIEL_INFO_202607072,PC fixe tout-en-un,,352
+NewYork_MATERIEL_INFO_202607073,PC fixe tout-en-un,,352
+NewYork_MATERIEL_INFO_202607074,Ecran,modèle par défaut,430
+NewYork_MATERIEL_INFO_202607075,PC portable,Precision 7xxx,304
+NewYork_MATERIEL_INFO_202607076,PC fixe sans ecran,,350
+NewYork_MATERIEL_INFO_202607077,PC fixe sans ecran,,350
+NewYork_MATERIEL_INFO_202607078,Ecran,32pouces et plus,590
+NewYork_MATERIEL_INFO_202607079,PC fixe sans ecran,EliteDesk DM,230
+NewYork_MATERIEL_INFO_2026070710,souris,modèle par défaut,5
+NewYork_MATERIEL_INFO_2026070711,PC portable,,260
+Paris_MATERIEL_INFO_202607070,Tablette,,150
+Paris_MATERIEL_INFO_202607071,PC portable,Precision 3xxx,266
+Paris_MATERIEL_INFO_202607072,PC fixe sans ecran,Wyse thin client,69
+Paris_MATERIEL_INFO_202607073,,32pouces et plus,590
+Paris_MATERIEL_INFO_202607074,,ZHAN,264
+Paris_MATERIEL_INFO_202607075,PC fixe sans ecran,Optiplex micro,174
+Paris_MATERIEL_INFO_202607076,Ecran,modèle par défaut,430
+Paris_MATERIEL_INFO_202607077,Ecran,32pouces et plus,590
+Paris_MATERIEL_INFO_202607078,Serveur,Serveur de stockage,2500
+Paris_MATERIEL_INFO_202607079,PC fixe tout-en-un,Optiplex All-in-One 5xxx,318
+Paris_MATERIEL_INFO_2026070710,PC fixe sans ecran,Optiplex micro,174
+Paris_MATERIEL_INFO_2026070711,PC fixe sans ecran,Optiplex small,240
+Shanghai_MATERIEL_INFO_202607070,Station d'accueil,modèle par défaut,26
+Shanghai_MATERIEL_INFO_202607071,Ecran,jusqu'à 23pouces,350
+Shanghai_MATERIEL_INFO_202607072,,PC Fixe (moy),300
+Shanghai_MATERIEL_INFO_202607073,PC portable,MacBook air,250
+Shanghai_MATERIEL_INFO_202607074,PC fixe sans ecran,Optiplex micro,174

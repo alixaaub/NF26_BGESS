@@ -1,0 +1,51 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202609270,PC portable,Latitude 5xxx,300
+BERLIN_MATERIEL_INFO_202609271,PC portable,Victus,267
+BERLIN_MATERIEL_INFO_202609272,PC portable,Precision 7xxx,304
+BERLIN_MATERIEL_INFO_202609273,imprimante,modèle par défaut,500
+LONDON_MATERIEL_INFO_202609270,Disque dur,modèle par défaut,10
+LA_MATERIEL_INFO_202609270,Serveur,,1300
+LA_MATERIEL_INFO_202609271,,OMEN,290
+LA_MATERIEL_INFO_202609272,Vidéo projecteur,modèle par défaut,94
+LA_MATERIEL_INFO_202609273,,32pouces et plus,590
+LA_MATERIEL_INFO_202609274,PC fixe tout-en-un,Optiplex All-in-One 3xxx,241
+LA_MATERIEL_INFO_202609275,PC portable,ZBook Studio,379
+LA_MATERIEL_INFO_202609276,PC fixe tout-en-un,Mac pro,900
+LA_MATERIEL_INFO_202609277,PC portable,Precision 5xxx,280
+LA_MATERIEL_INFO_202609278,imprimante,Laser A3 (>100kg),1800
+LA_MATERIEL_INFO_202609279,,Pour salle,150
+LA_MATERIEL_INFO_2026092710,,modèle par défaut,350
+LA_MATERIEL_INFO_2026092711,,Moyenne 14/15pouces,294
+LA_MATERIEL_INFO_2026092712,PC fixe tout-en-un,Optiplex All-in-One 3xxx,241
+NewYork_MATERIEL_INFO_202609270,PC fixe tout-en-un,iMac pro,700
+NewYork_MATERIEL_INFO_202609271,PC portable,MacBook pro 15/16pouces,330
+NewYork_MATERIEL_INFO_202609272,Serveur,Serveur de stockage,2500
+NewYork_MATERIEL_INFO_202609273,PC fixe sans ecran,Optiplex micro,174
+NewYork_MATERIEL_INFO_202609274,PC fixe sans ecran,,350
+NewYork_MATERIEL_INFO_202609275,PC fixe sans ecran,Precision tower 5xxx,440
+NewYork_MATERIEL_INFO_202609276,,Pour salle,150
+NewYork_MATERIEL_INFO_202609277,PC portable,ZBook,303
+NewYork_MATERIEL_INFO_202609278,PC portable,,260
+NewYork_MATERIEL_INFO_202609279,PC portable,Precision 7xxx,304
+Paris_MATERIEL_INFO_202609270,Borne wifi,modèle par défaut,10
+Paris_MATERIEL_INFO_202609271,PC portable,ZBook,303
+Paris_MATERIEL_INFO_202609272,Station d'accueil,modèle par défaut,26
+Paris_MATERIEL_INFO_202609273,PC portable,Moyenne 17pouces,365
+Paris_MATERIEL_INFO_202609274,PC fixe sans ecran,Optiplex small,240
+Paris_MATERIEL_INFO_202609275,,iMac pro,700
+Paris_MATERIEL_INFO_202609276,PC portable,MacBook pro 15/16pouces,330
+Paris_MATERIEL_INFO_202609277,,modèle par défaut,350
+Paris_MATERIEL_INFO_202609278,PC portable,Victus,267
+Paris_MATERIEL_INFO_202609279,imprimante,modèle par défaut,500
+Paris_MATERIEL_INFO_2026092710,PC portable,Latitude 3xxx,220
+Paris_MATERIEL_INFO_2026092711,Borne wifi,modèle par défaut,10
+Paris_MATERIEL_INFO_2026092712,PC portable,EliteBook 10xx,223
+Shanghai_MATERIEL_INFO_202609270,,MacBook air pre-retina,310
+Shanghai_MATERIEL_INFO_202609271,,Transportable,94
+Shanghai_MATERIEL_INFO_202609272,PC portable,MacBook air pre-retina,310
+Shanghai_MATERIEL_INFO_202609273,PC fixe sans ecran,"Prodesk (Tower, SFF)",322
+Shanghai_MATERIEL_INFO_202609274,,Latitude 3xxx,220
+Shanghai_MATERIEL_INFO_202609275,Ecran,24pouces-31pouces,430
+Shanghai_MATERIEL_INFO_202609276,PC portable,MacBook air retina,176
+Shanghai_MATERIEL_INFO_202609277,PC portable,EliteBook 10xx,223
+Shanghai_MATERIEL_INFO_202609278,PC portable,Victus,267

@@ -1,0 +1,54 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202605110,,modèle par défaut,350
+BERLIN_MATERIEL_INFO_202605111,PC fixe sans ecran,,350
+BERLIN_MATERIEL_INFO_202605112,PC fixe sans ecran,"Prodesk (Tower, SFF)",322
+BERLIN_MATERIEL_INFO_202605113,PC fixe sans ecran,Wyse thin client,69
+LONDON_MATERIEL_INFO_202605110,PC fixe tout-en-un,Optiplex All-in-One 3xxx,241
+LONDON_MATERIEL_INFO_202605111,PC portable,ZBook,303
+LONDON_MATERIEL_INFO_202605112,Tablette,modèle par défaut,150
+LONDON_MATERIEL_INFO_202605113,PC fixe tout-en-un,Mac pro,900
+LONDON_MATERIEL_INFO_202605114,PC fixe sans ecran,Precision tower 5xxx,440
+LONDON_MATERIEL_INFO_202605115,PC portable,MacBook air pre-retina,310
+LONDON_MATERIEL_INFO_202605116,,Z,409
+LONDON_MATERIEL_INFO_202605117,PC portable,Latitude 3xxx,220
+LONDON_MATERIEL_INFO_202605118,Smartphone,modèle par défaut,63
+LONDON_MATERIEL_INFO_202605119,Disque dur,modèle par défaut,10
+LONDON_MATERIEL_INFO_2026051110,,EliteBook 10xx,223
+LA_MATERIEL_INFO_202605110,clavier,modèle par défaut,24
+LA_MATERIEL_INFO_202605111,PC portable,Moyenne 13pouces,250
+LA_MATERIEL_INFO_202605112,Vidéo projecteur,modèle par défaut,94
+LA_MATERIEL_INFO_202605113,,modèle par défaut,350
+LA_MATERIEL_INFO_202605114,PC fixe sans ecran,modèle par défaut,350
+LA_MATERIEL_INFO_202605115,,ProBook,226
+LA_MATERIEL_INFO_202605116,,EliteBook 8xx,290
+LA_MATERIEL_INFO_202605117,PC fixe sans ecran,Mac pro,900
+LA_MATERIEL_INFO_202605118,imprimante,Laser A3 (40-99kg),960
+LA_MATERIEL_INFO_202605119,,Precision tower 7xxx,555
+LA_MATERIEL_INFO_2026051110,PC fixe sans ecran,PC Fixe (moy),300
+LA_MATERIEL_INFO_2026051111,Serveur,Serveur de stockage,2500
+LA_MATERIEL_INFO_2026051112,PC portable,MacBook air,250
+LA_MATERIEL_INFO_2026051113,PC portable,Latitude 5xxx,300
+NewYork_MATERIEL_INFO_202605110,PC fixe sans ecran,Optiplex micro,174
+NewYork_MATERIEL_INFO_202605111,PC fixe sans ecran,Precision tower 5xxx,440
+NewYork_MATERIEL_INFO_202605112,Ecran,jusqu'à 23pouces,350
+NewYork_MATERIEL_INFO_202605113,PC portable,Moyenne 13pouces,250
+NewYork_MATERIEL_INFO_202605114,Tablette,modèle par défaut,150
+NewYork_MATERIEL_INFO_202605115,PC fixe tout-en-un,iMac pro,700
+NewYork_MATERIEL_INFO_202605116,Smartphone,,63
+NewYork_MATERIEL_INFO_202605117,PC portable,MacBook air pre-retina,310
+NewYork_MATERIEL_INFO_202605118,,modèle par défaut,350
+Paris_MATERIEL_INFO_202605110,,EliteBook 8xx,290
+Paris_MATERIEL_INFO_202605111,PC fixe sans ecran,PC Fixe (moy),300
+Paris_MATERIEL_INFO_202605112,Serveur,Modèle par défaut,1300
+Paris_MATERIEL_INFO_202605113,,modèle par défaut,350
+Paris_MATERIEL_INFO_202605114,,iMac pro,700
+Paris_MATERIEL_INFO_202605115,PC fixe tout-en-un,Optiplex All-in-One 3xxx,241
+Paris_MATERIEL_INFO_202605116,Serveur,Serveur de stockage,2500
+Paris_MATERIEL_INFO_202605117,,iMac 21pouces retina,300
+Paris_MATERIEL_INFO_202605118,PC fixe tout-en-un,Optiplex All-in-One 3xxx,241
+Paris_MATERIEL_INFO_202605119,PC portable,Precision 7xxx,304
+Paris_MATERIEL_INFO_2026051110,PC portable,MacBook pro 15/16pouces,330
+Shanghai_MATERIEL_INFO_202605110,PC portable,ProBook,226
+Shanghai_MATERIEL_INFO_202605111,Ecran,24pouces-31pouces,430
+Shanghai_MATERIEL_INFO_202605112,Ecran,modèle par défaut,430
+Shanghai_MATERIEL_INFO_202605113,,Noeud de calcul,1300

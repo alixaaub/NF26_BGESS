@@ -1,0 +1,37 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202606180,PC portable,,260
+BERLIN_MATERIEL_INFO_202606181,PC fixe tout-en-un,iMac 21pouces retina,300
+BERLIN_MATERIEL_INFO_202606182,,Mac pro,900
+LONDON_MATERIEL_INFO_202606180,PC portable,MacBook air pre-retina,310
+LONDON_MATERIEL_INFO_202606181,PC fixe sans ecran,Rasberry pi 4,15
+LONDON_MATERIEL_INFO_202606182,PC portable,modèle par défaut,260
+LONDON_MATERIEL_INFO_202606183,PC portable,,260
+LONDON_MATERIEL_INFO_202606184,,ZBook Studio,379
+LONDON_MATERIEL_INFO_202606185,PC fixe sans ecran,,350
+LONDON_MATERIEL_INFO_202606186,PC fixe tout-en-un,Optiplex All-in-One 7xxx,382
+LONDON_MATERIEL_INFO_202606187,,Station de travail (moy),600
+LA_MATERIEL_INFO_202606180,PC portable,MacBook air,250
+LA_MATERIEL_INFO_202606181,PC fixe sans ecran,"Elite (Tower, SFF, One)",393
+LA_MATERIEL_INFO_202606182,PC portable,Latitude 5xxx,300
+LA_MATERIEL_INFO_202606183,,Precision 3xxx,266
+LA_MATERIEL_INFO_202606184,Disque dur,modèle par défaut,10
+NewYork_MATERIEL_INFO_202606180,PC fixe sans ecran,Precision tower 5xxx,440
+NewYork_MATERIEL_INFO_202606181,Smartphone,modèle par défaut,63
+Paris_MATERIEL_INFO_202606180,PC fixe tout-en-un,iMac 27pouces retina,450
+Paris_MATERIEL_INFO_202606181,PC portable,EliteBook 8xx,290
+Paris_MATERIEL_INFO_202606182,PC portable,Victus,267
+Paris_MATERIEL_INFO_202606183,imprimante,Laser A3 (>100kg),1800
+Paris_MATERIEL_INFO_202606184,PC portable,Precision 3xxx,266
+Paris_MATERIEL_INFO_202606185,,iMac pro,700
+Paris_MATERIEL_INFO_202606186,PC fixe tout-en-un,Mac pro,900
+Paris_MATERIEL_INFO_202606187,,Precision tower 5xxx,440
+Paris_MATERIEL_INFO_202606188,PC fixe tout-en-un,Optiplex All-in-One 5xxx,318
+Paris_MATERIEL_INFO_202606189,PC fixe sans ecran,Mac pro,900
+Paris_MATERIEL_INFO_2026061810,PC fixe sans ecran,ZHAN,264
+Paris_MATERIEL_INFO_2026061811,,Noeud de calcul,1300
+Shanghai_MATERIEL_INFO_202606180,PC fixe sans ecran,,350
+Shanghai_MATERIEL_INFO_202606181,PC fixe sans ecran,Mac pro,900
+Shanghai_MATERIEL_INFO_202606182,,iMac 27pouces retina,450
+Shanghai_MATERIEL_INFO_202606183,,modèle par défaut,350
+Shanghai_MATERIEL_INFO_202606184,Vidéo projecteur,Pour amphi,200
+Shanghai_MATERIEL_INFO_202606185,PC portable,MacBook air retina,176

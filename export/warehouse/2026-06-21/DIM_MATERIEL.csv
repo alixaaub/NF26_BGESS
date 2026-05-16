@@ -1,0 +1,34 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202606210,PC portable,OMEN,290
+BERLIN_MATERIEL_INFO_202606211,PC fixe sans ecran,,350
+BERLIN_MATERIEL_INFO_202606212,Vidéo projecteur,,94
+BERLIN_MATERIEL_INFO_202606213,Station d'accueil,modèle par défaut,26
+LONDON_MATERIEL_INFO_202606210,PC portable,EliteBook 10xx,223
+LONDON_MATERIEL_INFO_202606211,PC portable,ZBook Studio,379
+LONDON_MATERIEL_INFO_202606212,,modèle par défaut,350
+LONDON_MATERIEL_INFO_202606213,PC fixe sans ecran,Wyse thin client,69
+LONDON_MATERIEL_INFO_202606214,PC fixe sans ecran,"Elite (Tower, SFF, One)",393
+LONDON_MATERIEL_INFO_202606215,,Optiplex tower,260
+LONDON_MATERIEL_INFO_202606216,PC portable,Moyenne 17pouces,365
+LONDON_MATERIEL_INFO_202606217,PC portable,Chromebook 11-13pouces,175
+LONDON_MATERIEL_INFO_202606218,PC fixe tout-en-un,iMac 21pouces retina,300
+LA_MATERIEL_INFO_202606210,PC portable,Latitude 7xxx,264
+LA_MATERIEL_INFO_202606211,PC fixe sans ecran,Wyse thin client,69
+LA_MATERIEL_INFO_202606212,PC fixe sans ecran,Precision tower 3xxx,285
+LA_MATERIEL_INFO_202606213,Serveur,Modèle par défaut,1300
+LA_MATERIEL_INFO_202606214,,MacBook pro 13pouces,256
+NewYork_MATERIEL_INFO_202606210,PC portable,MacBook air,250
+NewYork_MATERIEL_INFO_202606211,PC portable,EliteBook 8xx,290
+NewYork_MATERIEL_INFO_202606212,PC portable,Moyenne 17pouces,365
+NewYork_MATERIEL_INFO_202606213,PC portable,,260
+NewYork_MATERIEL_INFO_202606214,,modèle par défaut,350
+Paris_MATERIEL_INFO_202606210,PC portable,Latitude 7xxx,264
+Paris_MATERIEL_INFO_202606211,PC fixe sans ecran,PC Fixe (moy),300
+Paris_MATERIEL_INFO_202606212,,modèle par défaut,350
+Paris_MATERIEL_INFO_202606213,PC portable,OMEN,290
+Paris_MATERIEL_INFO_202606214,PC portable,EliteBook 8xx,290
+Paris_MATERIEL_INFO_202606215,PC fixe sans ecran,Optiplex small,240
+Paris_MATERIEL_INFO_202606216,PC fixe sans ecran,Optiplex micro,174
+Paris_MATERIEL_INFO_202606217,,modèle par défaut,350
+Shanghai_MATERIEL_INFO_202606210,Tablette,modèle par défaut,150
+Shanghai_MATERIEL_INFO_202606211,PC fixe sans ecran,modèle par défaut,350

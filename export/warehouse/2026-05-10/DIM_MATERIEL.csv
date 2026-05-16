@@ -1,0 +1,40 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202605100,PC fixe sans ecran,Optiplex micro,174
+BERLIN_MATERIEL_INFO_202605101,imprimante,Laser A3 (>100kg),1800
+BERLIN_MATERIEL_INFO_202605102,Disque dur,modèle par défaut,10
+BERLIN_MATERIEL_INFO_202605103,PC portable,Moyenne 13pouces,250
+LONDON_MATERIEL_INFO_202605100,PC fixe tout-en-un,iMac pro,700
+LONDON_MATERIEL_INFO_202605101,PC fixe tout-en-un,Optiplex All-in-One 7xxx,382
+LONDON_MATERIEL_INFO_202605102,Vidéo projecteur,Pour amphi,200
+LONDON_MATERIEL_INFO_202605103,,Mac mini,270
+LONDON_MATERIEL_INFO_202605104,imprimante,Laser A3 (40-99kg),960
+LA_MATERIEL_INFO_202605100,,modèle par défaut,350
+LA_MATERIEL_INFO_202605101,PC portable,Chromebook 14-15pouces,170
+LA_MATERIEL_INFO_202605102,PC fixe sans ecran,"Elite (Tower, SFF, One)",393
+LA_MATERIEL_INFO_202605103,imprimante,modèle par défaut,500
+NewYork_MATERIEL_INFO_202605100,PC portable,MacBook air pre-retina,310
+NewYork_MATERIEL_INFO_202605101,PC portable,MacBook air pre-retina,310
+NewYork_MATERIEL_INFO_202605102,PC portable,,260
+NewYork_MATERIEL_INFO_202605103,PC portable,MacBook pro 13pouces,256
+Paris_MATERIEL_INFO_202605100,imprimante,modèle par défaut,500
+Paris_MATERIEL_INFO_202605101,Station d'accueil,modèle par défaut,26
+Paris_MATERIEL_INFO_202605102,,modèle par défaut,350
+Paris_MATERIEL_INFO_202605103,imprimante,Laser A3 (>100kg),1800
+Paris_MATERIEL_INFO_202605104,Telephone IP,modèle par défaut,17
+Paris_MATERIEL_INFO_202605105,imprimante,Laser à poser (<40kg),430
+Paris_MATERIEL_INFO_202605106,PC fixe sans ecran,Precision tower 7xxx,555
+Paris_MATERIEL_INFO_202605107,PC portable,Moyenne 17pouces,365
+Shanghai_MATERIEL_INFO_202605100,PC portable,OMEN,290
+Shanghai_MATERIEL_INFO_202605101,PC portable,Moyenne 13pouces,250
+Shanghai_MATERIEL_INFO_202605102,,modèle par défaut,350
+Shanghai_MATERIEL_INFO_202605103,PC fixe tout-en-un,Optiplex All-in-One 7xxx,382
+Shanghai_MATERIEL_INFO_202605104,PC portable,Precision 3xxx,266
+Shanghai_MATERIEL_INFO_202605105,PC portable,EliteBook 8xx,290
+Shanghai_MATERIEL_INFO_202605106,Station d'accueil,modèle par défaut,26
+Shanghai_MATERIEL_INFO_202605107,Disque dur,modèle par défaut,10
+Shanghai_MATERIEL_INFO_202605108,PC portable,,260
+Shanghai_MATERIEL_INFO_202605109,PC fixe tout-en-un,iMac 27pouces retina,450
+Shanghai_MATERIEL_INFO_2026051010,PC fixe tout-en-un,Optiplex All-in-One 5xxx,318
+Shanghai_MATERIEL_INFO_2026051011,PC fixe sans ecran,,350
+Shanghai_MATERIEL_INFO_2026051012,PC fixe sans ecran,Wyse thin client,69
+Shanghai_MATERIEL_INFO_2026051013,PC fixe sans ecran,Mac mini,270

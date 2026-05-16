@@ -1,0 +1,39 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202607050,,Pour amphi,200
+BERLIN_MATERIEL_INFO_202607051,PC portable,OMEN,290
+BERLIN_MATERIEL_INFO_202607052,PC portable,Precision 7xxx,304
+BERLIN_MATERIEL_INFO_202607053,Borne wifi,modèle par défaut,10
+BERLIN_MATERIEL_INFO_202607054,,modèle par défaut,350
+LONDON_MATERIEL_INFO_202607050,PC portable,,260
+LONDON_MATERIEL_INFO_202607051,imprimante,Laser A3 (40-99kg),960
+LONDON_MATERIEL_INFO_202607052,PC fixe sans ecran,Mac pro,900
+LONDON_MATERIEL_INFO_202607053,PC fixe sans ecran,Wyse thin client,69
+LONDON_MATERIEL_INFO_202607054,Serveur,Noeud de calcul,1300
+LONDON_MATERIEL_INFO_202607055,Ecran,jusqu'à 23pouces,350
+LONDON_MATERIEL_INFO_202607056,PC fixe sans ecran,Precision tower 5xxx,440
+LONDON_MATERIEL_INFO_202607057,,Pour salle,150
+LONDON_MATERIEL_INFO_202607058,PC fixe sans ecran,EliteDesk DM,230
+LONDON_MATERIEL_INFO_202607059,PC fixe sans ecran,Station de travail (moy),600
+LA_MATERIEL_INFO_202607050,PC fixe sans ecran,Precision tower 3xxx,285
+LA_MATERIEL_INFO_202607051,Vidéo projecteur,Pour amphi,200
+NewYork_MATERIEL_INFO_202607050,PC portable,Chromebook 14-15pouces,170
+NewYork_MATERIEL_INFO_202607051,PC fixe sans ecran,PC Fixe (moy),300
+NewYork_MATERIEL_INFO_202607052,Serveur,,1300
+NewYork_MATERIEL_INFO_202607053,PC fixe sans ecran,Wyse thin client,69
+NewYork_MATERIEL_INFO_202607054,PC fixe sans ecran,Mac mini,270
+NewYork_MATERIEL_INFO_202607055,PC fixe sans ecran,Precision tower 3xxx,285
+NewYork_MATERIEL_INFO_202607056,PC portable,,260
+NewYork_MATERIEL_INFO_202607057,PC portable,Moyenne 14/15pouces,294
+NewYork_MATERIEL_INFO_202607058,Serveur,Noeud de calcul,1300
+NewYork_MATERIEL_INFO_202607059,PC fixe sans ecran,"EliteDesk (Tower, SFF, One)",393
+NewYork_MATERIEL_INFO_2026070510,PC fixe sans ecran,"EliteDesk (Tower, SFF, One)",393
+NewYork_MATERIEL_INFO_2026070511,PC portable,Precision 5xxx,280
+NewYork_MATERIEL_INFO_2026070512,PC portable,Precision 3xxx,266
+NewYork_MATERIEL_INFO_2026070513,PC fixe sans ecran,Station de travail (moy),600
+Paris_MATERIEL_INFO_202607050,PC portable,,260
+Paris_MATERIEL_INFO_202607051,PC fixe tout-en-un,iMac pro,700
+Paris_MATERIEL_INFO_202607052,PC fixe tout-en-un,iMac 21pouces,290
+Shanghai_MATERIEL_INFO_202607050,PC portable,Latitude 7xxx,264
+Shanghai_MATERIEL_INFO_202607051,Tablette,modèle par défaut,150
+Shanghai_MATERIEL_INFO_202607052,Ecran,modèle par défaut,430
+Shanghai_MATERIEL_INFO_202607053,,Mac pro,900

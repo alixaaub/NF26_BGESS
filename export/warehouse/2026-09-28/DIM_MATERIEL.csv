@@ -1,0 +1,37 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202609280,,EliteBook 10xx,223
+BERLIN_MATERIEL_INFO_202609281,souris,modèle par défaut,5
+BERLIN_MATERIEL_INFO_202609282,,Modèle par défaut,350
+BERLIN_MATERIEL_INFO_202609283,,Optiplex small,240
+LONDON_MATERIEL_INFO_202609280,PC portable,EliteBook 6xx,175
+LONDON_MATERIEL_INFO_202609281,PC fixe sans ecran,"Elite (Tower, SFF, One)",393
+LONDON_MATERIEL_INFO_202609282,PC portable,MacBook air pre-retina,310
+LONDON_MATERIEL_INFO_202609283,Telephone IP,modèle par défaut,17
+LONDON_MATERIEL_INFO_202609284,PC portable,,260
+LONDON_MATERIEL_INFO_202609285,,PC Fixe (moy),300
+LA_MATERIEL_INFO_202609280,PC portable,Chromebook 11-13pouces,175
+LA_MATERIEL_INFO_202609281,Ecran,jusqu'à 23pouces,350
+NewYork_MATERIEL_INFO_202609280,PC fixe tout-en-un,iMac 27pouces retina,450
+NewYork_MATERIEL_INFO_202609281,,modèle par défaut,350
+NewYork_MATERIEL_INFO_202609282,PC portable,EliteBook 6xx,175
+NewYork_MATERIEL_INFO_202609283,PC fixe sans ecran,Rasberry pi 4,15
+NewYork_MATERIEL_INFO_202609284,PC fixe tout-en-un,Optiplex All-in-One 3xxx,241
+NewYork_MATERIEL_INFO_202609285,PC fixe sans ecran,Rasberry pi 4,15
+NewYork_MATERIEL_INFO_202609286,,EliteBook 6xx,175
+NewYork_MATERIEL_INFO_202609287,PC portable,,260
+NewYork_MATERIEL_INFO_202609288,Vidéo projecteur,Transportable,94
+NewYork_MATERIEL_INFO_202609289,PC fixe sans ecran,,350
+NewYork_MATERIEL_INFO_2026092810,PC portable,Precision 7xxx,304
+NewYork_MATERIEL_INFO_2026092811,,iMac 21pouces,290
+NewYork_MATERIEL_INFO_2026092812,PC fixe tout-en-un,Mac pro,900
+NewYork_MATERIEL_INFO_2026092813,,MacBook air retina,176
+Paris_MATERIEL_INFO_202609280,PC fixe sans ecran,Station de travail (moy),600
+Paris_MATERIEL_INFO_202609281,PC fixe sans ecran,EliteDesk DM,230
+Paris_MATERIEL_INFO_202609282,,Moyenne 13pouces,250
+Paris_MATERIEL_INFO_202609283,PC portable,,260
+Paris_MATERIEL_INFO_202609284,imprimante,Laser A3 (>100kg),1800
+Paris_MATERIEL_INFO_202609285,,MacBook air,250
+Paris_MATERIEL_INFO_202609286,Vidéo projecteur,,94
+Paris_MATERIEL_INFO_202609287,souris,modèle par défaut,5
+Shanghai_MATERIEL_INFO_202609280,Serveur,Noeud de calcul,1300
+Shanghai_MATERIEL_INFO_202609281,PC fixe tout-en-un,Optiplex All-in-One 3xxx,241

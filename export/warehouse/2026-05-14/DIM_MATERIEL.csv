@@ -1,0 +1,39 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202605140,PC portable,ZBook,303
+BERLIN_MATERIEL_INFO_202605141,PC fixe tout-en-un,iMac pro,700
+BERLIN_MATERIEL_INFO_202605142,,MacBook pro 15/16pouces,330
+BERLIN_MATERIEL_INFO_202605143,PC portable,,260
+BERLIN_MATERIEL_INFO_202605144,PC fixe tout-en-un,modèle par défaut,352
+LONDON_MATERIEL_INFO_202605140,PC fixe sans ecran,Station de travail (moy),600
+LONDON_MATERIEL_INFO_202605141,,PC Fixe (moy),300
+LONDON_MATERIEL_INFO_202605142,Telephone IP,modèle par défaut,17
+LONDON_MATERIEL_INFO_202605143,PC portable,MacBook air pre-retina,310
+LONDON_MATERIEL_INFO_202605144,PC fixe sans ecran,Optiplex tower,260
+LONDON_MATERIEL_INFO_202605145,imprimante,Laser A3 (>100kg),1800
+LA_MATERIEL_INFO_202605140,PC fixe sans ecran,Elite mini,137
+LA_MATERIEL_INFO_202605141,PC fixe sans ecran,,350
+LA_MATERIEL_INFO_202605142,,Precision tower 7xxx,555
+LA_MATERIEL_INFO_202605143,,Mac mini,270
+LA_MATERIEL_INFO_202605144,,"Prodesk (Tower, SFF)",322
+NewYork_MATERIEL_INFO_202605140,Serveur,Noeud de calcul,1300
+NewYork_MATERIEL_INFO_202605141,PC fixe tout-en-un,iMac 21pouces,290
+NewYork_MATERIEL_INFO_202605142,PC fixe sans ecran,Station de travail (moy),600
+NewYork_MATERIEL_INFO_202605143,PC fixe tout-en-un,Mac pro,900
+NewYork_MATERIEL_INFO_202605144,PC fixe sans ecran,ProDesk mini/DM,100
+NewYork_MATERIEL_INFO_202605145,PC fixe sans ecran,OMEN,290
+NewYork_MATERIEL_INFO_202605146,Telephone IP,modèle par défaut,17
+Paris_MATERIEL_INFO_202605140,PC portable,EliteBook 10xx,223
+Paris_MATERIEL_INFO_202605141,Vidéo projecteur,Transportable,94
+Paris_MATERIEL_INFO_202605142,,modèle par défaut,350
+Paris_MATERIEL_INFO_202605143,PC fixe sans ecran,ZHAN,264
+Paris_MATERIEL_INFO_202605144,PC fixe sans ecran,Z,409
+Shanghai_MATERIEL_INFO_202605140,,Precision tower 7xxx,555
+Shanghai_MATERIEL_INFO_202605141,,iMac 21pouces,290
+Shanghai_MATERIEL_INFO_202605142,PC fixe sans ecran,modèle par défaut,350
+Shanghai_MATERIEL_INFO_202605143,PC portable,,260
+Shanghai_MATERIEL_INFO_202605144,PC fixe sans ecran,Station de travail (moy),600
+Shanghai_MATERIEL_INFO_202605145,PC portable,Precision 7xxx,304
+Shanghai_MATERIEL_INFO_202605146,PC portable,Moyenne 14/15pouces,294
+Shanghai_MATERIEL_INFO_202605147,PC fixe tout-en-un,Optiplex All-in-One 3xxx,241
+Shanghai_MATERIEL_INFO_202605148,Vidéo projecteur,modèle par défaut,94
+Shanghai_MATERIEL_INFO_202605149,Vidéo projecteur,modèle par défaut,94

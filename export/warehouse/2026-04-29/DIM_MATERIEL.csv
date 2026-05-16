@@ -1,0 +1,49 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202604290,PC fixe sans ecran,Precision tower 7xxx,555
+BERLIN_MATERIEL_INFO_202604291,PC portable,,260
+BERLIN_MATERIEL_INFO_202604292,PC fixe sans ecran,,350
+BERLIN_MATERIEL_INFO_202604293,PC portable,EliteBook 6xx,175
+BERLIN_MATERIEL_INFO_202604294,Vidéo projecteur,modèle par défaut,94
+BERLIN_MATERIEL_INFO_202604295,,modèle par défaut,350
+LONDON_MATERIEL_INFO_202604290,PC fixe sans ecran,,350
+LONDON_MATERIEL_INFO_202604291,Tablette,modèle par défaut,150
+LONDON_MATERIEL_INFO_202604292,souris,modèle par défaut,5
+LONDON_MATERIEL_INFO_202604293,PC fixe tout-en-un,iMac 27pouces retina,450
+LONDON_MATERIEL_INFO_202604294,PC portable,Moyenne 13pouces,250
+LONDON_MATERIEL_INFO_202604295,,"Prodesk (Tower, SFF)",322
+LONDON_MATERIEL_INFO_202604296,PC portable,ProBook,226
+LONDON_MATERIEL_INFO_202604297,,Serveur de stockage,2500
+LA_MATERIEL_INFO_202604290,PC portable,Precision 3xxx,266
+LA_MATERIEL_INFO_202604291,PC fixe sans ecran,Rasberry pi 4,15
+LA_MATERIEL_INFO_202604292,,32pouces et plus,590
+LA_MATERIEL_INFO_202604293,souris,modèle par défaut,5
+LA_MATERIEL_INFO_202604294,PC fixe sans ecran,,350
+LA_MATERIEL_INFO_202604295,PC fixe tout-en-un,modèle par défaut,352
+LA_MATERIEL_INFO_202604296,,ZBook Studio,379
+NewYork_MATERIEL_INFO_202604290,PC fixe sans ecran,ZHAN,264
+NewYork_MATERIEL_INFO_202604291,,Mac mini,270
+NewYork_MATERIEL_INFO_202604292,PC fixe sans ecran,Precision tower 5xxx,440
+NewYork_MATERIEL_INFO_202604293,imprimante,modèle par défaut,500
+NewYork_MATERIEL_INFO_202604294,,EliteBook 8xx,290
+NewYork_MATERIEL_INFO_202604295,PC portable,Precision 7xxx,304
+NewYork_MATERIEL_INFO_202604296,PC portable,EliteBook 6xx,175
+NewYork_MATERIEL_INFO_202604297,PC fixe sans ecran,ZHAN,264
+NewYork_MATERIEL_INFO_202604298,,Mac pro,900
+Paris_MATERIEL_INFO_202604290,PC fixe sans ecran,Z,409
+Paris_MATERIEL_INFO_202604291,imprimante,Laser A3 (>100kg),1800
+Paris_MATERIEL_INFO_202604292,PC fixe sans ecran,Precision tower 3xxx,285
+Paris_MATERIEL_INFO_202604293,Telephone IP,,17
+Paris_MATERIEL_INFO_202604294,,modèle par défaut,350
+Paris_MATERIEL_INFO_202604295,,Chromebook 11-13pouces,175
+Paris_MATERIEL_INFO_202604296,,modèle par défaut,350
+Paris_MATERIEL_INFO_202604297,PC portable,Chromebook 11-13pouces,175
+Paris_MATERIEL_INFO_202604298,Smartphone,modèle par défaut,63
+Paris_MATERIEL_INFO_202604299,PC portable,,260
+Paris_MATERIEL_INFO_2026042910,PC fixe sans ecran,Mac pro,900
+Paris_MATERIEL_INFO_2026042911,,Elite mini,137
+Shanghai_MATERIEL_INFO_202604290,,MacBook air,250
+Shanghai_MATERIEL_INFO_202604291,PC fixe sans ecran,"Elite (Tower, SFF, One)",393
+Shanghai_MATERIEL_INFO_202604292,PC fixe sans ecran,Elite mini,137
+Shanghai_MATERIEL_INFO_202604293,Ecran,jusqu'à 23pouces,350
+Shanghai_MATERIEL_INFO_202604294,PC fixe tout-en-un,iMac 21pouces retina,300
+Shanghai_MATERIEL_INFO_202604295,Ecran,24pouces-31pouces,430

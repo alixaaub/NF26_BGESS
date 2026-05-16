@@ -1,0 +1,33 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202609250,,modèle par défaut,350
+LONDON_MATERIEL_INFO_202609250,Tablette,modèle par défaut,150
+LONDON_MATERIEL_INFO_202609251,PC fixe tout-en-un,iMac 27pouces retina,450
+LONDON_MATERIEL_INFO_202609252,,Laser A3 (40-99kg),960
+LONDON_MATERIEL_INFO_202609253,Ecran,jusqu'à 23pouces,350
+LONDON_MATERIEL_INFO_202609254,,Precision tower 3xxx,285
+LONDON_MATERIEL_INFO_202609255,Telephone IP,modèle par défaut,17
+LONDON_MATERIEL_INFO_202609256,PC fixe tout-en-un,Optiplex All-in-One 3xxx,241
+LONDON_MATERIEL_INFO_202609257,Tablette,modèle par défaut,150
+LONDON_MATERIEL_INFO_202609258,Vidéo projecteur,Pour amphi,200
+LONDON_MATERIEL_INFO_202609259,PC fixe tout-en-un,Mac pro,900
+LA_MATERIEL_INFO_202609250,PC portable,Moyenne 17pouces,365
+NewYork_MATERIEL_INFO_202609250,PC fixe tout-en-un,Mac pro,900
+NewYork_MATERIEL_INFO_202609251,,Laser A3 (>100kg),1800
+NewYork_MATERIEL_INFO_202609252,PC fixe tout-en-un,iMac 21pouces retina,300
+NewYork_MATERIEL_INFO_202609253,,EliteDesk DM,230
+NewYork_MATERIEL_INFO_202609254,PC portable,MacBook air retina,176
+NewYork_MATERIEL_INFO_202609255,PC portable,,260
+NewYork_MATERIEL_INFO_202609256,,Noeud de calcul,1300
+NewYork_MATERIEL_INFO_202609257,PC fixe sans ecran,PC Fixe (moy),300
+Paris_MATERIEL_INFO_202609250,Ecran,jusqu'à 23pouces,350
+Paris_MATERIEL_INFO_202609251,PC fixe sans ecran,Precision tower 7xxx,555
+Paris_MATERIEL_INFO_202609252,imprimante,Laser A3 (>100kg),1800
+Paris_MATERIEL_INFO_202609253,PC fixe tout-en-un,iMac 21pouces,290
+Paris_MATERIEL_INFO_202609254,,Laser A3 (40-99kg),960
+Paris_MATERIEL_INFO_202609255,PC portable,EliteBook 10xx,223
+Shanghai_MATERIEL_INFO_202609250,PC fixe sans ecran,OMEN,290
+Shanghai_MATERIEL_INFO_202609251,PC fixe sans ecran,PC Fixe (moy),300
+Shanghai_MATERIEL_INFO_202609252,,ZBook,303
+Shanghai_MATERIEL_INFO_202609253,PC portable,,260
+Shanghai_MATERIEL_INFO_202609254,PC fixe sans ecran,Precision tower 3xxx,285
+Shanghai_MATERIEL_INFO_202609255,PC portable,Moyenne 14/15pouces,294

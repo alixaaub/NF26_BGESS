@@ -1,0 +1,51 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202606290,,Optiplex All-in-One 5xxx,318
+BERLIN_MATERIEL_INFO_202606291,imprimante,Laser A3 (40-99kg),960
+BERLIN_MATERIEL_INFO_202606292,,EliteDesk DM,230
+LONDON_MATERIEL_INFO_202606290,Telephone IP,modèle par défaut,17
+LONDON_MATERIEL_INFO_202606291,PC fixe sans ecran,Rasberry pi 4,15
+LONDON_MATERIEL_INFO_202606292,PC fixe tout-en-un,iMac pro,700
+LONDON_MATERIEL_INFO_202606293,PC fixe sans ecran,Station de travail (moy),600
+LONDON_MATERIEL_INFO_202606294,,iMac pro,700
+LONDON_MATERIEL_INFO_202606295,,OMEN,290
+LONDON_MATERIEL_INFO_202606296,,EliteBook 6xx,175
+LONDON_MATERIEL_INFO_202606297,PC portable,Victus,267
+LONDON_MATERIEL_INFO_202606298,,jusqu'à 23pouces,350
+LA_MATERIEL_INFO_202606290,PC fixe tout-en-un,Optiplex All-in-One 7xxx,382
+LA_MATERIEL_INFO_202606291,PC fixe sans ecran,Optiplex small,240
+LA_MATERIEL_INFO_202606292,Tablette,modèle par défaut,150
+LA_MATERIEL_INFO_202606293,PC portable,EliteBook 8xx,290
+LA_MATERIEL_INFO_202606294,PC fixe sans ecran,PC Fixe (moy),300
+LA_MATERIEL_INFO_202606295,,MacBook pro 13pouces,256
+LA_MATERIEL_INFO_202606296,,Optiplex All-in-One 5xxx,318
+LA_MATERIEL_INFO_202606297,PC fixe sans ecran,Precision tower 3xxx,285
+LA_MATERIEL_INFO_202606298,PC fixe tout-en-un,Optiplex All-in-One 7xxx,382
+LA_MATERIEL_INFO_202606299,,modèle par défaut,350
+LA_MATERIEL_INFO_2026062910,PC fixe sans ecran,"Prodesk (Tower, SFF)",322
+LA_MATERIEL_INFO_2026062911,,modèle par défaut,350
+NewYork_MATERIEL_INFO_202606290,PC fixe sans ecran,Precision tower 5xxx,440
+NewYork_MATERIEL_INFO_202606291,,Wyse thin client,69
+NewYork_MATERIEL_INFO_202606292,,modèle par défaut,350
+NewYork_MATERIEL_INFO_202606293,PC fixe sans ecran,Station de travail (moy),600
+NewYork_MATERIEL_INFO_202606294,PC fixe sans ecran,Mac pro,900
+NewYork_MATERIEL_INFO_202606295,PC fixe sans ecran,,350
+NewYork_MATERIEL_INFO_202606296,PC portable,Precision 5xxx,280
+NewYork_MATERIEL_INFO_202606297,PC fixe tout-en-un,,352
+Paris_MATERIEL_INFO_202606290,PC fixe sans ecran,EliteDesk DM,230
+Paris_MATERIEL_INFO_202606291,PC fixe sans ecran,,350
+Paris_MATERIEL_INFO_202606292,PC portable,Latitude 5xxx,300
+Paris_MATERIEL_INFO_202606293,Serveur,,1300
+Paris_MATERIEL_INFO_202606294,,jusqu'à 23pouces,350
+Paris_MATERIEL_INFO_202606295,PC fixe sans ecran,,350
+Paris_MATERIEL_INFO_202606296,PC portable,Moyenne 14/15pouces,294
+Paris_MATERIEL_INFO_202606297,PC fixe tout-en-un,Optiplex All-in-One 7xxx,382
+Paris_MATERIEL_INFO_202606298,PC portable,Precision 7xxx,304
+Paris_MATERIEL_INFO_202606299,PC fixe sans ecran,Station de travail (moy),600
+Shanghai_MATERIEL_INFO_202606290,PC fixe sans ecran,Wyse thin client,69
+Shanghai_MATERIEL_INFO_202606291,PC fixe sans ecran,Mac pro,900
+Shanghai_MATERIEL_INFO_202606292,PC portable,Moyenne 14/15pouces,294
+Shanghai_MATERIEL_INFO_202606293,PC portable,Chromebook 14-15pouces,170
+Shanghai_MATERIEL_INFO_202606294,,modèle par défaut,350
+Shanghai_MATERIEL_INFO_202606295,PC portable,Precision 7xxx,304
+Shanghai_MATERIEL_INFO_202606296,PC fixe sans ecran,modèle par défaut,350
+Shanghai_MATERIEL_INFO_202606297,,Pour amphi,200

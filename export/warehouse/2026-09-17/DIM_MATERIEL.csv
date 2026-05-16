@@ -1,0 +1,47 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202609170,PC portable,,260
+LONDON_MATERIEL_INFO_202609170,Serveur,Modèle par défaut,1300
+LONDON_MATERIEL_INFO_202609171,souris,modèle par défaut,5
+LONDON_MATERIEL_INFO_202609172,PC fixe tout-en-un,modèle par défaut,352
+LONDON_MATERIEL_INFO_202609173,PC fixe sans ecran,Optiplex micro,174
+LONDON_MATERIEL_INFO_202609174,PC fixe tout-en-un,iMac 21pouces retina,300
+LONDON_MATERIEL_INFO_202609175,PC portable,Latitude 5xxx,300
+LONDON_MATERIEL_INFO_202609176,Telephone IP,modèle par défaut,17
+LONDON_MATERIEL_INFO_202609177,PC portable,ZBook,303
+LA_MATERIEL_INFO_202609170,PC portable,ProBook,226
+LA_MATERIEL_INFO_202609171,PC fixe sans ecran,ProDesk mini/DM,100
+LA_MATERIEL_INFO_202609172,,Precision 3xxx,266
+LA_MATERIEL_INFO_202609173,,MacBook air retina,176
+LA_MATERIEL_INFO_202609174,Smartphone,modèle par défaut,63
+NewYork_MATERIEL_INFO_202609170,PC portable,EliteBook 10xx,223
+NewYork_MATERIEL_INFO_202609171,PC portable,Chromebook 14-15pouces,170
+NewYork_MATERIEL_INFO_202609172,PC fixe sans ecran,Precision tower 7xxx,555
+NewYork_MATERIEL_INFO_202609173,Serveur,Modèle par défaut,1300
+NewYork_MATERIEL_INFO_202609174,PC fixe tout-en-un,Optiplex All-in-One 5xxx,318
+NewYork_MATERIEL_INFO_202609175,Ecran,modèle par défaut,430
+NewYork_MATERIEL_INFO_202609176,PC fixe tout-en-un,iMac 27pouces retina,450
+NewYork_MATERIEL_INFO_202609177,PC portable,ProBook,226
+Paris_MATERIEL_INFO_202609170,,Precision tower 3xxx,285
+Paris_MATERIEL_INFO_202609171,PC fixe sans ecran,Rasberry pi 4,15
+Paris_MATERIEL_INFO_202609172,PC portable,Moyenne 13pouces,250
+Paris_MATERIEL_INFO_202609173,,Precision tower 3xxx,285
+Paris_MATERIEL_INFO_202609174,Tablette,modèle par défaut,150
+Paris_MATERIEL_INFO_202609175,PC fixe tout-en-un,iMac 27pouces retina,450
+Paris_MATERIEL_INFO_202609176,Vidéo projecteur,Pour amphi,200
+Paris_MATERIEL_INFO_202609177,,Chromebook 14-15pouces,170
+Paris_MATERIEL_INFO_202609178,PC fixe tout-en-un,,352
+Paris_MATERIEL_INFO_202609179,PC portable,Victus,267
+Paris_MATERIEL_INFO_2026091710,PC fixe sans ecran,ZHAN,264
+Paris_MATERIEL_INFO_2026091711,souris,modèle par défaut,5
+Paris_MATERIEL_INFO_2026091712,Serveur,Modèle par défaut,1300
+Shanghai_MATERIEL_INFO_202609170,PC portable,,260
+Shanghai_MATERIEL_INFO_202609171,PC fixe tout-en-un,Optiplex All-in-One 3xxx,241
+Shanghai_MATERIEL_INFO_202609172,,Optiplex small,240
+Shanghai_MATERIEL_INFO_202609173,PC portable,ZBook,303
+Shanghai_MATERIEL_INFO_202609174,,iMac 21pouces retina,300
+Shanghai_MATERIEL_INFO_202609175,PC portable,ZBook,303
+Shanghai_MATERIEL_INFO_202609176,PC portable,MacBook pro 15/16pouces,330
+Shanghai_MATERIEL_INFO_202609177,PC fixe sans ecran,Optiplex small,240
+Shanghai_MATERIEL_INFO_202609178,,iMac pro,700
+Shanghai_MATERIEL_INFO_202609179,,jusqu'à 23pouces,350
+Shanghai_MATERIEL_INFO_2026091710,Serveur,,1300

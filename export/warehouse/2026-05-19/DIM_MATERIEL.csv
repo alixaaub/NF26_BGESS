@@ -1,0 +1,46 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202605190,Smartphone,modèle par défaut,63
+BERLIN_MATERIEL_INFO_202605191,,Chromebook 14-15pouces,170
+BERLIN_MATERIEL_INFO_202605192,PC fixe tout-en-un,Mac pro,900
+LONDON_MATERIEL_INFO_202605190,PC fixe tout-en-un,iMac pro,700
+LONDON_MATERIEL_INFO_202605191,imprimante,Laser à poser (<40kg),430
+LONDON_MATERIEL_INFO_202605192,PC fixe tout-en-un,iMac 21pouces retina,300
+LONDON_MATERIEL_INFO_202605193,Vidéo projecteur,Pour amphi,200
+LONDON_MATERIEL_INFO_202605194,,Chromebook 11-13pouces,175
+LONDON_MATERIEL_INFO_202605195,PC fixe sans ecran,Optiplex micro,174
+LONDON_MATERIEL_INFO_202605196,,"EliteDesk (Tower, SFF, One)",393
+LONDON_MATERIEL_INFO_202605197,PC fixe sans ecran,,350
+LONDON_MATERIEL_INFO_202605198,PC fixe sans ecran,,350
+LONDON_MATERIEL_INFO_202605199,Ecran,32pouces et plus,590
+LONDON_MATERIEL_INFO_2026051910,PC portable,EliteBook 10xx,223
+LA_MATERIEL_INFO_202605190,PC portable,OMEN,290
+LA_MATERIEL_INFO_202605191,imprimante,Laser à poser (<40kg),430
+LA_MATERIEL_INFO_202605192,PC portable,Chromebook 14-15pouces,170
+LA_MATERIEL_INFO_202605193,PC portable,modèle par défaut,260
+LA_MATERIEL_INFO_202605194,PC fixe sans ecran,ProDesk mini/DM,100
+LA_MATERIEL_INFO_202605195,PC portable,,260
+LA_MATERIEL_INFO_202605196,Borne wifi,modèle par défaut,10
+LA_MATERIEL_INFO_202605197,PC portable,,260
+LA_MATERIEL_INFO_202605198,PC fixe sans ecran,Mac mini,270
+LA_MATERIEL_INFO_202605199,imprimante,Laser à poser (<40kg),430
+LA_MATERIEL_INFO_2026051910,PC fixe sans ecran,ProDesk mini/DM,100
+NewYork_MATERIEL_INFO_202605190,imprimante,Laser A3 (40-99kg),960
+NewYork_MATERIEL_INFO_202605191,,Moyenne 17pouces,365
+Paris_MATERIEL_INFO_202605190,PC fixe sans ecran,"Elite (Tower, SFF, One)",393
+Paris_MATERIEL_INFO_202605191,PC fixe tout-en-un,iMac 27pouces retina,450
+Paris_MATERIEL_INFO_202605192,,modèle par défaut,350
+Paris_MATERIEL_INFO_202605193,PC portable,ZBook Studio,379
+Paris_MATERIEL_INFO_202605194,,Chromebook 11-13pouces,175
+Paris_MATERIEL_INFO_202605195,Ecran,jusqu'à 23pouces,350
+Paris_MATERIEL_INFO_202605196,PC fixe tout-en-un,iMac pro,700
+Paris_MATERIEL_INFO_202605197,PC fixe sans ecran,Mac pro,900
+Paris_MATERIEL_INFO_202605198,,"Prodesk (Tower, SFF)",322
+Paris_MATERIEL_INFO_202605199,PC fixe sans ecran,,350
+Paris_MATERIEL_INFO_2026051910,imprimante,Laser A3 (>100kg),1800
+Paris_MATERIEL_INFO_2026051911,imprimante,modèle par défaut,500
+Paris_MATERIEL_INFO_2026051912,PC fixe tout-en-un,iMac 21pouces retina,300
+Paris_MATERIEL_INFO_2026051913,PC portable,ZBook Studio,379
+Shanghai_MATERIEL_INFO_202605190,Borne wifi,modèle par défaut,10
+Shanghai_MATERIEL_INFO_202605191,PC portable,EliteBook 8xx,290
+Shanghai_MATERIEL_INFO_202605192,PC portable,Chromebook 14-15pouces,170
+Shanghai_MATERIEL_INFO_202605193,PC fixe sans ecran,EliteDesk DM,230

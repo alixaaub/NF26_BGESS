@@ -1,0 +1,41 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202605220,PC fixe tout-en-un,,352
+BERLIN_MATERIEL_INFO_202605221,PC fixe sans ecran,Precision tower 3xxx,285
+BERLIN_MATERIEL_INFO_202605222,PC portable,Moyenne 13pouces,250
+BERLIN_MATERIEL_INFO_202605223,PC fixe tout-en-un,iMac 27pouces retina,450
+BERLIN_MATERIEL_INFO_202605224,,Laser A3 (>100kg),1800
+BERLIN_MATERIEL_INFO_202605225,Vidéo projecteur,Pour salle,150
+LONDON_MATERIEL_INFO_202605220,Serveur,,1300
+LONDON_MATERIEL_INFO_202605221,PC fixe tout-en-un,iMac 21pouces,290
+LONDON_MATERIEL_INFO_202605222,PC fixe tout-en-un,iMac 27pouces retina,450
+LONDON_MATERIEL_INFO_202605223,,Mac pro,900
+LONDON_MATERIEL_INFO_202605224,,modèle par défaut,350
+LONDON_MATERIEL_INFO_202605225,,ZBook,303
+LONDON_MATERIEL_INFO_202605226,,PC Fixe (moy),300
+LA_MATERIEL_INFO_202605220,clavier,modèle par défaut,24
+LA_MATERIEL_INFO_202605221,PC portable,EliteBook 6xx,175
+NewYork_MATERIEL_INFO_202605220,PC fixe tout-en-un,Optiplex All-in-One 3xxx,241
+NewYork_MATERIEL_INFO_202605221,,Mac mini,270
+NewYork_MATERIEL_INFO_202605222,imprimante,,500
+NewYork_MATERIEL_INFO_202605223,PC portable,EliteBook 10xx,223
+NewYork_MATERIEL_INFO_202605224,PC portable,MacBook air pre-retina,310
+NewYork_MATERIEL_INFO_202605225,PC portable,ProBook,226
+NewYork_MATERIEL_INFO_202605226,Telephone IP,modèle par défaut,17
+NewYork_MATERIEL_INFO_202605227,Serveur,Noeud de calcul,1300
+NewYork_MATERIEL_INFO_202605228,PC portable,Chromebook 14-15pouces,170
+NewYork_MATERIEL_INFO_202605229,,Optiplex All-in-One 3xxx,241
+NewYork_MATERIEL_INFO_2026052210,Ecran,32pouces et plus,590
+Paris_MATERIEL_INFO_202605220,Vidéo projecteur,Transportable,94
+Paris_MATERIEL_INFO_202605221,PC fixe sans ecran,PC Fixe (moy),300
+Paris_MATERIEL_INFO_202605222,Serveur,Serveur de stockage,2500
+Paris_MATERIEL_INFO_202605223,PC fixe sans ecran,Rasberry pi 4,15
+Paris_MATERIEL_INFO_202605224,Serveur,Modèle par défaut,1300
+Paris_MATERIEL_INFO_202605225,,Modèle par défaut,350
+Paris_MATERIEL_INFO_202605226,Vidéo projecteur,Transportable,94
+Paris_MATERIEL_INFO_202605227,souris,modèle par défaut,5
+Paris_MATERIEL_INFO_202605228,PC portable,Latitude 7xxx,264
+Paris_MATERIEL_INFO_202605229,Telephone IP,modèle par défaut,17
+Paris_MATERIEL_INFO_2026052210,PC fixe sans ecran,Rasberry pi 4,15
+Paris_MATERIEL_INFO_2026052211,PC fixe tout-en-un,modèle par défaut,352
+Paris_MATERIEL_INFO_2026052212,,modèle par défaut,350
+Shanghai_MATERIEL_INFO_202605220,PC fixe sans ecran,,350

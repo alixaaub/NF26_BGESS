@@ -1,0 +1,40 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202610130,Ecran,modèle par défaut,430
+BERLIN_MATERIEL_INFO_202610131,PC fixe sans ecran,Station de travail (moy),600
+BERLIN_MATERIEL_INFO_202610132,PC fixe tout-en-un,Mac pro,900
+BERLIN_MATERIEL_INFO_202610133,PC portable,Latitude 3xxx,220
+LONDON_MATERIEL_INFO_202610130,PC fixe sans ecran,,350
+LONDON_MATERIEL_INFO_202610131,PC portable,Precision 7xxx,304
+LONDON_MATERIEL_INFO_202610132,,Mac pro,900
+LONDON_MATERIEL_INFO_202610133,Station d'accueil,modèle par défaut,26
+LONDON_MATERIEL_INFO_202610134,,Elite mini,137
+LONDON_MATERIEL_INFO_202610135,,Elite mini,137
+LONDON_MATERIEL_INFO_202610136,PC fixe sans ecran,Mac mini,270
+LONDON_MATERIEL_INFO_202610137,,MacBook air,250
+LONDON_MATERIEL_INFO_202610138,Vidéo projecteur,modèle par défaut,94
+LONDON_MATERIEL_INFO_202610139,Smartphone,modèle par défaut,63
+LONDON_MATERIEL_INFO_2026101310,PC fixe tout-en-un,iMac 21pouces,290
+LONDON_MATERIEL_INFO_2026101311,PC portable,Precision 3xxx,266
+LONDON_MATERIEL_INFO_2026101312,PC fixe sans ecran,Optiplex micro,174
+LA_MATERIEL_INFO_202610130,,Optiplex All-in-One 7xxx,382
+LA_MATERIEL_INFO_202610131,PC fixe tout-en-un,Optiplex All-in-One 5xxx,318
+LA_MATERIEL_INFO_202610132,,modèle par défaut,350
+LA_MATERIEL_INFO_202610133,PC fixe tout-en-un,,352
+LA_MATERIEL_INFO_202610134,clavier,modèle par défaut,24
+NewYork_MATERIEL_INFO_202610130,PC portable,Precision 5xxx,280
+NewYork_MATERIEL_INFO_202610131,,MacBook pro 13pouces,256
+NewYork_MATERIEL_INFO_202610132,PC portable,Precision 5xxx,280
+NewYork_MATERIEL_INFO_202610133,PC portable,MacBook air,250
+NewYork_MATERIEL_INFO_202610134,PC fixe tout-en-un,,352
+NewYork_MATERIEL_INFO_202610135,,MacBook air pre-retina,310
+NewYork_MATERIEL_INFO_202610136,PC fixe sans ecran,"Prodesk (Tower, SFF)",322
+Paris_MATERIEL_INFO_202610130,Tablette,modèle par défaut,150
+Paris_MATERIEL_INFO_202610131,PC portable,Chromebook 14-15pouces,170
+Paris_MATERIEL_INFO_202610132,PC portable,Precision 5xxx,280
+Shanghai_MATERIEL_INFO_202610130,PC fixe sans ecran,Optiplex tower,260
+Shanghai_MATERIEL_INFO_202610131,Serveur,Serveur de stockage,2500
+Shanghai_MATERIEL_INFO_202610132,,EliteBook 10xx,223
+Shanghai_MATERIEL_INFO_202610133,,EliteBook 10xx,223
+Shanghai_MATERIEL_INFO_202610134,PC portable,MacBook pro 13pouces,256
+Shanghai_MATERIEL_INFO_202610135,PC portable,Moyenne 14/15pouces,294
+Shanghai_MATERIEL_INFO_202610136,,Chromebook 11-13pouces,175

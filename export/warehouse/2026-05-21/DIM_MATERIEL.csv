@@ -1,0 +1,35 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202605210,PC portable,MacBook air retina,176
+BERLIN_MATERIEL_INFO_202605211,PC fixe sans ecran,,350
+BERLIN_MATERIEL_INFO_202605212,PC fixe sans ecran,ProDesk mini/DM,100
+LONDON_MATERIEL_INFO_202605210,PC portable,EliteBook 8xx,290
+LONDON_MATERIEL_INFO_202605211,PC fixe sans ecran,ZHAN,264
+LA_MATERIEL_INFO_202605210,PC portable,EliteBook 10xx,223
+LA_MATERIEL_INFO_202605211,,modèle par défaut,350
+LA_MATERIEL_INFO_202605212,PC portable,Moyenne 17pouces,365
+LA_MATERIEL_INFO_202605213,PC portable,EliteBook 10xx,223
+LA_MATERIEL_INFO_202605214,PC fixe tout-en-un,modèle par défaut,352
+NewYork_MATERIEL_INFO_202605210,PC fixe tout-en-un,iMac 27pouces retina,450
+NewYork_MATERIEL_INFO_202605211,,Optiplex All-in-One 5xxx,318
+NewYork_MATERIEL_INFO_202605212,,Pour amphi,200
+NewYork_MATERIEL_INFO_202605213,,modèle par défaut,350
+NewYork_MATERIEL_INFO_202605214,,OMEN,290
+NewYork_MATERIEL_INFO_202605215,PC portable,MacBook pro 15/16pouces,330
+NewYork_MATERIEL_INFO_202605216,,Victus,267
+NewYork_MATERIEL_INFO_202605217,PC fixe sans ecran,Wyse thin client,69
+NewYork_MATERIEL_INFO_202605218,PC portable,MacBook air pre-retina,310
+NewYork_MATERIEL_INFO_202605219,PC fixe tout-en-un,Mac pro,900
+NewYork_MATERIEL_INFO_2026052110,PC fixe sans ecran,Optiplex micro,174
+NewYork_MATERIEL_INFO_2026052111,PC fixe sans ecran,Station de travail (moy),600
+NewYork_MATERIEL_INFO_2026052112,PC fixe sans ecran,"Elite (Tower, SFF, One)",393
+NewYork_MATERIEL_INFO_2026052113,,Noeud de calcul,1300
+Paris_MATERIEL_INFO_202605210,,Laser à poser (<40kg),430
+Paris_MATERIEL_INFO_202605211,,Mac pro,900
+Paris_MATERIEL_INFO_202605212,,Wyse thin client,69
+Shanghai_MATERIEL_INFO_202605210,,Precision 5xxx,280
+Shanghai_MATERIEL_INFO_202605211,PC fixe sans ecran,Precision tower 3xxx,285
+Shanghai_MATERIEL_INFO_202605212,PC portable,Precision 3xxx,266
+Shanghai_MATERIEL_INFO_202605213,PC portable,EliteBook 6xx,175
+Shanghai_MATERIEL_INFO_202605214,PC fixe sans ecran,Wyse thin client,69
+Shanghai_MATERIEL_INFO_202605215,PC fixe tout-en-un,Optiplex All-in-One 5xxx,318
+Shanghai_MATERIEL_INFO_202605216,PC fixe sans ecran,Rasberry pi 4,15

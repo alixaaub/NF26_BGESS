@@ -1,0 +1,29 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202611020,,modèle par défaut,350
+BERLIN_MATERIEL_INFO_202611021,PC fixe sans ecran,"EliteDesk (Tower, SFF, One)",393
+BERLIN_MATERIEL_INFO_202611022,PC portable,Moyenne 13pouces,250
+BERLIN_MATERIEL_INFO_202611023,souris,modèle par défaut,5
+BERLIN_MATERIEL_INFO_202611024,PC fixe sans ecran,EliteDesk DM,230
+LONDON_MATERIEL_INFO_202611020,PC fixe tout-en-un,modèle par défaut,352
+LONDON_MATERIEL_INFO_202611021,PC fixe tout-en-un,iMac 21pouces retina,300
+LONDON_MATERIEL_INFO_202611022,PC fixe tout-en-un,iMac 21pouces retina,300
+LONDON_MATERIEL_INFO_202611023,PC fixe sans ecran,Mac mini,270
+LONDON_MATERIEL_INFO_202611024,PC fixe sans ecran,Z,409
+LONDON_MATERIEL_INFO_202611025,PC fixe sans ecran,Precision tower 7xxx,555
+LONDON_MATERIEL_INFO_202611026,Borne wifi,modèle par défaut,10
+LONDON_MATERIEL_INFO_202611027,Vidéo projecteur,Transportable,94
+LONDON_MATERIEL_INFO_202611028,souris,modèle par défaut,5
+LONDON_MATERIEL_INFO_202611029,PC portable,,260
+LA_MATERIEL_INFO_202611020,PC fixe tout-en-un,modèle par défaut,352
+LA_MATERIEL_INFO_202611021,,Latitude 3xxx,220
+LA_MATERIEL_INFO_202611022,Serveur,Serveur de stockage,2500
+LA_MATERIEL_INFO_202611023,PC portable,EliteBook 6xx,175
+LA_MATERIEL_INFO_202611024,PC fixe tout-en-un,modèle par défaut,352
+LA_MATERIEL_INFO_202611025,Serveur,Serveur de stockage,2500
+NewYork_MATERIEL_INFO_202611020,PC fixe sans ecran,Z,409
+Paris_MATERIEL_INFO_202611020,Disque dur,modèle par défaut,10
+Paris_MATERIEL_INFO_202611021,PC fixe sans ecran,Z,409
+Paris_MATERIEL_INFO_202611022,PC portable,EliteBook 6xx,175
+Paris_MATERIEL_INFO_202611023,PC fixe sans ecran,EliteDesk DM,230
+Paris_MATERIEL_INFO_202611024,PC portable,,260
+Shanghai_MATERIEL_INFO_202611020,,Precision 3xxx,266

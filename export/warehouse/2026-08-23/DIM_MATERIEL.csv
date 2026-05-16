@@ -1,0 +1,40 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202608230,Station d'accueil,modèle par défaut,26
+BERLIN_MATERIEL_INFO_202608231,Disque dur,modèle par défaut,10
+BERLIN_MATERIEL_INFO_202608232,PC fixe sans ecran,Rasberry pi 4,15
+BERLIN_MATERIEL_INFO_202608233,Telephone IP,modèle par défaut,17
+BERLIN_MATERIEL_INFO_202608234,PC fixe tout-en-un,modèle par défaut,352
+LONDON_MATERIEL_INFO_202608230,imprimante,Laser à poser (<40kg),430
+LONDON_MATERIEL_INFO_202608231,PC fixe tout-en-un,iMac 21pouces,290
+LONDON_MATERIEL_INFO_202608232,PC fixe sans ecran,Precision tower 7xxx,555
+LONDON_MATERIEL_INFO_202608233,PC fixe sans ecran,Precision tower 7xxx,555
+LONDON_MATERIEL_INFO_202608234,PC fixe tout-en-un,Optiplex All-in-One 5xxx,318
+LONDON_MATERIEL_INFO_202608235,PC portable,MacBook air pre-retina,310
+LONDON_MATERIEL_INFO_202608236,PC fixe sans ecran,,350
+LA_MATERIEL_INFO_202608230,Ecran,24pouces-31pouces,430
+LA_MATERIEL_INFO_202608231,Vidéo projecteur,Pour amphi,200
+LA_MATERIEL_INFO_202608232,PC fixe tout-en-un,Optiplex All-in-One 7xxx,382
+LA_MATERIEL_INFO_202608233,Tablette,modèle par défaut,150
+LA_MATERIEL_INFO_202608234,Smartphone,modèle par défaut,63
+LA_MATERIEL_INFO_202608235,PC fixe tout-en-un,modèle par défaut,352
+LA_MATERIEL_INFO_202608236,PC portable,modèle par défaut,260
+NewYork_MATERIEL_INFO_202608230,PC portable,modèle par défaut,260
+NewYork_MATERIEL_INFO_202608231,PC fixe sans ecran,modèle par défaut,350
+NewYork_MATERIEL_INFO_202608232,PC fixe sans ecran,"EliteDesk (Tower, SFF, One)",393
+NewYork_MATERIEL_INFO_202608233,PC fixe tout-en-un,modèle par défaut,352
+NewYork_MATERIEL_INFO_202608234,PC fixe tout-en-un,iMac 21pouces retina,300
+NewYork_MATERIEL_INFO_202608235,PC portable,MacBook air pre-retina,310
+NewYork_MATERIEL_INFO_202608236,PC portable,MacBook air pre-retina,310
+Paris_MATERIEL_INFO_202608230,PC portable,ZBook,303
+Paris_MATERIEL_INFO_202608231,Ecran,modèle par défaut,430
+Paris_MATERIEL_INFO_202608232,Borne wifi,modèle par défaut,10
+Paris_MATERIEL_INFO_202608233,imprimante,Laser A3 (40-99kg),960
+Paris_MATERIEL_INFO_202608234,PC fixe sans ecran,ProDesk mini/DM,100
+Paris_MATERIEL_INFO_202608235,,iMac pro,700
+Shanghai_MATERIEL_INFO_202608230,PC fixe sans ecran,EliteDesk DM,230
+Shanghai_MATERIEL_INFO_202608231,PC portable,,260
+Shanghai_MATERIEL_INFO_202608232,Ecran,,430
+Shanghai_MATERIEL_INFO_202608233,,modèle par défaut,350
+Shanghai_MATERIEL_INFO_202608234,PC portable,Precision 5xxx,280
+Shanghai_MATERIEL_INFO_202608235,PC fixe tout-en-un,modèle par défaut,352
+Shanghai_MATERIEL_INFO_202608236,Station d'accueil,,26

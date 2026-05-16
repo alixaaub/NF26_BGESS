@@ -1,0 +1,44 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202605180,,Mac mini,270
+BERLIN_MATERIEL_INFO_202605181,PC portable,MacBook air pre-retina,310
+BERLIN_MATERIEL_INFO_202605182,PC fixe tout-en-un,iMac pro,700
+BERLIN_MATERIEL_INFO_202605183,PC fixe sans ecran,Elite mini,137
+BERLIN_MATERIEL_INFO_202605184,Telephone IP,,17
+BERLIN_MATERIEL_INFO_202605185,PC fixe tout-en-un,,352
+LONDON_MATERIEL_INFO_202605180,PC portable,EliteBook 10xx,223
+LONDON_MATERIEL_INFO_202605181,,modèle par défaut,350
+LONDON_MATERIEL_INFO_202605182,PC fixe tout-en-un,iMac 21pouces retina,300
+LONDON_MATERIEL_INFO_202605183,PC portable,,260
+LONDON_MATERIEL_INFO_202605184,PC portable,MacBook air retina,176
+LONDON_MATERIEL_INFO_202605185,PC fixe sans ecran,Station de travail (moy),600
+LONDON_MATERIEL_INFO_202605186,PC portable,Chromebook 11-13pouces,175
+LA_MATERIEL_INFO_202605180,Tablette,modèle par défaut,150
+LA_MATERIEL_INFO_202605181,clavier,modèle par défaut,24
+LA_MATERIEL_INFO_202605182,,modèle par défaut,350
+LA_MATERIEL_INFO_202605183,PC portable,,260
+LA_MATERIEL_INFO_202605184,,Chromebook 14-15pouces,170
+LA_MATERIEL_INFO_202605185,,MacBook pro 13pouces,256
+LA_MATERIEL_INFO_202605186,PC fixe sans ecran,,350
+LA_MATERIEL_INFO_202605187,PC fixe sans ecran,,350
+LA_MATERIEL_INFO_202605188,,iMac 21pouces retina,300
+LA_MATERIEL_INFO_202605189,PC portable,EliteBook 10xx,223
+LA_MATERIEL_INFO_2026051810,Vidéo projecteur,Pour salle,150
+LA_MATERIEL_INFO_2026051811,PC portable,,260
+LA_MATERIEL_INFO_2026051812,,MacBook pro 15/16pouces,330
+LA_MATERIEL_INFO_2026051813,PC fixe sans ecran,Optiplex small,240
+NewYork_MATERIEL_INFO_202605180,,"Prodesk (Tower, SFF)",322
+NewYork_MATERIEL_INFO_202605181,PC fixe sans ecran,Mac pro,900
+NewYork_MATERIEL_INFO_202605182,PC fixe sans ecran,Rasberry pi 4,15
+NewYork_MATERIEL_INFO_202605183,imprimante,Laser A3 (40-99kg),960
+Paris_MATERIEL_INFO_202605180,Station d'accueil,,26
+Paris_MATERIEL_INFO_202605181,PC portable,ZBook Studio,379
+Paris_MATERIEL_INFO_202605182,Serveur,,1300
+Paris_MATERIEL_INFO_202605183,Vidéo projecteur,Pour salle,150
+Paris_MATERIEL_INFO_202605184,Station d'accueil,modèle par défaut,26
+Shanghai_MATERIEL_INFO_202605180,Serveur,Noeud de calcul,1300
+Shanghai_MATERIEL_INFO_202605181,PC fixe sans ecran,EliteDesk DM,230
+Shanghai_MATERIEL_INFO_202605182,Vidéo projecteur,Pour amphi,200
+Shanghai_MATERIEL_INFO_202605183,imprimante,Laser à poser (<40kg),430
+Shanghai_MATERIEL_INFO_202605184,PC fixe sans ecran,"Elite (Tower, SFF, One)",393
+Shanghai_MATERIEL_INFO_202605185,PC fixe tout-en-un,Optiplex All-in-One 7xxx,382
+Shanghai_MATERIEL_INFO_202605186,clavier,modèle par défaut,24

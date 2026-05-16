@@ -1,0 +1,57 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202606100,PC portable,Chromebook 11-13pouces,175
+BERLIN_MATERIEL_INFO_202606101,PC fixe sans ecran,Mac pro,900
+BERLIN_MATERIEL_INFO_202606102,PC portable,Chromebook 11-13pouces,175
+BERLIN_MATERIEL_INFO_202606103,Smartphone,modèle par défaut,63
+BERLIN_MATERIEL_INFO_202606104,Serveur,Serveur de stockage,2500
+BERLIN_MATERIEL_INFO_202606105,PC fixe sans ecran,OMEN,290
+LONDON_MATERIEL_INFO_202606100,PC portable,MacBook air pre-retina,310
+LONDON_MATERIEL_INFO_202606101,PC portable,MacBook air retina,176
+LONDON_MATERIEL_INFO_202606102,PC portable,Latitude 3xxx,220
+LONDON_MATERIEL_INFO_202606103,imprimante,Laser A3 (>100kg),1800
+LA_MATERIEL_INFO_202606100,PC fixe tout-en-un,iMac 21pouces retina,300
+LA_MATERIEL_INFO_202606101,PC portable,Moyenne 14/15pouces,294
+LA_MATERIEL_INFO_202606102,PC portable,modèle par défaut,260
+LA_MATERIEL_INFO_202606103,PC portable,Latitude 3xxx,220
+LA_MATERIEL_INFO_202606104,PC fixe sans ecran,"EliteDesk (Tower, SFF, One)",393
+LA_MATERIEL_INFO_202606105,Ecran,24pouces-31pouces,430
+LA_MATERIEL_INFO_202606106,PC portable,modèle par défaut,260
+LA_MATERIEL_INFO_202606107,PC portable,,260
+LA_MATERIEL_INFO_202606108,Vidéo projecteur,modèle par défaut,94
+LA_MATERIEL_INFO_202606109,Vidéo projecteur,Pour amphi,200
+LA_MATERIEL_INFO_2026061010,PC fixe sans ecran,Optiplex tower,260
+NewYork_MATERIEL_INFO_202606100,PC fixe tout-en-un,Optiplex All-in-One 7xxx,382
+NewYork_MATERIEL_INFO_202606101,,modèle par défaut,350
+NewYork_MATERIEL_INFO_202606102,,modèle par défaut,350
+NewYork_MATERIEL_INFO_202606103,PC fixe tout-en-un,iMac 21pouces,290
+NewYork_MATERIEL_INFO_202606104,PC fixe sans ecran,Elite mini,137
+NewYork_MATERIEL_INFO_202606105,PC fixe sans ecran,ProDesk mini/DM,100
+NewYork_MATERIEL_INFO_202606106,PC fixe tout-en-un,Optiplex All-in-One 7xxx,382
+NewYork_MATERIEL_INFO_202606107,Serveur,Noeud de calcul,1300
+NewYork_MATERIEL_INFO_202606108,Serveur,Modèle par défaut,1300
+NewYork_MATERIEL_INFO_202606109,PC portable,EliteBook 6xx,175
+NewYork_MATERIEL_INFO_2026061010,Vidéo projecteur,Transportable,94
+NewYork_MATERIEL_INFO_2026061011,PC portable,Latitude 7xxx,264
+NewYork_MATERIEL_INFO_2026061012,,Precision 5xxx,280
+Paris_MATERIEL_INFO_202606100,PC fixe sans ecran,Wyse thin client,69
+Paris_MATERIEL_INFO_202606101,PC portable,Precision 7xxx,304
+Paris_MATERIEL_INFO_202606102,PC portable,ZBook,303
+Paris_MATERIEL_INFO_202606103,Disque dur,,10
+Paris_MATERIEL_INFO_202606104,PC portable,Victus,267
+Paris_MATERIEL_INFO_202606105,,Z,409
+Paris_MATERIEL_INFO_202606106,PC fixe sans ecran,Optiplex small,240
+Paris_MATERIEL_INFO_202606107,PC fixe sans ecran,Optiplex small,240
+Paris_MATERIEL_INFO_202606108,PC portable,Latitude 3xxx,220
+Paris_MATERIEL_INFO_202606109,,Pour salle,150
+Paris_MATERIEL_INFO_2026061010,PC portable,Chromebook 14-15pouces,170
+Paris_MATERIEL_INFO_2026061011,PC fixe sans ecran,EliteDesk DM,230
+Paris_MATERIEL_INFO_2026061012,imprimante,Laser A3 (40-99kg),960
+Shanghai_MATERIEL_INFO_202606100,,"Prodesk (Tower, SFF)",322
+Shanghai_MATERIEL_INFO_202606101,PC portable,ZBook,303
+Shanghai_MATERIEL_INFO_202606102,,Precision 5xxx,280
+Shanghai_MATERIEL_INFO_202606103,PC fixe sans ecran,OMEN,290
+Shanghai_MATERIEL_INFO_202606104,,Noeud de calcul,1300
+Shanghai_MATERIEL_INFO_202606105,Tablette,modèle par défaut,150
+Shanghai_MATERIEL_INFO_202606106,Vidéo projecteur,modèle par défaut,94
+Shanghai_MATERIEL_INFO_202606107,PC fixe sans ecran,Mac pro,900
+Shanghai_MATERIEL_INFO_202606108,,MacBook pro 13pouces,256

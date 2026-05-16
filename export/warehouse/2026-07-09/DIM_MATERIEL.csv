@@ -1,0 +1,25 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202607090,,MacBook air pre-retina,310
+BERLIN_MATERIEL_INFO_202607091,PC fixe sans ecran,Optiplex micro,174
+LONDON_MATERIEL_INFO_202607090,PC portable,EliteBook 8xx,290
+LONDON_MATERIEL_INFO_202607091,Ecran,32pouces et plus,590
+LONDON_MATERIEL_INFO_202607092,PC fixe sans ecran,Precision tower 3xxx,285
+LONDON_MATERIEL_INFO_202607093,PC fixe sans ecran,Optiplex small,240
+LONDON_MATERIEL_INFO_202607094,PC fixe tout-en-un,iMac 21pouces,290
+LA_MATERIEL_INFO_202607090,PC fixe sans ecran,"Elite (Tower, SFF, One)",393
+LA_MATERIEL_INFO_202607091,Vidéo projecteur,Pour salle,150
+LA_MATERIEL_INFO_202607092,,modèle par défaut,350
+LA_MATERIEL_INFO_202607093,PC fixe sans ecran,Optiplex micro,174
+LA_MATERIEL_INFO_202607094,PC fixe tout-en-un,Optiplex All-in-One 3xxx,241
+LA_MATERIEL_INFO_202607095,PC portable,Precision 3xxx,266
+LA_MATERIEL_INFO_202607096,PC portable,Precision 7xxx,304
+NewYork_MATERIEL_INFO_202607090,Tablette,modèle par défaut,150
+NewYork_MATERIEL_INFO_202607091,PC fixe sans ecran,Precision tower 3xxx,285
+NewYork_MATERIEL_INFO_202607092,Smartphone,modèle par défaut,63
+Paris_MATERIEL_INFO_202607090,Disque dur,modèle par défaut,10
+Paris_MATERIEL_INFO_202607091,PC fixe sans ecran,Precision tower 5xxx,440
+Paris_MATERIEL_INFO_202607092,PC fixe tout-en-un,modèle par défaut,352
+Shanghai_MATERIEL_INFO_202607090,PC fixe tout-en-un,Optiplex All-in-One 7xxx,382
+Shanghai_MATERIEL_INFO_202607091,PC portable,Chromebook 14-15pouces,170
+Shanghai_MATERIEL_INFO_202607092,PC portable,Precision 7xxx,304
+Shanghai_MATERIEL_INFO_202607093,PC portable,MacBook air,250

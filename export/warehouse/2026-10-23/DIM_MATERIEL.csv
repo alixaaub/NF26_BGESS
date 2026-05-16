@@ -1,0 +1,47 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202610230,PC fixe sans ecran,Optiplex small,240
+BERLIN_MATERIEL_INFO_202610231,PC fixe tout-en-un,,352
+BERLIN_MATERIEL_INFO_202610232,PC fixe sans ecran,,350
+BERLIN_MATERIEL_INFO_202610233,PC fixe sans ecran,"Prodesk (Tower, SFF)",322
+BERLIN_MATERIEL_INFO_202610234,imprimante,,500
+LONDON_MATERIEL_INFO_202610230,PC fixe sans ecran,Precision tower 7xxx,555
+LONDON_MATERIEL_INFO_202610231,Serveur,Modèle par défaut,1300
+LONDON_MATERIEL_INFO_202610232,PC portable,Latitude 3xxx,220
+LONDON_MATERIEL_INFO_202610233,PC portable,Latitude 5xxx,300
+LONDON_MATERIEL_INFO_202610234,,MacBook air,250
+LONDON_MATERIEL_INFO_202610235,PC portable,Moyenne 17pouces,365
+LONDON_MATERIEL_INFO_202610236,PC fixe sans ecran,"EliteDesk (Tower, SFF, One)",393
+LA_MATERIEL_INFO_202610230,Station d'accueil,modèle par défaut,26
+LA_MATERIEL_INFO_202610231,PC portable,Precision 5xxx,280
+LA_MATERIEL_INFO_202610232,Station d'accueil,modèle par défaut,26
+LA_MATERIEL_INFO_202610233,PC portable,ZBook Studio,379
+LA_MATERIEL_INFO_202610234,Serveur,Modèle par défaut,1300
+LA_MATERIEL_INFO_202610235,clavier,,24
+LA_MATERIEL_INFO_202610236,Vidéo projecteur,,94
+LA_MATERIEL_INFO_202610237,souris,modèle par défaut,5
+NewYork_MATERIEL_INFO_202610230,,Precision 7xxx,304
+NewYork_MATERIEL_INFO_202610231,PC fixe sans ecran,Precision tower 7xxx,555
+NewYork_MATERIEL_INFO_202610232,PC portable,Moyenne 14/15pouces,294
+NewYork_MATERIEL_INFO_202610233,clavier,modèle par défaut,24
+NewYork_MATERIEL_INFO_202610234,PC fixe sans ecran,Rasberry pi 4,15
+Paris_MATERIEL_INFO_202610230,,Optiplex small,240
+Paris_MATERIEL_INFO_202610231,,MacBook air retina,176
+Paris_MATERIEL_INFO_202610232,Serveur,Modèle par défaut,1300
+Paris_MATERIEL_INFO_202610233,,"Prodesk (Tower, SFF)",322
+Paris_MATERIEL_INFO_202610234,Serveur,Serveur de stockage,2500
+Paris_MATERIEL_INFO_202610235,PC portable,,260
+Paris_MATERIEL_INFO_202610236,PC portable,EliteBook 8xx,290
+Paris_MATERIEL_INFO_202610237,PC portable,Latitude 7xxx,264
+Paris_MATERIEL_INFO_202610238,PC portable,,260
+Paris_MATERIEL_INFO_202610239,PC fixe sans ecran,,350
+Paris_MATERIEL_INFO_2026102310,PC portable,,260
+Shanghai_MATERIEL_INFO_202610230,,Chromebook 11-13pouces,175
+Shanghai_MATERIEL_INFO_202610231,,MacBook pro 15/16pouces,330
+Shanghai_MATERIEL_INFO_202610232,PC fixe sans ecran,Rasberry pi 4,15
+Shanghai_MATERIEL_INFO_202610233,PC fixe tout-en-un,iMac 21pouces,290
+Shanghai_MATERIEL_INFO_202610234,Serveur,Modèle par défaut,1300
+Shanghai_MATERIEL_INFO_202610235,PC fixe sans ecran,,350
+Shanghai_MATERIEL_INFO_202610236,,Pour salle,150
+Shanghai_MATERIEL_INFO_202610237,PC portable,Moyenne 13pouces,250
+Shanghai_MATERIEL_INFO_202610238,PC fixe sans ecran,Z,409
+Shanghai_MATERIEL_INFO_202610239,PC fixe tout-en-un,iMac 27pouces retina,450

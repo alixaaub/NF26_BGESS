@@ -1,0 +1,44 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202607300,PC fixe sans ecran,Station de travail (moy),600
+BERLIN_MATERIEL_INFO_202607301,PC fixe sans ecran,Station de travail (moy),600
+BERLIN_MATERIEL_INFO_202607302,,Chromebook 11-13pouces,175
+LONDON_MATERIEL_INFO_202607300,PC portable,,260
+LONDON_MATERIEL_INFO_202607301,Ecran,,430
+LONDON_MATERIEL_INFO_202607302,PC portable,ZBook,303
+LONDON_MATERIEL_INFO_202607303,imprimante,modèle par défaut,500
+LONDON_MATERIEL_INFO_202607304,PC fixe sans ecran,ZHAN,264
+LONDON_MATERIEL_INFO_202607305,PC portable,,260
+LONDON_MATERIEL_INFO_202607306,PC fixe tout-en-un,iMac 21pouces retina,300
+LONDON_MATERIEL_INFO_202607307,PC portable,Latitude 3xxx,220
+LONDON_MATERIEL_INFO_202607308,PC portable,MacBook air,250
+LONDON_MATERIEL_INFO_202607309,imprimante,Laser A3 (40-99kg),960
+LONDON_MATERIEL_INFO_2026073010,PC portable,Latitude 5xxx,300
+LONDON_MATERIEL_INFO_2026073011,,ZHAN,264
+LONDON_MATERIEL_INFO_2026073012,Tablette,modèle par défaut,150
+LA_MATERIEL_INFO_202607300,Vidéo projecteur,Pour salle,150
+NewYork_MATERIEL_INFO_202607300,PC fixe sans ecran,Optiplex micro,174
+NewYork_MATERIEL_INFO_202607301,PC fixe sans ecran,Optiplex small,240
+NewYork_MATERIEL_INFO_202607302,,EliteBook 6xx,175
+NewYork_MATERIEL_INFO_202607303,Disque dur,modèle par défaut,10
+NewYork_MATERIEL_INFO_202607304,PC portable,Latitude 3xxx,220
+NewYork_MATERIEL_INFO_202607305,Disque dur,modèle par défaut,10
+NewYork_MATERIEL_INFO_202607306,PC fixe tout-en-un,modèle par défaut,352
+Paris_MATERIEL_INFO_202607300,PC portable,ProBook,226
+Paris_MATERIEL_INFO_202607301,souris,modèle par défaut,5
+Paris_MATERIEL_INFO_202607302,PC portable,Latitude 5xxx,300
+Paris_MATERIEL_INFO_202607303,Vidéo projecteur,Pour salle,150
+Paris_MATERIEL_INFO_202607304,PC portable,Precision 3xxx,266
+Shanghai_MATERIEL_INFO_202607300,PC fixe sans ecran,Optiplex tower,260
+Shanghai_MATERIEL_INFO_202607301,,Z,409
+Shanghai_MATERIEL_INFO_202607302,PC fixe sans ecran,Precision tower 3xxx,285
+Shanghai_MATERIEL_INFO_202607303,PC portable,Latitude 5xxx,300
+Shanghai_MATERIEL_INFO_202607304,Ecran,jusqu'à 23pouces,350
+Shanghai_MATERIEL_INFO_202607305,Tablette,modèle par défaut,150
+Shanghai_MATERIEL_INFO_202607306,PC portable,ProBook,226
+Shanghai_MATERIEL_INFO_202607307,PC fixe sans ecran,,350
+Shanghai_MATERIEL_INFO_202607308,,ProDesk mini/DM,100
+Shanghai_MATERIEL_INFO_202607309,PC fixe tout-en-un,Optiplex All-in-One 7xxx,382
+Shanghai_MATERIEL_INFO_2026073010,,Chromebook 11-13pouces,175
+Shanghai_MATERIEL_INFO_2026073011,PC portable,MacBook pro 13pouces,256
+Shanghai_MATERIEL_INFO_2026073012,,MacBook air,250
+Shanghai_MATERIEL_INFO_2026073013,PC fixe sans ecran,"Prodesk (Tower, SFF)",322

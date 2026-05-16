@@ -1,0 +1,50 @@
+ID_MATERIEL,TYPE,MODELE,IMPACT
+BERLIN_MATERIEL_INFO_202609140,PC portable,EliteBook 8xx,290
+BERLIN_MATERIEL_INFO_202609141,PC portable,Latitude 3xxx,220
+BERLIN_MATERIEL_INFO_202609142,PC fixe sans ecran,Precision tower 3xxx,285
+BERLIN_MATERIEL_INFO_202609143,PC portable,Precision 7xxx,304
+BERLIN_MATERIEL_INFO_202609144,PC fixe sans ecran,ZHAN,264
+LONDON_MATERIEL_INFO_202609140,Serveur,Serveur de stockage,2500
+LONDON_MATERIEL_INFO_202609141,,iMac 21pouces,290
+LA_MATERIEL_INFO_202609140,PC portable,OMEN,290
+LA_MATERIEL_INFO_202609141,PC portable,Precision 3xxx,266
+LA_MATERIEL_INFO_202609142,PC fixe sans ecran,Station de travail (moy),600
+LA_MATERIEL_INFO_202609143,PC portable,modèle par défaut,260
+NewYork_MATERIEL_INFO_202609140,PC fixe tout-en-un,,352
+NewYork_MATERIEL_INFO_202609141,PC fixe tout-en-un,Optiplex All-in-One 7xxx,382
+NewYork_MATERIEL_INFO_202609142,Station d'accueil,modèle par défaut,26
+NewYork_MATERIEL_INFO_202609143,,Precision tower 5xxx,440
+NewYork_MATERIEL_INFO_202609144,PC fixe tout-en-un,iMac 27pouces retina,450
+NewYork_MATERIEL_INFO_202609145,PC portable,,260
+NewYork_MATERIEL_INFO_202609146,imprimante,Laser à poser (<40kg),430
+NewYork_MATERIEL_INFO_202609147,PC portable,Latitude 5xxx,300
+NewYork_MATERIEL_INFO_202609148,PC fixe sans ecran,ZHAN,264
+NewYork_MATERIEL_INFO_202609149,,modèle par défaut,350
+NewYork_MATERIEL_INFO_2026091410,PC portable,,260
+Paris_MATERIEL_INFO_202609140,Ecran,32pouces et plus,590
+Paris_MATERIEL_INFO_202609141,PC portable,Chromebook 11-13pouces,175
+Paris_MATERIEL_INFO_202609142,Serveur,Modèle par défaut,1300
+Paris_MATERIEL_INFO_202609143,PC portable,OMEN,290
+Paris_MATERIEL_INFO_202609144,,Optiplex micro,174
+Paris_MATERIEL_INFO_202609145,PC fixe sans ecran,"EliteDesk (Tower, SFF, One)",393
+Paris_MATERIEL_INFO_202609146,Borne wifi,modèle par défaut,10
+Paris_MATERIEL_INFO_202609147,PC fixe sans ecran,,350
+Paris_MATERIEL_INFO_202609148,,modèle par défaut,350
+Paris_MATERIEL_INFO_202609149,,Precision 7xxx,304
+Paris_MATERIEL_INFO_2026091410,PC portable,MacBook pro 13pouces,256
+Paris_MATERIEL_INFO_2026091411,PC fixe sans ecran,Precision tower 3xxx,285
+Paris_MATERIEL_INFO_2026091412,PC fixe sans ecran,"EliteDesk (Tower, SFF, One)",393
+Paris_MATERIEL_INFO_2026091413,PC portable,Moyenne 14/15pouces,294
+Shanghai_MATERIEL_INFO_202609140,,modèle par défaut,350
+Shanghai_MATERIEL_INFO_202609141,PC portable,Moyenne 14/15pouces,294
+Shanghai_MATERIEL_INFO_202609142,Vidéo projecteur,Pour amphi,200
+Shanghai_MATERIEL_INFO_202609143,PC fixe sans ecran,"Elite (Tower, SFF, One)",393
+Shanghai_MATERIEL_INFO_202609144,PC portable,Moyenne 17pouces,365
+Shanghai_MATERIEL_INFO_202609145,,Precision tower 7xxx,555
+Shanghai_MATERIEL_INFO_202609146,PC portable,Precision 3xxx,266
+Shanghai_MATERIEL_INFO_202609147,Telephone IP,modèle par défaut,17
+Shanghai_MATERIEL_INFO_202609148,PC portable,OMEN,290
+Shanghai_MATERIEL_INFO_202609149,PC fixe sans ecran,"EliteDesk (Tower, SFF, One)",393
+Shanghai_MATERIEL_INFO_2026091410,PC fixe tout-en-un,Mac pro,900
+Shanghai_MATERIEL_INFO_2026091411,imprimante,Laser à poser (<40kg),430
+Shanghai_MATERIEL_INFO_2026091412,,Victus,267
