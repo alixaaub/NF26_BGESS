@@ -1,0 +1,23 @@
+category	subcategory	subsubcategory	unit	name	year	co2	ch4	n2o	other	total	uncertainty	ef.unit
+Vehicles	Car	Gasoline	km	Private car, average fleet, gasoline engine	2018	0	0	0	0	0.2234	0.6	kg eCO2/km
+Vehicles	Car	Diesel	km	Private car, average fleet, diesel engine	2018	0	0	0	0	0.2121	0.6	kg eCO2/km
+Vehicles	Car	Unknown engine	km	Private car, average fleet, medium engine	2018	0	0	0	0	0.2156	0.6	kg eCO2/km
+Vehicles	Car	LPG	km	Private car, average fleet, LPG engine	2018	0	0	0	0	0.2174	0.6	kg eCO2/km
+Vehicles	Car	CNG	km	Private car, average fleet, CNG engine	2018	0	0	0	0	0.2218	0.6	kg eCO2/km
+Vehicles	Car	E85	km	Private car, average fleet, E85 engine	2018	0	0	0	0	0.1467	0.6	kg eCO2/km
+Vehicles	Car	Hybrid	km	Private car - Core range - Compact vehicle - Full P2 hybrid	2020	0	0	0	0	0.1828	0.7	kg eCO2/km
+Vehicles	Car	Electric	km	Private car - Core range - Compact vehicle - Electric	2020	0	0	0	0	0.1034	0.7	kg eCO2/km
+Vehicles	Motorcycle	Gasoline	km	Motorcycle >= 250 cm3 mixed	2018	0	0	0	0	0.1913	0.6	kg eCO2/km
+Vehicles	Bike	Muscular	km	Bike (non electric)	2019	0	0	0	0	0.005	0.7	kg eCO2/km
+Vehicles	Bike	Electric	km	Ebike, electric bike	2020	0	0	0	0	0.0109	0.5	kg eCO2/km
+Vehicles	Scooter	Electric	km	Electric scooter	2020	0	0	0	0	0.0249	0.5	kg eCO2/km
+Vehicles	Aircraft	Propeller plane (pistons)	litre	Aviation gasoline (AvGas) Mainland France	2014	2.96	0.0513	0	0	3.0113	0.05	kg eCO2/litre
+Vehicles	Aircraft	Helicopter (pistons)	litre	Aviation gasoline (AvGas) Mainland France	2014	2.96	0.0513	0	0	3.0113	0.05	kg eCO2/litre
+Vehicles	Aircraft	Propeller plane (turbines)	litre	Kerosene Jet A1 or A Mainland France	2018	3.019	0.0545	0.0056	0	3.0791	0.05	kg eCO2/litre
+Vehicles	Aircraft	Helicopter (turbines)	litre	Kerosene Jet A1 or A Mainland France	2018	3.019	0.0545	0.0056	0	3.0791	0.05	kg eCO2/litre
+Vehicles	Ship	Gasoline	litre	Gasoline - Premium unleaded (95, 95-E10, 98)	2021	6.083	0.1636	0.2585	0	6.5051	0.1	kg eCO2/litre
+Vehicles	Ship	Heavy fuel oil HFO	litre	HFO (Heavy Fuel Oil) - ISO 8217 classes RME to RMK	2014	2.893	0.0399	0	0	2.9329	0.05	kg eCO2/litre
+Vehicles	Ship	Light fuel oil HFO	litre	LFO (Light Fuel Oil) - ISO 8217 classes RMA to RMD (maritime)	2014	2.999	0.0516	0	0	3.0506	0.05	kg eCO2/litre
+Vehicles	Ship	Diesel	litre	MDO (Marine Diesel Oil) - ISO 8217 classes DMX to DMC	2014	2.999	0.0516	0	0	3.0506	0.05	kg eCO2/litre
+Vehicles	Ship	Sea campaigns	days at sea	Oceanographic vessel including on-board sleeping - non available in Ademe database	2019	0	0	0	0	910	0.6	kg eCO2/days at sea
+Vehicles	Ship	Coastal campagnes	heure.mer	Oceanographic vessel without on-board sleeping - non available in Ademe database	2019	0	0	0	0	7.6	0.6	kg eCO2/heure.mer
