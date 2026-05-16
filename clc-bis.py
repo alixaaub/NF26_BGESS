@@ -61,19 +61,12 @@ os.environ.setdefault("SPARK_UI_SHOWCONSOLEPROGRESS", "false")
 
 import pandas as pd
 import numpy as np
-from datetime import datetime, date, timedelta
-import asyncio
-import nest_asyncio
-nest_asyncio.apply()
-from googletrans import Translator
+from datetime import datetime, timedelta
 import warnings
 warnings.filterwarnings("ignore", message="If `index_col` is not specified*")
 
 import pyspark.pandas as ps
 from pyspark.sql import SparkSession
-from pyspark.sql import Row
-from numpy._core.multiarray import empty_like
-from sklearn.linear_model import LinearRegression
 
 spark = (
     SparkSession.builder
@@ -83,7 +76,6 @@ spark = (
     .getOrCreate()
 )
 spark.conf.set("spark.sql.session.timeZone", "UTC")
-from pyspark.sql.functions import *
 
 # ==============================================================================
 # CONFIGURATION (codé en dur)
@@ -94,8 +86,10 @@ EXPORT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "export", 
 
 SITES = ["BERLIN", "LONDON", "LOSANGELES", "NEWYORK", "PARIS", "SHANGHAI"]
 
-# Perf : DIM_PERSONNEL ne change pas après init (évite 20k lignes × N exports/jour)
+# Perf : DIM_PERSONNEL ne change pas après init (snapshot latest/final uniquement)
 EXPORT_SKIP_PERSONNEL_AFTER_INIT = True
+# Snapshot latest à chaque jour = réécrit tout l'historique (très lent). False → fin de run seulement.
+EXPORT_LATEST_EACH_DAY = False
 
 IMPACT_PATH = os.path.join(BASE_DIR, "materiel_informatique_impact.csv")
 DISTANCE_REF_PATH = os.path.join(BASE_DIR, "referentiel_distance_ville.csv")
@@ -108,9 +102,6 @@ DISTANCE_MEME_VILLE_KM = 8.0  # km estimés pour un déplacement dans la même v
 PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
 CO2_TRANSPORTS_PATH = os.path.join(PROJECT_ROOT, "CO2_transports.tsv")
 CO2_VOITURE_PATH = os.path.join(PROJECT_ROOT, "CO2_voiture.tsv")
-
-# Colonnes calculées missions (Alix / BGES-12-05)
-COLS_MISSION_CALC = ["DISTANCE_KM", "CO2EQ", "IMPACT"]
 
 # TYPE absent + « modèle par défaut » dans les données (cf. PC fixe sans ecran du référentiel)
 IMPACT_SANS_TYPE_MODELE_DEFAUT = "350"  # str : même type que le référentiel (dtype=str)
@@ -163,33 +154,6 @@ TRANSLATIONS_MATRIX = {"Ökonom":"Economiste",
     "Development":"Développement"
 }
 
-LANGUE_CIBLE = "fr"
-
-# ==============================================================================
-# INITIALISATION DU SCHEMA (Format constellation)
-# ==============================================================================
-schema = {
-    # Tables de faits
-    'FAIT_MISSION': ps.DataFrame(columns=[
-        'ID_PERSONNEL', 'ID_MISSION', 'ID_SITE', 'ID_DATE_MISSION'
-    ]),
-    'FAIT_MATERIEL': ps.DataFrame(columns=[
-        'ID_PERSONNEL', 'ID_MATERIEL', 'ID_SITE', 'ID_DATE_ACHAT'
-    ]),
-    # Dimensions
-    'DIM_PERSONNEL': ps.DataFrame(columns=[
-        'ID_PERSONNEL', 'FONCTION_PERSONNEL', 'ID_SITE', 'DT_NAISS'
-    ]),
-    'DIM_MATERIEL':  ps.DataFrame(columns=[
-        'ID_MATERIEL', 'TYPE', 'MODELE', 'IMPACT'
-    ]),
-    'DIM_MISSION':   ps.DataFrame(columns=[
-        'ID_MISSION', 'TYPE_MISSION', 'VILLE_DEPART', 'PAYS_DEPART',
-        'VILLE_DESTINATION', 'PAYS_DESTINATION', 'TRANSPORT', 'ALLER_RETOUR',
-        'DISTANCE_KM', 'CO2EQ', 'IMPACT',
-    ]),
-}
-
 # ==============================================================================
 # HELPERS
 # ==============================================================================
@@ -206,72 +170,79 @@ def _filter_columns(df: ps.DataFrame, cols: list) -> ps.DataFrame:
     return df[existing].copy()
 
 
-def _append_unique(df_existing: ps.DataFrame, df_new: ps.DataFrame, pk: str) -> ps.DataFrame:
-    """Ajoute df_new dans df_existing en dédupliquant sur la clé primaire 'pk'."""
-    if df_new.empty:
-        return df_existing
-        
-    if df_existing.empty:
-        return df_new.drop_duplicates(subset=[pk], keep="last")
-        
-    combined = ps.concat([df_existing, df_new], ignore_index=True)
-    return combined.drop_duplicates(subset=[pk], keep="last")
+def _as_ps(pdf: pd.DataFrame) -> ps.DataFrame:
+    """Matérialise en pyspark.pandas (casse la lignée Spark, garde le type exigé)."""
+    return ps.from_pandas(pdf.reset_index(drop=True))
 
 
-def traduire_texte(texte, target=LANGUE_CIBLE):
-    """Fonction isolée qui traite un seul texte."""
+def _delta_dim_pandas(batch: pd.DataFrame, pk: str, known_pks: set) -> pd.DataFrame:
+    """Nouvelles clés du jour uniquement (O(n_jour), sans scan Spark de l'historique)."""
+    if batch.empty:
+        return batch
+    batch = batch.drop_duplicates(subset=[pk], keep="last")
+    if not known_pks:
+        return batch
+    return batch[~batch[pk].isin(known_pks)]
+
+
+def _upsert_dim_ps(
+    schema: dict,
+    table: str,
+    batch: ps.DataFrame,
+    pk: str,
+    known_pks: set,
+) -> pd.DataFrame:
+    """Fusion pandas rapide → schéma en pyspark.pandas ; retourne le delta (pandas)."""
+    nw = _en_pandas(batch).drop_duplicates(subset=[pk], keep="last")
+    if nw.empty:
+        return nw
+    dim_new = _delta_dim_pandas(nw, pk, known_pks)
+    ex = _en_pandas(schema[table])
+    schema[table] = _as_ps(
+        pd.concat([ex, nw], ignore_index=True).drop_duplicates(subset=[pk], keep="last")
+        if not ex.empty
+        else nw
+    )
+    known_pks.update(nw[pk].tolist())
+    return dim_new
+
+
+def _append_fait_ps(schema: dict, table: str, batch: ps.DataFrame) -> None:
+    """Append du jour en pandas → pyspark.pandas (pas de concat Spark sur l'historique)."""
+    nw = _en_pandas(batch).drop_duplicates()
+    if nw.empty:
+        return
+    ex = _en_pandas(schema[table])
+    schema[table] = _as_ps(pd.concat([ex, nw], ignore_index=True) if not ex.empty else nw)
+
+
+def traduire_texte(texte):
+    """Traduction via dictionnaire statique (fonctions / types de mission)."""
     if not texte or texte != texte:
         return texte
-        
-    try:
-        if texte in TRANSLATIONS_MATRIX.keys():
-            return TRANSLATIONS_MATRIX[texte]
-        else:
-            return texte
-    except Exception as e:
-        print(e)
-        return texte 
+    return TRANSLATIONS_MATRIX.get(texte, texte)
 
 def normalize_data(df: ps.DataFrame, cols: list[str]) -> ps.DataFrame:
-    """Normalise la colonne entière: Traduit toutes les valeurs en LANGUE_CIBLE"""
+    """Traduit chaque valeur des colonnes via TRANSLATIONS_MATRIX."""
     for col in cols:
         df[col] = df[col].apply(traduire_texte)
     return df
 
 
 def standardize_timezone(df, column: str):
-    """Convertit une colonne de dates en datetime UTC (pandas, sans aller-retour Spark)."""
+    """UTC → datetime naïf, tronqué au jour (00:00:00) pour les clés ID_DATE_*."""
     if column not in df.columns or (hasattr(df, "empty") and df.empty):
         return df
     etait_spark = hasattr(df, "to_pandas")
     pdf = _en_pandas(df)
-    # UTC puis naïf : pyspark.pandas ne supporte pas datetime64[ns, UTC]
-    pdf[column] = pd.to_datetime(pdf[column], utc=True, errors="coerce").dt.tz_localize(None)
+    # UTC, naïf (pyspark.pandas), puis grain jour — ex. 2026-04-29 15:01:12 → 2026-04-29 00:00:00
+    pdf[column] = (
+        pd.to_datetime(pdf[column], utc=True, errors="coerce")
+        .dt.tz_localize(None)
+        .dt.normalize()
+    )
     return _en_pyspark_pandas(pdf, etait_spark)
 
-
-def handle_missing_values(df, strategy="mean", target_col=None, feature_cols=None):
-    """Complète les infos manquantes par moyenne ou régression linéaire"""
-    if df.empty:
-        return df
-
-    if strategy == "mean" and target_col:
-        df[target_col] = df[target_col].fillna(df[target_col].mean())
-
-    elif strategy == "regression" and target_col and feature_cols:
-        train_data = df.dropna(subset=feature_cols + [target_col])
-        missing_data = df[df[target_col].isnull() & df[feature_cols].notnull().all(axis=1)]
-
-        if not missing_data.empty and not train_data.empty:
-            X_train = train_data[feature_cols]
-            y_train = train_data[target_col]
-            X_missing = missing_data[feature_cols]
-
-            model = LinearRegression()
-            model.fit(X_train, y_train)
-            df.loc[missing_data.index, target_col] = model.predict(X_missing)
-
-    return df
 
 def get_site(string: str) -> str:
     return string.split("_")[1]
@@ -362,12 +333,6 @@ def _joindre_impact_materiel(df_it, impact_par_modele, impact_par_type):
     df_it["IMPACT"] = df_it["IMPACT"].astype(str).replace("nan", np.nan)
     df_it = df_it.drop(columns=["IMPACT_MODELE", "IMPACT_TYPE"])
     return _en_pyspark_pandas(df_it, etait_spark)
-
-
-def _compter_impact_vides(df: ps.DataFrame) -> int:
-    if df.empty or "IMPACT" not in df.columns:
-        return 0
-    return int(df["IMPACT"].isna().sum())
 
 
 def _charger_referentiel_distance() -> pd.DataFrame:
@@ -621,15 +586,17 @@ def initialiser_warehouse():
         dim_cols_personnel = [c for c in db_schema["DIM_PERSONNEL"].columns if c in df_all_personnel.columns]
         db_schema["DIM_PERSONNEL"] = df_all_personnel[dim_cols_personnel].drop_duplicates(subset=["ID_PERSONNEL"])
         print(f"[OK] Dimension DIM_PERSONNEL initialisée ({len(db_schema['DIM_PERSONNEL'])} individus insérés).")
-    
+
+    # FAIT_* et DIM_MISSION / DIM_MATERIEL restent en pyspark.pandas (schéma en étoile)
     print("═"*60 + "\n")
     return db_schema, impact_par_modele, impact_par_type, ref_distance
 
 
-def etl(current_date, schema, impact_par_modele, impact_par_type, ref_distance):
+def etl(current_date, schema, impact_par_modele, impact_par_type, ref_distance, known_pks):
     date_str = current_date.strftime("%Y%m%d")
     print(f"--- Lancement ETL pour le jour : {date_str} ---")
 
+    delta = {}
     # Tableaux pour accumuler les données incrémentales du jour J
     missions_jour  = []
     info_jour      = []
@@ -653,7 +620,7 @@ def etl(current_date, schema, impact_par_modele, impact_par_type, ref_distance):
             df_mission = df_mission.rename(columns={'DATE_MISSION': 'ID_DATE_MISSION'})
             df_mission = _ajouter_id_site(df_mission)
 
-            missions_jour.append(ps.from_pandas(df_mission))
+            missions_jour.append(ps.from_pandas(_en_pandas(df_mission)))
             print(f"    [OK] MISSION")
 
         # ── TRAITEMENT MATÉRIEL QUOTIDIEN ─────────────────────────────────────
@@ -666,42 +633,81 @@ def etl(current_date, schema, impact_par_modele, impact_par_type, ref_distance):
             df_it = _ajouter_id_site(df_it)
             df_it = _joindre_impact_materiel(df_it, impact_par_modele, impact_par_type)
 
-            info_jour.append(ps.from_pandas(df_it))
+            info_jour.append(ps.from_pandas(_en_pandas(df_it)))
             print(f"    [OK] MATERIEL INFORMATIQUE")
 
-    # ── PHASE DE CHARGEMENT INCRÉMENTAL (LOAD) ────────────────────────────────
+    # ── PHASE DE CHARGEMENT INCRÉMENTAL (LOAD, pyspark.pandas) ───────────────
     if missions_jour or info_jour:
-        df_all_missions  = ps.concat(missions_jour,  ignore_index=True) if missions_jour  else ps.DataFrame()
-        df_all_materiel  = ps.concat(info_jour,      ignore_index=True) if info_jour      else ps.DataFrame()
+        empty_missions = ps.DataFrame(columns=schema["FAIT_MISSION"].columns)
+        empty_materiel = ps.DataFrame(columns=schema["FAIT_MATERIEL"].columns)
+        df_all_missions = (
+            ps.concat(missions_jour, ignore_index=True) if missions_jour else empty_missions
+        )
+        df_all_materiel = (
+            ps.concat(info_jour, ignore_index=True) if info_jour else empty_materiel
+        )
 
         # -- Alimentation incrémentale : MISSIONS --
-        if not df_all_missions.empty:
-            # Dimension (S'enrichit s'il y a de nouvelles missions)
-            dim_cols_mission = [c for c in schema["DIM_MISSION"].columns if c in df_all_missions.columns]
-            dim_mission = df_all_missions[dim_cols_mission].drop_duplicates()
-            schema["DIM_MISSION"] = _append_unique(schema["DIM_MISSION"], dim_mission, pk="ID_MISSION")
+        pdf_missions = _en_pandas(df_all_missions)
+        if not pdf_missions.empty:
+            dim_cols_mission = [c for c in schema["DIM_MISSION"].columns if c in pdf_missions.columns]
+            dim_new = _upsert_dim_ps(
+                schema, "DIM_MISSION", df_all_missions[dim_cols_mission], "ID_MISSION", known_pks["ID_MISSION"]
+            )
 
-            # Table de Faits (Ajout des liaisons du jour)
-            fait_cols_mission = [c for c in schema["FAIT_MISSION"].columns if c in df_all_missions.columns]
-            fait_mission = df_all_missions[fait_cols_mission].drop_duplicates()
-            schema["FAIT_MISSION"] = ps.concat([schema["FAIT_MISSION"], fait_mission], ignore_index=True).drop_duplicates()
+            fait_cols_mission = [c for c in schema["FAIT_MISSION"].columns if c in pdf_missions.columns]
+            fait_mission = pdf_missions[fait_cols_mission].drop_duplicates()
+            _append_fait_ps(schema, "FAIT_MISSION", ps.from_pandas(fait_mission))
+            if not dim_new.empty:
+                delta["DIM_MISSION"] = dim_new
+            delta["FAIT_MISSION"] = fait_mission
 
-
-        
         # -- Alimentation incrémentale : MATERIEL --
-        if not df_all_materiel.empty:
-            # Dimension (Nouveaux matériels physiques enregistrés)
-            dim_cols_materiel = [c for c in schema["DIM_MATERIEL"].columns if c in df_all_materiel.columns]
-            dim_materiel = df_all_materiel[dim_cols_materiel].drop_duplicates()
-            schema["DIM_MATERIEL"] = _append_unique(schema["DIM_MATERIEL"], dim_materiel, pk="ID_MATERIEL")
+        pdf_materiel = _en_pandas(df_all_materiel)
+        if not pdf_materiel.empty:
+            dim_cols_materiel = [c for c in schema["DIM_MATERIEL"].columns if c in pdf_materiel.columns]
+            dim_new = _upsert_dim_ps(
+                schema, "DIM_MATERIEL", df_all_materiel[dim_cols_materiel], "ID_MATERIEL", known_pks["ID_MATERIEL"]
+            )
 
-            # Table de Faits (Historisation des achats du jour)
-            fait_cols_materiel = [c for c in schema["FAIT_MATERIEL"].columns if c in df_all_materiel.columns]
-            fait_materiel = df_all_materiel[fait_cols_materiel].drop_duplicates()
-            schema["FAIT_MATERIEL"] = ps.concat([schema["FAIT_MATERIEL"], fait_materiel], ignore_index=True).drop_duplicates()
+            fait_cols_materiel = [c for c in schema["FAIT_MATERIEL"].columns if c in pdf_materiel.columns]
+            fait_materiel = pdf_materiel[fait_cols_materiel].drop_duplicates()
+            _append_fait_ps(schema, "FAIT_MATERIEL", ps.from_pandas(fait_materiel))
+            if not dim_new.empty:
+                delta["DIM_MATERIEL"] = dim_new
+            delta["FAIT_MATERIEL"] = fait_materiel
 
-    print(f"\n{'─'*50}\nSchéma flocon incrémenté pour le jour donné.\n{'─'*50}\n")
-    return schema, ref_distance
+    had_data = bool(delta)
+    if had_data:
+        print(f"\n{'─'*50}\nSchéma flocon incrémenté pour le jour donné.\n{'─'*50}\n")
+    else:
+        print(f"\n{'─'*50}\nAucune donnée ingérée ce jour — pas d'export.\n{'─'*50}\n")
+    return schema, ref_distance, delta, had_data
+
+
+def _write_df_csv(df, dest: str) -> int:
+    """Écrit un CSV ; le delta est déjà en pandas (zéro job Spark à l'export)."""
+    pdf = df if isinstance(df, pd.DataFrame) else _en_pandas(df)
+    if pdf.empty:
+        pdf.to_csv(dest, index=False)
+        return 0
+    pdf.to_csv(dest, index=False)
+    return len(pdf)
+
+
+def export_delta_csv(delta: dict, label: str) -> str | None:
+    """Exporte uniquement les lignes ingérées le jour J (dossiers par date)."""
+    if not delta:
+        return None
+    out_dir = os.path.join(EXPORT_DIR, label)
+    os.makedirs(out_dir, exist_ok=True)
+    print(f"\n[EXPORT DELTA] → {out_dir}")
+    for name, df in delta.items():
+        dest = os.path.join(out_dir, f"{name}.csv")
+        n = _write_df_csv(df, dest)
+        print(f"  {name}.csv ({n} lignes)")
+    print()
+    return out_dir
 
 
 def export_schema_csv(
@@ -710,28 +716,24 @@ def export_schema_csv(
     skip_tables: set | None = None,
     copy_skipped_from: str | None = None,
 ) -> str:
-    """Exporte toutes les tables du schéma en CSV (un fichier par table)."""
+    """Exporte un snapshot complet du schéma (latest / init / final)."""
     skip_tables = skip_tables or set()
     out_dir = os.path.join(EXPORT_DIR, label)
     os.makedirs(out_dir, exist_ok=True)
-    print(f"\n[EXPORT CSV] → {out_dir}")
+    print(f"\n[EXPORT SNAPSHOT] → {out_dir}")
     if copy_skipped_from and skip_tables:
         src_dir = os.path.join(EXPORT_DIR, copy_skipped_from)
         for name in skip_tables:
             src = os.path.join(src_dir, f"{name}.csv")
             if os.path.exists(src):
                 shutil.copy2(src, os.path.join(out_dir, f"{name}.csv"))
+                print(f"  {name}.csv (copié depuis {copy_skipped_from})")
     for name, df in schema.items():
         if name in skip_tables:
             continue
         dest = os.path.join(out_dir, f"{name}.csv")
-        if len(df) == 0:
-            pd.DataFrame(columns=df.columns).to_csv(dest, index=False)
-            print(f"  {name}.csv (vide)")
-            continue
-        # Collecte côté driver (Spark SQL) — pas de worker pyspark.pandas
-        df.to_spark().toPandas().to_csv(dest, index=False)
-        print(f"  {name}.csv ({len(df)} lignes)")
+        n = _write_df_csv(df, dest)
+        print(f"  {name}.csv ({n} lignes)" + (" (vide)" if n == 0 else ""))
     print()
     return out_dir
 
@@ -744,25 +746,31 @@ def main():
     # Plage des fichiers MISSION_* / MATERIEL_INFORMATIQUE_* dans BDD_BGES (200 jours)
     current_date = datetime(2026, 4, 29)
     end_date = datetime(2026, 11, 14)
-    delta = timedelta(days=1)
+    one_day = timedelta(days=1)
 
     schema, impact_par_modele, impact_par_type, ref_distance = initialiser_warehouse()
     export_schema_csv(schema, "init")
 
     skip_pers = {"DIM_PERSONNEL"} if EXPORT_SKIP_PERSONNEL_AFTER_INIT else set()
+    known_pks = {"ID_MISSION": set(), "ID_MATERIEL": set()}
 
     while current_date <= end_date:
-      print(f"\nLancement du processus ETL pour le jour : {current_date.strftime('%Y-%m-%d')}")
-      schema, ref_distance = etl(
-          current_date, schema, impact_par_modele, impact_par_type, ref_distance
-      )
-      day_label = current_date.strftime("%Y-%m-%d")
-      export_schema_csv(schema, day_label, skip_tables=skip_pers, copy_skipped_from="init")
-      export_schema_csv(schema, "latest", skip_tables=skip_pers, copy_skipped_from="init")
+        print(f"\nLancement du processus ETL pour le jour : {current_date.strftime('%Y-%m-%d')}")
+        schema, ref_distance, day_delta, had_data = etl(
+            current_date, schema, impact_par_modele, impact_par_type, ref_distance, known_pks
+        )
+        if had_data:
+            day_label = current_date.strftime("%Y-%m-%d")
+            export_delta_csv(day_delta, day_label)
+            if EXPORT_LATEST_EACH_DAY:
+                export_schema_csv(
+                    schema, "latest", skip_tables=skip_pers, copy_skipped_from="init"
+                )
 
-      current_date += delta
+        current_date += one_day
 
-    export_schema_csv(schema, "final")
+    export_schema_csv(schema, "latest", skip_tables=skip_pers, copy_skipped_from="init")
+    export_schema_csv(schema, "final", skip_tables=skip_pers, copy_skipped_from="init")
     print("Processus terminé avec succès.")
     print(f"CSV disponibles dans : {EXPORT_DIR}")
 
