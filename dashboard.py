@@ -238,6 +238,24 @@ def filter_by_period(df: pd.DataFrame, start: str | None, end: str | None) -> pd
     return out
 
 
+def _apply_mission_filters(
+    m: pd.DataFrame,
+    *,
+    site: str | None = None,
+    typ: str | None = None,
+    transport: str | None = None,
+) -> pd.DataFrame:
+    """Filtres site, type de mission et transport (onglet Missions)."""
+    out = m
+    if site and "ID_SITE" in out.columns:
+        out = out[out["ID_SITE"] == site]
+    if typ and "TYPE_MISSION" in out.columns:
+        out = out[out["TYPE_MISSION"] == typ]
+    if transport and "TRANSPORT" in out.columns:
+        out = out[out["TRANSPORT"] == transport]
+    return out
+
+
 def _fig_bar_chart(
     df: pd.DataFrame,
     cat_col: str,
@@ -296,6 +314,98 @@ def _fig_bar_chart(
         fig.update_layout(margin=dict(b=140))
 
     fig.update_layout(template=PLOTLY_TEMPLATE, title=title, height=420)
+    return fig
+
+
+def _fig_top_missions_chart(
+    m: pd.DataFrame, top_n: int = 10, *, filter_note: str = ""
+) -> go.Figure:
+    """Top missions : trajet + date + ID sur l'axe Y, valeur à l'intérieur de la barre."""
+    if m.empty or "ID_MISSION" not in m.columns or "tCO2e" not in m.columns:
+        return _empty_fig("Aucune mission pour les filtres sélectionnés")
+
+    d = m.drop_duplicates(subset=["ID_MISSION"]).copy()
+    d["tCO2e"] = pd.to_numeric(d["tCO2e"], errors="coerce").fillna(0)
+    d = d[d["tCO2e"] > 0]
+    if d.empty:
+        return _empty_fig()
+
+    d = d.nlargest(top_n, "tCO2e").sort_values("tCO2e", ascending=True).reset_index(drop=True)
+    n = len(d)
+    depart = (
+        d["VILLE_DEPART"].fillna("?").astype(str)
+        if "VILLE_DEPART" in d.columns
+        else pd.Series("?", index=d.index)
+    )
+    dest = (
+        d["VILLE_DESTINATION"].fillna("?").astype(str)
+        if "VILLE_DESTINATION" in d.columns
+        else pd.Series("?", index=d.index)
+    )
+    if "DATE" in d.columns:
+        dates = pd.to_datetime(d["DATE"], errors="coerce")
+    elif "ID_DATE_MISSION" in d.columns:
+        dates = pd.to_datetime(d["ID_DATE_MISSION"], errors="coerce")
+    else:
+        dates = pd.Series(pd.NaT, index=d.index)
+    date_str = dates.dt.strftime("%d/%m/%Y").fillna("?")
+
+    y_pos = list(range(n))
+    ticktext = [
+        f"{depart.iloc[i]} → {dest.iloc[i]}<br>{date_str.iloc[i]}<br>{d['ID_MISSION'].iloc[i]}"
+        for i in range(n)
+    ]
+    labels = d["tCO2e"].map(lambda v: f"{v:,.2f} tCO2e")
+    xmax = float(d["tCO2e"].max())
+    route_lens = (depart + " → " + dest).str.len()
+    left_margin = int(min(420, max(220, 40 + route_lens.max() * 6.5)))
+
+    fig = go.Figure(
+        go.Bar(
+            x=d["tCO2e"].tolist(),
+            y=y_pos,
+            orientation="h",
+            text=labels.tolist(),
+            textposition="inside",
+            insidetextanchor="end",
+            textfont=dict(color="white", size=11),
+            cliponaxis=False,
+            hovertemplate=(
+                "<b>%{customdata[0]}</b><br>"
+                "%{customdata[1]} → %{customdata[2]}<br>"
+                "Date : %{customdata[3]}<br>"
+                "Émissions : %{x:,.2f} tCO2e<extra></extra>"
+            ),
+            customdata=list(
+                zip(
+                    d["ID_MISSION"].astype(str),
+                    depart.tolist(),
+                    dest.tolist(),
+                    date_str.tolist(),
+                )
+            ),
+        )
+    )
+    title = "Top 10 missions les plus émettrices (tCO2e)"
+    if filter_note:
+        title += f" — {filter_note}"
+    fig.update_layout(
+        template=PLOTLY_TEMPLATE,
+        title=title,
+        height=78 * n + 120,
+        bargap=0.42,
+        margin=dict(l=left_margin, r=40, t=56, b=48),
+        xaxis_title="tCO2e",
+        yaxis_title="",
+    )
+    fig.update_xaxes(range=[0, xmax * 1.08])
+    fig.update_yaxes(
+        tickmode="array",
+        tickvals=y_pos,
+        ticktext=ticktext,
+        tickfont=dict(size=10),
+        automargin=True,
+    )
     return fig
 
 
@@ -424,7 +534,11 @@ def create_app() -> Dash:
                                                 dcc.Dropdown(id="filtre-type-mission", options=[], value=None, placeholder="Tous les types", clearable=True),
                                             ], style={"minWidth": "220px"}),
                                             html.Div([
-                                                html.Label("Période missions (complément)"),
+                                                html.Label("Transport"),
+                                                dcc.Dropdown(id="filtre-transport", options=[], value=None, placeholder="Tous les transports", clearable=True),
+                                            ], style={"minWidth": "220px"}),
+                                            html.Div([
+                                                html.Label("Période missions"),
                                                 dcc.DatePickerRange(
                                                     id="filtre-dates-missions",
                                                     start_date=d0,
@@ -531,6 +645,7 @@ def create_app() -> Dash:
     @callback(
         Output("filtre-site", "options"),
         Output("filtre-type-mission", "options"),
+        Output("filtre-transport", "options"),
         Output("filtre-dates-missions", "min_date_allowed"),
         Output("filtre-dates-missions", "max_date_allowed"),
         Input("global-dates", "start_date"),
@@ -546,9 +661,15 @@ def create_app() -> Dash:
             if not m_all.empty and "TYPE_MISSION" in m_all.columns
             else []
         )
+        transports = (
+            sorted(m_all["TRANSPORT"].dropna().unique().astype(str))
+            if not m_all.empty and "TRANSPORT" in m_all.columns
+            else []
+        )
         return (
             [{"label": s, "value": s} for s in sites],
             [{"label": t, "value": t} for t in types],
+            [{"label": t, "value": t} for t in transports],
             d["date_min"].date(),
             d["date_max"].date(),
         )
@@ -559,44 +680,41 @@ def create_app() -> Dash:
         Input("global-dates", "end_date"),
         Input("filtre-site", "value"),
         Input("filtre-type-mission", "value"),
+        Input("filtre-transport", "value"),
         Input("filtre-dates-missions", "start_date"),
         Input("filtre-dates-missions", "end_date"),
         Input("refresh-token", "data"),
     )
-    def render_tab_missions(g_start, g_end, site, typ, m_start, m_end, _token):
+    def render_tab_missions(g_start, g_end, site, typ, transport, m_start, m_end, _token):
         d = build_analytical_frames(load_warehouse())
-        m = _ensure_id_site(filter_by_period(d["missions"], g_start, g_end))
-        m = filter_by_period(m, m_start or g_start, m_end or g_end)
-        if site:
-            m = m[m["ID_SITE"] == site]
-        if typ and "TYPE_MISSION" in m.columns:
-            m = m[m["TYPE_MISSION"] == typ]
+        m_period = _ensure_id_site(filter_by_period(d["missions"], g_start, g_end))
+        m_period = filter_by_period(m_period, m_start or g_start, m_end or g_end)
+        m = _apply_mission_filters(m_period, site=site, typ=typ, transport=transport)
+        m_by_transport = _apply_mission_filters(m_period, site=site, typ=typ)
 
-        if m.empty:
+        if m.empty and m_by_transport.empty:
             return html.Div([dcc.Graph(figure=_empty_fig()) for _ in range(3)])
 
         monthly = _group_sum(m, "MOIS").reset_index(name="tCO2e").sort_values("MOIS")
+        line_title = "Évolution mensuelle — missions (tCO2e)"
+        filter_bits = [x for x in (typ, transport) if x]
+        if filter_bits:
+            line_title += " — " + ", ".join(filter_bits)
         fig_line = (
-            px.line(monthly, x="MOIS", y="tCO2e", title="Évolution mensuelle — missions (tCO2e)", markers=True, template=PLOTLY_TEMPLATE)
+            px.line(monthly, x="MOIS", y="tCO2e", title=line_title, markers=True, template=PLOTLY_TEMPLATE)
             if not monthly.empty
-            else _empty_fig()
+            else _empty_fig("Aucune donnée pour les filtres sélectionnés")
         )
-        by_transport = _group_sum(m, "TRANSPORT").reset_index(name="tCO2e")
+        by_transport = _group_sum(m_by_transport, "TRANSPORT").reset_index(name="tCO2e")
         fig_transport = _fig_transport_emissions(by_transport)
-        top_dest = _group_sum(m, "DESTINATION").nlargest(10).reset_index(name="tCO2e").sort_values("tCO2e")
-        fig_dest = (
-            px.bar(top_dest, x="tCO2e", y="DESTINATION", orientation="h", title="Top 10 destinations (tCO2e)", template=PLOTLY_TEMPLATE)
-            if not top_dest.empty
-            else _empty_fig()
-        )
+        filter_note = " · ".join(x for x in (site, typ, transport) if x)
+        fig_top_missions = _fig_top_missions_chart(m, top_n=10, filter_note=filter_note)
         return html.Div(
             style={"display": "grid", "gridTemplateColumns": "1fr", "gap": "16px"},
             children=[
                 dcc.Graph(figure=fig_line),
-                html.Div(
-                    style={"display": "grid", "gridTemplateColumns": "1fr 1fr", "gap": "16px"},
-                    children=[dcc.Graph(figure=fig_transport), dcc.Graph(figure=fig_dest)],
-                ),
+                dcc.Graph(figure=fig_transport),
+                dcc.Graph(figure=fig_top_missions, style={"width": "100%"}),
             ],
         )
 
