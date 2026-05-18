@@ -9,3 +9,5 @@ googletrans
 geopy
 dash>=2.14.0
 plotly>=5.18.0
+matplotlib
+geopy
