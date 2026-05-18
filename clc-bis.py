@@ -6,7 +6,7 @@ import sys
 os.environ["PYARROW_IGNORE_TIMEZONE"] = "1"
 
 # Spark 3.5 : Java 17 requis (Java 21+ → UnsupportedOperationException: getSubject)
-if not os.environ.get("JAVA_HOME"):
+"""if not os.environ.get("JAVA_HOME"):
     try:
         os.environ["JAVA_HOME"] = subprocess.check_output(
             ["/usr/libexec/java_home", "-v", "17"],
@@ -15,7 +15,7 @@ if not os.environ.get("JAVA_HOME"):
         ).strip()
     except (subprocess.CalledProcessError, FileNotFoundError):
         pass
-
+"""
 def _ensure_distutils_for_spark():
     """PySpark 3.5 + Python 3.12 : distutils requis pour les workers Spark."""
     import site
@@ -54,7 +54,7 @@ def _ensure_distutils_for_spark():
     os.environ["PYSPARK_DRIVER_PYTHON"] = sys.executable
 
 
-_ensure_distutils_for_spark()
+#_ensure_distutils_for_spark()
 
 # Avant création de la session : désactive les barres [Stage …] dans le terminal
 os.environ.setdefault("SPARK_UI_SHOWCONSOLEPROGRESS", "false")
@@ -64,6 +64,8 @@ import numpy as np
 from datetime import datetime, timedelta
 import warnings
 warnings.filterwarnings("ignore", message="If `index_col` is not specified*")
+warnings.filterwarnings("ignore", message = "`to_pandas` loads all data*")
+
 
 import pyspark.pandas as ps
 from pyspark.sql import SparkSession
@@ -153,7 +155,6 @@ TRANSLATIONS_MATRIX = {"Ökonom":"Economiste",
     "Business Meeting":"Rencontre entreprises",
     "Development":"Développement"
 }
-
 # ==============================================================================
 # HELPERS
 # ==============================================================================
@@ -496,7 +497,6 @@ def _co2eq_km(transport: str, distance_km) -> float | None:
         return f["tc"]
     return None
 
-
 def enrichir_impact_mission_co2(df_mission: ps.DataFrame) -> ps.DataFrame:
     """Ajoute CO2EQ (kg/km) et IMPACT (kg) = DISTANCE_KM × CO2EQ × (2 si aller-retour)."""
     if df_mission.empty:
@@ -534,7 +534,7 @@ def initialiser_warehouse():
         'FAIT_MATERIEL': ps.DataFrame(columns=['ID_PERSONNEL', 'ID_MATERIEL', 'ID_SITE', 'ID_DATE_ACHAT']),
         
         # Dimensions statiques / dynamiques
-        'DIM_PERSONNEL': ps.DataFrame(columns=['ID_PERSONNEL', 'FONCTION_PERSONNEL', 'ID_SITE', 'AGE']),
+        'DIM_PERSONNEL': ps.DataFrame(columns=['ID_PERSONNEL', 'FONCTION_PERSONNEL', 'ID_SITE', 'DT_NAISS']),
         'DIM_MATERIEL':  ps.DataFrame(columns=['ID_MATERIEL', 'TYPE', 'MODELE', 'IMPACT']),
         'DIM_MISSION':   ps.DataFrame(columns=[
             'ID_MISSION', 'TYPE_MISSION', 'VILLE_DEPART', 'PAYS_DEPART',
@@ -571,8 +571,6 @@ def initialiser_warehouse():
             df_pers = df_pers.drop_duplicates()
             df_pers = _filter_columns(df_pers, COLS_PERSONNEL)
             df_pers = normalize_data(df_pers, ['FONCTION_PERSONNEL'])
-            
-            # Extraction du site optimisée nativement sous Spark Pandas (sans lambda)
             df_pers['ID_SITE'] = df_pers['ID_PERSONNEL'].apply(get_site)
             
             personnel_statique.append(df_pers)
@@ -594,7 +592,7 @@ def initialiser_warehouse():
 
 def etl(current_date, schema, impact_par_modele, impact_par_type, ref_distance, known_pks):
     date_str = current_date.strftime("%Y%m%d")
-    print(f"--- Lancement ETL pour le jour : {date_str} ---")
+    #print(f"--- Lancement ETL pour le jour : {date_str} ---")
 
     delta = {}
     # Tableaux pour accumuler les données incrémentales du jour J

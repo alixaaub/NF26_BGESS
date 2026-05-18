@@ -855,4 +855,4 @@ if __name__ == "__main__":
     app.index_string = app.index_string.replace("</head>", f"<style>{KPI_STYLE}</style></head>")
     print(f"Entrepôt : {WAREHOUSE_DIR}")
     print("Ouvrir http://127.0.0.1:8050")
-    app.run(debug=True, host="127.0.0.1", port=8050)
+    app.run(debug=True, host="127.0.0.1", port=8060)
